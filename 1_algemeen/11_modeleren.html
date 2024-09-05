@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-05 Thu 14:14 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org534a605"><b><b>Modelleren en Computationele Methoden</b></b></a></li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org534a605" class="outline-2">
+<h2 id="org534a605"><b><b>Modelleren en Computationele Methoden</b></b></h2>
+<div class="outline-text-2" id="text-org534a605">
+<ul class="org-ul">
+<li><b><b>Formulegebruik</b></b>: 
+<ul class="org-ul">
+<li>Voor het uitrekenen van een probleem moet je meestal de juiste <b><b>formule</b></b> kennen.</li>
+<li>Je vult <b><b>getallen</b></b> in en verkrijgt een <b><b>antwoord</b></b>.</li>
+</ul></li>
+
+<li><b><b>Probleemvoorbeeld</b></b>:
+<ul class="org-ul">
+<li>Bij een slinger die je opzij trekt en loslaat, wil je uitrekenen hoe de slinger beweegt.</li>
+<li>Je moet de <b><b>kracht</b></b> berekenen wanneer de slinger wordt losgelaten:
+<ul class="org-ul">
+<li><b><b>Krachten</b></b>: naar beneden en <b><b>spankracht</b></b>.</li>
+<li>Bepaal de <b><b>resulterende kracht</b></b>, vervolgens de <b><b>versnelling</b></b>, en daarna de <b><b>snelheid</b></b>.</li>
+<li>Herhaal dit proces voor elke nieuwe positie van de slinger.</li>
+</ul></li>
+</ul></li>
+
+<li><b><b>Modelleren</b></b>:
+<ul class="org-ul">
+<li>Deze aanpak wordt <b><b>modelleren</b></b> genoemd.</li>
+<li>De set van rekenregels en formules bij elkaar vormt het <b><b>model</b></b>.</li>
+</ul></li>
+
+<li><b><b>Nadelen</b></b>:
+<ul class="org-ul">
+<li><b><b>Modelleren</b></b> kan veel <b><b>rekenwerk</b></b> zijn.</li>
+<li>Handmatig rekenen is tijdrovend bij meerdere <b><b>tijdstappen</b></b>.</li>
+</ul></li>
+
+<li><b><b>Computergebruik</b></b>:
+<ul class="org-ul">
+<li>Modelleren wordt vaak uitgevoerd met <b><b>computers</b></b> om tijdstappen uit te rekenen.</li>
+<li>Veelgebruikte programma’s:
+<ul class="org-ul">
+<li><b><b>Coach</b></b></li>
+<li><b><b>Grafische rekenmachine</b></b></li>
+<li><b><b>Excel</b></b></li>
+</ul></li>
+</ul></li>
+
+<li><b><b>Samenvatting</b></b>:
+<ul class="org-ul">
+<li><b><b>Modelleren</b></b> is het opdelen van een probleem in kleine tijdstappen en het herhaald berekenen van de beweging of kracht.</li>
+<li>Programma's zoals Coach, grafische rekenmachines, en Excel helpen bij het uitvoeren van deze berekeningen.</li>
+</ul></li>
+</ul>
+
+
+<p>
+<b><b>Diagnostische vragen</b></b>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b><b>Vraag</b></b></th>
+<th scope="col" class="org-left"><b><b>Antwoord</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Wat moet je meestal doen om een probleem op te lossen?</td>
+<td class="org-left">Je moet de juiste <b><b>formule</b></b> weten, <b><b>getallen</b></b> invullen, en het <b><b>antwoord</b></b> berekenen.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat moet je berekenen bij een slinger die je opzij trekt?</td>
+<td class="org-left">Je moet de <b><b>kracht</b></b> berekenen bij het loslaten, de <b><b>resulterende kracht</b></b>, <b><b>versnelling</b></b>, en vervolgens de <b><b>snelheid</b></b> en de nieuwe <b><b>positie</b></b> van de slinger.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe wordt het proces van het uitrekenen van elke tijdstap genoemd?</td>
+<td class="org-left">Dit proces wordt <b><b>modelleren</b></b> genoemd.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat vormt samen het <b><b>model</b></b> bij modelleren?</td>
+<td class="org-left">De set van <b><b>rekenregels</b></b> en <b><b>formules</b></b> vormt samen het <b><b>model</b></b>.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is een belangrijk nadeel van modelleren met de hand?</td>
+<td class="org-left">Het is <b><b>tijdbesparend</b></b> en <b><b>arbeidsintensief</b></b>, vooral bij veel <b><b>tijdstappen</b></b>.</td>
+</tr>
+
+<tr>
+<td class="org-left">Welke programma's worden vaak gebruikt voor modelleren?</td>
+<td class="org-left">Veelgebruikte programma's zijn <b><b>Coach</b></b>, een <b><b>grafische rekenmachine</b></b>, en <b><b>Excel</b></b>.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe helpt een computer bij modelleren?</td>
+<td class="org-left">Een computer rekent de <b><b>tijdstappen</b></b> uit en verwerkt de benodigde <b><b>berekeningen</b></b> automatisch.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat moet je doen om de beweging van de slinger te berekenen?</td>
+<td class="org-left">Deel de beweging op in <b><b>kleine tijdstappen</b></b>, bereken per stap de krachten, versnelling, snelheid en positie, en herhaal dit proces.</td>
+</tr>
+
+<tr>
+<td class="org-left">Waarom worden vaak computers gebruikt voor modelleren?</td>
+<td class="org-left">Computers worden gebruikt om het <b><b>tijdbesparende</b></b> rekenwerk en de verwerking van <b><b>grote hoeveelheden data</b></b> te vereenvoudigen.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe worden tijdstappen behandeld bij modelleren?</td>
+<td class="org-left">Tijdstappen worden afzonderlijk behandeld en elk tijdstap wordt gebruikt om de <b><b>resulterende kracht</b></b>, <b><b>versnelling</b></b>, <b><b>snelheid</b></b>, en <b><b>positie</b></b> te berekenen.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-05 Thu 14:14</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

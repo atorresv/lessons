@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-05 Thu 14:14 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org968d0c7"><b><b>Modelleren van Beweging</b></b></a></li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org968d0c7" class="outline-2">
+<h2 id="org968d0c7"><b><b>Modelleren van Beweging</b></b></h2>
+<div class="outline-text-2" id="text-org968d0c7">
+<ul class="org-ul">
+<li><b><b>Modelleren</b></b>: Reken een beweging uit door de tijd in <b><b>kleine stapjes</b></b> op te delen en per tijdstap te berekenen hoe dingen veranderen.</li>
+<li><b><b>Voorbeeld</b></b>: Een bal met een bepaalde <b><b>massa</b></b> wordt vanaf een locatie in een richting gegooid.
+<ul class="org-ul">
+<li>De bal beweegt eerst omhoog en daarna omlaag.</li>
+<li>Om de beweging te berekenen:
+<ul class="org-ul">
+<li><b><b>Kracht</b></b> bepalen (zwaartekracht en <b><b>wrijvingskracht</b></b>).</li>
+<li>Bereken de <b><b>resulterende kracht</b></b>.</li>
+<li>Uit de resulterende kracht volgt de <b><b>versnelling</b></b>.</li>
+<li>Versnelling beïnvloedt de <b><b>snelheid</b></b> en <b><b>richting</b></b> van de bal.</li>
+<li>Herhaal dit proces voor elke <b><b>tijdstap</b></b> (bijv. elke 0,1 seconden).</li>
+</ul></li>
+</ul></li>
+<li><b><b>Rekenregels</b></b>:
+<ul class="org-ul">
+<li>Bereken <b><b>wrijvingskracht</b></b>: afgeleid van snelheid in het kwadraat.</li>
+<li>Bepaal <b><b>resulterende kracht</b></b>.</li>
+<li>Versnelling = resulterende kracht / massa.</li>
+<li>Nieuwe snelheid = vorige snelheid + (versnelling x tijdstap).</li>
+<li>Bepaal nieuwe <b><b>positie</b></b>: oude positie + snelheid x tijdstap.</li>
+</ul></li>
+<li><b><b>Startwaarden</b></b>:
+<ul class="org-ul">
+<li>Begin met <b><b>startpositie</b></b>, <b><b>startsnelheid</b></b>, <b><b>starttijd</b></b>, <b><b>wrijvingscoëfficiënt</b></b>, <b><b>massa</b></b> van de bal, en de <b><b>tijdstappen</b></b>.</li>
+</ul></li>
+<li><b><b>Model</b></b>: Gebruik deze waarden om het model te starten en herhaal de berekeningen om de baan van de bal te volgen.</li>
+</ul>
+
+
+<p>
+<b><b>Diagnostische vragen</b></b>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Vraag</th>
+<th scope="col" class="org-left">Antwoord</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Wat is de basis van het modelleren van beweging?</td>
+<td class="org-left">Het modelleren van beweging is gebaseerd op het opdelen van de tijd in <b><b>kleine stapjes</b></b> en het berekenen van veranderingen per tijdstap.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe bereken je de beweging van een bal die wordt gegooid?</td>
+<td class="org-left">Bepaal de <b><b>kracht</b></b> (zwaartekracht en wrijvingskracht), bereken de <b><b>resulterende kracht</b></b>, de <b><b>versnelling</b></b>, en vervolgens de <b><b>snelheid</b></b> en <b><b>positie</b></b> per tijdstap.</td>
+</tr>
+
+<tr>
+<td class="org-left">Welke krachten worden beschouwd bij het modelleren van de beweging van een bal?</td>
+<td class="org-left"><b><b>Zwaartekracht</b></b> en <b><b>wrijvingskracht</b></b>.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe wordt de versnelling berekend in een model?</td>
+<td class="org-left">Versnelling wordt berekend door de <b><b>resulterende kracht</b></b> te delen door de <b><b>massa</b></b>.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat zijn de startwaarden die nodig zijn voor een model?</td>
+<td class="org-left"><b><b>Startpositie</b></b>, <b><b>startsnelheid</b></b>, <b><b>starttijd</b></b>, <b><b>wrijvingscoëfficiënt</b></b>, <b><b>massa</b></b> van de bal, en de <b><b>tijdstappen</b></b>.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat gebeurt er bij elke tijdstap tijdens het modelleren?</td>
+<td class="org-left">Bij elke tijdstap worden de <b><b>resulterende kracht</b></b>, <b><b>versnelling</b></b>, <b><b>snelheid</b></b>, en <b><b>positie</b></b> opnieuw berekend.</td>
+</tr>
+
+<tr>
+<td class="org-left">Welke rol speelt de wrijvingskracht in het model?</td>
+<td class="org-left">De <b><b>wrijvingskracht</b></b> wordt berekend op basis van de snelheid in het kwadraat en beïnvloedt de <b><b>versnelling</b></b> en <b><b>snelheid</b></b> van de bal.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe bepaal je de nieuwe positie van de bal in een tijdstap?</td>
+<td class="org-left">De nieuwe positie wordt berekend door de oude positie te verhogen met de snelheid vermenigvuldigd met de tijdstap.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-05 Thu 14:14</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
