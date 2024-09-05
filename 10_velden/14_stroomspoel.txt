@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Magnetisch Veld Rond Stroomdraad en Spoel**
+
+- **Magnetisch veld**: Een **stroomdraad** genereert een magnetisch veld rond zich heen.
+  - **Rechterhandregel**: Als je je rechterhand gebruikt, met de duim in de richting van de stroom, wijzen de magnetische veldlijnen van boven naar beneden.
+- **Magnetisch veld rond een spoel**:
+  - Als een **stroomdraad** in een **spoel** is gewonden, ontstaat er ook een magnetisch veld.
+  - **Binnenkant spoel**: Gebruik de rechterhandregel; de magnetische velden wijzen naar binnen, wat resulteert in een sterk magnetisch veld binnen de spoel.
+  - **Buitenkant spoel**: De velden aan de achterkant wijzen naar boven, en samen met de velden aan de voorkant versterken ze elkaar.
+- **Elektromagneet**:
+  - Een **spoel** met stroom wordt een **elektromagneet** genoemd door de versterkte magnetische velden.
+  - **Sterkte**: De sterkte van het magnetische veld in de spoel kan worden berekend met de formule:
+    \[ B = \frac{\mu_0 \cdot N \cdot I}{L} \]
+    waarbij:
+    - \( B \) = magnetische veldsterkte
+    - \( \mu_0 \) = magnetische constante (te vinden in Binas)
+    - \( N \) = aantal windingen van de spoel
+    - \( I \) = stroom in de spoel
+    - \( L \) = lengte van de spoel in meters
+- **Samenvatting**:
+  - Een spoel met een elektrische stroom doorheen fungeert als een sterke magnete, een elektromagneet. De formule geeft de sterkte van het magnetische veld aan en de richting kan worden bepaald met de rechterhandregel.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                      | Korte antwoord                                                                                           |
+|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Wat gebeurt er met een stroomdraad die een magnetisch veld genereert?                     | Het genereert een magnetisch veld rond de draad.                                                        |
+| Hoe gebruik je de rechterhandregel om de richting van het magnetisch veld te bepalen?      | Stel je rechterduim in de richting van de stroom; de magnetische veldlijnen wijzen van boven naar beneden.|
+| Wat is het effect van het wonden van een draad in een spoel op het magnetisch veld?        | Het resultaat is een sterk magnetisch veld binnen de spoel.                                              |
+| Hoe beïnvloeden de magnetische velden aan de binnen- en buitenkant van de spoel elkaar?    | Ze versterken elkaar; binnen de spoel wijzen ze naar binnen, buiten naar boven.                         |
+| Wat is een elektromagneet en hoe ontstaat deze?                                           | Een elektromagneet is een spoel met stroom die een sterk magnetisch veld genereert.                     |
+| Welke formule gebruik je om de sterkte van het magnetische veld in een spoel te berekenen? | \( B = \frac{\mu_0 \cdot N \cdot I}{L} \), waarbij \( \mu_0 \) de magnetische constante is, \( N \) het aantal windingen, \( I \) de stroom en \( L \) de lengte van de spoel. |
+| Wat geeft de formule \( B = \frac{\mu_0 \cdot N \cdot I}{L} \) aan?                      | De sterkte van het magnetische veld in de spoel.                                                         |
+| Wat is de richting van het magnetische veld in een spoel volgens de rechterhandregel?      | Binnen de spoel wijst het veld naar binnen, buiten de spoel wijst het omhoog.                           |

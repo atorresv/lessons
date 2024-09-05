@@ -1,0 +1,32 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Magnetic Resonance Imaging (MRI)**
+
+- **MRI** is een techniek om het binnenste van het menselijk lichaam zichtbaar te maken.
+- MRI is gebaseerd op de **spin** van waterstofatomen.
+- Waterstofatomen kunnen **parallel** of **anti-parallel** draaien ten opzichte van een aangelegd **magneetveld**.
+- Bij een **parallelle** oriëntatie is de energie lager dan bij een **anti-parallelle** oriëntatie.
+- Door een **puls** van radiostraling op de juiste frequentie toe te passen, kunnen de spins van de waterstofatomen worden omgeklapt van parallel naar anti-parallel.
+- Na het omklappen vallen de spins weer terug naar hun oorspronkelijke parallelle toestand en zenden dan **radiostraling** uit.
+- Deze radiostraling wordt opgevangen en geanalyseerd om een **beeld** van de waterstofatomen in het lichaam te creëren.
+- MRI wordt uitgevoerd met een patiënt in een **grote ring** met een sterk magneetveld en een **zender** voor radiostraling.
+- **Detectie** van de radiostraling helpt bij het in kaart brengen van waterstofatomen en dus van de **hoeveelheid water** in verschillende organen.
+- **Voordeel** van MRI is dat het geen **ioniserende straling** gebruikt, zoals röntgen- of gammastraling. In plaats daarvan worden **magneetvelden** en radiostraling gebruikt.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| **Wat is MRI en waarvoor wordt het gebruikt?** | MRI (Magnetic Resonance Imaging) is een techniek die wordt gebruikt om het binnenste van het menselijk lichaam zichtbaar te maken door gebruik te maken van magnetische velden en radiostraling. |
+| **Op welke eigenschap van waterstofatomen is MRI gebaseerd?** | MRI is gebaseerd op de spin van waterstofatomen. |
+| **Wat gebeurt er met de spin van waterstofatomen als een extern magneetveld wordt aangelegd?** | De spin van de waterstofatomen richt zich uit naar het magneetveld of tegen het magneetveld in, afhankelijk van de energie. |
+| **Hoe wordt de energie die nodig is om de spins van waterstofatomen om te klappen berekend?** | De energie wordt berekend met de formule: energie = constante van Planck × frequentie of energie = constante van Planck × lichtsnelheid / golflengte. |
+| **Hoe wordt radiostraling gebruikt in MRI?** | Radiostraling wordt gebruikt om de spins van de waterstofatomen om te klappen van hun parallelle naar anti-parallelle toestand. De radiostraling die wordt uitgezonden bij terugvallen naar de parallelle toestand wordt gedetecteerd. |
+| **Hoe wordt het MRI-beeld gevormd?** | Het MRI-beeld wordt gevormd door het meten van de radiostraling die vrijkomt wanneer waterstofatomen terugvallen naar hun oorspronkelijke parallelle toestand. Dit helpt bij het in kaart brengen van de hoeveelheid water in verschillende delen van het lichaam. |
+| **Wat zijn de voordelen van MRI ten opzichte van andere beeldvormingstechnieken?** | MRI gebruikt geen ioniserende straling zoals röntgen- of gammastraling, maar maakt gebruik van magnetische velden en radiostraling, wat het minder schadelijk maakt. |

@@ -1,0 +1,38 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Schuifweerstanden**
+
+- **Schuifweerstand**:
+  - **Definitie**: Een weerstand waarbij een schuif de positie van de aftakking kan aanpassen.
+  - **Werking**: Door de schuif heen en weer te schuiven, verandert de weerstand die de stroom ondervindt.
+  
+- **Toepassingen**:
+  - **Variabele Weerstand**:
+    - **Functie**: Werkt als een dimmer; weerstand en daardoor de sterkte van een lamp kan worden aangepast door de schuif te verplaatsen.
+  - **Spanningsdeler**:
+    - **Werking**: De schuif creëert twee weerstanden in serie, waarbij de positie van de schuif de verhouding tussen deze weerstanden bepaalt en de spanning verdeelt.
+  
+- **Fysieke Vorm**:
+  - **Uitvoering**: Vaak rond in plaats van recht; bijv. volumeknop op een radiotoestel met een schuifweerstand aan de achterkant.
+
+- **Samenvatting**:
+  - **Schuifweerstand**: Verandert weerstand continu en kan als spanningsdeler worden gebruikt.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                               | **Antwoord**                                                                                   |
+|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Wat is een schuifweerstand?                                                                           | Een weerstand waarbij een schuif de positie van de aftakking kan aanpassen.                   |
+| Hoe verandert de weerstand bij een schuifweerstand?                                                    | De weerstand verandert afhankelijk van de positie van de schuif; groter bij één kant, kleiner bij de andere kant. |
+| Wat is een belangrijke toepassing van een schuifweerstand als variabele weerstand?                      | Het kan worden gebruikt om de helderheid van een lamp aan te passen, zoals bij een dimmer.    |
+| Hoe functioneert een schuifweerstand als spanningsdeler?                                               | De schuif verdeelt de weerstand in twee delen, wat de verhouding van de weerstand en de verdeling van de spanning beïnvloedt. |
+| Hoe ziet een schuifweerstand eruit in de praktijk?                                                     | Vaak is het rond en wordt het gebruikt in bijvoorbeeld volumeknoppen op radiotoestellen.      |
+| Wat is het effect van het schuiven van de schuif naar de ene kant?                                      | De weerstand is groot en de stroom ondervindt veel weerstand.                                 |
+| Wat gebeurt er als de schuif in het midden van een schuifweerstand staat?                              | De weerstanden aan beide zijden zijn gelijk, en de weerstand is gelijk verdeeld.              |
+| Kan een schuifweerstand zowel als variabele weerstand als spanningsdeler worden gebruikt?               | Ja, het kan beide functies vervullen afhankelijk van de toepassing in de schakeling.           |

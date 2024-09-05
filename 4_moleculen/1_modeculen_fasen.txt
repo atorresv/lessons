@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Fasen en Eigenschappen van Stoffen
+
+- **Stoffen**: Opgebouwd uit **moleculen**, die uit **atomen** bestaan.
+- **Van der Waalskrachten**: Krachten die moleculen naar elkaar toe trekken.
+  - **Vaste stof**: Moleculen zijn op een vaste plaats en bewegen slechts een beetje heen en weer.
+  - **Vloeistof**: Moleculen kunnen van plaats veranderen en glijden langs elkaar, waardoor vloeistoffen verschillende vormen kunnen aannemen.
+  - **Gas**: Moleculen bewegen kriskras door elkaar, botsen af en toe, maar bewegen voornamelijk vrij en met hoge snelheid.
+
+- **Fasen**: Vaste stof, vloeistof, en gas; ook wel **aggregatietoestand** genoemd.
+  - Afhankelijk van de **temperatuur**.
+  - **Smeltpunt**: Temperatuur waarbij een stof van vast naar vloeibaar verandert.
+  - **Kookpunt**: Temperatuur waarbij een stof van vloeibaar naar gas verandert (verdampen).
+
+- Voorbeeld **water**:
+  - **Smeltpunt**: 0°C
+  - **Kookpunt**: 100°C
+
+- **Binas**: Tabellen 8, 9, 10, 11, en 12 bevatten informatie over smeltpunten en kookpunten van verschillende stoffen. 
+
+- **Samenvatting**: Stoffen bestaan uit moleculen en kunnen zich in drie fasen bevinden: vast, vloeibaar, of gas. Elke stof heeft unieke smelt- en kookpunten, te vinden in Binas.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                  | Korte antwoord                                                                                           |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Waaruit zijn stoffen opgebouwd?                                                                        | Stoffen zijn opgebouwd uit moleculen, die uit atomen bestaan.                                           |
+| Wat zijn **Van der Waalskrachten**?                                                                     | Krachten die moleculen naar elkaar toe trekken.                                                          |
+| Hoe bewegen moleculen in een **vaste stof**?                                                           | Moleculen zijn op een vaste plaats en bewegen slechts een beetje heen en weer.                         |
+| Hoe bewegen moleculen in een **vloeistof**?                                                            | Moleculen kunnen van plaats veranderen en glijden langs elkaar, waardoor vloeistoffen van vorm kunnen veranderen. |
+| Hoe bewegen moleculen in een **gas**?                                                                  | Moleculen bewegen kriskras door elkaar en botsen af en toe, maar bewegen voornamelijk vrij en snel.     |
+| Wat betekent de term **aggregatietoestand**?                                                            | Het verwijst naar de fase waarin een stof zich bevindt: vast, vloeibaar, of gas.                        |
+| Wat is het **smeltpunt** van water?                                                                     | 0°C                                                                                                      |
+| Wat is het **kookpunt** van water?                                                                      | 100°C                                                                                                    |
+| Waar kun je informatie vinden over smeltpunten en kookpunten van stoffen?                               | In Binas, tabellen 8, 9, 10, 11, en 12.                                                                 |
+| Wat gebeurt er met een stof als je deze verwarmt tot boven het smeltpunt maar onder het kookpunt?       | De stof verandert van vast naar vloeibaar.                                                               |
+| Wat gebeurt er met een stof als je deze verder verwarmt boven het kookpunt?                            | De stof verandert van vloeibaar naar gas (verdampen).                                                    |

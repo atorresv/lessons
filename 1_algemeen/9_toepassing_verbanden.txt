@@ -1,0 +1,45 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+
+* **Omzetten van Meetresultaten naar Formules**
+
+  - **Belangrijkste Verbanden:**
+    - **Recht evenredig**: Meest voorkomend, grafiek is een rechte lijn door nul.
+    - **Omgekeerd evenredig**: Grafiek heeft de vorm \( y = \frac{k}{x} \).
+    - **Kwadratisch**: Grafiek is een parabool, formule heeft de vorm \( y = kx^2 \).
+    - **Omgekeerd kwadratisch**: Grafiek heeft de vorm \( y = \frac{k}{x^2} \).
+    - **Wortelverband**: Grafiek volgt de vorm \( y = k\sqrt{x} \).
+
+  - **Stappen voor het Maken van een Formule:**
+    - **Grafiek Maken**: Zet meetresultaten om in een grafiek om het soort verband te identificeren.
+    - **Vermoeden Controleren**: Gebruik berekeningen om te testen of het vermoeden klopt en bevestig het soort verband.
+    - **Formule Opstellen**: Zodra het verband is bevestigd, schrijf de bijbehorende formule op.
+
+  - **Voorbeeld:**
+    - **Situatie**: Voorwerp valt van een hoge toren, afstand gemeten over tijd.
+    - **Grafiek Analyse**: De grafiek vertoont een kwadratisch verband.
+    - **Formule Controle**: Bij kwadratisch verband geldt \( \text{afstand} = k \times (\text{tijd})^2 \). Berekeningen tonen een constante waarde, bevestigt kwadratisch verband.
+    - **Conclusie**: De formule die bij de metingen hoort, is \( \text{afstand} = \frac{1}{2} g t^2 \), waarbij \( g \approx 9,81 \, \text{m/s}^2 \).
+
+  - **Resultaat**: De formule voor afstand in vrije val is correct en komt overeen met de verwachte waarde.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte Antwoord                                              |
+|-----------------------------------------------------------------------|--------------------------------------------------------------|
+| Wat zijn de belangrijkste verbanden in de natuurkunde?                | **Recht evenredig**, **omgekeerd evenredig**, **kwadratisch**, **omgekeerd kwadratisch**, **wortelverband**. |
+| Hoe herken je een recht evenredig verband?                            | De grafiek is een **rechte lijn door nul**.                  |
+| Wat is de formule voor een recht evenredig verband?                   | **y = kx**, waar **k** een constante is.                     |
+| Hoe ziet een grafiek eruit van een omgekeerd evenredig verband?        | De grafiek heeft de vorm **y = k/x**.                        |
+| Wat is het kenmerk van een kwadratisch verband?                       | De grafiek is een **parabool**, en de formule is **y = kx^2**. |
+| Hoe ziet de grafiek eruit van een omgekeerd kwadratisch verband?      | De grafiek heeft de vorm **y = k/x^2**.                     |
+| Wat is een voorbeeld van een wortelverband?                           | Het verband tussen **de lengte van een slinger en de slingertijd**. |
+| Welke stappen moet je volgen om van meetresultaten een formule te maken? | 1. **Grafiek maken**, 2. **Vermoeden controleren**, 3. **Formule opstellen**. |
+| Hoe bevestig je een kwadratisch verband met berekeningen?             | Controleer of **afstand** recht evenredig is met **tijd^2**.  |
+| Wat is de formule voor afstand bij een kwadratisch verband in vrije val? | **afstand = 1/2 * g * tijd^2**, waarbij **g** ongeveer 9,81 m/s² is. |

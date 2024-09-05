@@ -1,0 +1,55 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Het Model van Bohr en Energiediagrammen**
+
+- Volgens **Bohr's model** kunnen elektronen zich alleen in bepaalde **schillen** om een atoomkern bevinden.
+  - **Schillen** zijn de toegestane banen voor elektronen.
+  - **Energie** is verbonden aan de overgang tussen deze banen.
+  
+- **Energieniveaus** worden aangeduid met:
+  - **n = 1**: Grondtoestand
+  - **n = 2**: Eerste aangeslagen toestand
+  - **n = 3**: Tweede aangeslagen toestand
+  - **n = ∞**: Vrije toestand (waar het elektron niet meer door de kern wordt aangetrokken)
+
+- **Energiediagram**:
+  - Een diagram dat energie van verschillende schillen visualiseert.
+  - Verticaal uitgezet: **energie** in eV (elektronvolt) en **niveaus** als horizontale lijnen.
+  
+- Wanneer een **foton** met een specifieke energie wordt geabsorbeerd:
+  - Elektronen springen naar een hogere **aangeslagen toestand**.
+  - Bij terugval naar de grondtoestand zenden ze een **foton** uit met dezelfde energie.
+
+- Voorbeeld:
+  - Overgang van de eerste aangeslagen toestand (n = 2) naar de tweede aangeslagen toestand (n = 3):
+    - Energieverschil = 1,89 eV
+    - Omrekeningen met de formule \( E = \frac{hc}{\lambda} \):
+      - Golflengte = 656 nm (nanometer)
+      - Deze golflengte komt overeen met **rood licht**.
+
+- Samengevat:
+  - Elektronen kunnen zich alleen in bepaalde **schillen** bevinden volgens Bohr.
+  - De energie van deze schillen wordt weergegeven in een **energiediagram**.
+  - Overgangen tussen deze toestanden leiden tot het uitzenden of absorberen van licht met specifieke **golflengtes**.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                          | Korte Antwoord                                                                          |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Hoe kunnen volgens het model van Bohr elektronen zich om een atoomkern bevinden?               | Elektronen kunnen zich alleen in bepaalde **schillen** om de atoomkern bevinden.        |
+| Wat zijn de verschillende benamingen voor de energieniveaus van een atoom volgens Bohr?        | **n = 1**: Grondtoestand, **n = 2**: Eerste aangeslagen toestand, **n = 3**: Tweede aangeslagen toestand, **n = ∞**: Vrije toestand. |
+| Wat laat een **energiediagram** zien?                                                          | Een **energiediagram** toont de energie van verschillende schillen als horizontale lijnen. |
+| Wat gebeurt er met een elektron als het een foton absorbeert?                                  | Het elektron springt naar een hogere **aangeslagen toestand**.                         |
+| Wat gebeurt er als een elektron terugvalt naar de grondtoestand?                              | Het elektron zendt een **foton** uit met dezelfde energie als de energie van de overgang. |
+| Hoe wordt de **energie** van een foton berekend?                                               | Met de formule \( E = \frac{hc}{\lambda} \), waarbij \( h \) de Planck-constante is, \( c \) de lichtsnelheid, en \( \lambda \) de golflengte. |
+| Wat is de golflengte van licht dat overeenkomt met een energieverschil van 1,89 eV?            | De golflengte is 656 nm, wat overeenkomt met **rood licht**.                            |
+| Wat is het verschil tussen de grondtoestand en de aangeslagen toestand in een energiediagram?  | De grondtoestand is het laagste energie-niveau, terwijl de aangeslagen toestanden hogere energie-niveaus zijn. |
+| Waarom wordt een **energiediagram** gebruikt in plaats van een tekening van een atoom?          | Het energiediagram maakt het gemakkelijker om de energie van verschillende schillen af te lezen. |
+| Welke formule wordt gebruikt om de energie van een foton te berekenen en wat zijn de constanten? | De formule is \( E = \frac{hc}{\lambda} \), waarbij \( h \) de Planck-constante is en \( c \) de lichtsnelheid. |
+

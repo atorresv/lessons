@@ -1,0 +1,35 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Uitleg over Verziendheid (Hypermetropie)**
+
+- **Verziendheid**: Bij verziendheid wordt een afbeelding van een object achter het netvlies geprojecteerd.
+- **Accommodatie**: Om scherp te zien, moeten de **spieren** van het oog samentrekken om de brandpuntsafstand van de lens aan te passen.
+- **Nabije punt**: Het dichtstbijzijnde punt dat scherp kan worden gezien met **ontspannen ogen**.
+- **Verste punt**: Het verste punt dat nog scherp kan worden gezien, moet ideaal oneindig ver zijn.
+- **Gezond oog**: Bij een gezond oog valt het beeld op het **netvlies** bij ontspanning.
+- **Verziend oog**: Het oog is te kort, waardoor het beeld achter het netvlies valt. Dit betekent dat ver weg zicht wazig is zonder spanning van de ogen.
+- **Symptomen**: Constante **spanning** van de oogspieren, wat kan leiden tot **hoofdpijn** en ongemak.
+- **Lenscorrectie**: Een **positieve lens** kan worden gebruikt om het beeld op het juiste punt op het netvlies te projecteren. De sterkte van de lens wordt berekend om het verste punt naar het netvlies te brengen.
+- **Voorbeeld**: Een persoon met een verste punt 8 cm achter het netvlies zou een lens met een brandpuntsafstand van 12,5 cm nodig hebben, wat overeenkomt met een lenssterkte van +1,3 dioptrieën.
+- **Conclusie**: Verziendheid is een zeldzame aandoening waarbij het oog iets te kort is. Het probleem kan worden verholpen met een positieve lens, die helpt om ver weg zicht te verbeteren.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte antwoord                                                                                      |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Wat is verziendheid?                                                   | Verziendheid is een aandoening waarbij het beeld van een object achter het netvlies valt.          |
+| Wat gebeurt er met de spieren van het oog bij verziendheid?            | De oogspieren moeten constant aangespannen worden om scherp te kunnen zien.                         |
+| Hoe wordt de brandpuntsafstand van de lens aangepast?                   | Door de kringspieren van het oog aan te spannen of te ontspannen.                                   |
+| Wat is het nabije punt bij een gezond oog?                             | Het dichtstbijzijnde punt dat scherp kan worden gezien met ontspannen ogen.                         |
+| Wat gebeurt er met het beeld bij een gezond oog?                        | Het beeld valt op het netvlies bij een volledig ontspannen oog.                                     |
+| Waar valt het beeld bij iemand met verziendheid?                        | Het beeld valt achter het netvlies.                                                                 |
+| Wat zijn de symptomen van verziendheid?                                 | Hoofdpijn, constante spanning van de oogspieren, en ongemak bij het kijken.                         |
+| Hoe kan verziendheid gecorrigeerd worden?                               | Met een positieve lens die het beeld op het juiste punt op het netvlies projecteert.                |
+| Hoe wordt de sterkte van een positieve lens berekend?                   | Door de brandpuntsafstand van de lens te berekenen op basis van het verste punt van het netvlies.   |
+| Wat is de lenssterkte voor een persoon met een verste punt 8 cm achter het netvlies? | Ongeveer +1,3 dioptrieën.                                                                           |

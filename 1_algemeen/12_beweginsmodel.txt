@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+
+* **Modelleren van Beweging**
+
+- **Modelleren**: Reken een beweging uit door de tijd in **kleine stapjes** op te delen en per tijdstap te berekenen hoe dingen veranderen.
+- **Voorbeeld**: Een bal met een bepaalde **massa** wordt vanaf een locatie in een richting gegooid.
+  - De bal beweegt eerst omhoog en daarna omlaag.
+  - Om de beweging te berekenen:
+    - **Kracht** bepalen (zwaartekracht en **wrijvingskracht**).
+    - Bereken de **resulterende kracht**.
+    - Uit de resulterende kracht volgt de **versnelling**.
+    - Versnelling beïnvloedt de **snelheid** en **richting** van de bal.
+    - Herhaal dit proces voor elke **tijdstap** (bijv. elke 0,1 seconden).
+- **Rekenregels**:
+  - Bereken **wrijvingskracht**: afgeleid van snelheid in het kwadraat.
+  - Bepaal **resulterende kracht**.
+  - Versnelling = resulterende kracht / massa.
+  - Nieuwe snelheid = vorige snelheid + (versnelling x tijdstap).
+  - Bepaal nieuwe **positie**: oude positie + snelheid x tijdstap.
+- **Startwaarden**:
+  - Begin met **startpositie**, **startsnelheid**, **starttijd**, **wrijvingscoëfficiënt**, **massa** van de bal, en de **tijdstappen**.
+- **Model**: Gebruik deze waarden om het model te starten en herhaal de berekeningen om de baan van de bal te volgen.
+
+
+**Diagnostische vragen**
+
+| Vraag                                                          | Antwoord                                                                                          |
+|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Wat is de basis van het modelleren van beweging?                | Het modelleren van beweging is gebaseerd op het opdelen van de tijd in **kleine stapjes** en het berekenen van veranderingen per tijdstap. |
+| Hoe bereken je de beweging van een bal die wordt gegooid?      | Bepaal de **kracht** (zwaartekracht en wrijvingskracht), bereken de **resulterende kracht**, de **versnelling**, en vervolgens de **snelheid** en **positie** per tijdstap. |
+| Welke krachten worden beschouwd bij het modelleren van de beweging van een bal? | **Zwaartekracht** en **wrijvingskracht**.                                                          |
+| Hoe wordt de versnelling berekend in een model?                | Versnelling wordt berekend door de **resulterende kracht** te delen door de **massa**.              |
+| Wat zijn de startwaarden die nodig zijn voor een model?        | **Startpositie**, **startsnelheid**, **starttijd**, **wrijvingscoëfficiënt**, **massa** van de bal, en de **tijdstappen**. |
+| Wat gebeurt er bij elke tijdstap tijdens het modelleren?       | Bij elke tijdstap worden de **resulterende kracht**, **versnelling**, **snelheid**, en **positie** opnieuw berekend. |
+| Welke rol speelt de wrijvingskracht in het model?              | De **wrijvingskracht** wordt berekend op basis van de snelheid in het kwadraat en beïnvloedt de **versnelling** en **snelheid** van de bal. |
+| Hoe bepaal je de nieuwe positie van de bal in een tijdstap?    | De nieuwe positie wordt berekend door de oude positie te verhogen met de snelheid vermenigvuldigd met de tijdstap. |
+

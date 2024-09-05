@@ -1,0 +1,32 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Gezichtshoek en Nabijheid**
+
+- **Gezichtshoek**: De **hoek** waaronder je een object ziet, bepaalt hoe groot het beeld op je netvlies is.
+- **Afstand en Gezichtshoek**: Hoe dichterbij een object, hoe **groter** de gezichtshoek en dus hoe groter het beeld op je netvlies.
+- **Nabijheidspunt**: Het dichtstbijzijnde punt waarop je nog scherp kunt zien zonder te vervormen, wordt het nabijheidspunt genoemd.
+- **Probleem bij Nabijheidspunt**: Als je een object dichterbij houdt dan dit punt, kun je het niet meer scherp zien.
+- **Voorbeeld met Lens**: Bij een lens met een brandpuntsafstand van 4 cm, als het object op deze afstand staat, komt het beeld oneindig ver weg te liggen. Dit betekent dat het beeld op een extreem grote afstand lijkt, wat je een vergroting geeft.
+- **Voordelen van een Positieve Lens**: Met een positieve lens kun je een veel grotere gezichtshoek bereiken en voorwerpen dichterbij scherp zien, vergelijkbaar met het gebruik van een loep.
+- **Samenvatting**: De gezichtshoek bepaalt hoe groot je een object ziet en hangt af van de afstand tot het object. Een positieve lens vergroot de gezichtshoek en maakt het mogelijk om dichterbij scherp te zien met een ontspannen oog.
+
+**Diagnostische vragen**
+
+| Vraag                                                             | Korte antwoord                                                                                      |
+|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Wat is de gezichtshoek?                                           | De hoek waaronder je een object ziet, die bepaalt hoe groot het beeld op je netvlies is.           |
+| Hoe verandert de gezichtshoek met de afstand tot een object?       | Hoe dichterbij het object, hoe groter de gezichtshoek en hoe groter het beeld op je netvlies.      |
+| Wat is het nabijheidspunt?                                         | Het dichtstbijzijnde punt waarop je nog scherp kunt zien zonder vervorming.                        |
+| Wat gebeurt er als je een object dichterbij houdt dan het nabijheidspunt? | Het object wordt onscherp omdat je het niet meer goed kunt scherpstellen.                         |
+| Wat is het effect van een lens met een brandpuntsafstand van 4 cm op het beeld? | Het beeld komt oneindig ver weg te liggen, wat een vergroting van het object betekent.            |
+| Wat zijn de voordelen van het gebruik van een positieve lens?      | Het vergroot de gezichtshoek en maakt het mogelijk om voorwerpen dichterbij scherp te zien.        |
+| Hoe helpt een loep bij het bekijken van voorwerpen?                | Een loep vergroot voorwerpen door een positieve lens, waardoor je dingen groter en duidelijker kunt zien. |
+| Wat is de relatie tussen de gezichtshoek en de afstand tot het object? | Een grotere afstand betekent een kleinere gezichtshoek, en een kleinere afstand betekent een grotere gezichtshoek. |
+| Wat gebeurt er met de gezichtshoek als je een positieve lens gebruikt? | De gezichtshoek wordt vergroot, waardoor je voorwerpen dichterbij scherp kunt zien.                |
+| Waarom kan een positieve lens het lezen van dichtbij vergemakkelijken? | Omdat het de gezichtshoek vergroot en het beeld dichterbij scherp stelt.                            |

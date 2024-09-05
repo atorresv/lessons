@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Elektrische Energie en Spanning in Elektrische Velden**
+
+- **Wet van Behoud van Energie**:
+  - **Elektrische energie** wordt omgezet in andere vormen van energie, zoals **kinetische energie** en **warmte**.
+  - Voorbeeld: Een **negatief geladen voorwerp** trekt een **positief geladen bol** aan, wat resulteert in beweging en omzetting van energie.
+
+- **Elektrische Energie**:
+  - **Definitie**: Energie van een geladen deeltje op een specifieke plaats.
+  - Afhankelijk van **lading** en positie.
+  - Bijv. Een bol met elektrische energie van **20 J** bij een plaats kan verminderen naarmate deze dichterbij komt.
+
+- **Elektrische Spanning**:
+  - **Definitie**: Hoeveelheid elektrische energie per lading op een bepaalde plaats.
+  - **Symbool**: \( U \) (hoofdletter **V** voor volt).
+  - **Formule**: Spanning = Elektrische Energie / Lading.
+  - Onafhankelijk van de lading van het voorwerp.
+
+- **Voorbeelden**:
+  - Een **geaard voorwerp** heeft een elektrische spanning van **0 volt** en dus **0 elektrische energie**.
+  - Bij een **positief geladen bol** varieert de elektrische spanning van **200 volt** op het oppervlak tot minder naarmate je verder weg gaat.
+  - Bij een **negatieve bol** geldt het omgekeerde: de elektrische spanning neemt af naarmate je dichterbij komt, en kinetische energie stijgt.
+
+- **Belangrijkste Punt**:
+  - **Elektrische energie** is afhankelijk van lading en positie.
+  - **Elektrische spanning** is onafhankelijk van lading en geeft de energie aan per lading op een plaats.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                                                                     | Korte Antwoord                                                                                                                                                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wat gebeurt er met elektrische energie volgens de wet van behoud van energie?                                                                           | Elektrische energie wordt omgezet in kinetische energie en warmte.                                                                                                                                                                                        |
+| Wat is elektrische energie?                                                                                                                              | Elektrische energie is de energie die een geladen deeltje heeft op een specifieke plaats in een elektrisch veld.                                                                                                                                              |
+| Hoe wordt elektrische spanning gedefinieerd?                                                                                                              | Elektrische spanning is de hoeveelheid elektrische energie per lading op een bepaalde plaats.                                                                                                                                                                |
+| Wat is het symbool en de eenheid voor elektrische spanning?                                                                                              | Het symbool voor elektrische spanning is \( U \) en de eenheid is volt (V).                                                                                                                                                                                 |
+| Wat is de formule voor het berekenen van elektrische spanning?                                                                                            | Spanning = Elektrische Energie / Lading.                                                                                                                                                                                                                     |
+| Hoe verandert de elektrische spanning van een positieve geladen bol naarmate je verder weg komt?                                                         | De elektrische spanning neemt af naarmate je verder weg komt van de bol.                                                                                                                                                                                     |
+| Wat is de elektrische spanning van een geaard voorwerp?                                                                                                  | Een geaard voorwerp heeft een elektrische spanning van 0 volt.                                                                                                                                                                                                |
+| Wat gebeurt er met de elektrische energie als een geladen deeltje dichterbij een geladen voorwerp komt?                                                 | De elektrische energie van het deeltje neemt af naarmate het dichterbij komt, en wordt omgezet in kinetische energie.                                                                                                                                          |
+| Hoe verschilt elektrische energie van elektrische spanning?                                                                                             | Elektrische energie is afhankelijk van de lading en positie, terwijl elektrische spanning de energie per lading op een plaats aangeeft en onafhankelijk is van de lading.                                                                                                                                       |
+| Wat gebeurt er als een positief geladen deeltje dichterbij een negatieve bol komt?                                                                       | De elektrische spanning neemt af naarmate het deeltje dichterbij komt, terwijl de kinetische energie van het deeltje toeneemt.                                                                                                                                      |

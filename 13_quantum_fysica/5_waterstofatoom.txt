@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van het Waterstofatoom en Golffuncties**
+
+- **Waterstofatoom**:
+  - Bestaat uit een **positieve kern** met daaromheen een **elektron**. 
+  - Het klassieke beeld van een elektron als een deeltje is niet correct; in werkelijkheid moet het elektron worden beschouwd als een golf.
+
+- **Elektron als golf**:
+  - Een elektron gedraagt zich als een golf die rond de kern draait. 
+  - De kern zelf kan ook worden gezien als een golf, hoewel dit niet het belangrijkste punt is hier.
+
+- **Bohrstraal**:
+  - De grootte van een waterstofatoom is ongeveer **5,2 x 10^(-11) meter**. 
+  - Dit wordt ook wel de Bohrstraal genoemd.
+
+- **Golffuncties**:
+  - Niet alle golven passen binnen de Bohrstraal van het waterstofatoom; alleen bepaalde golven passen en hebben specifieke energieniveaus.
+  - Elke toegestane golfvorm heeft een bijbehorende energie.
+
+- **Energie-niveaus**:
+  - Het energieverschil tussen verschillende niveaus in een waterstofatoom is **13,6 eV** (elektronvolt). 
+  - Dit wordt weergegeven in een energiediagram voor waterstof, waar verschillende niveaus zichtbaar zijn.
+
+- **Samenvatting**:
+  - Omdat elektronen als golven moeten worden beschouwd, passen alleen bepaalde golven binnen de Bohrstraal van het waterstofatoom. 
+  - Deze golven hebben specifieke energieniveaus, en het energieverschil tussen deze niveaus is gekwantificeerd.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                  | Kort antwoord                                                                                       |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Hoe wordt een elektron in een waterstofatoom beschouwd volgens de kwantummechanica?   | Als een golf, niet als een deeltje.                                                                 |
+| Wat is de **Bohrstraal** van een waterstofatoom?                                        | Ongeveer **5,2 x 10^(-11) meter**.                                                                 |
+| Waarom passen niet alle golven binnen de Bohrstraal van een waterstofatoom?             | Omdat alleen bepaalde golven voldoen aan de voorwaarden binnen de Bohrstraal, met specifieke energieniveaus. |
+| Wat is het energieverschil tussen de verschillende niveaus in een waterstofatoom?       | Ongeveer **13,6 eV** (elektronvolt).                                                               |
+| Wat laat het energiediagram van een waterstofatoom zien?                                | Het toont de verschillende energie-niveaus waar specifieke golven in passen.                       |
+| Waarom worden sommige golven wel en andere niet binnen de Bohrstraal van een waterstofatoom aangetroffen? | Alleen de golven die voldoen aan de kwantummechanische voorwaarden passen binnen de Bohrstraal en hebben specifieke energieën. |

@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Toepassingen van Straling**
+
+- **Bestralen van Voedsel**
+  - **Doel**: Bacteriën doden om voedsel langer te bewaren.
+  - **Veiligheid**: Voorkomen dat radioactieve bronnen in contact komen met voedsel.
+
+- **Röntgenfoto's**
+  - **Gebruik**: Diagnose van botbreuken en andere medische toepassingen.
+  - **Werking**: Röntgenstraling gaat door het lichaam, waarbij botten duidelijk zichtbaar worden op foto's.
+
+- **Behandeling van Tumoren**
+  - **Doel**: Tumorcellen doden bij kanker.
+  - **Type**: 
+    - **Uitzwendige Bestraling**: Straling van buitenaf.
+    - **Inwendige Bestraling**: Stralingsbron dicht bij de tumor geplaatst.
+  - **Veiligheid**: Afgeschermde bescherming voor omliggende gezonde weefsels.
+
+- **Diktemeting**
+  - **Doel**: Bepalen van de dikte van materialen zoals staalplaten.
+  - **Werking**: Gebruik van **gamma-straling**; minder straling gaat door een dikkere plaat heen.
+  - **Formule**: 
+    - **Intensiteit** = Intensiteit bij dikte 0 × \( \frac{1}{2} \) ^(dikte/halveringsdikte)
+    - **Halveringsdikte**: Dikte waarbij de stralingsintensiteit met de helft vermindert, afhankelijk van soort straling en materiaal.
+
+**Diagnostische vragen**
+
+| Vraag | Korte Antwoord |
+|-------|----------------|
+| Wat is het doel van het bestralen van voedsel? | Bacteriën doden om voedsel langer te bewaren. |
+| Hoe wordt veiligheid gegarandeerd bij het bestralen van voedsel? | Door te zorgen dat radioactieve bronnen niet in contact komen met het voedsel. |
+| Wat is de werking van röntgenstraling in medische toepassingen? | Röntgenstraling gaat door het lichaam en maakt botten zichtbaar op foto's. |
+| Wat zijn de twee typen bestraling bij de behandeling van tumoren? | Uitzwendige bestraling en inwendige bestraling. |
+| Hoe wordt bij inwendige bestraling de stralingsbron geplaatst? | De stralingsbron wordt dicht bij de tumor geplaatst. |
+| Wat is de functie van gamma-straling bij diktemeting? | Het meten van de dikte van materialen zoals staalplaten door te analyseren hoeveel straling door de plaat heen gaat. |
+| Wat is de formule voor het berekenen van de intensiteit bij diktemeting? | Intensiteit = Intensiteit bij dikte 0 × \( \frac{1}{2} \) ^(dikte/halveringsdikte) |
+| Wat bepaalt de halveringsdikte? | De halveringsdikte is de dikte waarbij de stralingsintensiteit met de helft vermindert en is afhankelijk van het soort straling en het materiaal. |

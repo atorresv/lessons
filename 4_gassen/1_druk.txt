@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Druk en Kracht: Basisbegrippen**
+
+- **Druk**: 
+  - Druk is de **kracht per oppervlak** en wordt berekend met de formule: \( p = \frac{F}{A} \).
+  - **p** = druk in Newton per vierkante meter (N/m²), **F** = kracht in Newton (N), **A** = oppervlakte in vierkante meters (m²).
+  - Druk kan ook uitgedrukt worden in **Pascal** (Pa), wat gelijk is aan Newton per m².
+
+- **Voorbeeld van Druk**:
+  - Bij het in de muur slaan van spijkers, is de druk **groter** bij een scherpere spijker vanwege de **kleinere oppervlakte**.
+
+- **Druk in Gassen**:
+  - In een gas ontstaat druk door **botsingen** van moleculen tegen de wanden.
+  - **Temperatuur** en **aantal deeltjes** beïnvloeden de gasdruk. Hoger temperatuur en meer deeltjes verhogen de druk.
+
+- **Luchtdruk**:
+  - De standaard **luchtdruk** is ongeveer **1,01 × 10^5 Pascal**.
+  - 1 **bar** = 100.000 Pascal.
+  - Luchtdruk varieert afhankelijk van **weer** en **hoogte**.
+
+- **Voorbeeld: Druk op een Raam**:
+  - Kracht op een raam van 2 x 3 meter bij een druk van 1,01 × 10^5 Pascal is **600.000 Newton**.
+  - Deze kracht is gelijk aan het tillen van een gewicht van **60.000 kilo**.
+  - Ramen worden niet naar binnen gedrukt omdat er **gelijke druk** aan beide zijden is, waardoor de drukken in **evenwicht** zijn.
+
+- **Samenvatting**:
+  - **Druk** = kracht per eenheid oppervlakte.
+  - In gassen ontstaat druk door botsende deeltjes.
+  - Standaard luchtdruk is **1 bar** of **100.000 Pascal**, maar kan variëren met **weer** en **hoogte**.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                                                                                      |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wat is druk en hoe wordt het berekend?                                     | Druk is de kracht per eenheid oppervlakte en wordt berekend met de formule \( p = \frac{F}{A} \), waarbij **p** de druk is in Newton per vierkante meter, **F** de kracht in Newton en **A** de oppervlakte in vierkante meters. |
+| Wat gebeurt er met de druk als de oppervlakte kleiner wordt?               | Als de oppervlakte kleiner wordt, neemt de druk toe omdat de kracht over een kleiner oppervlak wordt verdeeld.                                                        |
+| Hoe wordt druk in gassen veroorzaakt?                                      | Druk in gassen ontstaat door botsingen van moleculen tegen de wanden. Deze botsingen veroorzaken druk die afhangt van de temperatuur en het aantal deeltjes.        |
+| Hoe verhoudt de luchtdruk zich tot de standaarddruk?                       | De standaard luchtdruk is ongeveer **1,01 × 10^5 Pascal** of **1 bar**, maar kan variëren afhankelijk van het weer en de hoogte.                                      |
+| Hoeveel kracht wordt uitgeoefend op een raam van 2 x 3 meter bij standaarddruk? | De kracht op een raam van 2 x 3 meter bij een standaarddruk van **1,01 × 10^5 Pascal** is **600.000 Newton**.                                                               |
+| Waarom worden ramen niet naar binnen gedrukt door de luchtdruk?            | Ramen worden niet naar binnen gedrukt omdat de druk aan beide zijden van het raam gelijk is, waardoor de krachten in evenwicht zijn.                                  |
+| Hoe wordt druk in vloeistoffen berekend?                                    | Druk in een vloeistof wordt berekend met de formule \( p = h \times \rho \times g \), waarbij **h** de diepte is, **ρ** de dichtheid van de vloeistof, en **g** de zwaartekrachtsversnelling.                |

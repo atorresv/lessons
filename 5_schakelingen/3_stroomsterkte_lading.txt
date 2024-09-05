@@ -1,0 +1,34 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Elektrische Stroom en Stroomsterkte**
+
+- **Elektrische stroom** bestaat uit **positieve atomen** en **bewegende elektronen**.
+- Bij het aansluiten van een **lampje op een batterij** wordt de **stroomsterkte** gemeten.
+- **Stroom** wordt veroorzaakt door **bewegende elektronen** in een **metaaldraad**.
+- **Lading** is een maat voor de hoeveelheid **elektronen** en wordt uitgedrukt in **coulomb** (symbool: **Q**).
+- **Stroomsterkte** is de maat voor **hoeveel lading per seconde** door een bepaald oppervlak van een draad passeert.
+  - Eenheid van stroomsterkte: **ampère** (symbool: **I**).
+- Formule: Stroomsterkte = Hoeveelheid lading / Tijd.
+  - Dit betekent: Stroomsterkte (I) = Lading (Q) / Tijd (t).
+- **Samenvatting**:
+  - **Lading**: Hoeveelheid elektronen die zich verplaatsen.
+  - **Stroom**: Hoeveel lading ergens doorheen stroomt per seconde.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                       | **Antwoord**                                                                                           |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Waaruit bestaat elektrische stroom?                                                             | Elektrische stroom bestaat uit **positieve atomen** en **bewegende elektronen**.                      |
+| Wat veroorzaakt de stroom in een metaal?                                                         | De stroom wordt veroorzaakt door **bewegende elektronen**.                                             |
+| Wat wordt bedoeld met lading in elektrische stroom?                                              | Lading is een maat voor de hoeveelheid **elektronen** en wordt uitgedrukt in **coulomb** (symbool: **Q**). |
+| Wat is de eenheid van lading?                                                                     | De eenheid van lading is **coulomb**.                                                                  |
+| Wat is de stroomsterkte en hoe wordt deze aangeduid?                                             | Stroomsterkte is de maat voor hoeveel lading per seconde door een bepaald oppervlak van een draad passeert, aangeduid met **I** (ampère). |
+| Hoe kun je de stroomsterkte berekenen als je de lading en tijd weet?                            | Stroomsterkte (I) = **Lading (Q) / Tijd (t)**.                                                        |
+| Wat zegt de stroomsterkte over de hoeveelheid lading?                                            | De stroomsterkte geeft aan hoeveel lading per seconde door een draadje stroomt.                       |
+| Wat is de symbool voor stroomsterkte en wat is de eenheid?                                       | Symbool voor stroomsterkte is **I** en de eenheid is **ampère (A)**.                                |

@@ -1,0 +1,51 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Foto-elektrisch Effect en Foto-elektrische Cel**
+
+- **Foto-elektrisch Effect**:
+  - Wanneer **licht** op een **metaal** valt, worden **elektronen** uit het metaal **vrijgemaakt**.
+  - De benodigde energie om elektronen vrij te maken wordt de **uittrede-energie** genoemd.
+  - Energie per foton moet groter zijn dan de uittrede-energie om elektronen vrij te maken. 
+  - Er is een **grensgolflengte**: het licht moet een bepaalde kleur (golflengte) hebben om de uittrede-energie te bereiken.
+
+- **Foto-elektrische Cel**:
+  - Bevat een stuk metaal in een **vacuum** met een **kathode** en een **anode**.
+  - Wanneer licht met een geschikte golflengte op de kathode valt, worden elektronen vrijgemaakt en kunnen ze naar de anode bewegen.
+  - **Stroom** kan worden gemeten met een **stroommeter**. 
+  - Een **batterij** kan worden gebruikt om de elektronen naar de anode te trekken en zo de **stroom** te verhogen.
+
+- **Remspanning**:
+  - Een negatieve spanning kan worden toegepast om de elektronen terug te trekken en de stroom te stoppen.
+  - Er is een **remspanning** waarbij de stroom precies stopt. Dit toont aan dat er nog steeds een **kinetische energie** overblijft in de elektronen, die correspondeert met het **verschil** tussen de fotonenergie en de uittrede-energie.
+
+- **Kleur van Licht**:
+  - **Blauw licht** heeft meer energie per foton dan **rood licht**.
+  - Voor blauw licht is de remspanning **hoger** dan voor rood licht, omdat blauw licht meer energie levert.
+
+- **Formule**:
+  - De **remspanning** kan worden gebruikt om de energie van fotonen te berekenen met de formule:
+    - **Remspanning = (Energie per foton - Uittrede-energie) / Lading**.
+  - De resultaten bevestigen de theorieën van **Planck** en **Bohr** over fotonenergie en de aard van licht.
+
+Dit overzicht legt de basisprincipes van het foto-elektrisch effect en de werking van een foto-elektrische cel uit, evenals de rol van remspanning en kleur van licht in het proces.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| Wat is het foto-elektrisch effect? | Het foto-elektrisch effect is het vrijkomen van elektronen uit een metaal wanneer licht op het metaal valt. |
+| Wat is de uittrede-energie? | De uittrede-energie is de energie die nodig is om elektronen uit een metaal te verwijderen. |
+| Hoe wordt de energie van een foton beïnvloed door de kleur van licht? | Blauw licht heeft meer energie per foton dan rood licht. |
+| Wat is een grensgolflengte? | De grensgolflengte is de golflengte van licht die net genoeg energie heeft om elektronen vrij te maken. |
+| Hoe werkt een foto-elektrische cel? | Licht valt op een metaal in een vacuum, elektronen worden vrijgemaakt en bewegen naar een anode, wat een stroom creëert. |
+| Wat is de functie van een batterij in een foto-elektrische cel? | De batterij helpt om de vrijgemaakte elektronen naar de anode te trekken en verhoogt de stroom. |
+| Wat gebeurt er als een negatieve spanning wordt toegepast in een foto-elektrische cel? | De negatieve spanning kan de stroom afremmen en stoppen door elektronen terug te trekken naar de kathode. |
+| Wat is remspanning? | Remspanning is de negatieve spanning waarbij de stroom in de foto-elektrische cel precies stopt. |
+| Hoe kan remspanning worden gebruikt om de energie van fotonen te berekenen? | De remspanning wordt gebruikt om het verschil tussen de energie van fotonen en de uittrede-energie te berekenen. |
+| Hoe bevestigen metingen van remspanning de theorieën van Planck en Bohr? | Metingen van remspanning bevestigen de theorieën door het verschil in energie per foton te tonen en hoe dit correleert met de uittrede-energie. |

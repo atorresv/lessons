@@ -1,0 +1,29 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Kilowattuur als Eenheid van Energie**
+
+- **Kilowattuur (kWh)**: Eenheid van energie.
+- **Definitie**: Energie gelijk aan het gebruik van een apparaat van **1 kilowatt** gedurende **1 uur**.
+- **Omrekeningen**:
+  - **1 kWh** = **3,6 miljoen joule** (3,6 × 10^6 J).
+  - **€1000 per seconde**: Verbruik = €1000 × 3600 seconden = **36 miljoen joule**.
+- **Binas tabel 4**: Bevat omrekeningsfactoren voor kilowattuur naar joule.
+
+In essentie is kilowattuur een maat voor **energieverbruik** en kan het omgezet worden naar joule voor precieze berekeningen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                 | Kort Antwoord                                                                                      |
+|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Wat betekent de eenheid kWh?                                                           | kWh staat voor **kilowattuur**, een eenheid van energie die overeenkomt met het gebruik van 1 kW gedurende 1 uur. |
+| Hoeveel joule komt overeen met 1 kilowattuur?                                         | **1 kWh** = **3,6 miljoen joule** (3,6 × 10^6 J).                                                  |
+| Hoe reken je een verbruik van €1000 per seconde om naar joule?                         | Verbruik = €1000 × 3600 seconden = **36 miljoen joule** (36 × 10^6 J).                            |
+| Waar kun je de omrekeningsfactoren van kWh naar joule vinden?                          | In **Binas tabel 4**.                                                                            |
+| Wat is het effect van een apparaat dat 1 kW verbruikt gedurende 1 uur?                 | Het verbruik is gelijk aan **1 kilowattuur**, oftewel **3,6 miljoen joule**.                       |
+

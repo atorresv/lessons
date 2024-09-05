@@ -1,0 +1,28 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van het Tunneleffect in de Kwantummechanica**
+
+- **Tunneleffect**: Een kwantummechanisch fenomeen waarbij een deeltje door een barrière kan bewegen ondanks dat het klassiek gezien niet genoeg energie heeft om de barrière te overwinnen.
+- **Deeltje**: In klassieke mechanica, als het deeltje niet genoeg energie heeft, blijft het gevangen tussen twee barrières.
+- **Kwantummechanica**: Beschouwt deeltjes niet als puntobjecten maar als golven. Deze golven geven de waarschijnlijkheid aan waar een deeltje zich kan bevinden.
+- **Golf-functie**: De kans om een deeltje op een bepaalde plaats te vinden is groter in de "put" en kleiner aan de randen, maar nooit helemaal nul.
+- **Kans op ontsnapping**: Zelfs als de energie van het deeltje niet genoeg is om over de barrière te komen, is er een kans dat het via het tunneleffect ontsnapt.
+- **Voorbeeld**: **Alfa-deeltjes** in een atoomkern die vaak gevangen zitten door een energiebarrière maar soms ontsnappen door het tunneleffect.
+- **Factoren**: De kans op ontsnapping hangt af van de hoogte en breedte van de barrière. Hoe hoger en breder, hoe kleiner de kans.
+- **Samenvatting**: Het tunneleffect laat zien dat energie niet de enige factor is die bepaalt of een deeltje gevangen blijft. In de kwantummechanica is er altijd een kleine kans op ontsnapping door een barrière.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                  | Kort antwoord                                                                                       |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Wat is het **tunneleffect** in de kwantummechanica?                                     | Het tunneleffect is een fenomeen waarbij een deeltje door een barrière kan bewegen ondanks onvoldoende energie volgens klassieke mechanica. |
+| Hoe wordt een deeltje in de kwantummechanica beschouwd?                                | Als een golf, die de waarschijnlijkheid aangeeft om het deeltje op een bepaalde plaats te vinden.    |
+| Wat betekent het als de golf-functie van een deeltje "nooit exact 0 is"?               | Dit betekent dat er altijd een kans is dat het deeltje zich op een bepaalde plaats bevindt, zelfs in de aanwezigheid van barrières. |
+| Hoe beïnvloeden de hoogte en breedte van de barrière de kans op ontsnapping?           | Hoe hoger en breder de barrière, hoe kleiner de kans dat het deeltje ontsnapt via het tunneleffect. |
+| Geef een voorbeeld van een situatie waarin het tunneleffect optreedt.                  | Alfa-deeltjes in een atoomkern die soms ontsnappen door het tunneleffect ondanks de energiebarrière. |

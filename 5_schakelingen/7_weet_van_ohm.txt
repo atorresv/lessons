@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Wet van Ohm en Toepassingen**
+
+- **Wet van Ohm**: Geeft het verband tussen **stroom (I)**, **spanning (U)**, en **weerstand (R)**.
+- **Formule**: \( U = I \times R \)  
+  - **U**: Spanning over de weerstand  
+  - **I**: Stroomsterkte door de weerstand  
+  - **R**: Weerstand in ohm
+- **Grafiek**: Rechtlijnig verband tussen spanning en stroom bij constante weerstand.  
+  - Bij **grotere weerstand** wordt **meer stroom tegengehouden**.
+- **Toepassing**:  
+  - Wet van Ohm geldt voor elk van de weerstanden in een schakeling.
+  - Als **stroom** en **weerstand** bekend zijn, kan **spanning** worden berekend.
+  - Als **spanning** en **weerstand** bekend zijn, kan **stroom** worden berekend.
+  - Als **spanning** en **stroom** bekend zijn, kan **weerstand** worden berekend.
+- **Niet-ohmse weerstanden**:  
+  - **Lampjes** zijn vaak niet-ohmse weerstanden omdat hun weerstand toeneemt met de temperatuur.  
+  - De **wet van Ohm** is niet van toepassing op deze weerstanden omdat hun weerstand niet constant is.
+- **Samenvatting**:  
+  - Wet van Ohm: \( U = I \times R \)  
+  - **Spanning** en **weerstand** bepalen de **stroom**.
+  - **Stroom** en **weerstand** bepalen de **spanning**.
+  - **Spanning** en **stroom** bepalen de **weerstand**.
+  - Voor **ohmse weerstanden** is de wet van Ohm toepasbaar; voor **niet-ohmse weerstanden** zoals lampjes geldt dit niet.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Antwoord                                                   |
+|------------------------------------------------------------------------|------------------------------------------------------------|
+| Wat geeft de wet van Ohm aan?                                           | Het verband tussen **stroom (I)**, **spanning (U)**, en **weerstand (R)**. |
+| Wat is de formule van de wet van Ohm?                                   | \( U = I \times R \)                                       |
+| Wat gebeurt er met de stroom bij een grotere weerstand?                 | De stroom wordt **meer tegengehouden**.                    |
+| Hoe is het verband tussen spanning en stroom bij een constante weerstand? | Het is **rechtlijnig**.                                    |
+| Hoe kun je de spanning uitrekenen als je de stroom en weerstand kent?    | Gebruik de formule \( U = I \times R \).                    |
+| Wat gebeurt er met de weerstand van een lampje als het warmer wordt?    | De weerstand **neemt toe**.                                |
+| Waarom geldt de wet van Ohm niet altijd voor lampjes?                    | Omdat de weerstand van lampjes niet constant is en toeneemt bij hogere temperatuur. |
+| Welke weerstanden worden beschouwd als ohmse weerstanden?                | Gewone **weerstanden** met een constant symbool (rechthoekig blokje). |

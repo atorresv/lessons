@@ -1,0 +1,60 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Energie en de Wet van Behoud van Energie
+
+- **Energie** is het vermogen om **arbeid** te verrichten.
+  - Voorbeeld: Een batterij kan **elektrische energie** leveren.
+  - Benzine heeft energie die kan worden omgezet in arbeid via een motor.
+  - Een **gespannen veer** heeft ook energie en kan arbeid verrichten.
+
+- **Wet van Behoud van Energie**: 
+  - De totale hoeveelheid energie in een gesloten systeem blijft altijd gelijk.
+  - Energie kan worden omgezet van de ene vorm naar de andere, maar de totale hoeveelheid blijft constant.
+
+- **Soorten Energie**:
+  - **Kinetische Energie**:
+    - Energie van bewegende voorwerpen.
+    - Formule: \( E_k = \frac{1}{2} m v^2 \) (waarbij \( m \) massa en \( v \) snelheid is).
+  - **Potentiële Energie**:
+    - Energie door een object op hoogte, zoals een batterij die valt.
+    - Formule: \( E_p = mgh \) (waarbij \( m \) massa, \( g \) zwaartekracht (9,81 m/s²), en \( h \) hoogte is).
+  - **Veerenergie**:
+    - Energie opgeslagen in een gespannen of ingedrukte veer.
+    - Formule: \( E_v = \frac{1}{2} k x^2 \) (waarbij \( k \) de veerconstante en \( x \) de uitrekking of inkrimping van de veer is).
+  - **Warmte**:
+    - Energie die vrijkomt bij bijvoorbeeld het vallen van een batterij die dan je hand verwarmt.
+  - **Arbeid**:
+    - Kan ook gezien worden als een vorm van energie, zoals besproken in eerdere uitleg.
+
+- **Energieomzetting**:
+  - Verschillende soorten energie kunnen in elkaar omgezet worden.
+  - De **wet van behoud van energie** zegt dat het totale energiebedrag gelijk blijft, maar energie kan veranderen van vorm.
+
+- **Samenvatting**:
+  - Er zijn verschillende soorten energie: **kinetische**, **potentiële**, **veerenergie**, **warmte**, en **arbeid**.
+  - Energie kan worden omgezet tussen deze soorten, maar het totale energiebedrag blijft altijd gelijk.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                              | Korte Antwoord                                            |
+|----------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Wat is energie in de natuurkunde?                                                                  | Energie is het vermogen om arbeid te verrichten.          |
+| Welke eenheid wordt gebruikt om energie uit te drukken?                                           | De eenheid van energie is de joule (J).                    |
+| Noem een voorbeeld van elektrische energie.                                                        | Een batterij.                                             |
+| Hoe wordt benzine in termen van energie beschouwd?                                                | Benzine heeft het vermogen om arbeid te verrichten.       |
+| Wat is kinetische energie?                                                                        | Kinetische energie is de energie van bewegende voorwerpen. |
+| Welke formule wordt gebruikt om kinetische energie te berekenen?                                  | \( E_k = \frac{1}{2} m v^2 \)                             |
+| Wat is potentiële energie?                                                                        | Energie door een object op hoogte.                        |
+| Welke formule wordt gebruikt om potentiële energie te berekenen?                                   | \( E_p = mgh \)                                           |
+| Wat is veerenergie?                                                                              | Energie opgeslagen in een gespannen of ingedrukte veer.   |
+| Welke formule wordt gebruikt om veerenergie te berekenen?                                          | \( E_v = \frac{1}{2} k x^2 \)                             |
+| Wat gebeurt er met energie volgens de wet van behoud van energie?                                | De totale hoeveelheid energie blijft constant.            |
+| Kan energie worden omgezet van de ene vorm naar de andere?                                        | Ja, energie kan worden omgezet tussen verschillende vormen. |
+| Noem een voorbeeld van hoe warmte energie kan worden waargenomen.                                 | Een batterij die valt en je hand verwarmt.                |
+| Wat zegt de wet van behoud van energie over de totale hoeveelheid energie?                        | De totale hoeveelheid energie blijft altijd gelijk.       |

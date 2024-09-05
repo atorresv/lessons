@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Eenvoudige Beweging: Eenparige Beweging**
+
+- **Beweging**: Verandering in **plaats** of **positie** van een object over tijd.
+- **Verplaatsing**: Verschil tussen **beginpositie** en **eindpositie**. Berekenbaar met \( \text{verplaatsing} = \text{eindpositie} - \text{beginpositie} \).
+- **Eenparige Beweging**:
+  - **Snelheid** is constant.
+  - Grafiek in een **plaats-tijd diagram** is een **rechte lijn**.
+  - Kan zowel **oplopende** als **aflopende** lijn zijn, afhankelijk van de richting.
+- **Snelheid Berekenen**:
+  - Gebruik de formule \( \text{snelheid} = \frac{\text{afstand}}{\text{tijd}} \) voor een eenparige beweging.
+- **Gecompliceerde Beweging**:
+  - Vaak op te delen in segmenten.
+  - **Afgelegde Weg**: Totale afstand die een object aflegt. Bijvoorbeeld, van -15 naar 5 en weer terug naar 2,4 meter. 
+  - In dit geval is de **afgelegde weg** 8,4 meter.
+- **Gemiddelde Snelheid**:
+  - Bereken als \( \text{V}_{\text{gem}} = \frac{\text{totaal afgelegde weg}}{\text{totale tijd}} \).
+  - Voor segmenten kun je snelheid in elk segment apart berekenen en vervolgens het gemiddelde nemen.
+- **Diagrammen**:
+  - **Plaats-tijd Diagram**: Geeft de **verandering in plaats** aan over tijd.
+  - **Snelheid-tijd Diagram**: Geeft de **snelheidsverandering** aan over tijd. 
+
+- **Belangrijke Concepten**:
+  - **Verplaatsing**: Hoeveel iets is verplaatst in een bepaalde tijd.
+  - **Afgelegde Weg**: Totale afstand afgelegd door het object.
+  - **Eenparige Beweging**: Constante snelheid met een rechte lijn in het grafiek.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is **beweging**? | Verandering in de **plaats** of **positie** van een object over tijd. |
+| Hoe bereken je **verplaatsing**? | Verplaatsing = **eindpositie** - **beginpositie**. |
+| Hoe ziet een grafiek van een **eenparige beweging** eruit? | Het is een **rechte lijn** in een plaats-tijd diagram. |
+| Wat is een **afgelegde weg**? | De totale afstand die een object aflegt, ongeacht de richting. |
+| Hoe bereken je de **snelheid** in een eenparige beweging? | Snelheid = \( \frac{\text{afstand}}{\text{tijd}} \). |
+| Wat is het verschil tussen **verplaatsing** en **afgelegde weg**? | Verplaatsing is het verschil tussen begin- en eindpositie; afgelegde weg is de totale afstand die is afgelegd. |
+| Hoe kan je de **gemiddelde snelheid** berekenen? | Gebruik de formule \( \text{V}_{\text{gem}} = \frac{\text{totaal afgelegde weg}}{\text{totale tijd}} \). |
+| Hoe ziet een **plaats-tijd diagram** eruit voor een eenparige beweging? | Het toont een **rechte lijn**. |
+| Wat toont een **snelheid-tijd diagram**? | Het toont de **snelheidsverandering** over tijd. |

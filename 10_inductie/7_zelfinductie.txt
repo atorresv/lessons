@@ -1,0 +1,37 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Zelfinductie en Inductiespanning**
+
+- **Zelfinductie** treedt op bij spoelen en is gerelateerd aan **inductiespanning**.
+- Bij het aansluiten van een spoel op een batterij en het sluiten van een schakelaar:
+  - Er ontstaat een **magneetveld** in de spoel.
+  - De verandering in magneetveld veroorzaakt een **inductiespanning** die tegenwerkt.
+  - Deze inductiespanning vertraagt de opbouw van de stroom tot het normale niveau.
+- Wanneer de stroom is ingeschakeld:
+  - De spoel creëert een **tegenwerkende inductiespanning**.
+  - Dit vertraagt de stroomopbouw.
+- Wanneer de stroom wordt uitgeschakeld:
+  - Het magneetveld verdwijnt, wat resulteert in een **veranderende flux**.
+  - Een **meewerkende inductiespanning** wordt opgewekt in de spoel, die de stroom in de oorspronkelijke richting probeert te laten stromen.
+  - Bij een open schakelaar kan de inductiespanning niet tot stroom leiden, maar kan een lampje kort oplichten.
+- **Samenvatting**:
+  - Zelfinductie zorgt ervoor dat een spoel zichzelf tegenwerkt bij het inschakelen en uitschakelen van stroom.
+  - **Inschakel effect**: Inductiespanning tegen de toename van stroom.
+  - **Uitschakel effect**: Inductiespanning probeert de stroom te handhaven bij uitschakeling.
+
+**Diagnostische vragen**
+
+| Vraag | Korte Antwoord |
+|-------|----------------|
+| Wat gebeurt er als je een schakelaar in een spoel sluit die is aangesloten op een batterij? | Er ontstaat een magneetveld en de stroom begint te lopen, maar de inductiespanning vertraagt de opbouw van de stroom. |
+| Hoe werkt de inductiespanning bij het inschakelen van de stroom? | De inductiespanning werkt tegen de stroomopbouw door een magneetveld te creëren dat tegenwerkt. |
+| Wat gebeurt er als de stroom wordt uitgeschakeld in een spoel? | De flux verandert van maximaal naar nul, wat een meewerkende inductiespanning opwekt die probeert de stroom te behouden. |
+| Wat is het effect van een inductiespanning als de stroom wordt uitgeschakeld? | De inductiespanning probeert de stroom te handhaven, wat kan leiden tot een tijdelijke verlichting van een lampje, zelfs als de schakelaar openstaat. |
+| Wat is zelfinductie? | Zelfinductie is het verschijnsel waarbij een spoel zichzelf tegenwerkt bij het laten lopen van stroom door het opwekken van een inductiespanning. |
+| Wat is het verschil tussen inschakel- en uitschakel effect? | Inschakeleffect: inductiespanning werkt tegen de toename van stroom. Uitschakel effect: inductiespanning probeert de stroom te behouden bij uitschakeling. |

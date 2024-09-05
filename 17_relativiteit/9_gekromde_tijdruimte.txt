@@ -1,0 +1,50 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Tijdruimte en Algemene Relativiteitstheorie**
+
+- **Tijdruimte** combineert **ruimte** en **tijd** als één vierdimensionaal geheel in de algemene relativiteitstheorie.
+  - Normaal gesproken beschouwen we ruimte als drie dimensies: **x-as**, **y-as**, en **z-as**.
+  - **Tijd** wordt normaal gezien als los van ruimte en gaat altijd vooruit.
+
+- In de algemene relativiteitstheorie worden ruimte en tijd als één entiteit beschouwd:
+  - **Ruimte** en **tijd** worden samen **tijdruimte** genoemd.
+
+- Voor een bewegend voorwerp in tijdruimte:
+  - Bij een rechte beweging in één dimensie blijft het voorwerp binnen die dimensie.
+  - Als het voorwerp een **gekromde** baan volgt, kan deze niet meer binnen één dimensie blijven.
+
+- Voorbeeld met een stilstaand voorwerp zoals een **appel**:
+  - Een stilstaand voorwerp beweegt in de richting van de tijd (de toekomst).
+  - Dit betekent dat zelfs als het voorwerp geen verandering in ruimte coördinaten vertoont, het nog steeds beweegt in de richting van de tijd.
+
+- In een gekromde tijdruimte:
+  - **Rechte banen** kunnen niet worden gevolgd, en de beweging wordt gekromd.
+  - Voorwerpen bewegen niet alleen in de tijd, maar ook in de ruimte als gevolg van de kromming.
+
+- **Vallen** volgens de algemene relativiteitstheorie:
+  - **Vallen** is het resultaat van de kromming van tijdruimte door massa.
+  - Massa **kromt** de tijdruimte, waardoor voorwerpen naar elkaar toe vallen.
+
+- **Samenvatting**:
+  - Tijdruimte combineert de drie ruimtedimensies en de tijd als één geheel.
+  - Massa veroorzaakt een kromming in tijdruimte, wat leidt tot het fenomeen van vallen.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                     | **Antwoord**                                                                                                                |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Wat is tijdruimte volgens de algemene relativiteitstheorie?                                  | Tijdruimte is de combinatie van de drie ruimtedimensies (x, y, z) en tijd als één vierdimensionaal geheel.                  |
+| Hoe worden ruimte en tijd normaal gesproken gezien in ons dagelijks leven?                   | Ruimte wordt gezien in drie dimensies (x, y, z) en tijd wordt als een aparte, vooruitgaande dimensie beschouwd.              |
+| Wat gebeurt er met een voorwerp dat zich in een rechte lijn beweegt in tijdruimte?            | Het voorwerp beweegt in één dimensie en blijft binnen die dimensie.                                                          |
+| Wat gebeurt er als een voorwerp een gekromde baan volgt in tijdruimte?                        | De baan kan niet binnen één dimensie blijven; de beweging wordt gekromd.                                                     |
+| Hoe beweegt een stilstaand voorwerp zoals een appel in tijdruimte?                            | Het beweegt in de richting van de tijd (de toekomst), hoewel het geen verandering in ruimte coördinaten vertoont.            |
+| Wat is het effect van een massa op tijdruimte volgens de algemene relativiteitstheorie?       | Massa kromt de tijdruimte, wat ervoor zorgt dat voorwerpen naar elkaar toe vallen.                                            |
+| Wat is het gevolg van een gekromde tijdruimte op de beweging van voorwerpen?                  | Voorwerpen volgen geen rechte banen maar bewegen in een gekromde route als gevolg van de kromming van de tijdruimte.          |
+| Hoe kan je het fenomeen van vallen uitleggen in termen van tijdruimte?                        | Vallen is het gevolg van de kromming van tijdruimte door massa, waardoor voorwerpen naar elkaar toe worden getrokken.        |
+

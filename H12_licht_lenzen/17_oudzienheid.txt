@@ -1,0 +1,33 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Oogafwijking: Ouderdomsverziendheid**
+
+- **Ouderdomsverziendheid**: Veel mensen krijgen op latere leeftijd last van deze aandoening.
+- **Oogfunctie**: De ooglens en het hoornvlies creëren een afbeelding op het netvlies.
+- **Accommodatie**: De brandpuntsafstand van de lens verandert door de **kringspier** aan te spannen, waardoor objecten dichterbij scherp worden gezien.
+- **Nabije punt**: Het dichtstbijzijnde punt dat scherp kan worden gezien wordt het nabije punt genoemd. Bij ouderdom kan dit punt verder weg liggen dan 25 cm.
+- **Probleem**: Personen met ouderdomsverziendheid kunnen voorwerpen dichtbij niet scherp zien, wat vooral lastig is bij **lezen**.
+- **Oplossing**: Een **positieve lens** kan helpen. Deze lens projecteert het beeld van dichtbij op een afstand waar het nog scherp wordt gezien.
+- **Voorbeeld**: Voor iemand die een boek op 25 cm afstand wil lezen, maar het boek scherp ziet op 60 cm, is een lenssterkte van +2,3 dioptrieën nodig.
+- **Conclusie**: Ouderdomsverziendheid ontstaat doordat het nabije punt verder van het oog komt te liggen met de leeftijd. Dit kan gecorrigeerd worden met een positieve lens.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte antwoord                                                                                      |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Wat is ouderdomsverziendheid?                                         | Het is een aandoening waarbij mensen op latere leeftijd moeite hebben met het scherp zien van dichtbij. |
+| Hoe zorgt de ooglens voor scherp zicht?                               | Door de brandpuntsafstand aan te passen met behulp van de kringspier, waardoor objecten dichtbij scherp worden. |
+| Wat is het nabije punt?                                               | Het dichtstbijzijnde punt dat nog scherp kan worden gezien.                                         |
+| Hoe verandert het nabije punt bij ouderdomsverziendheid?               | Het nabije punt verschuift verder weg, waardoor dichtbij zien moeilijker wordt.                      |
+| Waarom is lezen moeilijk voor iemand met ouderdomsverziendheid?         | Omdat de afstand waarop het boek scherp wordt gezien te groot is, waardoor kleine letters onscherp worden. |
+| Hoe kan ouderdomsverziendheid gecorrigeerd worden?                     | Met een positieve lens die het beeld van dichtbij projecteert op een afstand waar het nog scherp is.  |
+| Wat is de sterkte van de lens voor iemand die een boek op 25 cm afstand wil lezen, maar scherp ziet op 60 cm? | Ongeveer +2,3 dioptrieën.                                                                           |
+| Waarom is een positieve lens nodig bij ouderdomsverziendheid?           | Omdat de lens helpt om het beeld van dichtbij scherp te projecteren op een afstand waar het nog duidelijk wordt gezien. |
+| Wat is het effect van ouderdomsverziendheid op het nabije punt?         | Het nabije punt verschuift verder van het oog, waardoor scherp zien van dichtbij moeilijker wordt.    |
+| Hoe beïnvloedt een positieve lens de leesafstand?                      | Het maakt het mogelijk om voorwerpen op een kortere afstand scherp te zien, zoals een boek op 25 cm. |

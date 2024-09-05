@@ -1,0 +1,52 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Momenten en Draaikracht**
+
+- **Draaikracht**:
+  - Ook wel **moment** genoemd.
+  - Het moment is een kracht die iets **laat draaien**.
+  - **Symbool** voor moment: hoofdletter **M**.
+  - **Eenheid** van moment: **Newton-meter** (Nm).
+
+- **Kracht vs. Moment**:
+  - Kracht heeft een **richting** en een **grootte**.
+  - Moment heeft ook een richting, namelijk **linksom** of **rechtsom**.
+  - Voorbeeld: Bij het openen van een potje aardbeienjam moet je een moment uitoefenen op de deksel om deze los te draaien.
+
+- **Berekening van Moment**:
+  - Moment wordt berekend met de formule: **M = F × r**.
+  - **F** is de kracht uitgeoefend.
+  - **r** is de **arm**, de afstand van het draaipunt tot de krachtlijn.
+
+- **Voorbeeld**:
+  - Bij het gebruiken van een sleutel om een moertje los te draaien: de kracht uitgeoefend op de uiteinden van de sleutel creëert een moment.
+  - **Arm** is de kortste afstand tussen het draaipunt en de krachtlijn.
+
+- **Meerdere Krachten**:
+  - Momenten van meerdere krachten kunnen worden **opgeteld**.
+  - Het totale moment is de som van de momenten veroorzaakt door elke kracht.
+
+- **Samenvatting**:
+  - **Moment** is een draaikracht met richtingen linksom of rechtsom.
+  - **Formule**: Moment = **kracht** × **arm**.
+  - **Arm** is de afstand van het draaipunt tot de krachtlijn.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                   | **Korte Antwoord**                                   |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Wat is een andere naam voor draaikracht?                                                    | **Moment**.                                         |
+| Hoe wordt het moment weergegeven in symbolen en eenheden?                                   | **Symbool**: hoofdletter **M**; **Eenheid**: Newton-meter (Nm). |
+| Wat is het verschil tussen kracht en moment?                                                | Kracht heeft een **richting** en **grootte**; moment is een draaikracht met een richting (linksom of rechtsom). |
+| Hoe bereken je de grootte van een moment?                                                   | Gebruik de formule: **M = F × r**, waarbij **F** de kracht is en **r** de arm. |
+| Wat is de **arm** in de formule voor momenten?                                               | De **arm** is de afstand van het draaipunt tot de krachtlijn. |
+| Hoe beïnvloedt de kracht op de uiteinden van een sleutel het moment op een moertje?         | De kracht creëert een moment dat het moertje **losdraait** of **aandraait**. |
+| Wat gebeurt er als je meerdere krachten op een voorwerp uitoefent?                          | De momenten van de krachten worden **opgeteld** om het totale moment te berekenen. |
+| Hoe wordt de arm gedefinieerd bij het berekenen van een moment?                             | De arm is de kortste afstand van het draaipunt tot de krachtlijn, loodrecht op de krachtlijn. |
+| Wat moet je doen als je het totale moment van meerdere krachten wilt berekenen?             | Tel de momenten van elke kracht bij elkaar op. |

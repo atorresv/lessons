@@ -1,0 +1,38 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Oppervlakte methode voor VT-diagrammen**
+
+- **Oppervlakte methode**: Een manier om **verplaatsing** te bepalen uit een **VT-diagram** (snelheid-tijd diagram).
+- **Voorbeelden**:
+  - **Eerste voorbeeld**: Na **10 seconden** met een **snelheid** van 3 m/s gedurende 2 seconden is de verplaatsing **6 meter**.
+  - **Tweede voorbeeld**: Na **10 seconden** waarbij de snelheid **8 seconden** lang 1 m/s was en daarna 1 seconde 1 m/s, is de verplaatsing **9 meter**.
+  - **Derde voorbeeld**: Bij een snelheid van 0 m/s, tel het aantal hokjes onder de grafiek. Als je **16 hokjes** telt, is de verplaatsing **16 meter**.
+- **Specifieke grafieken**:
+  - Een hokje kan **5 seconden** en **2 m/s** representeren. Bij deze grafiek legt een voorwerp **12,5 meter** af per hokje. Na optelling van alle hokjes kan de verplaatsing tot **587,5 meter** zijn, maar nauwkeuriger schrijven als **5,9 x 10^2 meter**.
+- **Negatieve snelheden**:
+  - Bij negatieve snelheden telt de oppervlakte ook, maar met een negatieve waarde, wat betekent dat het voorwerp in de tegenovergestelde richting beweegt.
+- **Samenvatting**:
+  - **Oppervlakte** onder de VT-grafiek komt overeen met de verplaatsing.
+  - Tel het aantal vakjes en houd rekening met de richting van de snelheid (positief of negatief). 
+  - De totale verplaatsing wordt berekend door het aantal hokjes te vermenigvuldigen met de waarde van elk hokje.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                     | **Antwoord**                                      |
+|-----------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Wat is de oppervlakte methode in een VT-diagram?                                            | Een methode om de verplaatsing te berekenen door de oppervlakte onder de grafiek te meten. |
+| Hoe bereken je de verplaatsing uit een VT-diagram?                                           | Tel het aantal vakjes onder de grafiek en vermenigvuldig dit met de waarde van elk vakje. |
+| Hoeveel verplaatsing is er na 10 seconden als de snelheid 3 m/s was gedurende 2 seconden?   | De verplaatsing is **6 meter**. |
+| Wat is de verplaatsing als de snelheid gedurende 8 seconden 1 m/s is en daarna 1 seconde 1 m/s? | De verplaatsing is **9 meter**. |
+| Hoeveel meter vertegenwoordigt een hokje in een VT-diagram als een hokje 5 seconden en 2 m/s is? | Elk hokje vertegenwoordigt **12,5 meter**. |
+| Hoe bepaal je de totale verplaatsing bij een VT-diagram met verschillende hokjes?             | Tel het aantal hokjes en vermenigvuldig dit met de waarde van elk hokje om de totale verplaatsing te berekenen. |
+| Wat is een mogelijke manier om de verplaatsing nauwkeuriger te berekenen bij een VT-diagram?  | Gebruik wetenschappelijke notatie voor een meer nauwkeurige waarde, zoals **5,9 x 10^2 meter**. |
+| Hoe beïnvloedt een negatieve snelheid de verplaatsing in een VT-diagram?                      | Negatieve snelheid betekent dat het voorwerp in de tegenovergestelde richting beweegt; de oppervlakte telt nog steeds, maar met een negatieve waarde. |
+| Hoe bepaal je de verplaatsing als een VT-grafiek niet volledig wordt weergegeven?             | Tel de hokjes en houd rekening met de tijd en snelheid in elk hokje om een schatting van de verplaatsing te maken. |
+| Wat moet je doen als je verschillende hokjes met verschillende tijd- en snelheidwaarden hebt? | Bereken de verplaatsing per hokje en tel alle verplaatsingen op voor de totale verplaatsing. |

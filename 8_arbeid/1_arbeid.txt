@@ -1,0 +1,64 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Arbeid in de Natuurkunde**
+
+  - **Definitie van arbeid**:
+    - Arbeid is de **inspanning** bij het uitoefenen van een kracht.
+    - Afhankelijk van de **grootte** van de kracht en de **afstand**.
+
+  - **Formule voor arbeid**:
+    - \( W = F \times s \)
+    - Waarbij:
+      - **\( W \)** = arbeid
+      - **\( F \)** = kracht
+      - **\( s \)** = afgelegde weg
+    - Eenheid van arbeid: **Joule (J)**
+
+  - **Voorwaarden voor de formule**:
+    - Kracht en **verplaatsing** moeten in dezelfde richting zijn.
+    - Kracht moet **constant** zijn.
+
+  - **Kracht in verschillende richtingen**:
+    - Als kracht en verplaatsing niet dezelfde richting hebben:
+      - Kracht kan worden **opgedeeld** in componenten:
+        - **Loodrecht** op de verplaatsing.
+        - **Evenwijdig** aan de verplaatsing.
+      - Arbeid = \( F \times s \times \cos(\alpha) \)
+      - Waarbij **\( \alpha \)** de hoek is tussen kracht en verplaatsing.
+
+  - **Tegengestelde kracht**:
+    - Bij krachten die **tegengesteld** zijn aan de verplaatsing (bijvoorbeeld wrijving):
+      - Arbeid = \( - F \times s \)
+      - Resultaat is **negatieve arbeid**.
+
+  - **Variabele kracht**:
+    - Als kracht **variabel** is (niet constant):
+      - Gebruik de **oppervlakte** onder de kracht-vergelijking in een grafiek.
+      - Vergelijkbaar met **VT-diagram** om de afstand te bepalen.
+      - Bij een lineair verband: bereken de oppervlakte van de **driehoek** onder de grafiek.
+      - Bij complexere vormen: gebruik **integratietechnieken**.
+
+  - **Samenvatting**:
+    - Arbeid is de **product** van kracht en verplaatsing.
+    - De eenheid van arbeid is **Joule**.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                                                                                   | **Antwoord**                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Wat is arbeid in de natuurkunde?                                                                                                                             | Arbeid is de inspanning die geleverd wordt bij het uitoefenen van een kracht.                              |
+| Welke factoren bepalen de hoeveelheid arbeid?                                                                                                                | De grootte van de kracht en de afstand.                                                                   |
+| Geef de formule voor arbeid.                                                                                                                                 | \( W = F \times s \)                                                                                      |
+| Wat zijn de eenheden voor arbeid?                                                                                                                             | Joule (J) of Newton-meter (Nm).                                                                           |
+| Wanneer mag je de formule voor arbeid gebruiken?                                                                                                              | Als kracht en verplaatsing in dezelfde richting zijn en de kracht constant is.                            |
+| Hoe reken je arbeid uit als kracht en verplaatsing niet dezelfde richting hebben?                                                                            | De kracht moet worden opgedeeld in componenten, en arbeid wordt dan berekend met \( W = F \times s \times \cos(\alpha) \), waarbij \( \alpha \) de hoek tussen kracht en verplaatsing is. |
+| Wat gebeurt er met de arbeid als de kracht tegengesteld is aan de verplaatsing?                                                                             | De arbeid is negatief; gebruik \( W = - F \times s \).                                                    |
+| Hoe bereken je arbeid als de kracht variabel is?                                                                                                               | Bereken de oppervlakte onder de kracht-vergelijking in een grafiek, vergelijkbaar met het VT-diagram.     |
+| Wat is een eenvoudige methode om de arbeid te berekenen als de kracht een lineaire functie van de verplaatsing is?                                            | Bereken de oppervlakte van de driehoek onder de kracht-vergelijking in de grafiek.                        |
+| Hoe noem je het proces waarbij je de oppervlakte onder de kracht-grafiek gebruikt om de arbeid te berekenen?                                                | Dit wordt **integratietechnieken** genoemd.                                                               |

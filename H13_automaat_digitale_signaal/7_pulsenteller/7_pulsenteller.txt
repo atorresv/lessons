@@ -1,0 +1,23 @@
+7_PULSTELLER
+*  Uitleg werking
+*  Telpulsen, aan/uit, reset
+* stopwatch
+
+pulsenteller
+verwerkingselement: digitaal signaal
+vorzien van scherm waar een cijfer kan gezien worden
+tel pulsen
+aan/uit
+reset
+
+teelt antal puslsen
+0 tot 15: 2^4
+vier uitgangen: binair 4 bits getalen
+
+pulsgenerator kan grebruik worden als klok
+voorbeeld:
+pulsgenerator met pulsteller
+
+pusteler telt aantal pulsen
+resultaat 4 bits getal 0-15
+resetingang terug naar nul

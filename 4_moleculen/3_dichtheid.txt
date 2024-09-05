@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Dichtheid en Stoffen
+
+- **Dichtheid** is de massa van een kubieke meter van een stof.
+- **Formule**: ρ = m / V
+  - **ρ** = dichtheid
+  - **m** = massa (in kilogram)
+  - **V** = volume (in kubieke meter)
+- **Eenheid** van dichtheid: kilogram per kubieke meter (kg/m³).
+
+- **Dichtheid** is een stofeigenschap en kan variëren:
+  - **Gassen**: Dichtheid neemt toe bij hogere druk.
+  - **Vaste stoffen en vloeistoffen**: Dichtheid kan variëren bij hogere temperaturen door uitzetting.
+
+- **Binas**:
+  - Dichtheden van stoffen te vinden in tabellen 8, 9, 10, 11 en 12.
+  - Tabellen geven aan bij welke temperatuur de dichtheid geldig is.
+
+- **Samenvatting**: Elke stof heeft een specifieke dichtheid (ρ), te vinden in Binas. Dichtheid kan variëren met temperatuur en druk.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                  | Korte antwoord                                                                                           |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Wat is dichtheid en hoe wordt het uitgedrukt?                                                         | Dichtheid is de massa per kubieke meter van een stof, uitgedrukt in kilogram per kubieke meter (kg/m³).  |
+| Welke formule gebruik je om de dichtheid te berekenen?                                                | ρ = m / V (waarbij ρ de dichtheid, m de massa en V het volume is).                                       |
+| Wat staat er bovenaan de tabellen in Binas waar de dichtheden van stoffen te vinden zijn?             | De temperatuur waarbij de dichtheid geldig is.                                                           |
+| Hoe beïnvloeden temperatuur en druk de dichtheid van stoffen?                                          | Gassen: Dichtheid neemt toe bij hogere druk. Vaste stoffen en vloeistoffen: Dichtheid kan variëren bij hogere temperaturen door uitzetting. |
+| Wat is het symbool voor dichtheid?                                                                      | ρ (Griekse letter rho).                                                                                   |
+| Hoe verschilt de dichtheid van een blocnote van die van piepschuim van dezelfde grootte?               | De blocnote is zwaarder dan het piepschuim vanwege een hogere dichtheid.                                 |
+| Waar kun je de dichtheid van verschillende stoffen vinden?                                              | In Binas, tabellen 8, 9, 10, 11 en 12.                                                                    |
+| Wat is de eenheid van dichtheid?                                                                        | Kilogram per kubieke meter (kg/m³).                                                                      |
+| Waarom kan de dichtheid van een stof variëren?                                                          | Vanwege veranderingen in temperatuur en druk.                                                            |
+| Wat betekent de formule ρ = m / V?                                                                     | Het betekent dat dichtheid gelijk is aan massa gedeeld door volume.                                      |

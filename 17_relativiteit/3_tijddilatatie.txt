@@ -1,0 +1,38 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Tijdsdilatatie en Relativiteit**
+
+- **Tijdsdilatatie**: Voor een **bewegend voorwerp** verstrijkt de tijd langzamer dan voor een stilstaand voorwerp.
+  - Voor een klok in een **bewegende trein** verloopt de tijd langzamer dan voor een klok die **stilstaat**.
+  
+- **Berekening**: De **formule** voor tijdsdilatatie wordt gebruikt om te berekenen hoe langzamer de tijd verloopt.
+  - Tijd voor de stilstaande waarnemer is **tb**.
+  - Tijd op de trein is bijvoorbeeld **1 uur**.
+  - Als de snelheid van de trein **50 m/s** is, komt het uit op **3600 seconden** voor de stilstaande klok (geen merkbaar verschil).
+
+- **Effect bij hoge snelheden**:
+  - Bij hogere snelheden, zoals **1/3 van de lichtsnelheid** (ongeveer **2,8 x 10^8 m/s**), is het tijdsverschil merkbaar.
+  - Na 1 uur op de bewegende klok, verstrijkt er **1 uur en 4 minuten** voor de stilstaande klok (tijdsverschil is **4 minuten**).
+
+- **Tijdsdilatatie**: Dit effect wordt **tijdsdilatatie** of **tijdrekken** genoemd.
+  - Tijd in een bewegend systeem verloopt langzamer dan in een stilstaand systeem.
+  - Dit effect is alleen merkbaar bij **zeer hoge snelheden** in de buurt van de lichtsnelheid.
+
+Samenvatting: Tijd is relatief en verloopt langzamer in een bewegend systeem vergeleken met een stilstaand systeem, vooral bij hoge snelheden.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                      | **Antwoord**                                               |
+|----------------------------------------------------------------|------------------------------------------------------------|
+| Wat gebeurt er met de tijd voor een bewegend voorwerp vergeleken met een stilstaand voorwerp? | De tijd verstrijkt langzamer voor een bewegend voorwerp.   |
+| Hoe kan je berekenen hoeveel langzamer de tijd verloopt voor een bewegende klok? | Gebruik de formule voor tijdsdilatatie waarbij de tijd voor de stilstaande waarnemer wordt vergeleken met de tijd in de bewegende klok. |
+| Wat is de formule voor tijdsdilatatie als de snelheid van de trein 50 m/s is? | De tijdsdilatatie kan worden berekend met de formule waarbij de snelheid van de trein en de lichtsnelheid worden ingevoerd. Bij lage snelheden (50 m/s) is er weinig tijdsverschil. |
+| Hoeveel tijd verstrijkt op de klok in een trein die beweegt met 1/3 van de lichtsnelheid na 1 uur volgens een stilstaande klok? | Er verstrijkt 1 uur en 4 minuten voor de stilstaande klok. |
+| Wat is het effect van tijdsdilatatie bij hoge snelheden? | De tijd verstrijkt langzamer in een bewegend systeem bij hoge snelheden, in de buurt van de lichtsnelheid. |
+| Hoe wordt het effect genoemd waarbij tijd in een bewegend systeem langzamer verloopt dan in een stilstaand systeem? | Dit effect wordt **tijdsdilatatie** of **tijdrekken** genoemd. |

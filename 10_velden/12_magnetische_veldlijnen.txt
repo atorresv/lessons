@@ -1,0 +1,36 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Magnetische Velden en Veldlijnen**
+
+- **Magneten** beïnvloeden hun omgeving door een **magnetisch veld** te creëren.
+  - **Noordpool** en **Zuidpool** van een magneet trekken magneetjes aan: Noord naar Zuid en Zuid naar Noord.
+- Het **magnetisch veld** is het gebied rond een magneet waar deze invloed uitoefent.
+  - Vergelijkbaar met een elektrisch veld bij een elektrische lading.
+- **Magnetische veldlijnen** worden gebruikt om het magnetische veld te visualiseren.
+  - Veldlijnen rond een **permanente magneet** lopen van de **Noordpool** naar de **Zuidpool**.
+- **Dichtheid** van de veldlijnen geeft de sterkte van het magnetische veld aan.
+  - **Sterk** waar lijnen dicht bij elkaar staan, **zwak** waar lijnen verder uit elkaar liggen.
+- Eigenschappen van magnetische veldlijnen:
+  - **Altijd gesloten kromme** lijnen: ze vormen cirkels of lussen.
+  - **Nooit eindigend**: lopen van de Noordpool naar de Zuidpool buiten de magneet en van Zuid naar Noord binnen de magneet.
+- Magnetische veldlijnen verschillen van elektrische veldlijnen, die wel een **begin** en **einde** hebben.
+
+Samenvattend, het **magnetisch veld** van een magneet beschrijft de invloed die een magneet uitoefent op zijn omgeving, en magnetische veldlijnen geven de vorm en sterkte van dit veld weer.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Antwoord                                                                            |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Hoe beïnvloeden magneten hun omgeving?                                | Magneten creëren een magnetisch veld dat hun omgeving beïnvloedt.                  |
+| Wat is het magnetische veld?                                          | Het magnetische veld is het gebied rondom een magneet waar deze invloed uitoefent.  |
+| Hoe worden magnetische veldlijnen gebruikt?                           | Magnetische veldlijnen worden gebruikt om de vorm en sterkte van het magnetische veld te visualiseren. |
+| Hoe lopen de magnetische veldlijnen rond een permanente magneet?      | Van de Noordpool naar de Zuidpool buiten de magneet, en van Zuidpool naar Noordpool binnen de magneet. |
+| Wat geeft de dichtheid van de magnetische veldlijnen aan?              | De dichtheid van de veldlijnen geeft de sterkte van het magnetische veld aan.        |
+| Wat is een kenmerk van magnetische veldlijnen?                        | Magnetische veldlijnen zijn altijd gesloten krommen en hebben geen begin of einde.  |
+| Hoe verschillen magnetische veldlijnen van elektrische veldlijnen?     | Magnetische veldlijnen zijn gesloten krommen zonder begin of einde, terwijl elektrische veldlijnen beginnen bij een positieve lading en eindigen bij een negatieve lading. |

@@ -1,0 +1,62 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Gebruik van de Binas in Natuurkunde**
+
+- **Binas**: Onmisbaar hulpmiddel bij natuurkunde en examens.
+  - Je mag het **bij examens gebruiken**.
+  - Controleer bij je school of je het ook bij schoolexamens mag gebruiken.
+
+- **Inhoud van Binas**:
+  - **Algemene informatie**: Roze gedeelte.
+    - Tabellen met **voorvoegsels**, **grootheden**, en **eenheden**.
+  - **Natuurkunde**: Blauwe gedeelte.
+    - Belangrijke tabellen: 
+      - **Natuurconstanten**: Planck, lichtsnelheid, standaarddruk.
+      - **Gegevens over stoffen**: Dichtheid, soortelijke weerstand, eigenschappen bij kamertemperatuur.
+      - **Geluid**: Geluidssnelheid in verschillende stoffen en temperaturen.
+      - **Elektriciteit**: Symbolen en schakelingen.
+      - **Breking**: Brekingsindex van doorzichtige stoffen.
+      - **Kleuren**: Golflengte en bijbehorende kleur.
+      - **Isotopen**: Eigenschappen en halfwaardetijden.
+      - **Planeten en sterren**: Overzicht van eigenschappen.
+
+  - **Wiskunde**: Bruine gedeelte.
+    - Formules voor **omtrek** en **oppervlakte** van cirkels.
+
+  - **Scheikunde**: Rode gedeelte.
+    - Periodiek systeem: Atomaire nummers en namen van elementen.
+
+  - **Biologie**: Groene gedeelte.
+    - Energie-inhoud van **voedingsstoffen**.
+    - Doorsnede van het **oog**.
+
+- **Gebruik en Toepassing**:
+  - Zoek **formules** en **gegevens** in het blauwe gedeelte voor natuurkunde.
+  - Schrijf geen aantekeningen in je Binas; gebruik een los blaadje voor opmerkingen.
+  - Bij elk onderdeel van Binas staat een kleurcode die aangeeft welk vak het betreft.
+
+Met de Binas kun je essentiële informatie opzoeken en toepassen tijdens examens, wat je in staat stelt om complexe natuurkundige vraagstukken effectief aan te pakken. Zorg ervoor dat je bekend bent met de indeling en inhoud van Binas om optimaal gebruik te maken van dit hulpmiddel.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                             | **Antwoord**                                                                                       |
+|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Wat is de rol van de Binas tijdens natuurkunde-examens?                                              | De Binas mag gebruikt worden om formules, symbolen, en gegevens op te zoeken.                      |
+| Mag je aantekeningen maken in je Binas tijdens examens?                                               | Nee, je mag geen aantekeningen maken in de Binas. Gebruik een los blaadje voor opmerkingen.        |
+| Welke kleurcode in de Binas staat voor natuurkunde?                                                    | Het blauwe gedeelte staat voor natuurkunde.                                                       |
+| Wat vind je in het roze gedeelte van de Binas?                                                          | Algemene informatie zoals voorvoegsels, grootheden, en eenheden.                                  |
+| Welke tabel in de Binas bevat de natuurconstanten?                                                     | De natuurconstanten staan in het blauwe gedeelte, tabellen 7, 8, 9, en 10.                         |
+| Waar vind je informatie over de geluidssnelheid in de Binas?                                            | In het blauwe gedeelte, tabel 15.                                                                  |
+| Hoe vind je de brekingsindex van glas in de Binas?                                                     | Kijk in het blauwe gedeelte, tabel 18.                                                             |
+| Welke tabel bevat informatie over de energie-inhoud van voedingsstoffen?                              | Tabel 82a in het groene gedeelte.                                                                  |
+| In welk gedeelte van de Binas vind je de formules voor de omtrek en oppervlakte van een cirkel?       | In het bruine gedeelte voor wiskunde, tabel 36-12.                                                 |
+| Waar staat het periodiek systeem van elementen in de Binas?                                            | In het rode gedeelte, tabel 99.                                                                    |
+| Welke informatie vind je in het groene gedeelte van de Binas?                                          | Energie-inhoud van voedingsstoffen en een doorsnede tekening van het oog.                         |
+| Hoe controleer je welke kleurcode hoort bij welk vak in de Binas?                                      | Bekijk de kleurcodes bovenaan de pagina's van de Binas, die corresponderen met verschillende vakken.|
+| Wat moet je doen als je informatie niet direct kunt vinden in de Binas tijdens een examen?              | Zoek de informatie op basis van de kleurcodes en tabellen in het boekje.                          |

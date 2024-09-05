@@ -1,0 +1,45 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Vervangingsweerstand in een schakeling**
+
+- **Vervangingsweerstand** maakt schakelingen eenvoudiger door meerdere weerstanden te vervangen door één enkele weerstand.
+- **In serie**: 
+  - Weerstanden zijn als kralen aan een snoer achter elkaar aangesloten.
+  - **Stroom** is gelijk door alle weerstanden.
+  - **Vervangingsweerstand** is de som van de weerstanden: \( R_v = R_1 + R_2 + R_3 \).
+- **Parallel**:
+  - Weerstanden staan naast elkaar en de stroom splitst zich.
+  - **Vervangingsweerstand** berekenen met de formule: \( \frac{1}{R_v} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} \).
+  - Alternatief gebruik van de rekenmachine: toets **X^-1**.
+- **Combinatie**:
+  - Eerst weerstanden in serie vervangen door een enkele weerstand.
+  - Vervolgens de parallelle weerstanden vervangen door hun vervangingsweerstand.
+- **Voorbeeld**:
+  - Bij een schakeling met weerstanden van 100 Ω, 500 Ω, en 1,0 kΩ:
+    - Weerstanden 100 Ω en 500 Ω zijn parallel: \( R_{parallel} = \frac{1}{\left(\frac{1}{100} + \frac{1}{500}\right)} = 83,33 \, \Omega \).
+    - Deze parallelweerstand staat in serie met 1,0 kΩ: \( R_{serie} = 83,33 + 1000 = 1083,33 \, \Omega \).
+    - Vervangingsweerstand: \( R_v = 43,018 \, \Omega \).
+- **Samenvatting**:
+  - Vervangingsweerstand is een enkele weerstand die dezelfde werking heeft als meerdere weerstanden.
+  - Gebruik verschillende formules voor weerstanden in serie en parallel.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Kort Antwoord                                                  |
+|-----------------------------------------------------------------------|----------------------------------------------------------------|
+| Wat is de vervangingsweerstand van meerdere weerstanden?              | Een enkele weerstand die dezelfde stroom door de batterij laat lopen als de oorspronkelijke weerstanden. |
+| Hoe bereken je de vervangingsweerstand voor weerstanden in serie?     | De vervangingsweerstand is de som van de weerstanden: \( R_v = R_1 + R_2 + R_3 \). |
+| Hoe bereken je de vervangingsweerstand voor weerstanden parallel?    | De formule is \( \frac{1}{R_v} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} \). |
+| Wat is het alternatief voor de formule bij parallelle weerstanden?   | Gebruik de rekenmachine-toets **X^-1** voor de berekening. |
+| Hoe los je een schakeling met zowel serie- als parallelweerstanden op? | Vervang eerst weerstanden in serie door één enkele weerstand, daarna bereken je de vervangingsweerstand van de parallelle weerstanden. |
+| Hoe reken je de vervangingsweerstand uit voor weerstanden van 100 Ω, 500 Ω, en 1,0 kΩ? | Eerst de parallelweerstand van 100 Ω en 500 Ω berekenen, daarna deze weerstandswaarde in serie met 1,0 kΩ optellen. Het resultaat is 43,018 Ω. |
+| Wat is de vervangingsweerstand voor weerstanden in serie?             | Het is de som van de weerstanden: \( R_v = R_1 + R_2 + R_3 \). |
+| Wat gebeurt er met de spanning over weerstanden in serie?            | De spanning verdeelt zich over de weerstanden, de som van de spanningen is gelijk aan de batterijspanning. |
+| Wat gebeurt er met de stroom door weerstanden in serie?               | De stroom is gelijk door alle weerstanden in serie. |
+| Wat gebeurt er met de spanning over weerstanden in parallel?          | De spanning is gelijk over alle weerstanden die parallel staan. |

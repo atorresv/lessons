@@ -1,0 +1,37 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Bijzondere Weerstanden en Hun Eigenschappen
+
+- **Temperatuurgevoelige weerstand**
+  - **NTC (Negatieve Temperatuur Coëfficiënt)**: Weerstand **daalt** bij toenemende temperatuur.
+  - **Gebruik**: In spanningsdelers en temperatuursensoren.
+
+- **Lichtafhankelijke weerstand (LDR)**
+  - **Weerstand**: Neemt af naarmate er meer **licht** op valt.
+  - **Gebruik**: Schakelingen waarbij een lampje gaat branden bij lichtval; functioneert als **lichtsensor**.
+
+- **Diode**
+  - **Eigenschap**: Laat stroom **door** in één richting en **blokkeert** in de andere richting.
+  - **Gebruik**: Reguleert de richting van de stroom.
+
+- **LED (Light Emitting Diode)**
+  - **Eigenschap**: Een type diode die **licht** uitstraalt als er stroom doorheen loopt.
+  - **Gebruik**: Verlichting, als indicatorlampje.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                              | Kort Antwoord                                         |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| Wat gebeurt er met een NTC weerstand bij toenemende temperatuur?                                  | De weerstand **daalt** bij toenemende temperatuur.    |
+| Wat is een toepassing van een NTC weerstand in een schakeling?                                     | Het wordt gebruikt in **spanningsdelers** en als **temperatuursensor**.  |
+| Wat betekent LDR en hoe reageert deze weerstand op licht?                                         | LDR staat voor **Light Dependent Resistor**; de weerstand **daalt** bij meer licht. |
+| Hoe wordt een LDR vaak toegepast?                                                                  | Als een **lichtsensor** in schakelingen die een lampje laten branden bij licht. |
+| Wat is de belangrijkste eigenschap van een diode?                                                  | Een diode laat stroom **door** in één richting en **blokkeert** in de andere richting. |
+| Hoe verschilt een LED van een gewone diode?                                                        | Een LED geeft **licht** af als er stroom doorheen loopt, terwijl een gewone diode geen licht afgeeft. |
+| Wat zijn de bijzondere eigenschappen van NTC, LDR, diode, en LED?                                 | - **NTC**: Temperatuurgevoelig. <br> - **LDR**: Lichtgevoelig. <br> - **Diode**: Laat stroom in één richting door. <br> - **LED**: Straalt licht uit bij stroom. |

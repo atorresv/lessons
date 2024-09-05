@@ -1,0 +1,57 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Dopplereffect en Radiale Snelheid**
+
+- **Dopplereffect**: 
+  - **Ambulance** met sirene vertoont een **hoger** geluid als het naar je toe rijdt en een **lager** geluid als het van je af rijdt.
+  - Dit komt doordat de **geluidsgolven** worden **samengedrukt** als de bron naar je toe beweegt, wat de **golflengte** verkort en de toonhoogte verhoogt.
+
+- **Geluidsgolven en Golflengte**:
+  - Bij een **stilstaande ambulance** is de golflengte in alle richtingen gelijk.
+  - Wanneer de ambulance beweegt, worden golven **samengedrukt** (golflengte kleiner) voorwaarts en **uitgespreid** (golflengte groter) achterwaarts.
+
+- **Licht en Dopplereffect**:
+  - Hetzelfde effect geldt voor **licht** van sterren: 
+    - Sterren die naar je toe bewegen vertonen **blauwverschuiving** (golflengte verkort).
+    - Sterren die van je af bewegen vertonen **roodverschuiving** (golflengte verlengd).
+
+- **Spectra en Radiale Snelheid**:
+  - De verschuiving in **spectrale lijnen** kan worden gebruikt om de snelheid van een ster te berekenen.
+  - Bij **blauwverschuiving** verschuiven lijnen naar het blauwe einde van het spectrum.
+  - Bij **roodverschuiving** verschuiven lijnen naar het rode einde van het spectrum.
+
+- **Formule voor Radiale Snelheid**:
+  - \( v = \frac{c \cdot \Delta \lambda}{\lambda_0} \)
+    - \( v \): snelheid van de ster
+    - \( c \): lichtsnelheid
+    - \( \Delta \lambda \): verschuiving van de golflengte
+    - \( \lambda_0 \): normale golflengte
+
+- **Voorbeeld**:
+  - Stel, een lijn verschuift van 561,0 nm naar 566,0 nm, wat een **roodverschuiving** betekent van 5 nm.
+  - De snelheid van de ster kan worden berekend met bovenstaande formule, wat resulteert in een snelheid van **2,7 x 10^6 m/s**.
+
+- **Samenvatting**:
+  - Het **Dopplereffect** veroorzaakt veranderingen in toonhoogte van geluid en kleur van licht afhankelijk van de beweging van de bron.
+  - **Blauwverschuiving** en **roodverschuiving** worden gebruikt om de **radiale snelheid** van sterren te bepalen, oftewel de snelheid naar je toe of van je af.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                  | Korte Antwoord                                                                                  |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Wat is het Dopplereffect?                                                               | Het Dopplereffect is het fenomeen waarbij de frequentie van een geluid of licht verandert afhankelijk van de beweging van de bron ten opzichte van de waarnemer. |
+| Hoe verandert het geluid van een ambulance als deze naar je toe rijdt?                 | Het geluid klinkt hoger omdat de golflengte verkort wordt.                                      |
+| Wat gebeurt er met het geluid van een ambulance als deze van je af rijdt?               | Het geluid klinkt lager omdat de golflengte verlengd wordt.                                    |
+| Wat gebeurt er met de golflengte van licht als een ster naar ons toe beweegt?          | De golflengte verkort, wat resulteert in blauwverschuiving.                                     |
+| Wat gebeurt er met de golflengte van licht als een ster van ons af beweegt?            | De golflengte verlengt, wat resulteert in roodverschuiving.                                     |
+| Hoe kan men de snelheid van een ster bepalen met behulp van spectrumanalyse?            | Door de verschuiving van spectrale lijnen te meten en deze te vergelijken met de normale golflengte. |
+| Wat betekent een roodverschuiving in het spectrum van een ster?                        | Het betekent dat de ster van ons af beweegt.                                                    |
+| Wat betekent een blauwverschuiving in het spectrum van een ster?                       | Het betekent dat de ster naar ons toe beweegt.                                                 |
+| Welke formule wordt gebruikt om de radiale snelheid van een ster te berekenen?        | \( v = \frac{c \cdot \Delta \lambda}{\lambda_0} \), waarbij \( v \) de snelheid is, \( c \) de lichtsnelheid, \( \Delta \lambda \) de golflengteverschuiving, en \( \lambda_0 \) de normale golflengte. |
+| Wat is de eenheid van radiale snelheid?                                                | Meter per seconde (m/s).                                                                       |

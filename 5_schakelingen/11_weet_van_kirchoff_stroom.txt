@@ -1,0 +1,37 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Wet van Kirchhoff voor Stromen**
+
+- **Wet van Kirchhoff voor stromen**: De som van alle stromen bij een bepaald punt in een schakeling is **0**.
+  - Stroom **positief** rekenen als deze naar een punt toe gaat.
+  - Stroom **negatief** rekenen als deze van een punt afgaat.
+- **Voorbeeld**: Als de stromen bij een punt 10 mA, 15 mA en 25 mA zijn:
+  - Stroom van 25 mA gaat van het punt af: **-25 mA**.
+  - Stromen van 10 mA en 15 mA gaan naar het punt toe: **+10 mA** en **+15 mA**.
+  - Som: -25 mA + 10 mA + 15 mA = **0**.
+- **Bepalen van onbekende stroom**: 
+  - Als je de stromen van 25 mA en 35 mA hebt:
+    - 25 mA gaat naar het punt toe: **+25 mA**.
+    - 35 mA gaat van het punt af: **-35 mA**.
+    - Onbekende stroom is **10 mA** naar het punt toe om de som op 0 te brengen.
+- De wet van Kirchhoff voor stromen helpt bij het **uitrekenen van stromen** in een schakeling door het toepassen van de regel dat de som van alle stromen bij een punt altijd **0** moet zijn.
+- Naast deze wet voor stromen bestaat er ook een wet van Kirchhoff voor **spanning**, die gebruikt kan worden om spanningen in schakelingen te berekenen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                      | Korte antwoord                                               |
+|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Wat zegt de wet van Kirchhoff over stromen bij een bepaald punt in een schakeling?                        | De som van alle stromen bij een bepaald punt is **0**.       |
+| Hoe reken je een stroom die naar een punt toe gaat?                                                        | Die stroom reken je **positief**.                            |
+| Hoe reken je een stroom die van een punt afgaat?                                                            | Die stroom reken je **negatief**.                            |
+| Wat is de som van de stromen bij een punt als de stromen 10 mA, 15 mA en 25 mA zijn, en de 25 mA stroom van het punt afgaat? | De som is **0** mA. (10 mA + 15 mA - 25 mA = 0)              |
+| Hoe bepaal je de onbekende stroom met de wet van Kirchhoff als je 25 mA en 35 mA hebt?                     | De onbekende stroom is **10 mA** naar het punt toe.          |
+| Wat moet je doen als je een onbekende stroom wilt berekenen in een schakeling?                             | Gebruik de wet van Kirchhoff door de som van alle stromen bij een punt op **0** te stellen. |
+| Wat moet je bij de wet van Kirchhoff voor stromen altijd controleren?                                        | Of de stromen naar het punt toe positief en de stromen van het punt af negatief moeten worden gerekend. |
+| Welke andere wet van Kirchhoff bestaat naast de wet voor stromen?                                           | De wet van Kirchhoff voor **spanning**.                      |

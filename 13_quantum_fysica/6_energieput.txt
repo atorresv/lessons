@@ -1,0 +1,50 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van de Energie en Golffuncties in een Potentiële Put**
+
+- **Deeltje in een put**: 
+  - Stel je voor dat een deeltje zich in een **potentiële put** bevindt, waar de wanden zo hoog zijn dat het deeltje niet kan ontsnappen met de huidige energie.
+
+- **Elektron als golf**: 
+  - Een **elektron** moet worden beschouwd als een golf, niet als een deeltje. 
+  - Niet alle golven passen in de put, alleen specifieke vormen die overeenkomen met de grenzen van de put.
+
+- **Staande golven**:
+  - Binnen de put kunnen alleen **staande golven** passen, waarbij de amplitude op bepaalde plaatsen maximaal is en op andere plaatsen nul is, bekend als **knopen** en **buiken**.
+
+- **Golflengtes en knopen**:
+  - De eenvoudigste golffunctie heeft **één knoop** en **één buik**. 
+  - Complexere golffuncties bevatten meerdere knopen en buiken, en de golflengte van de golf past precies in de breedte van de put.
+
+- **Energie-niveaus**:
+  - De **energie** van een elektron in de put is gekwantificeerd en kan alleen bepaalde discrete niveaus aannemen. 
+  - De energie van een bepaald niveau kan worden berekend met een formule die afhankelijk is van de massa van het deeltje en de breedte van de put.
+
+- **Overgangen tussen niveaus**:
+  - Elektronen kunnen van het ene niveau naar het andere springen door **absorptie** of **emissie** van fotonen met specifieke golflengtes die overeenkomen met het energieverschil tussen niveaus.
+
+- **Gekwantificeerde energie**:
+  - De **energie** van een elektron is gekwantificeerd, wat betekent dat alleen bepaalde energieën toegestaan zijn binnen de put.
+
+- **Samenvatting**:
+  - In een potentiële put kan een deeltje alleen bepaalde, gekwantificeerde energieniveaus hebben en de golffuncties zijn beperkt tot specifieke vormen die passen binnen de grenzen van de put.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                  | Kort antwoord                                                                                       |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Wat gebeurt er met een deeltje dat zich in een potentiële put bevindt?                | Het deeltje blijft gevangen in de put omdat de energie niet voldoende is om de wanden te overwinnen. |
+| Hoe moet een elektron worden beschouwd volgens de kwantummechanica?                    | Als een golf, niet als een deeltje.                                                                 |
+| Wat zijn **staande golven** in de context van een deeltje in een put?                   | Staande golven zijn golven die binnen de put passen met specifieke knopen en buiken, waarbij de amplitude op bepaalde plaatsen maximaal is en op andere plaatsen nul. |
+| Wat zijn **knopen** en **buiken** in een staande golf?                                 | Knopen zijn plaatsen waar de amplitude nul is, en buiken zijn plaatsen waar de amplitude maximaal is. |
+| Hoe wordt de lengte van de put gerelateerd aan de golflengte van de golf?                | De golflengte van de golf moet passen in de lengte van de put, waarbij de golflengte meerdere keren in de put past afhankelijk van het mode-niveau. |
+| Wat betekent het dat de energie van een elektron in de put gekwantificeerd is?          | Het betekent dat de energie alleen bepaalde discrete niveaus kan aannemen en niet continu kan variëren. |
+| Hoe kunnen elektronen van het ene energie-niveau naar het andere overspringen?           | Door de absorptie of emissie van fotonen met een golflengte die overeenkomt met het energieverschil tussen niveaus. |
+| Wat bepaalt de specifieke energieniveaus die een elektron kan hebben in een put?         | De breedte van de put en de massa van het deeltje bepalen de specifieke gekwantificeerde energieniveaus. |
+

@@ -1,0 +1,39 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Veldlijnen en Elektrische Velden**
+
+  - **Veldlijnen** geven de **richting** en **kracht** van een elektrisch veld aan.
+  - **Elektrisch veld** beschrijft hoe de kracht op een proeflading wordt beïnvloed op elk punt.
+  - Veldlijnen visualiseren de kracht door een **verzameling pijlen** die de richting van de kracht tonen.
+  - **Eigenschappen van veldlijnen**:
+    - Lopen altijd van **positieve** naar **negatieve** ladingen.
+    - **Positieve ladingen** stoten elkaar af en trekken negatieve ladingen aan.
+    - Veldlijnen **kruisen elkaar niet**, omdat er altijd maar één richting van kracht is op elk punt.
+    - Ze staan altijd **loodrecht op geleiders** (bijvoorbeeld metalen bollen).
+  - **Dichtheid van veldlijnen** geeft de **grootte** van de kracht aan:
+    - **Dichte veldlijnen** = **sterke kracht**.
+    - **Ver uit elkaar staande lijnen** = **zwakkere kracht**.
+  - **Radiaal veld**: Veldlijnen stralen uit vanaf een punt (bijvoorbeeld van een enkele geladen bol).
+  - **Homogeen veld**: Veldlijnen zijn evenwijdig en hebben dezelfde richting en grootte binnen een bepaald gebied (bijvoorbeeld tussen twee parallelle geladen platen).
+
+Samengevat, veldlijnen zijn een hulpmiddel om een elektrisch veld te visualiseren, waarbij radiale velden en homogene velden veel voorkomende typen zijn.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                    | **Antwoord**                                                                                     |
+|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Wat geven veldlijnen aan in een elektrisch veld?             | Veldlijnen geven de **richting** en **kracht** van het elektrisch veld aan.                      |
+| Hoe visualiseren veldlijnen de kracht op een proeflading?    | Veldlijnen visualiseren de kracht door een **verzameling pijlen** die de richting van de kracht tonen. |
+| Waar lopen veldlijnen altijd van en naar?                    | Veldlijnen lopen altijd van een **positieve** lading naar een **negatieve** lading.               |
+| Wat gebeurt er als veldlijnen elkaar zouden kruisen?         | Veldlijnen kruisen elkaar **niet**, omdat er altijd maar één richting van kracht is op elk punt. |
+| Hoe geeft de dichtheid van veldlijnen de grootte van de kracht aan? | **Dichte veldlijnen** geven een **sterke kracht** aan, terwijl **ver uit elkaar staande lijnen** een **zwakkere kracht** aangeven. |
+| Wat is een radiaal veld?                                    | Een radiaal veld is een veld waar veldlijnen uit een **enkel punt** stralen (bijvoorbeeld van een geladen bol). |
+| Wat is een homogeen veld?                                   | Een homogeen veld is een veld waarbij veldlijnen **evenwijdig** zijn en dezelfde **richting** en **grootte** hebben binnen een bepaald gebied (bijvoorbeeld tussen twee parallelle geladen platen). |
+| Hoe staan veldlijnen ten opzichte van geleiders?             | Veldlijnen staan altijd **loodrecht** op geleiders zoals metalen bollen.                         |
+

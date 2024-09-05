@@ -1,0 +1,42 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Werking en Toepassing van Transformatoren**
+
+  - **Transformator** is een belangrijk apparaat in **elektronica** en **energievoorziening**.
+  - Bestaat uit **twee spoelen** en een **stuk metaal** (kern) ertussen.
+  - Een **wisselspanning** op de primaire spoel creëert een **wisselend magneetveld**.
+  - De spanning op de **secundaire spoel** is afhankelijk van het aantal **wikkelingen** op beide spoelen.
+    - **Verhouding** tussen spanningen = Verhouding tussen wikkelingen:
+      - \( \frac{U_{\text{primaire}}}{U_{\text{secundaire}}} = \frac{N_{\text{primaire}}}{N_{\text{secundaire}}} \)
+  - **Voorbeeld**: 6 V op de primaire spoel met 7 wikkelingen kan 12 V op de secundaire spoel met 14 wikkelingen geven.
+  - **Stroom** aan de secundaire kant is omgekeerd evenredig aan de verhouding van de spanningen.
+    - Stroom aan secundaire kant is kleiner als de spanning hoger is.
+    - \( \frac{I_{\text{secundaire}}}{I_{\text{primaire}}} = \frac{N_{\text{primaire}}}{N_{\text{secundaire}}} \)
+  - **Vermogen** aan beide zijden is gelijk bij een ideale transformator:
+    - Vermogen = Spanning × Stroom.
+  - **Ideale transformatoren** hebben geen verliezen, maar in de praktijk zijn er verliezen door **warmte** en **onvolledige magnetische koppeling**.
+  - **Symbool** van een transformator: Twee **spoelen** met lijnen en **kringetjes**.
+  - **Belangrijk**: Transformatoren kunnen alleen **wisselspanning** omzetten, niet **gelijkspanning**.
+  - De **verhouding** van primaire en secundaire spanningen is gelijk aan de verhouding tussen wikkelingen.
+  - Het **vermogen** aan beide kanten van een ideale transformator is gelijk.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                             | Korte antwoord                                                                 |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Wat is een transformator?                                                                        | Een apparaat dat wisselspanningen omzet van de ene naar de andere spanning.       |
+| Hoe werkt een transformator?                                                                      | Een wisselspanning op de primaire spoel creëert een wisselend magneetveld dat de spanning op de secundaire spoel beïnvloedt. |
+| Wat bepaalt de verhouding tussen de primaire en secundaire spanning?                             | De verhouding tussen het aantal wikkelingen op de primaire en secundaire spoel.    |
+| Wat is de formule voor de verhouding tussen de spanningen in een transformator?                   | \( \frac{U_{\text{primaire}}}{U_{\text{secundaire}}} = \frac{N_{\text{primaire}}}{N_{\text{secundaire}}} \) |
+| Hoe verandert de stroomsterkte aan de secundaire kant in vergelijking met de primaire kant?      | De stroomsterkte aan de secundaire kant is omgekeerd evenredig aan de spanning en het aantal wikkelingen. |
+| Wat is het gevolg voor de stroomsterkte als de spanning aan de secundaire kant hoger is?          | De stroomsterkte aan de secundaire kant is kleiner.                                |
+| Hoe wordt het vermogen aan beide zijden van een ideale transformator vergeleken?                 | Het vermogen is aan beide zijden gelijk bij een ideale transformator.             |
+| Wat zijn enkele oorzaken van verlies in transformatoren in de praktijk?                           | Verliezen door warmte en onvolledige magnetische koppeling.                       |
+| Hoe ziet het symbool van een transformator eruit?                                                | Twee spoelen met lijnen en kringetjes aan beide zijden.                            |
+| Kunnen transformatoren gebruikt worden voor gelijkspanning?                                       | Nee, transformatoren kunnen alleen wisselspanning omzetten.                       |

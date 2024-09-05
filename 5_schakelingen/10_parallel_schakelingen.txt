@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Parallelle Schakelingen**
+
+- **Parallelle Aansluiting**:
+  - **Parallel** betekent dat componenten **naast elkaar** zijn aangesloten.
+  - De stroom **splitst zich** in meerdere takken en komt weer samen.
+
+- **Voorbeeld van Parallelle Weerstanden**:
+  - Twee of meer weerstanden die aan een batterij zijn aangesloten **staan parallel**.
+  - De stroom verdeelt zich over de verschillende **weerstanden**.
+
+- **Stroom en Spanning in Parallelle Schakelingen**:
+  - De **stroom** splits zich op in deelstromen, die bij elkaar opgeteld de **hoofdstroom** vormen.
+  - De **spanning** over elke weerstand in een parallelle schakeling is **gelijk** aan de spanning van de batterij.
+
+- **Praktijkvoorbeeld**:
+  - **3 weerstanden** van 600 Ω, 800 Ω, en 1.0 kΩ zijn parallel aangesloten op een batterij van 9 V.
+  - De spanning over elke weerstand is **9 volt**.
+  - Gebruik de **wet van Ohm** om de stroom door elke weerstand te berekenen:
+    - Stroom door 600 Ω: \( I = \frac{9}{600} = 0,015 \text{ A} \)
+    - Stroom door 800 Ω: \( I = \frac{9}{800} = 0,01125 \text{ A} \)
+    - Stroom door 1.0 kΩ: \( I = \frac{9}{1000} = 0,009 \text{ A} \)
+  - De **hoofdstroom** uit de batterij is de som van de deelstromen: **0,03525 A**.
+
+- **Samenvatting**:
+  - In een **parallelschakeling** is de spanning over elke component gelijk.
+  - De stroom splitst zich en de totale stroom is de som van de deelstromen.
+  - Voor elk component geldt de **wet van Ohm**.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| Wat betekent het als componenten parallel zijn aangesloten? | Ze zijn **naast elkaar** aangesloten, waardoor de stroom zich splitst en weer samenkomt. |
+| Wat gebeurt er met de spanning over componenten in een parallelschakeling? | De spanning is **gelijk** voor alle parallel aangesloten componenten. |
+| Hoe wordt de stroom verdeeld in een parallelle schakeling? | De stroom splitst zich op in deelstromen die optellen tot de **hoofdstroom**. |
+| Hoe bereken je de stroom door een weerstand in een parallelschakeling? | Gebruik de **wet van Ohm**: \( I = \frac{V}{R} \), waarbij \( V \) de spanning en \( R \) de weerstand is. |
+| Wat is de hoofdtroom in een parallelle schakeling? | De hoofdtroom is de totale stroom die uit de batterij komt voordat deze zich splitst in de parallelle takken. |
+| Hoeveel stroom loopt er door een weerstand van 600 Ω als deze parallel is aangesloten op een 9 V batterij? | \( I = \frac{9 \text{ V}}{600 \text{ Ω}} = 0,015 \text{ A} \) (of 15 mA). |
+| Hoe bereken je de totale stroom die uit een batterij komt in een parallelle schakeling? | Tel de **deelstromen** door alle parallel aangesloten componenten bij elkaar op. |
+| Wat gebeurt er met de stroom door een weerstand als de weerstand groter is in een parallelschakeling? | De stroom door de weerstand is **kleiner** bij een grotere weerstand. |

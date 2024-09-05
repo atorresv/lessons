@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van het Equivalentie Principe**
+
+- **Equivalentie Principe**:
+  - Het principe stelt dat **versnelling** en **zwaartekracht** niet van elkaar te onderscheiden zijn.
+  
+- **Voorbeeld met Raket**:
+  - In een raket die versnelt met **9,81 m/s²** naar boven, voel je je als het ware naar de bodem van de raket gedrukt.
+  - Dit voelt hetzelfde als de aantrekkingskracht die je op aarde ervaart.
+  
+- **Lichtsignalen in Versnellende Raket**:
+  - Stel je voor dat lichtsignalen van boven naar beneden worden gestuurd in een versnellende raket.
+  - Als de raket versnelt, worden de signalen **steeds sneller ontvangen** onderin de raket.
+  - Dit gebeurt omdat de afstand die de signalen moeten afleggen kleiner wordt door de versnelling.
+
+- **Effect op Tijd**:
+  - Door het versnellen of de aanwezigheid van zwaartekracht lijkt de **tijd** onderin trager te verlopen dan bovenin.
+  - Dit effect kan worden gemeten met **nauwkeurige klokken**.
+
+- **Formule voor Tijdvertraging**:
+  - De tijd onderin (in een zwaartekrachtsveld) verstrijkt trager dan bovenin.
+  - Formule: \( t_{onder} = t_{boven} \times \sqrt{1 + \frac{gh}{c^2}} \)
+    - Waarbij:
+      - \( g \) = zwaartekrachtversnelling
+      - \( h \) = hoogte
+      - \( c \) = lichtsnelheid
+
+- **Conclusie**:
+  - Het **equivalentieprincipe** is cruciaal voor Einstein's **algemene relativiteitstheorie**.
+  - Het laat zien dat zwaartekracht en versnelling effect hebben op de tijd, waarbij tijd trager verstrijkt in een sterker zwaartekrachtveld of bij versnelling.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat stelt het **equivalentieprincipe** van Einstein voor? | Het principe stelt dat **versnelling** en **zwaartekracht** niet van elkaar te onderscheiden zijn. |
+| Wat gebeurt er met een voorwerp in een raket die versnelt met **9,81 m/s²**? | Het voorwerp voelt alsof het naar de bodem van de raket wordt gedrukt, vergelijkbaar met de aantrekkingskracht op aarde. |
+| Hoe verandert de ontvangst van lichtsignalen in een versnellende raket? | Lichtsignalen worden **steeds sneller ontvangen** onderin de raket door de afname van de afstand die de signalen moeten afleggen door versnelling. |
+| Wat is het effect van versnelling of zwaartekracht op de tijd? | De **tijd** verstrijkt trager onderin een zwaartekrachtsveld of bij versnelling dan bovenin. |
+| Hoe wordt de tijdsvertraging onderin een zwaartekrachtsveld berekend? | Met de formule: \( t_{onder} = t_{boven} \times \sqrt{1 + \frac{gh}{c^2}} \), waarbij \( g \) de zwaartekrachtversnelling, \( h \) de hoogte en \( c \) de lichtsnelheid zijn. |
+| Waarom is het equivalentieprincipe belangrijk voor de algemene relativiteitstheorie? | Het toont aan dat **zwaartekracht** en **versnelling** hetzelfde effect hebben op de tijd, wat een kernpunt is in de algemene relativiteitstheorie van Einstein. |

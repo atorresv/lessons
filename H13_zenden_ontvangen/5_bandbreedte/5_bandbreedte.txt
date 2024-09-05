@@ -1,0 +1,21 @@
+5_BANDBREEDTE
+*  Verschillende draaggolffrequentie
+*  Frequentiespectrum
+*  Bandbreedte
+*  Signaal bepaalt bandbreedte
+* fsignaal f+fsignaal
+
+
+zender en ontvanger frequentie afgesproken
+in de buurt andere zoneder en onvanger moeten andere frequentie gebruiken
+onvanger kijk alleen naar zijn frequentie
+frequentiespectrum: twee lijnen
+er zijn veel zenders,
+somige zenders gebruiken meer frequenties
+bandbreedte: gebied wat een zender inneemt
+breede heeft ondergres een bovengrens
+grottee van bandbrette bepaal door het signaal dat doorgegeven workd
+onder = f-fsignaal
+over  = f+fsignaal
+
+zenders en ontvangers nemen een bepaald breedte van het spectrum

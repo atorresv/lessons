@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-05 Thu 14:17 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org53aebee"><b><b>Krachten op een Blokje op een Helling</b></b></a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org53aebee" class="outline-2">
+<h2 id="org53aebee"><b><b>Krachten op een Blokje op een Helling</b></b></h2>
+<div class="outline-text-2" id="text-org53aebee">
+<ul class="org-ul">
+<li><b><b>Zwaartekracht</b></b> werkt recht naar beneden.</li>
+<li><b><b>Normaalkracht</b></b> werkt loodrecht op het oppervlak van de helling.</li>
+<li><b><b>Wrijvingskracht</b></b> is afhankelijk van de andere krachten en werkt langs de helling.</li>
+
+<li><b><b>Probleem:</b></b> Zwaartekracht staat niet loodrecht op de andere krachten, wat het uitrekenen bemoeilijkt.</li>
+
+<li><b><b>Oplossing:</b></b> Ontbinden van de zwaartekracht in twee componenten:
+<ul class="org-ul">
+<li><b><b>Component langs de helling</b></b> (Fzx)</li>
+<li><b><b>Component loodrecht op de helling</b></b> (Fzy)</li>
+</ul></li>
+
+<li><b><b>Driehoek</b></b>:
+<ul class="org-ul">
+<li>De helling vormt een driehoek met een hoek \( \alpha \).</li>
+<li><b><b>Hoek Alfa</b></b> van de helling is gelijk aan de hoek in de driehoek.</li>
+</ul></li>
+
+<li><b><b>Berekeningen</b></b>:
+<ul class="org-ul">
+<li><b><b>Fzx</b></b>: \( Fzx = Fz \times \sin(\alpha) \)</li>
+<li><b><b>Fzy</b></b>: \( Fzy = Fz \times \cos(\alpha) \)</li>
+</ul></li>
+
+<li><b><b>Evenwicht</b></b>:
+<ul class="org-ul">
+<li>De <b><b>normaalkracht</b></b> (Fzy) is gelijk aan de component loodrecht op de helling.</li>
+<li>De <b><b>wrijvingskracht</b></b> (Fzx) is gelijk aan de component langs de helling.</li>
+</ul></li>
+
+<li><b><b>Samenvatting</b></b>:
+<ul class="org-ul">
+<li>Teken alle krachten die werken.</li>
+<li>Ontbind de scheve kracht in twee componenten die loodrecht op elkaar staan.</li>
+<li>Bereken de relevante krachten uit de componenten.</li>
+</ul></li>
+</ul>
+
+<p>
+<b><b>Diagnostische vragen</b></b>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Vraag</th>
+<th scope="col" class="org-left">Kort Antwoord</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Welke krachten werken op een blokje dat stil ligt op een helling?</td>
+<td class="org-left"><b><b>Zwaartekracht</b></b> en <b><b>normaalkracht</b></b>.</td>
+</tr>
+
+<tr>
+<td class="org-left">Waarom is het moeilijk om de zwaartekracht op een helling te berekenen?</td>
+<td class="org-left">Omdat de zwaartekracht niet loodrecht staat op de andere krachten.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe kun je de zwaartekracht ontbinden op een helling?</td>
+<td class="org-left">Door de zwaartekracht in <b><b>componenten</b></b> te ontbinden: langs de helling (Fzx) en loodrecht op de helling (Fzy).</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe bereken je de componenten van de zwaartekracht langs en loodrecht op de helling?</td>
+<td class="org-left"><b><b>Fzx</b></b> = \( Fz \times \sin(\alpha) \) en <b><b>Fzy</b></b> = \( Fz \times \cos(\alpha) \).</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is de relatie tussen de normaalkracht en de component van de zwaartekracht loodrecht op de helling?</td>
+<td class="org-left"><b><b>De normaalkracht</b></b> is gelijk aan de component van de zwaartekracht loodrecht op de helling (Fzy).</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe bereken je de wrijvingskracht op een blokje op een helling?</td>
+<td class="org-left">De wrijvingskracht is gelijk aan de component van de zwaartekracht langs de helling (Fzx).</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat moet je altijd doen bij het oplossen van opgaven met een helling?</td>
+<td class="org-left">Teken alle krachten, ontbind de scheve kracht in componenten die loodrecht op elkaar staan, en bepaal de relevante krachten.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-05 Thu 14:17</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

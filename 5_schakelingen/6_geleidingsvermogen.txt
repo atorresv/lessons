@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Weerstand en Geleidingsvermogen**
+
+- **Weerstand**:
+  - **Eigenschap** die aangeeft hoe goed spanning wordt weerstaan.
+  - Eenheid: **Ohm**.
+  - Voorwerpen met **hoge weerstand** (zoals isolatoren) laten weinig stroom door.
+  
+- **Geleidingsvermogen**:
+  - Ook wel **elektrische geleidbaarheid** of **conductantie** genoemd.
+  - Beschrijft hoe goed stroom wordt geleid.
+  - Eenheid: **Siemens**.
+  - Symbool: **G**.
+  - Een hoog geleidingsvermogen betekent veel stroom, een laag geleidingsvermogen betekent weinig stroom.
+
+- **Omrekeningen**:
+  - **Weerstand** (R) = \( \frac{1}{G} \) (Geleidingsvermogen)
+  - **Geleidingsvermogen** (G) = \( \frac{1}{R} \) (Weerstand)
+
+- **Voorbeelden**:
+  - **Rubber** heeft een **hoge weerstand** en **lage geleidingsvermogen**.
+  - **Metaal** heeft een **lage weerstand** en **hoge geleidingsvermogen**.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Kort Antwoord                                                                                                           |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Wat geeft de weerstand aan in een schakeling?                         | **Weerstand** geeft aan hoe goed spanning wordt weerstaan.                                                               |
+| Wat is de eenheid van weerstand?                                       | **Ohm**                                                                                                                |
+| Wat is het symbool voor geleidingsvermogen?                            | Het symbool is **G**.                                                                                                   |
+| Hoe reken je geleidingsvermogen om naar weerstand?                     | **Weerstand** = \( \frac{1}{G} \) (waarbij G het geleidingsvermogen is).                                                |
+| Wat betekent een hoog geleidingsvermogen?                             | Een hoog geleidingsvermogen betekent dat er veel stroom wordt geleid.                                                    |
+| Hoe verhoudt geleidingsvermogen zich tot weerstand?                    | Ze zijn tegengesteld: een hoge weerstand betekent een laag geleidingsvermogen en vice versa.                            |
+| Noem een voorbeeld van een materiaal met een hoge weerstand.          | **Rubber** is een voorbeeld van een materiaal met hoge weerstand en lage geleidingsvermogen.                            |
+| Wat gebeurt er met de stroom als je een lampje tussen de polen van een batterij plaatst? | Er zal minder stroom gaan lopen door het lampje vanwege de weerstand van het lampje.                                    |
+| Hoe noem je de eigenschap die beschrijft hoe goed stroom wordt geleid? | Dit wordt **geleidingsvermogen** of **conductantie** genoemd.                                                             |
+| Wat is de eenheid van geleidingsvermogen?                              | De eenheid is **Siemens**.                                                                                               |

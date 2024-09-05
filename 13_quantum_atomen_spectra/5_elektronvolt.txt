@@ -1,0 +1,37 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Definitie en Gebruik van Elektronvolt**
+
+- **Elektronvolt (eV)**: Een eenheid van energie die veel wordt gebruikt in **energie-berekeningen** bij de studie van **atomen** en **subatomaire deeltjes**.
+- **Definitie**: De energie die overeenkomt met een elektron dat door een spanningsverschil van **1 volt** beweegt.
+- **Voorstelling**:
+  - Twee platen met een spanningsverschil van 1 volt.
+  - Een elektron wordt vrijgelaten en beweegt van de negatieve naar de positieve plaat.
+  - De **energie** die het elektron verkrijgt komt overeen met het **spanningsverschil**.
+- **Berekening**:
+  - **Elektrische energie** = **spanning** × **lading**.
+  - Voor een elektron is de lading \( 1,602 \times 10^{-19} \text{ C} \) en de spanning is 1 volt.
+  - De **energie** van een elektronvolt = \( 1,602 \times 10^{-19} \text{ J} \).
+- **Omrekeningen**:
+  - Elektronvolt kan worden omgezet naar **joules** met de omrekeningsfactor \( 1,602 \times 10^{-19} \text{ J} \).
+
+Samengevat, een elektronvolt is een veelgebruikte eenheid van energie in de natuurkunde, gelijk aan \( 1,602 \times 10^{-19} \text{ J} \).
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                      | **Antwoord**                                                         |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Wat is een elektronvolt (eV)?                                                                  | Een eenheid van energie gelijk aan \( 1,602 \times 10^{-19} \text{ J} \). |
+| Hoe wordt de energie van een elektronvolt berekend?                                            | Energie = spanning × lading; voor een elektron is dit \( 1,602 \times 10^{-19} \text{ J} \). |
+| Wat gebeurt er met een elektron dat door een spanningsverschil van 1 volt beweegt?            | Het elektron verkrijgt energie gelijk aan 1 elektronvolt en beweegt van de negatieve naar de positieve plaat. |
+| Hoe wordt de elektrische energie van een elektron berekend als het door een spanningsverschil van 1 volt beweegt? | De elektrische energie is gelijk aan \( 1,602 \times 10^{-19} \text{ J} \), omdat dit de energie is van een elektronvolt. |
+| Waar kan je de waarde van 1 elektronvolt vinden voor omrekeningen?                              | In Binas tabel 5, waar de omrekeningsfactor voor elektronvolt wordt gegeven. |
+| Hoe groot is het spanningsverschil dat overeenkomt met 1 elektronvolt?                         | 1 volt.                                                              |
+| Waarom is elektronvolt een handige eenheid in de natuurkunde?                                 | Omdat het goed past bij de energie-niveaus van atomaire en subatomaire deeltjes. |
+

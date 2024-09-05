@@ -1,0 +1,38 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Gebruik van Telescopen in Astronomie**
+
+  - **Telescopen** worden gebruikt om meer te leren over **sterren** en **planeten**.
+  - Licht van sterren moet door de **dampkring** van de aarde reizen voordat het bij de telescoop komt.
+  - Astronomen bestuderen niet alleen **zichtbaar licht**, maar ook alle soorten **elektromagnetische straling**:
+    - **Gamma-straling**, **röntgenstraling**, en **UV-straling** worden door de dampkring tegengehouden.
+    - Voor deze straling worden **satellieten** gebruikt die buiten de dampkring draaien.
+  - **Infraroodstraling**:
+    - Nabij-infrarood (dichtbij zichtbaar licht) komt door de dampkring heen en kan met telescopen op aarde worden bestudeerd.
+    - Langere golflengten (verder van zichtbaar licht) worden tegengehouden door waterdamp in de atmosfeer, waarvoor satellieten nodig zijn.
+  - **Radiostraling**:
+    - Dringt gemakkelijk door de dampkring en kan met **radiotelescopen** op aarde worden bestudeerd.
+    - Radiotelescopen functioneren als grote schotelantennes en worden gebruikt om radiostraling te ontvangen en te analyseren.
+  - **Telescooplocaties**:
+    - Telescopen worden vaak op **hoge bergen** geplaatst om de verstoringen door de dampkring te minimaliseren.
+    - Ze worden ook ver van **steden** geplaatst om lichtvervuiling te vermijden.
+    - Goede **klimaatomstandigheden** zijn belangrijk voor nauwkeurige waarnemingen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                              | Antwoord                                                                                  |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Wat moet licht van sterren doen voordat het bij een telescoop komt?                              | Het moet door de dampkring van de aarde reizen.                                           |
+| Welke soorten elektromagnetische straling worden door de dampkring tegengehouden?                | **Gamma-straling**, **röntgenstraling**, en **UV-straling**.                                |
+| Waarvoor worden satellieten gebruikt in de astronomie?                                            | Voor het waarnemen van straling die door de dampkring wordt tegengehouden, zoals gamma-, röntgen-, en UV-straling. |
+| Welke soorten straling kunnen met telescopen op aarde worden bestudeerd?                         | **Nabij-infraroodstraling** en **radiostraling**.                                           |
+| Waarom worden telescopen vaak op hoge bergen geplaatst?                                          | Om verstoringen door de dampkring te minimaliseren.                                        |
+| Wat is het voordeel van het plaatsen van telescopen ver van steden?                               | Om **lichtvervuiling** te vermijden.                                                      |
+| Hoe wordt radiostraling ontvangen en bestudeerd?                                                 | Met behulp van **radiotelescopen**, die functioneren als grote schotelantennes.            |
+| Waarom zijn goede klimaatomstandigheden belangrijk voor een telescoop?                           | Voor nauwkeurige waarnemingen, omdat slechte weersomstandigheden de observaties kunnen verstoren. |

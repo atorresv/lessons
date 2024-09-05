@@ -1,0 +1,56 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Fase en Faseverschil bij Golven**
+
+- **Fase**:
+  - Het aantal periodes dat is doorlopen vanaf een bepaald startpunt.
+  - Wordt aangeduid met de **Griekse letter φ (phi)**.
+  - Heeft geen eenheid.
+
+- **Faseverschil**:
+  - Het verschil in fase tussen twee momenten of twee plaatsen.
+  - Wordt aangeduid met de **Griekse letter Δ (delta)**.
+  - Heeft geen eenheid.
+
+- **Faseverschil bij Golven**:
+  - Verschil in fase tussen twee plaatsen in een golf.
+  - Voorbeeld: Een stuk touw dat heen en weer trilt, heeft een faseverschil afhankelijk van de positie.
+
+- **Voorbeelden**:
+  - Als een stuk touw zich op een punt beneden bevindt en een ander stuk touw op een punt boven, is het faseverschil een kwart golf.
+  - Als het touw verder wordt gevolgd, blijft het faseverschil consistent, bijvoorbeeld een half golf bij andere punten.
+
+- **Formule voor Faseverschil**:
+  - Het faseverschil tussen twee punten is de **afstand tussen die punten gedeeld door de golflengte**.
+  - **Faseverschil = (Afstand / Golflengte)**.
+
+- **Fasen**:
+  - **In Fase**: Wanneer de faseverschil een heel getal is, bewegen twee punten op hetzelfde moment omhoog en omlaag.
+  - **In Tegenfase**: Wanneer het faseverschil een halve golf (0,5, 1,5, 2,5, enz.) is, bewegen de punten precies tegengesteld aan elkaar.
+
+- **Samenvatting**:
+  - Faseverschil bij golven hangt af van de **golflengte** en de **afstand** tussen twee punten.
+  - **In fase**: Faseverschil is een heel getal; punten bewegen gelijk.
+  - **Tegenfase**: Faseverschil is een halve golf; punten bewegen tegengesteld.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                                    | **Antwoord**                                               |
+|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Wat is fase in de context van golven?                                                                        | Fase is het aantal periodes dat is doorlopen vanaf een bepaald startpunt. |
+| Welke Griekse letter wordt gebruikt om fase aan te duiden?                                                  | De Griekse letter φ (phi).                                 |
+| Wat is het symbool voor faseverschil en heeft het een eenheid?                                              | Het symbool voor faseverschil is Δ (delta) en heeft geen eenheid. |
+| Hoe wordt faseverschil bij golven bepaald?                                                                   | Faseverschil is de afstand tussen twee punten gedeeld door de golflengte. |
+| Wat betekent het als het faseverschil tussen twee punten een kwart golf is?                                 | Het betekent dat de punten zich op een afstand van een kwart golf van elkaar bevinden. |
+| Wat is het faseverschil als twee punten zich precies in tegenovergestelde fasen bevinden?                    | Het faseverschil is een halve golf (0,5, 1,5, 2,5, enz.).  |
+| Wanneer zeggen we dat twee punten "in fase" zijn?                                                            | Als het faseverschil een heel getal is, bewegen de punten op hetzelfde moment omhoog en omlaag. |
+| Wanneer zeggen we dat twee punten "in tegenfase" zijn?                                                        | Als het faseverschil een halve golf is, bewegen de punten precies tegengesteld aan elkaar. |
+| Hoe bereken je het faseverschil tussen twee punten?                                                           | Het faseverschil wordt berekend met de formule: (Afstand / Golflengte). |
+| Wat gebeurt er als het faseverschil tussen twee golven een heel getal is?                                   | De golven versterken elkaar, wat resulteert in constructieve interferentie. |
+| Wat gebeurt er als het faseverschil tussen twee golven een halve golf is?                                    | De golven annuleren elkaar, wat resulteert in destructieve interferentie. |

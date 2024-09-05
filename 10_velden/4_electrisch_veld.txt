@@ -1,0 +1,42 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Elektrisch Veld en Zijn Invloed**
+
+- **Elektrisch veld**: De invloed van een elektrische lading op zijn omgeving.
+- **Proeflading**: Een denkbeeldige positieve lading die gebruikt wordt om het elektrische veld te onderzoeken.
+  - Plaatsing van een proeflading laat zien hoe de lading wordt beïnvloed door de aanwezigheid van een andere lading.
+- **Invloed op omgeving**: 
+  - Een positieve lading zoals een geladen bol oefent een elektrische kracht uit op de proeflading.
+  - De kracht varieert met de afstand: dichtbij de bol is de kracht sterker, verder weg is de kracht zwakker.
+- **Elektrisch veld visualiseren**: 
+  - Het veld rond een geladen bol kan worden weergegeven met denkbeeldige pijlen die de richting en sterkte van de kracht aangeven.
+  - Bij twee geladen bollen: 
+    - De proeflading ervaart krachten van beide bollen.
+    - De nettokracht is de optelsom van de krachten van de afzonderlijke bollen.
+    - Het elektrische veld op een bepaald punt is de richting van deze nettokracht.
+- **Verzameling van pijlen**: 
+  - De pijlen vertegenwoordigen het elektrische veld, maar kunnen onoverzichtelijk worden als er veel zijn.
+- **Veldlijnen**: 
+  - Er is een alternatieve manier om het elektrische veld te visualiseren door gebruik te maken van veldlijnen, die in een volgend filmpje worden uitgelegd.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Antwoord                                                                                      |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Wat wordt verstaan onder een **elektrisch veld**?                    | Het elektrisch veld is de invloed die een elektrische lading heeft op zijn omgeving.         |
+| Hoe wordt het elektrische veld onderzocht?                           | Door een **proeflading** te plaatsen en te kijken naar de krachten die deze lading ondervindt. |
+| Wat gebeurt er met een proeflading in de nabijheid van een geladen bol? | De proeflading ondervindt een elektrische kracht die afhangt van de afstand tot de geladen bol. |
+| Hoe verandert de kracht op een proeflading met afstand tot de geladen bol? | De kracht is sterker als de proeflading dichterbij de bol is en zwakker als de afstand groter is. |
+| Hoe wordt het elektrische veld rond twee geladen bollen weergegeven? | Door de optelsom van de krachten die op een proeflading door beide bollen worden uitgeoefend.  |
+| Wat is een **veldlijn** in het elektrisch veld?                      | Veldlijnen geven de richting en sterkte van het elektrische veld weer, vaak als denkbeeldige lijnen. |
+| Wat zijn de kenmerken van veldlijnen rond een enkel geladen voorwerp? | Veldlijnen lopen altijd van positief naar negatief en worden dichter bij het geladen voorwerp dichterbij. |
+| Hoe kan de kracht op een proeflading in een elektrisch veld worden bepaald? | Door de **veldsterkte** te berekenen, die gelijk is aan de kracht gedeeld door de lading.        |
+| Wat is het effect van de veldlijnendichtheid op de kracht?            | Waar veldlijnen dichter bij elkaar liggen, is de kracht sterker; waar ze verder uit elkaar liggen, is de kracht zwakker. |
+| Wat is een **homogeen veld**?                                         | Een elektrisch veld waarbij de veldsterkte en richting constant zijn binnen een bepaald gebied. |
+

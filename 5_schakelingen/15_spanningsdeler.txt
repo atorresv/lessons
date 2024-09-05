@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Schuifweerstand en Toepassingen**
+
+- **Schuifweerstand**: 
+  - Een weerstand waarbij een **schuivende aansluiting** de weerstand kan veranderen.
+  - Door de positie van de schuif kan de **weerstand variëren** van groot (aan de ene kant) naar klein (aan de andere kant).
+
+- **Toepassingen**:
+  - **Variabele weerstand**: 
+    - Werkt als een **dimmer**: lampje brandt fel als de schuif aan de ene kant zit, en kan uit zijn als de schuif aan de andere kant zit.
+    - De waarde van de weerstand kan continu worden aangepast door de schuif te verplaatsen.
+
+  - **Spanningsdeler**:
+    - De schuifweerstand heeft een derde aansluiting in het midden.
+    - Kan functioneren als **spanningsdeler**, waarbij de weerstand in twee delen wordt verdeeld afhankelijk van de positie van de schuif.
+    - De verhouding van de twee weerstanden verandert met de positie van de schuif: **kleine waarde** aan de ene kant, **grote waarde** aan de andere kant, en gelijke waarden als de schuif in het midden staat.
+
+- **Praktische Toepassing**:
+  - Meestal **ronde schuifweerstanden** in plaats van rechte.
+  - Voorbeeld: de **volumeknop** op een radiotoestel, die een schuifweerstand bevat om het volume te regelen.
+
+- **Samenvatting**:
+  - Een schuifweerstand kan als **variabele weerstand** en als **spanningsdeler** worden gebruikt.
+  - Het schuifmechanisme maakt het mogelijk om **weerstand en spanning** aan te passen door de schuif te verplaatsen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte antwoord                                                                                     |
+|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Wat is een schuifweerstand?                                           | Een schuifweerstand is een weerstand waarbij een schuif de weerstand waarde kan aanpassen.        |
+| Hoe verandert de weerstand bij een schuifweerstand?                   | De weerstand verandert afhankelijk van de positie van de schuif: groot aan de ene kant, klein aan de andere kant. |
+| Wat is een toepassing van een schuifweerstand als variabele weerstand? | Het werkt als een dimmer, waarbij je de weerstand en dus de sterkte van een lamp kunt aanpassen door de schuif te verplaatsen. |
+| Wat doet een schuifweerstand als spanningsdeler?                      | Het verdeelt de weerstand in twee delen, afhankelijk van de positie van de schuif, en verdeelt de spanning over deze weerstanden. |
+| Hoe wordt een schuifweerstand meestal fysiek uitgevoerd?              | Meestal als een ronde schuifweerstand in plaats van een rechte.                                   |
+| Waar vind je schuifweerstanden in praktische toepassingen?            | Bijvoorbeeld op volumeknoppen van radiotoestellen.                                                 |
+| Hoe beïnvloedt de schuif de spanningsverdeling bij een spanningsdeler? | De positie van de schuif bepaalt de verhouding tussen de twee weerstanden en dus de verdeling van de spanning. |

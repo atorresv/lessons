@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Wet van Stefan-Boltzmann en Uitstraling van Voorwerpen**
+
+- **Warm voorwerp** straalt **straling** uit.
+  - De **uitstraling** kan worden berekend met de **wet van Stefan-Boltzmann**.
+- De wet van Stefan-Boltzmann geeft aan dat de **uitstraling** afhankelijk is van:
+  - Het **totale oppervlak** van het voorwerp.
+  - De **temperatuur** van het voorwerp, tot de vierde macht.
+- De formule is: 
+  - \( E = \sigma T^4 \times A \)
+  - Waarbij:
+    - \( E \) = uitgestraald vermogen
+    - \( \sigma \) = Stefan-Boltzmann constante
+    - \( T \) = temperatuur in Kelvin
+    - \( A \) = oppervlak van het voorwerp
+- **Temperatuur** heeft een enorme invloed op het vermogen:
+  - Een kleine verandering in temperatuur kan leiden tot een grote verandering in uitgestraald vermogen.
+- Voorbeeld met de **zon**:
+  - Straal van de zon: \( 1,5 \times 10^9 \) meter
+  - Temperatuur: 5750 K
+  - Oppervlak van de zon: \( 2,827 \times 10^{19} \) m²
+  - Uitgestraald vermogen: \( 5,072 \times 10^{27} \) watt
+- **Samenvatting**:
+  - Het **uitgestraald vermogen** van een warm voorwerp wordt bepaald door:
+    - Het **oppervlak** van het voorwerp.
+    - De **temperatuur** tot de vierde macht.
+  - De wet van Stefan-Boltzmann wordt vaak toegepast voor een **ideaal zwart lichaam**, dat geen kleur heeft en volledige straling uitzendt.
+
+**Diagnostische vragen**
+
+| **Vraag**                                           | **Antwoord**                                                                                                   |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Wat straalt elk warm voorwerp uit?                  | Elk warm voorwerp straalt **straling** uit.                                                                   |
+| Welke wet wordt gebruikt om de uitstraling van een voorwerp te berekenen? | De **wet van Stefan-Boltzmann**.                                                                             |
+| Waar hangt de uitgestraalde energie van een voorwerp van af volgens de wet van Stefan-Boltzmann? | Het hangt af van het **oppervlak** van het voorwerp en de **temperatuur** tot de vierde macht.                 |
+| Hoe wordt het uitgestraalde vermogen \(E\) berekend volgens de wet van Stefan-Boltzmann? | \(E = \sigma T^4 \times A\), waarbij \( \sigma \) de Stefan-Boltzmann constante is, \( T \) de temperatuur in Kelvin, en \( A \) het oppervlak. |
+| Wat is de invloed van temperatuur op de uitgestraalde energie? | De temperatuur heeft een enorme invloed; een kleine verandering kan leiden tot een grote verandering in uitgestraald vermogen. |
+| Geef een voorbeeld van een ster en bereken zijn uitgestraald vermogen. | Voor de zon: Straal = \( 1,5 \times 10^9 \) meter, Temperatuur = 5750 K, Oppervlak = \( 2,827 \times 10^{19} \) m², Uitgestraald vermogen = \( 5,072 \times 10^{27} \) watt. |
+| Wat is de **wet van Stefan-Boltzmann**?               | De wet stelt dat het uitgestraald vermogen van een voorwerp proportioneel is met de temperatuur tot de vierde macht en het oppervlak. |
+| Waarom wordt een voorwerp vaak beschouwd als een zwart lichaam in de toepassing van de wet van Stefan-Boltzmann? | Omdat een zwart lichaam volledige straling uitzendt en geen kleur heeft, wat de berekeningen vergemakkelijkt.    |

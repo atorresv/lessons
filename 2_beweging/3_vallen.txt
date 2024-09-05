@@ -1,0 +1,59 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Fallen Objecten en Versnelling**
+
+- **Valbeweging**: 
+  - Een **eenparig versnelde beweging** waarbij de versnelling **9,81 m/s²** is, aangeduid als **g** (gravitatieversnelling).
+  - Versnelling is constant op aarde.
+
+- **Snelheidsverandering**: 
+  - De snelheid van een vallend object neemt toe met **9,81 m/s²** per seconde.
+  - Grafiek toont een stijging van de snelheid met de tijd.
+
+- **Verplaatsing**:
+  - De grafiek van een vallend object begint vlak (lage snelheid) en wordt steiler (hogere snelheid) na verloop van tijd.
+
+- **Voorbeeldopgave 1**:
+  - **Vraag**: Hoe lang duurt het voordat een bal van 150 meter hoogte de grond raakt?
+    - **Formule**: \( s = \frac{1}{2} g t^2 \)
+    - **Oplossing**: 
+      - \( s = 150 \text{ m} \)
+      - \( g = 9,81 \text{ m/s}^2 \)
+      - **Tijd** \( t = 5,53 \text{ seconden} \)
+
+  - **Vraag**: Wat is de snelheid waarmee de bal de grond raakt?
+    - **Oplossing**:
+      - Snelheid \( v = g \cdot t \)
+      - \( v = 9,81 \text{ m/s}^2 \times 5,53 \text{ s} = 54,2 \text{ m/s} \)
+
+- **Voorbeeldopgave 2**:
+  - **Vraag**: Hoe hoog komt een bal die met 12 m/s omhoog wordt gegooid voordat de snelheid 0 wordt?
+    - **Formule**: \( t = \frac{v_0}{g} \)
+    - **Oplossing**:
+      - \( t = \frac{12 \text{ m/s}}{9,81 \text{ m/s}^2} = 1,223 \text{ seconden} \)
+      - **Hoogte**: \( s = \frac{1}{2} g t^2 \)
+
+- **Belangrijke Notities**:
+  - De waarde van **g** kan verschillen op andere planeten; raadpleeg **Binas tabel 131** voor specifieke waarden.
+  - In werkelijkheid kan luchtwrijving de versnelling beïnvloeden, maar vaak wordt aangenomen dat wrijving verwaarloosbaar is in deze berekeningen.
+
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                          | **Antwoord**                                                                                                     |
+|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Wat is de waarde van de versnelling bij een eenparig versnelde valbeweging op aarde?               | **9,81 m/s²**. Deze waarde wordt aangeduid als **g** (gravitatieversnelling).                                     |
+| Hoe bereken je de tijd die een bal nodig heeft om de grond te raken als deze valt vanaf 150 meter? | Gebruik de formule \( s = \frac{1}{2} g t^2 \). Oplossing: \( t = 5,53 \text{ seconden} \).                      |
+| Wat is de snelheid van de bal als deze de grond raakt na 5,53 seconden?                           | Gebruik de formule \( v = g \cdot t \). Oplossing: \( v = 54,2 \text{ m/s} \).                                     |
+| Hoe bereken je de hoogte die een bal bereikt als deze met 12 m/s omhoog wordt gegooid?              | Eerst de tijd tot stilstand berekenen met \( t = \frac{v_0}{g} \), daarna hoogte berekenen met \( s = \frac{1}{2} g t^2 \). |
+| Hoe lang duurt het voordat de snelheid van een bal die omhoog wordt gegooid met 12 m/s 0 wordt?    | Gebruik de formule \( t = \frac{v_0}{g} \). Oplossing: \( t = 1,223 \text{ seconden} \).                        |
+| Hoe bereken je de hoogte die een bal bereikt als de tijd tot stilstand 1,223 seconden is?           | Gebruik de formule \( s = \frac{1}{2} g t^2 \). Oplossing: hoogte wordt berekend op basis van de tijd en de versnelling. |
+| Wat moet je doen als je de versnelling op een andere planeet wilt berekenen?                       | Raadpleeg **Binas tabel 131** voor de specifieke waarde van **g** op die planeet.                                 |
+| Hoe beïnvloedt luchtwrijving de valbeweging in de werkelijkheid?                                   | Luchtwrijving kan de versnelling verminderen, waardoor de beweging niet meer eenparig versneld is.                |
+| Wat is de basisaanname in veel opgaven over valbewegingen met betrekking tot luchtwrijving?         | Vaak wordt aangenomen dat luchtwrijving verwaarloosbaar is in de berekeningen.                                   |

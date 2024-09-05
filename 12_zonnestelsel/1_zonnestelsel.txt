@@ -1,0 +1,55 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van het Zonnestelsel**
+
+- **Zon**: 
+  - **Centraal** in het zonnestelsel.
+  - Het is **het zwaarste object** in het zonnestelsel.
+  
+- **Planeten**: 
+  - **Draaien** om de zon heen.
+  - Het zonnestelsel is **plat** en alle planeten draaien in hetzelfde vlak.
+  - Van **dichtbij de zon** naar **verder weg**:
+    - **Rotsachtige planeten**: **Mercurius**, **Venus**, **Aarde**, **Mars**.
+    - **Gasreuzen**: **Jupiter**, **Saturnus**, **Uranus**, **Neptunus**.
+
+- **Planetoïden**:
+  - Bevinden zich **tussen Mars en Jupiter**.
+  - Bestaan uit **rotsblokken** en variëren van kleine stenen tot grote rotsen.
+  
+- **Planeten eigenschappen**:
+  - **Rotsachtige planeten** bestaan voornamelijk uit **steen**.
+  - **Gasreuzen** bestaan voornamelijk uit **gas**.
+
+- **Belangrijke tabel**:
+  - Gegevens van planeten, zoals **massa**, **omlooptijd**, en **grote**, te vinden in **Binas tabel 31**.
+
+- **Maantjes**:
+  - **Draaien** om de planeten heen.
+  - Hoe verder een planeet van de zon staat, hoe **groter** de omlooptijd.
+
+- **Samenvatting**:
+  - **De zon** staat centraal in het zonnestelsel.
+  - Er zijn **acht planeten** die om de zon draaien.
+  - Gegevens van de planeten kunnen worden gevonden in **Binas tabel 31**.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                          | Korte Antwoord                                         |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Wat staat centraal in ons zonnestelsel?                                                        | De **zon**.                                           |
+| Hoeveel planeten draaien er om de zon heen?                                                    | **Acht** planeten.                                    |
+| Noem de vier rotsachtige planeten die het dichtst bij de zon staan.                            | **Mercurius**, **Venus**, **Aarde**, **Mars**.       |
+| Welke planeten worden gasreuzen genoemd?                                                        | **Jupiter**, **Saturnus**, **Uranus**, **Neptunus**.  |
+| Waar bevinden de meeste planetoïden zich?                                                        | Tussen de banen van **Mars** en **Jupiter**.          |
+| Wat zijn planetoïden?                                                                          | **Rotsblokken** en **kleine stenen**.                 |
+| Hoe wordt de zon gepositioneerd ten opzichte van de planeten in ons zonnestelsel?               | **Centraal**.                                        |
+| Wat staat in Binas tabel 31?                                                                    | Gegevens van **planeten**, zoals massa, omlooptijd, en grootte. |
+| Wat gebeurt er met de omlooptijd van een planeet naarmate deze verder van de zon staat?         | De omlooptijd wordt **groter**.                       |
+| Wat bestaat voornamelijk uit gas in ons zonnestelsel?                                           | **Gasreuzen** zoals Jupiter, Saturnus, Uranus, en Neptunus. |

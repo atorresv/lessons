@@ -1,0 +1,39 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Harmonische Trillingen**
+
+  - **Trilling**: Als een touwtje met een gewichtje heen en weer slingert, ontstaat een **trilling**.
+  - **Krachten en Evenwicht**:
+    - **Kracht** werkt altijd in de richting van de **evenwichtsstand**.
+    - Kracht is maximaal bij de grootste **uitwijking** en nul bij de **evenwichtsstand**.
+  - **Relatie tussen Kracht en Uitwijking**:
+    - Kracht is recht evenredig met de uitwijking: \( F = -k \cdot x \) (waarbij \( k \) de constante is).
+    - De kracht is **tegenovergesteld** aan de uitwijking.
+  - **Harmonische Trilling**:
+    - **Eigenschappen**: 
+      - Kracht en uitwijking zijn recht evenredig.
+      - De trilling heeft een **sinusvormige** karakteristiek.
+  - **Formules**:
+    - Voor een slinger: \( T = 2\pi \sqrt{\frac{L}{g}} \) (waarbij \( L \) de lengte van de slinger is en \( g \) de versnelling door de zwaartekracht).
+    - Voor een massa-veersysteem: \( T = 2\pi \sqrt{\frac{m}{k}} \) (waarbij \( m \) de massa is en \( k \) de veerconstante).
+  - **Voorwaarden**:
+    - De bovenstaande formules zijn **benaderingen** en gelden voornamelijk voor kleine uitwijkingen.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Korte Antwoord**                                                        |
+|---------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Wat gebeurt er als je een touwtje met een gewichtje opzij trekt en loslaat? | Het gewichtje begint heen en weer te slingeren, wat een trilling veroorzaakt.|
+| Hoe werkt de kracht tijdens een trilling in relatie tot de uitwijking?     | De kracht is maximaal bij de grootste uitwijking en nul bij de evenwichtsstand.|
+| Wat is een harmonische trilling?                                           | Een trilling waarbij de kracht recht evenredig is met de uitwijking en de trilling sinusvormig is.|
+| Wat is de formule voor de kracht bij een harmonische trilling?              | \( F = -k \cdot x \) (waarbij \( k \) de constante is en \( x \) de uitwijking).|
+| Welke eigenschappen heeft een harmonische trilling?                       | Kracht en uitwijking zijn recht evenredig, en de trilling is sinusvormig.|
+| Wat is de formule voor de periode van een slinger?                         | \( T = 2\pi \sqrt{\frac{L}{g}} \) (waarbij \( L \) de lengte van de slinger is en \( g \) de versnelling door de zwaartekracht).|
+| Wat is de formule voor de periode van een massa-veersysteem?               | \( T = 2\pi \sqrt{\frac{m}{k}} \) (waarbij \( m \) de massa is en \( k \) de veerconstante).|
+| Voor welke situatie zijn de formules voor trillingstijd benaderingen?      | De formules zijn benaderingen voor kleine uitwijkingen.

@@ -1,0 +1,33 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Bijziendheid: Oorzaken en Correctie**
+
+- **Bijziendheid**: Een veelvoorkomende oogafwijking waarbij het beeld van verre objecten niet scherp wordt gezien.
+- **Accommodatie**: De ooglens verandert de **brandpuntsafstand** door de kringspieren aan te spannen, waardoor dichtbijzijnde objecten scherp worden afgebeeld op het netvlies.
+- **Gezond oog**: Het beeld van een object aan de horizon moet scherp worden afgebeeld op het netvlies bij een ontspannen lens.
+- **Bijziend oog**: Bijziendheid ontstaat doordat het netvlies zich verder naar achteren bevindt, waardoor het beeld niet scherp op het netvlies valt. Dit betekent dat **verre objecten** onscherp worden gezien.
+- **Verste punt**: Het verste punt dat scherp kan worden gezien, ligt dichterbij dan oneindig, bijvoorbeeld op 67 cm in dit geval.
+- **Lenscorrectie**: Om scherpe beelden van verre objecten te zien, moet een **negatieve lens** worden gebruikt. Deze lens corrigeert het beeld door het naar het juiste punt op het netvlies te projecteren.
+- **Voorbeeld**: Voor iemand met een verste punt op 67 cm is een negatieve lens met een sterkte van -1,5 dioptrieën nodig om scherp te kunnen zien op grote afstand.
+- **Conclusie**: Bijziendheid wordt veroorzaakt door een iets te lange oogvorm waardoor het netvlies niet op de juiste plaats ligt. Dit kan worden gecorrigeerd met een negatieve bril of contactlenzen.
+
+**Diagnostische vragen**
+
+| Vraag                                                             | Korte antwoord                                                                                   |
+|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Wat is bijziendheid?                                               | Bijziendheid is een oogafwijking waarbij verre objecten niet scherp worden gezien.              |
+| Hoe verandert de ooglens om scherp te zien?                        | De ooglens verandert de brandpuntsafstand door de kringspieren aan te spannen (accommodatie).     |
+| Wat gebeurt er bij een gezond oog met een object aan de horizon?   | Het object wordt scherp afgebeeld op het netvlies bij een ontspannen ooglens.                   |
+| Wat is het probleem bij een bijziend oog?                          | Het netvlies ligt verder naar achteren, waardoor het beeld van verre objecten niet scherp is.    |
+| Wat is het verste punt bij bijziendheid?                           | Het verste punt ligt dichterbij dan oneindig, bijvoorbeeld op 67 cm.                             |
+| Hoe kan bijziendheid gecorrigeerd worden?                          | Met een negatieve lens die het beeld op het juiste punt op het netvlies projecteert.            |
+| Wat is de sterkte van de negatieve lens voor iemand met een verste punt van 67 cm? | Ongeveer -1,5 dioptrieën.                                                                        |
+| Waarom wordt een negatieve lens gebruikt bij bijziendheid?          | Omdat het beeld van verre objecten op een punt moet vallen dat scherp op het netvlies wordt afgebeeld. |
+| Wat veroorzaakt bijziendheid in termen van oogvorm?                 | Het oog is iets te lang, waardoor het netvlies zich verder naar achteren bevindt.                |
+| Wat is de functie van een negatieve bril of contactlens bij bijziendheid? | Deze corrigeert het zicht door het beeld naar het juiste punt op het netvlies te brengen.      |

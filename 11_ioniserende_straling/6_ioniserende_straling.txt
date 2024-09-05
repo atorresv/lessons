@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Soorten Straling en Hun Effecten**
+
+- **Ioniserende straling** kan stoffen veranderen door **ionisatie** van lucht of andere gassen:
+  - Twee metalen platen met lucht ertussen kunnen stroom geleiden als ioniserende straling de lucht ioniseert.
+  - Normaal gesproken leidt lucht geen stroom, maar ioniserende straling creëert **positieve en negatieve deeltjes**, waardoor de lucht geleidend wordt.
+
+- **Types ioniserende straling**:
+  - **Alfastraling**: Bestaat uit **alfadeeltjes** (2 protonen en 2 neutronen). 
+  - **Betastraling**: Bestaat uit **snelle elektronen** of **positronen**.
+  - **Gammastraling**: Een soort **elektromagnetische straling** zonder massa of lading.
+  - **Röntgenstraling**: Wordt geproduceerd in een **röntgenbuis** door elektronen te versnellen en te laten botsen met een metalen doel.
+
+- **Röntgenstraling**:
+  - Gemaakt in een **vacuum** met een verhit metalen draad.
+  - Elektronen worden versneld door een hoge spanning en stoten **röntgenstraling** uit bij botsing met het metaal.
+
+- **Gevolgen voor de gezondheid**:
+  - Straling kan schadelijk zijn voor de gezondheid en leiden tot **ziekten** zoals kanker.
+  - **Alfastraling**, **betastraling**, **gammastraling**, en **röntgenstraling** kunnen allemaal schadelijk zijn.
+
+- **Samenvatting**:
+  - **Ioniserende straling** verandert de elektrische geleidbaarheid van gassen.
+  - Straling kan natuurlijk zijn (alfas, beta, gamma) of kunstmatig geproduceerd (röntgen).
+  - Het is belangrijk om te weten dat straling schadelijk kan zijn en tot ernstige gezondheidsproblemen kan leiden.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                               | **Antwoord**                                                                                                                                          |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wat gebeurt er met lucht tussen twee metalen platen als er ioniserende straling op valt? | De lucht ioniseert, waardoor het als geleider gaat functioneren en stroom gaat geleiden.                                                             |
+| Wat is ioniserende straling?                                             | Straling die gassen ioniseert door het creëren van positieve en negatieve deeltjes.                                                                   |
+| Noem de vier soorten ioniserende straling.                               | **Alfastraling**, **Betastraling**, **Gammastraling**, en **Röntgenstraling**.                                                                           |
+| Wat is alfastraling en uit wat bestaat het?                              | Alfastraling bestaat uit alfadeeltjes, die twee protonen en twee neutronen bevatten.                                                                    |
+| Wat is betastraling?                                                     | Betastraling bestaat uit snelle elektronen of positronen.                                                                                              |
+| Wat is het verschil tussen gammastraling en de andere soorten straling?  | Gammastraling is elektromagnetische straling en geen deeltje, in tegenstelling tot alfastraling en betastraling die deeltjes zijn.                     |
+| Hoe wordt röntgenstraling geproduceerd?                                  | Röntgenstraling wordt geproduceerd door elektronen te versnellen en te laten botsen met een metalen doel in een röntgenbuis.                          |
+| Wat zijn de gezondheidsrisico's van ioniserende straling?                | Ioniserende straling kan schadelijk zijn en leiden tot ziekten zoals kanker.                                                                          |
+| Waar worden röntgenstralen vaak voor gebruikt?                          | Röntgenstralen worden vaak gebruikt voor medische beeldvorming, zoals röntgenfoto's.                                                                  |
+| Wat is de belangrijkste eigenschap van ioniserende straling die het gevaarlijk maakt? | Het kan de lucht ioniseren en zo elektrische stromen veroorzaken, wat schadelijk kan zijn voor de gezondheid.                                          |

@@ -1,0 +1,60 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Methodes voor het Bepalen van Beeldafstand**
+
+- **Twee methodes** om te bepalen waar een beeld wordt gevormd:
+  - **Constructietekening**: Teken een schets om te zien waar het beeld valt.
+  - **Berekening**: Gebruik de lensformule.
+
+- **Definities**:
+  - **Voorwerpsafstand (v)**: Afstand van het voorwerp tot de lens.
+  - **Beeldafstand (B)**: Afstand van de lens tot het beeld.
+  - **Brandpuntsafstand (f)**: Afstand van het brandpunt tot de lens.
+
+- **Lenssterkte**:
+  - **Positieve lens**: Brandpuntsafstand is positief (bijvoorbeeld 4 cm).
+  - **Negatieve lens**: Brandpuntsafstand is negatief (bijvoorbeeld -5 cm).
+
+- **Lensformule**:
+  - Voor een lens met een brandpuntsafstand (f) van 4 cm en een voorwerpsafstand (v) van 6 cm: 
+    - Formule: \( \frac{1}{f} = \frac{1}{v} + \frac{1}{B} \)
+    - Resultaat: Beeldafstand (B) = 2,4 cm.
+
+- **Voorbeeld 1**: 
+  - Voorwerp op 3 cm van een positieve lens met een brandpuntsafstand van 4 cm.
+  - Berekening geeft een negatieve beeldafstand: B = -12 cm (virtueel beeld).
+
+- **Voorbeeld 2**:
+  - Voorwerp (de maan) op oneindige afstand.
+  - Afstand van het papier moet de brandpuntsafstand zijn (80 cm).
+
+- **Samenvatting**:
+  - **Positieve lens**: Vormt een reëel beeld.
+  - **Negatieve lens**: Vormt een virtueel beeld.
+  - De **lensformule** koppelt de voorwerpsafstand, brandpuntsafstand en beeldafstand aan elkaar.
+
+**Diagnostische vragen**
+
+| Vraag | Kort Antwoord |
+|-------|---------------|
+| Wat zijn de twee methodes om te bepalen waar een beeld wordt gevormd? | 1. Constructietekening 2. Berekening met de lensformule |
+| Hoe wordt de voorwerpsafstand aangeduid in de lensformule? | Met de kleine letter **v** |
+| Hoe wordt de beeldafstand aangeduid in de lensformule? | Met de kleine letter **B** |
+| Wat is de brandpuntsafstand en hoe wordt deze aangeduid? | De afstand van het brandpunt tot de lens, aangeduid met de letter **f** |
+| Wat betekent een positieve brandpuntsafstand? | Het betreft een positieve lens, waarbij lichtstralen convergeren. |
+| Wat betekent een negatieve brandpuntsafstand? | Het betreft een negatieve lens, waarbij lichtstralen divergeren. |
+| Hoe wordt de sterkte van een lens uitgedrukt? | In dioptrieën (**D**), waarbij de lenssterkte de mate van convergeren of divergeren van lichtstralen aangeeft. |
+| Wat is de formule voor het berekenen van de beeldafstand (B)? | \( \frac{1}{f} = \frac{1}{v} + \frac{1}{B} \) |
+| Als de brandpuntsafstand van een lens 4 cm is en de voorwerpsafstand 6 cm, wat is dan de beeldafstand? | De beeldafstand is 2,4 cm. |
+| Wat betekent een negatieve beeldafstand? | Het betekent dat het beeld virtueel is. |
+| Hoe bepaal je de vergroting van een beeld? | Vergroting = Beeldgrootte / Voorwerpsgrootte, of als formule: \( \frac{B}{v} \) |
+| Wat gebeurt er met het beeld van een voorwerp als het voorwerp op oneindige afstand staat ten opzichte van een lens? | Het beeld wordt gevormd op de brandpuntsafstand van de lens. |
+| Wat is een reëel beeld? | Een reëel beeld kan op een scherm worden geprojecteerd en wordt gevormd aan de andere kant van de lens dan het voorwerp. |
+| Wat is een virtueel beeld? | Een virtueel beeld kan niet op een scherm worden geprojecteerd en verschijnt aan dezelfde kant van de lens als het voorwerp. |
+

@@ -1,0 +1,56 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Licht en Interferentie**
+
+- **Lichtgedrag**:
+  - Licht gedraagt zich als een **golf**.
+  - De snelheid van licht is **3,0 × 10^8 m/s**, wat veel sneller is dan **geluid**.
+  - De frequentie van licht is ongeveer **5 × 10^14 Hz**.
+  - Golflengte van licht is **500 nm** (nanometers), wat zeer klein is.
+
+- **Tralie**:
+  - Een **tralie** is een patroon van verticale streepjes die dicht bij elkaar staan, vaak met de vorm van een **dia**.
+  - Met het blote oog niet zichtbaar; een **microscoop** is nodig om de streepjes te zien.
+  - De **tralieconstante** is de afstand tussen twee opeenvolgende streepjes, gemeten in **meters**.
+
+- **Interferentie en Licht**:
+  - **Laserlicht** heeft een constante golflengte en kan in verschillende richtingen worden afgebogen door interferentie.
+  - Bij een **klein gaatje** wordt licht verspreid in alle richtingen.
+  - Bij meerdere gaatjes interfereert het licht en ontstaan er patronen op een scherm.
+
+- **Interferentiepatronen**:
+  - Interferentie wordt veroorzaakt door licht dat uit meerdere gaatjes komt en samenkomt in bepaalde richtingen.
+  - **Constructieve interferentie** ontstaat als de vertraging precies een hele golflengte is, waardoor toppen van golven elkaar versterken.
+  - **Tralieformule**: \( \sin(\alpha) = \frac{m \cdot \lambda}{D} \)
+    - \( \alpha \) is de hoek van afbuiging.
+    - \( \lambda \) is de golflengte van het licht.
+    - \( D \) is de tralieconstante.
+    - \( m \) is de orde van interferentie (0, 1, 2, ...).
+
+- **Samenvatting**:
+  - Licht vertoont **interferentie** en gedraagt zich als een golf.
+  - Het interferentiepatroon kan worden beschreven door de tralieformule.
+  - **Lichtstraal** door een tralie produceert stipjes op een scherm door constructieve en destructieve interferentie.
+
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                                   | **Antwoord**                                                                                   |
+|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Hoe gedraagt licht zich volgens het filmpje?                                                                | Licht gedraagt zich als een **golf**.                                                          |
+| Wat is de snelheid van licht en hoe verhoudt deze zich tot de snelheid van geluid?                         | De snelheid van licht is **3,0 × 10^8 m/s**, veel sneller dan **geluid**.                     |
+| Wat is de golflengte van licht zoals genoemd in de tekst?                                                   | De golflengte van licht is ongeveer **500 nm** (nanometers).                                   |
+| Wat is een tralie en waarom is het niet zichtbaar met het blote oog?                                        | Een tralie is een patroon van verticale streepjes, vaak met de vorm van een **dia**, niet zichtbaar zonder **microscoop**. |
+| Wat wordt er bedoeld met de term "tralieconstante"?                                                          | De afstand tussen twee opeenvolgende streepjes op de tralie, gemeten in **meters**.          |
+| Hoe wordt licht beïnvloed als het door een klein gaatje gaat?                                               | Licht wordt verspreid in alle richtingen.                                                     |
+| Wat gebeurt er als licht door meerdere gaatjes tegelijk gaat?                                               | Licht interfereert en produceert patronen op een scherm.                                       |
+| Wat is de formule voor constructieve interferentie bij een tralie?                                            | De tralieformule is \( \sin(\alpha) = \frac{m \cdot \lambda}{D} \).                            |
+| Wat betekent constructieve interferentie en hoe wordt deze veroorzaakt?                                      | Constructieve interferentie ontstaat als de vertraging een hele golflengte is, waardoor golftoppen elkaar versterken. |
+| Wat is de betekenis van de term "orde van interferentie" in de tralieformule?                                | De orde van interferentie (m) is een geheel getal (0, 1, 2, ...) dat de verschillende interferentiepatronen aanduidt.  |
+

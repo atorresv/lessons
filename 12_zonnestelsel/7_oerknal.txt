@@ -1,0 +1,32 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Het Uitdijende Heelal en de Big Bang**
+
+- **Onze zon** maakt deel uit van een **groot sterrenstelsel**.
+- **Edwin Hubble**, een Amerikaanse sterrenkundige, ontdekte dat sterrenstelsels **roodverschuiving** vertonen door het **dopplereffect**.
+- Sterrenstelsels bewegen zich van elkaar af; hoe verder een sterrenstelsel van ons weg staat, hoe sneller het zich lijkt te bewegen.
+- Dit betekent dat het **heelal** aan het **uitdijen** is en steeds groter wordt.
+- **13,7 miljard jaar geleden** vond de **Big Bang** plaats, een grote explosie waarbij het heelal ontstond.
+- Bij de Big Bang zijn alle materie en energie uit elkaar gegaan, wat nog steeds zichtbaar is in de **uitdijing** van het heelal.
+- De waarneming van **roodverschuiving** en de **dopplereffect** wijzen erop dat sterrenstelsels zich van ons af bewegen.
+- Door terug te rekenen, wordt de leeftijd van het heelal geschat op **13,7 miljard jaar**.
+
+**Diagnostische vragen**
+
+| Vraag                                                      | Kort Antwoord                                               |
+|------------------------------------------------------------|--------------------------------------------------------------|
+| Wie ontdekte dat sterrenstelsels roodverschuiving vertonen? | Edwin Hubble                                               |
+| Wat is het effect dat sterrenstelsels doet lijken dat ze zich van ons af bewegen? | Het Dopplereffect                                           |
+| Wat gebeurt er met sterrenstelsels naarmate ze verder van ons weg bewegen? | Ze lijken sneller van ons af te bewegen.                   |
+| Wat wordt er bedoeld met een uitdijend heelal?              | Het heelal wordt steeds groter en breidt zich uit.          |
+| Hoe wordt de theorie genoemd die stelt dat het heelal is ontstaan uit een grote explosie? | De Big Bang (Oerknal)                                      |
+| Hoe lang geleden wordt aangenomen dat de Big Bang plaatsvond? | Ongeveer 13,7 miljard jaar geleden.                         |
+| Wat laat de waarneming van roodverschuiving zien over de beweging van sterrenstelsels? | Sterrenstelsels bewegen zich van ons af.                   |
+| Wat is de geschatte leeftijd van het heelal?                | 13,7 miljard jaar                                         |
+

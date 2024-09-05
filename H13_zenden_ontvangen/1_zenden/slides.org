@@ -1,0 +1,83 @@
+#+TITLE: Presentatie: 
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.01
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_THEME: simple
+#+REVEAL_HLEVEL: 1
+#+REVEAL_HTML: <style>.reveal section img { background:none; border:none; box-shadow:none; }
+#+REVEAL_HTML: li {text-align:left;top: 3px;list-style-type: none;}</style>
+#+REVEAL_EXPORT_NOTES_TO_PDF: separate-page
+#+REVEAL_PLUGINS: (notes search zoom)
+#+REVEAL_TITLE_SLIDE: +
+
+* 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 1.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 2.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 3.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 4.jpg]]
+
+* 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 5.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 6.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 7.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 8.jpg]]
+
+* 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 9.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 10.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 11.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 12.jpg]]
+
+* 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 13.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 14.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 15.jpg]]
+** 
+#+HTML:<hr>
+#+ATTR_HTML: :width 90%
+[[./images/Artboard 16.jpg]]

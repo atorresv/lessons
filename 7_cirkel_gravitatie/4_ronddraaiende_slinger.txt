@@ -1,0 +1,60 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting over Middelpuntzoekende Kracht**
+
+- **Middelpuntzoekende kracht**:
+  - **Nodig** voor **cirkelbeweging**.
+  - Gericht naar het **centrum** van de cirkelbaan.
+
+- **Berekening van middelpuntzoekende kracht**:
+  - Formule: \( F_{\text{middelpunt}} = \frac{m \cdot v^2}{r} \).
+  - **Baansnelheid** (\( v \)): Omtrek van de cirkel / Omlooptijd.
+
+- **Voorbeeld**:
+  - **Balletje** van 20 gram.
+  - **Lengte touwtje**: 30 cm.
+  - **Omlooptijd**: 0,5 seconde.
+  - Benodigde middelpuntzoekende kracht: 0,95 N.
+
+- **Krachten in de cirkelbaan**:
+  - **Onderkant van de baan**:
+    - **Zwaartekracht**: 0,1962 N.
+    - **Spankracht**: Moet hoger zijn dan de zwaartekracht om de middelpuntzoekende kracht van 0,95 N te leveren.
+    - Totale spankracht: 1,1462 N.
+
+  - **Bovenkant van de baan**:
+    - **Zwaartekracht**: Nog steeds 0,1962 N.
+    - **Spankracht**: Kleiner dan bij de onderkant; moet 0,7 N zijn om een totale kracht van 0,95 N te bereiken.
+
+- **Gevolg van onvoldoende middelpuntzoekende kracht**:
+  - Als de middelpuntzoekende kracht kleiner is dan de zwaartekracht, kan de cirkelbeweging niet worden gehandhaafd.
+
+- **Minimale snelheid**:
+  - Grensperiode voor cirkelbeweging: \( T = \frac{2 \pi r}{v} \).
+  - Voorwaarde: Middelpuntzoekende kracht gelijk aan zwaartekracht.
+  - **Omlooptijd** bij minimale snelheid: 1,09 seconden.
+
+- **Belangrijke punten**:
+  - **Cirkelbeweging** vereist **middelpuntzoekende kracht**.
+  - Bereken krachten en snelheden zorgvuldig om de cirkelbeweging te behouden.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                 | Antwoord                                         |
+|---------------------------------------------------------------------------------------|-------------------------------------------------|
+| Wat is de rol van middelpuntzoekende kracht in een cirkelbeweging?                   | Middelpuntzoekende kracht is nodig om een voorwerp in een cirkelbeweging te houden. Het is gericht naar het centrum van de cirkel. |
+| Hoe bereken je de middelpuntzoekende kracht?                                          | Met de formule \( F_{\text{middelpunt}} = \frac{m \cdot v^2}{r} \), waarbij \( m \) de massa is, \( v \) de baansnelheid, en \( r \) de straal van de cirkelbaan. |
+| Wat is de baansnelheid en hoe bereken je deze?                                        | De baansnelheid is de snelheid waarmee een voorwerp de cirkelbaan volgt. Bereken dit door de omtrek van de cirkel te delen door de omlooptijd. |
+| Wat was de benodigde middelpuntzoekende kracht in het voorbeeld met het balletje?     | 0,95 N.                                         |
+| Welke krachten werken op een balletje aan de onderkant van zijn baan?                | Zwaartekracht en spankracht. Spankracht moet groter zijn dan zwaartekracht om de middelpuntzoekende kracht te leveren. |
+| Hoe groot moet de spankracht zijn aan de onderkant van de baan volgens het voorbeeld? | 1,1462 N.                                       |
+| Wat gebeurt er aan de bovenkant van de baan met de krachten op het balletje?          | De zwaartekracht is nog steeds 0,1962 N, maar de spankracht is kleiner omdat de totale kracht nog steeds 0,95 N moet zijn. |
+| Wat is de minimale snelheid waarbij een voorwerp net een cirkelbeweging kan maken?    | De omlooptijd moet minimaal 1,09 seconden zijn bij een straal van 0,3 meter. |
+| Waarom is het belangrijk om de middelpuntzoekende kracht te berekenen?                | Omdat het ervoor zorgt dat het voorwerp in een cirkelbeweging blijft. Te weinig middelpuntzoekende kracht betekent dat het voorwerp uit de cirkelbeweging zal vallen. |
+| Waarvoor dient de berekening van de krachten in cirkelbewegingen?                     | Om te verzekeren dat de resulterende kracht gelijk is aan de benodigde middelpuntzoekende kracht om een stabiele cirkelbeweging te behouden. |

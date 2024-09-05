@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Drie Gaswetten en Hun Relaties**
+
+- **Druk en Volume**:
+  - Druk veroorzaakt door moleculen die tegen de wanden botsen.
+  - **Volume** kleiner: Meer deeltjes per volume-eenheid, meer botsingen, en dus **hogere druk**.
+  - Relatie: \( P \propto \frac{1}{V} \) (omgekeerd evenredig).
+  - **Formule**: \( P = k \cdot \frac{1}{V} \).
+
+- **Druk en Temperatuur**:
+  - Bij stijgende **temperatuur** bewegen de deeltjes sneller, botsingen worden harder, en de **druk** stijgt.
+  - Relatie: \( P \propto T \).
+  - **Formule**: \( P = k \cdot T \) (temperatuur in Kelvin).
+
+- **Druk en Aantal Deeltjes**:
+  - Meer **deeltjes**: Meer botsingen, **hogere druk**.
+  - Relatie: \( P \propto n \).
+  - **Formule**: \( P = k \cdot n \).
+
+- **Samenvatting van Gaswetten**:
+  - **Wet van Boyle**: \( P \propto \frac{1}{V} \) (druk en volume).
+  - **Wet van Gay-Lussac**: \( P \propto T \) (druk en temperatuur).
+  - **Algemene Gaswet**: \( P \propto n \) (druk en aantal deeltjes).
+  - **Voorwaarde**: Deze wetten zijn alleen geldig als andere grootheden constant blijven.
+
+- **Belangrijke Opmerking**: 
+  - Als meerdere grootheden tegelijkertijd veranderen, kunnen deze wetten niet worden toegepast.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Korte antwoord                                                   |
+|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Wat is de relatie tussen druk en volume volgens de eerste gaswet?                            | De druk is omgekeerd evenredig met het volume: \( P \propto \frac{1}{V} \). |
+| Hoe verandert de druk als het volume kleiner wordt?                                          | De druk **stijgt**.                                              |
+| Wat gebeurt er met de druk als de temperatuur stijgt?                                        | De druk **stijgt** omdat de deeltjes sneller bewegen en meer botsingen veroorzaken. |
+| Welke eenheid moet de temperatuur hebben bij het gebruik van de gaswet die de relatie tussen druk en temperatuur beschrijft? | **Kelvin**.                                                      |
+| Wat is de relatie tussen druk en het aantal deeltjes volgens de derde gaswet?                | De druk is recht evenredig met het aantal deeltjes: \( P \propto n \). |
+| Noem de drie gaswetten en hun bijbehorende formules.                                         | 1. **Wet van Boyle**: \( P \propto \frac{1}{V} \).<br>2. **Wet van Gay-Lussac**: \( P \propto T \).<br>3. **Algemene gaswet**: \( P \propto n \). |
+| Wat zijn de voorwaarden voor het toepassen van de gaswetten?                                 | De andere grootheden moeten constant blijven tijdens de berekeningen. |
+| Wat moet je doen als meerdere grootheden tegelijkertijd veranderen?                          | De gaswetten zijn **niet** van toepassing; je kunt ze alleen gebruiken als andere grootheden constant blijven. |

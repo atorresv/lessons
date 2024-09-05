@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van de wetten van Newton**
+
+- **Publicatie en oorsprong**:
+  - **Isaac Newton** publiceerde de wetten in **eind zeventiende eeuw**.
+  - Boek: **Philosophiæ Naturalis Principia Mathematica** (afgekort als **Principia**).
+
+- **De drie wetten van Newton**:
+  - **Eerste wet**: 
+    - **Staat**: Een object blijft **stil** of beweegt met **constante snelheid** als de **nettokracht** op het object **nul** is.
+    - Voorbeeld: Een **autootje** met constante snelheid heeft een netto kracht van nul, hoewel het een **motor** en **wrijving** heeft.
+  - **Tweede wet**:
+    - **Staat**: Als er een nettokracht op een object werkt, zal het object **versnellen**. De versnelling is **omgekeerd evenredig** met de massa.
+    - Formule: **F = m × a** (kracht = massa × versnelling).
+    - Voorbeeld: Massa van **5 kg** valt met een versnelling van **9,81 m/s²** door de zwaartekracht.
+  - **Derde wet**:
+    - **Staat**: Voor elke **actie** is er een **gelijke en tegengestelde reactie**.
+    - Voorbeeld: Als een blok op de aarde drukt, drukt de aarde met gelijke kracht terug op het blok.
+
+- **Belang**:
+  - De wetten van Newton vormen de **basis** van de mechanica, zowel op aarde als voor **hemellichamen**.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                           | **Korte Antwoord**                                     |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Wie publiceerde de wetten van Newton en in welk jaar?                                              | Isaac Newton, eind zeventiende eeuw.                  |
+| Hoe heet het boek waarin de wetten van Newton zijn gepubliceerd?                                  | **Philosophiæ Naturalis Principia Mathematica**.       |
+| Wat zegt de eerste wet van Newton over een object met constante snelheid?                         | De nettokracht op het object is nul.                   |
+| Hoe verhoudt de kracht op een object zich tot de snelheid volgens de eerste wet?                  | De kracht is nul als de snelheid constant is.          |
+| Wat is de formule van de tweede wet van Newton?                                                    | **F = m × a** (kracht = massa × versnelling).          |
+| Hoeveel is de versnelling door zwaartekracht op aarde volgens de tweede wet van Newton?            | **9,81 m/s²**.                                         |
+| Wat stelt de derde wet van Newton over actie en reactie?                                           | Voor elke actie is er een gelijke en tegengestelde reactie. |
+| Geef een voorbeeld van de derde wet van Newton.                                                    | Een blok dat op de aarde drukt, terwijl de aarde met gelijke kracht terugdrukt. |

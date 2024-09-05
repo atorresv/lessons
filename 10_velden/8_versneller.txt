@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Versneller en Elektronenkanon**
+
+- **Toepassing van Elektrische Velden:**
+  - **Versneller**: Een belangrijk apparaat dat elektrische velden gebruikt om deeltjes te versnellen.
+  
+- **Constructie van een Versneller:**
+  - **Twee Geplaatste Platen**: Eén **negatief geladen** en één **positief geladen**.
+  - **Spanning**: Bijvoorbeeld **1000 volt** tussen de platen.
+  
+- **Werking van een Versneller:**
+  - **Elektronen**: Versnellen door de elektrische kracht van de platen.
+  - **Elektrische Energie naar Kinetische Energie**: De spanning zet elektrische energie om in kinetische energie.
+  - **Formule**: Elektrische energie \(E = q \times U\), waarbij \(q\) de lading en \(U\) de spanning is.
+
+- **Snelheidsberekening:**
+  - **Lading van Elektron**: **1,602 × 10⁻¹⁹ C**
+  - **Massa van Elektron**: **9,09 × 10⁻³¹ kg**
+  - **Formule voor Snelheid**: De snelheid van het elektron kan worden berekend met de massa en lading.
+
+- **Elektronenkanon:**
+  - **Gloeidraad**: Vrijmaakt elektronen door stroom, gebruikt in plaats van een negatieve plaat.
+  - **Kathode**: Waar de elektronen vandaan komen.
+  - **Anode**: Waar de elektronen naartoe gaan.
+  - **Vacuüm**: Noodzakelijk om luchtmoleculen te verwijderen die anders de elektronen zouden vertragen.
+
+- **Samenvatting:**
+  - Een versneller gebruikt een positief en negatief geladen plaat om elektronen te versnellen, waarbij elektrische energie wordt omgezet in kinetische energie. Dit principe wordt toegepast in een elektronenkanon, waarbij elektronen continu worden aangemaakt en versneld door een spanningsverschil.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Kort Antwoord                                                       |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Wat is een belangrijke toepassing van elektrische velden in dit context?                      | **Versneller**                                                      |
+| Wat gebeurt er als er een spanning tussen twee platen heerst in een versneller?              | Elektronen worden versneld en elektrische energie wordt omgezet in kinetische energie. |
+| Wat is de formule om de elektrische energie van een deeltje te berekenen?                     | \( E = q \times U \), waarbij \( q \) de lading en \( U \) de spanning is. |
+| Wat zijn de lading en massa van een elektron?                                                 | Lading: **1,602 × 10⁻¹⁹ C**, Massa: **9,09 × 10⁻³¹ kg**              |
+| Wat is de functie van de gloeidraad in een elektronenkanon?                                    | Het maakt elektronen vrij die versneld worden door de spanning.    |
+| Wat zijn de benamingen van de plaatsen waar elektronen vandaan komen en naartoe gaan in een elektronenkanon? | **Kathode** (waar de elektronen vandaan komen) en **Anode** (waar de elektronen naartoe gaan). |
+| Waarom moet een versneller in een vacuüm worden geplaatst?                                     | Om te voorkomen dat elektronen snelheid verliezen door botsingen met luchtmoleculen. |
+| Wat wordt er bedoeld met een elektronenkanon?                                                   | Een apparaat dat continu elektronen aanmaakt en versnelt door een spanningsverschil, wat een kanon van elektronen creëert. |

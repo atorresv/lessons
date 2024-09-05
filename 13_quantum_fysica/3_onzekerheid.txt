@@ -1,0 +1,54 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Kwantummechanica: Onzekerheid in Plaats en Impuls**
+
+- **Elektronen en protonen**:
+  - In de kwantummechanica worden ze voorgesteld als **golven**, niet als deeltjes.
+  - Een elektron moet worden gezien als een **golf** in plaats van een balletje.
+
+- **Amplitude van een golf**:
+  - De amplitude geeft de **waarschijnlijkheid** aan om een deeltje op een bepaalde plaats aan te treffen.
+  - Waar de amplitude groter is, is de kans om het deeltje daar aan te treffen groter.
+
+- **Onzekerheid in plaats en impuls**:
+  - **Delta x** (onzekerheid in plaats): Weet nooit precies waar een deeltje zich bevindt.
+  - **Delta p** (onzekerheid in impuls): De onzekerheid in de snelheid van een deeltje.
+
+- **Impuls**:
+  - Impuls is de **mate van beweging** van een deeltje, berekend als \( p = m \times v \) (massa × snelheid).
+  - Hoe groter de snelheid, hoe groter de impuls.
+
+- **Heisenberg's Onzekerheidsprincipe**:
+  - **Onzekerheid in plaats** (Δx) × **onzekerheid in impuls** (Δp) is altijd groter dan een constante, bekend als de **constante van Planck** gedeeld door 4π.
+  - Deze constante is te vinden in tabellen zoals Binas tabel 7.
+
+- **Effect van opsluiting**:
+  - Als een deeltje opgesloten zit in een klein **doosje**, is de onzekerheid in plaats klein, maar de onzekerheid in impuls is groot.
+  - Het is moeilijk om de snelheid van een opgesloten deeltje te bepalen.
+
+- **Effect van snelheid**:
+  - Als de snelheid van een deeltje precies bekend is, is de onzekerheid in plaats groot.
+  - Het deeltje kan zich overal in de ruimte bevinden.
+
+- **Samenvatting**:
+  - In de kwantummechanica is het **onmogelijk** om zowel de plaats als de snelheid van een deeltje precies te kennen.
+  - De **onzekerheid in plaats** (Δx) en de **onzekerheid in impuls** (Δp) zijn met elkaar verbonden door Heisenberg's onzekerheidsprincipe.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                   | Kort antwoord                                                                                       |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Hoe worden elektronen en protonen voorgesteld in de kwantummechanica?                   | Ze worden voorgesteld als **golven** en niet als deeltjes.                                        |
+| Wat geeft de **amplitude van een golf** aan in de context van een deeltje?              | De waarschijnlijkheid om een deeltje op een bepaalde plaats aan te treffen.                       |
+| Wat is de relatie tussen **Delta x** en **Delta p** volgens Heisenberg's onzekerheidsprincipe? | **Delta x** (onzekerheid in plaats) × **Delta p** (onzekerheid in impuls) is altijd groter dan een constante. |
+| Hoe wordt **impuls** berekend en wat vertegenwoordigt het?                             | Impuls wordt berekend als \( p = m \times v \) (massa × snelheid) en vertegenwoordigt de mate van beweging van een deeltje. |
+| Wat gebeurt er met de onzekerheid in plaats en impuls als een deeltje in een klein doosje zit? | Onzekerheid in plaats is klein, maar de onzekerheid in impuls is groot.                           |
+| Wat is het effect van het precies kennen van de snelheid van een deeltje op de onzekerheid in plaats? | De onzekerheid in plaats is groot als de snelheid precies bekend is.                             |
+| Wat is de constante van Planck en waar wordt deze in de context van onzekerheid gebruikt? | De constante van Planck wordt gebruikt in Heisenberg's onzekerheidsprincipe en is te vinden in tabellen zoals Binas tabel 7. |
+| Wat is de belangrijkste conclusie van Heisenberg's onzekerheidsprincipe?                | Het is onmogelijk om zowel de plaats als de snelheid van een deeltje precies te kennen.         |

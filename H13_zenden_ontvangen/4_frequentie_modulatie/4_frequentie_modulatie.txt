@@ -1,0 +1,10 @@
+4_FREQUENTIE_MODULATIE_FM
+*  Moduleren draaggolf
+*  Moduleren van frequentie
+*  Grafische weergave
+*  FM in de praktijk
+
+techniek voor modulatie van signaal
+frequentie van draaggolf aangepast volgens signaal
+ontvanger demoduleer signaal
+afkorting FM

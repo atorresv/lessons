@@ -1,0 +1,50 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Magnetisme en Magnetische Invloeden**
+
+- **Magnetisme**:
+  - Sommige **metalen voorwerpen** kunnen elkaar **aantrekken** of **afstoten** zonder elektrische lading.
+  - Een **magneet** heeft twee **polen**: een **Noordpool** en een **Zuidpool**.
+  - **Permanente magneten** behouden hun magnetische eigenschappen.
+
+- **Interactie tussen Magneten**:
+  - **Noordpolen** van magneten **stoten** elkaar af.
+  - **Zuidpolen** van magneten **stoten** elkaar af.
+  - **Noordpool** en **Zuidpool** van verschillende magneten **trekken** elkaar aan.
+
+- **Tijdelijke Magnetisering**:
+  - Voorwerpen die van zichzelf niet magnetisch zijn kunnen tijdelijk **magnetisch** worden als ze in de buurt van een magneet komen.
+  - Dit fenomeen heet **magnetische influentie**.
+  - Voorbeeld: een **paperclip** wordt tijdelijk magnetisch als het in de buurt van een magneet wordt gebracht.
+
+- **Magnetische Eigenschappen van de Aarde**:
+  - De **Aarde** is ook een magneet.
+  - De **Noordpool** van de aarde is de **magnetische Zuidpool** en de **Zuidpool** van de aarde is de **magnetische Noordpool**.
+  - Een **kompas** werkt op basis van deze magnetische eigenschappen en richt zich naar het magnetische **Noorden**.
+
+- **Samenvatting**:
+  - Een **permanente magneet** gedraagt zich altijd als een magneet.
+  - Gelijke magnetische polen stoten elkaar af, terwijl verschillende polen elkaar aantrekken.
+  - Voorwerpen die van zichzelf niet magnetisch zijn kunnen tijdelijk magnetisch worden door een nabijgelegen magneet.
+  - De werking van een **kompas** is gebaseerd op het magnetisme van de aarde.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Korte Antwoord**                                               |
+|---------------------------------------------------------------------------|------------------------------------------------------------------|
+| Wat is magnetisme?                                                          | Magnetisme is het fenomeen waarbij metalen voorwerpen elkaar kunnen aantrekken of afstoten zonder elektrische lading. |
+| Welke twee polen heeft een magneet?                                         | Een magneet heeft een **Noordpool** en een **Zuidpool**.         |
+| Wat gebeurt er als twee Noordpolen van magneten elkaar benaderen?           | Ze **stoten** elkaar af.                                         |
+| Wat gebeurt er als een Noordpool en een Zuidpool van verschillende magneten elkaar benaderen? | Ze **trekken** elkaar aan.                                       |
+| Wat is magnetische influentie?                                              | Magnetische influentie is het tijdelijke magnetisch worden van een voorwerp door de nabijheid van een magneet.       |
+| Hoe verandert een paperclip in de nabijheid van een magneet?                 | Een paperclip wordt tijdelijk magnetisch door de nabijheid van een magneet. |
+| Wat is de magnetische eigenschap van de aarde?                               | De aarde is een magneet met een magnetische Noordpool en Zuidpool. |
+| Hoe werkt een kompas?                                                        | Een kompas richt zich naar het magnetische Noorden van de aarde.  |
+| Wat gebeurt er als een magneet wordt verwijderd van een tijdelijk magnetisch voorwerp? | Het voorwerp verliest zijn magnetische eigenschappen en wordt weer normaal metaal. |
+| Wat is een permanente magneet?                                               | Een permanente magneet is een stuk metaal dat altijd als een magneet functioneert. |

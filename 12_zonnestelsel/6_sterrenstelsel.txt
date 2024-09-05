@@ -1,0 +1,38 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Sterrenstelsels en de Melkweg**
+
+- **Zonnestelsel**: Bestaat uit de **Zon** en de planeten.
+- **Omgeving van het zonnestelsel**: Buiten het zonnestelsel is er **grote leegte**.
+- **Dichtstbijzijnde ster**: Staat op **ongeveer 4 lichtjaar** afstand van de zon.
+- **Verdeling van sterren**: Sterren zijn **niet willekeurig**, maar liggen in **grote banden**.
+- **Sterrenstelsel**: Groep van sterren, zoals de **Melkweg**, waarin de zon zich bevindt.
+  - **Spiraalarmen**: Het sterrenstelsel bij de zon heeft **spiraalarmen**.
+  - **Aantal sterren**: Ongeveer **100 miljard sterren** in ons sterrenstelsel.
+  - **Doorsnede**: Ongeveer **100.000 lichtjaar**.
+- **Zichtbaarheid van de Melkweg**: In de zomer kan een **lichte band** aan de hemel zichtbaar zijn, wat de **Melkweg** is.
+- **Variatie in sterrenstelsels**: Sterrenstelsels kunnen **variëren** in vorm, aantal sterren en grootte.
+- **Samenvatting**: Sterrenstelsels zijn **grote groepen sterren**, en alle sterren in het heelal bevinden zich binnen een sterrenstelsel. Ons sterrenstelsel wordt de **Melkweg** genoemd.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Antwoord                                       |
+|-----------------------------------------------------------------------------------------------|------------------------------------------------|
+| Wat bestaat uit de zon en de planeten?                                                         | Het **zonnestelsel**.                          |
+| Wat bevindt zich buiten het zonnestelsel?                                                      | Een **grote leegte**.                          |
+| Hoe ver staat de dichtstbijzijnde ster van de zon?                                             | Ongeveer **4 lichtjaar**.                      |
+| Hoe zijn de sterren in het heelal verdeeld?                                                     | Ze liggen in **grote banden**.                 |
+| Wat wordt een **groep van sterren** genoemd?                                                     | Een **sterrenstelsel**.                       |
+| Wat is de naam van ons sterrenstelsel?                                                           | De **Melkweg**.                               |
+| Wat is de doorsnede van het sterrenstelsel waarin de zon zich bevindt?                        | Ongeveer **100.000 lichtjaar**.               |
+| Hoeveel sterren bevat het sterrenstelsel bij de zon?                                           | Ongeveer **100 miljard sterren**.             |
+| Hoe kan de Melkweg zichtbaar zijn in de zomer?                                                 | Als een **lichte band** aan de hemel.         |
+| Hebben alle sterrenstelsels spiraalarmen?                                                      | Nee, niet alle sterrenstelsels hebben **spiraalarmen**. |
+| Wat kun je zeggen over de variatie in sterrenstelsels?                                          | Ze kunnen verschillen in **vorm**, **aantal sterren**, en **grootte**. |
+| Hoe worden sterrenstelsels genoemd?                                                            | **Sterrenstelsels**.                          |

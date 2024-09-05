@@ -1,0 +1,54 @@
+ Antenne
+ Zender en ontvanger
+ Eigenschappen radiostraling
+ Lopende golf λ=v/f
+ Samenvatting
+
+ / 
+2_MODULATIE
+ Draaggolf
+ Signaalgolf
+ Moduleren/demoduleren
+ Samenvatting
+
+ / 
+3_AMPLITUDE_MODULATIE_AM
+ Moduleren draaggolf
+ Moduleren van amplitude
+ Grafische weergave
+ AM in de praktijk
+ Samenvatting
+
+ / 
+4_FREQUENTIE_MODULATIE_FM
+ Moduleren draaggolf
+ Moduleren van frequentie
+ Grafische weergave
+ FM in de praktijk
+ Samenvatting
+
+ / 
+5_BANDBREEDTE
+ Verschillende draaggolffrequentie
+ Frequentiespectrum
+ Bandbreedte
+ Signaal bepaalt bandbreedte
+fsignaal f+fsignaal
+ Samenvatting
+
+ / 
+6_BITRATE
+ Stroom enen en nullen
+ Wat is bitrate?
+ Voorbeeld
+ Byte is 8 bits
+ Samenvatting
+
+ / 
+7_SAMPLING_BEMONSTEREN
+ Stroom enen en nullen
+ Samplefrequentie
+ Aantal bits bepaalt resolutie
+ Samenvatting
+
+ / 

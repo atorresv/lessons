@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Soorten Straling en Hun Eigenschappen**
+
+- **Ioniserende straling**:
+  - **Gammastraling** en **röntgenstraling** kunnen door materialen heen gaan en ioniseren de atomen die ze tegenkomen.
+
+- **Alfastraling**:
+  - **Alfadeeltjes** verliezen kinetische energie tijdens hun reis door een stof.
+  - Ze worden afgeremd en hun snelheid neemt af totdat ze stoppen, vaak omgevormd tot **helium atomen**.
+  - **Dracht**: De afstand die alfadeeltjes gemiddeld in een materiaal afleggen is klein, slechts enkele centimeters in lucht.
+  - **Ioniserend vermogen**: Ze hebben een hoog ioniserend vermogen, maken veel ionen langs hun pad.
+
+- **Betastraling**:
+  - **Betadeeltjes** dringen verder door in een materiaal dan alfadeeltjes, kunnen enkele meters in lucht afleggen.
+  - Hun ioniserend vermogen is minder dan dat van alfastraling.
+
+- **Röntgenstraling**:
+  - Kan door vrijwel alle materialen heen gaan.
+  - Heeft een gemiddelde dracht die veel verder gaat dan alfastraling en betastraling.
+
+- **Gammastraling**:
+  - Heeft een extreem groot doordringend vermogen, kan door vrijwel alle materialen heen, inclusief lood.
+  - **Ioniserend vermogen**: Het laagste van de vier types straling.
+
+- **Samenvatting**:
+  - **Dracht** (doordringend vermogen): Hoe ver een deeltje gemiddeld in een materiaal komt.
+  - Afhankelijk van de **soort materiaal** en **soort straling**.
+  - **Ioniserend vermogen**: Hoe goed een deeltje ionen maakt in een stof, alfastraling heeft het hoogste ioniserend vermogen, gammastraling het laagste.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                             | Korte Antwoord                                                                                 |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Wat is het effect van alfastraling op de snelheid van het deeltje?                               | Alfastraling verliest kinetische energie, waardoor de snelheid van het deeltje afneemt.        |
+| Hoe wordt de dracht van alfastraling omschreven en wat is de afstand die het kan afleggen?       | De dracht van alfastraling is klein, meestal slechts enkele centimeters in lucht.             |
+| Wat is het ioniserend vermogen van alfastraling in vergelijking met andere soorten straling?       | Alfastraling heeft een hoog ioniserend vermogen in vergelijking met beta-, gamma- en röntgenstraling. |
+| Hoe ver kan betastraling gemiddeld doordringen in een materiaal zoals lucht?                      | Betastraling kan enkele meters in lucht doordringen.                                           |
+| Wat is de belangrijkste eigenschap van röntgenstraling?                                           | Röntgenstraling kan door vrijwel alle materialen heen en heeft een groot doordringend vermogen. |
+| Hoe ver kan gammastraling gemiddeld doordringen in materialen zoals lood?                         | Gammastraling kan door vrijwel alle materialen heen, zelfs door lood.                         |
+| Wat is de relatie tussen het ioniserend vermogen en de dracht van verschillende soorten straling? | De dracht en het ioniserend vermogen zijn omgekeerd evenredig: hoge dracht betekent laag ioniserend vermogen en vice versa. |
+| Welke straling heeft het hoogste ioniserend vermogen en welke het laagste?                        | Alfastraling heeft het hoogste ioniserend vermogen, terwijl gammastraling het laagste heeft.   |

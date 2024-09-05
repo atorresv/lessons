@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Wet van Lenz en Inductiestroom**
+
+- **Inductiestroom** ontstaat bij **verandering** van magnetische **Flux** door een spoel.
+- De **Wet van Lenz** bepaalt de **richting** van de inductiestroom:
+  - De stroom heeft een **richting** die de oorzaak van zijn ontstaan **tegenwerkt**.
+- **Voorbeeld**:
+  - Bij het **bewegen** van een staafmagneet langs een spoel ontstaat inductiestroom.
+  - Als de magneet **stil** staat, is er geen inductiestroom.
+- **Oorzaak van inductiestroom**:
+  - Verandering in de **Flux** door het **magneetveld**.
+  - Als de Flux **toeneemt**, wordt de inductiestroom opgewekt om deze toename **tegen te werken**.
+- **Rechterhandregel**:
+  - Bepaal de richting van de stroom door je rechterhand **volgorde** te gebruiken.
+  - Bij een toenemende Flux in een richting, zal de stroom **tegengesteld** zijn aan de richting van de Flux.
+- **Meeflux** en **Tegenflux**:
+  - **Tegenflux**: Inductiestroom die een toename van de Flux **tegenwerkt**.
+  - **Meeflux**: Inductiestroom die een afname van de Flux **tegengaat**.
+- **Samenvatting**:
+  - De Wet van Lenz zegt dat de **stroomrichting** altijd de oorzaak van zijn ontstaan **tegenwerkt**.
+  - Bepaal eerst de richting van het magneetveld en de verandering van de Flux om de richting van de stroom te bepalen.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is de Wet van Lenz? | De Wet van Lenz stelt dat de inductiestroom een richting heeft die de oorzaak van zijn ontstaan tegenwerkt. |
+| Hoe wordt inductiestroom opgewekt? | Inductiestroom wordt opgewekt wanneer er een verandering is in de magnetische Flux door een spoel. |
+| Wat gebeurt er met de inductiestroom als een staafmagneet stil staat ten opzichte van een spoel? | Als de staafmagneet stil staat, is er geen inductiestroom. |
+| Hoe bepaal je de richting van de inductiestroom volgens de Wet van Lenz? | De richting van de inductiestroom kan worden bepaald door te kijken naar de verandering in de Flux en te bepalen hoe deze verandering wordt tegengewerkt. |
+| Wat is het effect van een toenemende magnetische Flux op de inductiestroom? | Een toenemende magnetische Flux veroorzaakt een inductiestroom die een tegenflux opwekt om de toename van de Flux tegen te werken. |
+| Hoe kan de rechterhandregel helpen bij het bepalen van de stroomrichting? | De rechterhandregel helpt door je hand zodanig te plaatsen dat je vingers de richting van het magneetveld volgen en je duim de richting van de inductiestroom aangeeft. |
+| Wat is het verschil tussen tegenflux en meeflux? | Tegenflux is de stroom die een toename van de Flux tegenwerkt, terwijl meeflux de stroom is die een afname van de Flux tegenwerkt. |
+| Wat moet je eerst doen om de stroomrichting te bepalen volgens de Wet van Lenz? | Eerst moet je de richting van het magneetveld en de verandering in de Flux bepalen. |
+
+

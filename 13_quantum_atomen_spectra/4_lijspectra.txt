@@ -1,0 +1,42 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Emissiespectrum en absorptiespectrum**
+
+- **Straling van voorwerpen**:
+  - **Vaste stoffen en vloeistoffen**: Straling wordt uitgezonden in een **continu spectrum** met **alle golflengtes** binnen bepaalde grenzen.
+  - **Temperatuurafhankelijk**: Bij lagere temperaturen is de straling zwakker en meer in het **infrarode** bereik; bij hogere temperaturen verschuift de straling naar **UV** en andere kortere golflengtes.
+
+- **Gassen**:
+  - **Spectrum**: Verschilt van vaste stoffen en vloeistoffen, bestaat uit **emissielijnen** in plaats van een continu spectrum.
+  - **Lijnenspectrum**: Bevat maar een paar **specifieke golflengtes** of **kleuren**; gebieden zonder licht zijn zwart en worden **absorptielijnen** genoemd.
+
+- **Emissiespectrum**:
+  - Elke stof heeft **eigen emissielijnen**; deze lijnen zijn als een **vingerafdruk** voor de stof.
+  - **Lijnenspectrum** toont welke specifieke kleuren een gas uitzendt.
+
+- **Absorptiespectrum**:
+  - Wanneer wit licht door een gas gaat, worden bepaalde golflengtes **geabsorbeerd** door het gas, wat leidt tot **zwarte lijnen** in een continu spectrum.
+  - Deze **absorptielijnen** komen overeen met de **emissielijnen** van het gas.
+
+- **Samenvatting**:
+  - Een **emissiespectrum** toont specifieke kleuren van licht die door een gas worden uitgezonden.
+  - Een **absorptiespectrum** toont de golflengtes die door een gas worden geabsorbeerd als wit licht erdoorheen gaat. 
+
+**Diagnostische vragen**
+
+| Vraag                                                                                              | Antwoord                                                                                                               |
+|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Wat voor spectrum geeft een vaste stof of vloeistof af?                                           | Een **continu spectrum** met **alle golflengtes** binnen bepaalde grenzen.                                             |
+| Hoe verandert het spectrum bij een verhoging van de temperatuur van een voorwerp?                  | Bij hogere temperaturen verschuift het spectrum naar **kortere golflengtes**, zoals **UV**.                            |
+| Wat voor spectrum heeft een gas?                                                                   | Een **lijnenspectrum** met **emissielijnen** op specifieke golflengtes.                                                  |
+| Wat zijn emissielijnen?                                                                           | **Emissielijnen** zijn de specifieke golflengtes of kleuren die door een gas worden uitgezonden.                        |
+| Wat gebeurt er met het spectrum van een gas als wit licht door het gas heen valt?                  | Het spectrum bevat **absorptielijnen** waar bepaalde golflengtes door het gas worden **geabsorbeerd**.                 |
+| Hoe worden absorptielijnen in een spectrum weergegeven?                                           | **Absorptielijnen** verschijnen als **zwarte lijnen** in een continu spectrum, waar het gas specifieke golflengtes blokkeert. |
+| Wat betekent het als een emissiespectrum wordt vergeleken met een absorptiespectrum?               | Het emissiespectrum toont welke golflengtes worden uitgezonden, terwijl het absorptiespectrum toont welke golflengtes worden geabsorbeerd. |
+| Wat is de rol van absorptielijnen in het identificeren van een stof?                               | **Absorptielijnen** helpen bij het identificeren van een stof omdat elke stof unieke lijnen heeft die in het spectrum verschijnen. |

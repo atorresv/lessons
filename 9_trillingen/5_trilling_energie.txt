@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Wet van Behoud van Energie bij Trillingen**
+
+- **Trillingsenergie**:
+  - **Totaal** van alle **energiesoorten** blijft constant.
+  - Bestaat uit **kinetische energie**, **potentiële energie**, en **veerenergie**.
+
+- **Slingerbeweging**:
+  - Op **hoogste punt**:
+    - **Potentiële energie** is maximaal.
+    - **Kinetische energie** is 0.
+  - Op **laagste punt**:
+    - **Kinetische energie** is maximaal.
+    - **Potentiële energie** is 0.
+
+- **Veersysteem**:
+  - **Potentiële energie** op maximale uitrekking.
+  - **Kinetische energie** op maximale snelheid.
+  - **Formule voor trillingsenergie**: Totaal van kinetische energie en veerenergie blijft gelijk.
+
+- **Formules**:
+  - **Kinetische energie**: \( \frac{1}{2} mv^2 \)
+  - **Veerenergie**: \( \frac{1}{2} kx^2 \)
+  - **Maximale snelheid**: \( v_{\text{max}} = \sqrt{\frac{k}{m}} \times x_{\text{max}} \)
+
+- **Toepassing**:
+  - Formules gelden voor **harmonische trillingen**.
+  - In alle situaties blijft de totale **trillingsenergie** constant.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                    |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Wat is de **trillingsenergie**?                                             | De som van **kinetische energie**, **potentiële energie**, en **veerenergie**. |
+| Wat gebeurt er met de **potentiële energie** en de **kinetische energie** in een **slingerbeweging** op het hoogste punt? | Op het hoogste punt is de **potentiële energie** maximaal en de **kinetische energie** is 0. |
+| Wat gebeurt er met de **potentiële energie** en de **kinetische energie** op het laagste punt van een slingerbeweging? | Op het laagste punt is de **kinetische energie** maximaal en de **potentiële energie** is 0. |
+| Welke **formule** wordt gebruikt om de maximale snelheid in een massa-veersysteem te berekenen? | \( v_{\text{max}} = \sqrt{\frac{k}{m}} \times x_{\text{max}} \) |
+| Voor welk type trillingen gelden de gegeven formules?                        | De formules gelden voor **harmonische trillingen**.             |
+| Hoe verandert de **trillingsenergie** tijdens een trilling?                   | De totale **trillingsenergie** blijft constant.                |
+| Wat is de relatie tussen **kinetische energie** en **veerenergie** tijdens een trilling? | De **trillingsenergie** is de som van **kinetische energie** en **veerenergie**. |

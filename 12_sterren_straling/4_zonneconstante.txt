@@ -1,0 +1,35 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Zonneconstante en Intensiteit van Zonnestaling**
+
+- De **intensiteit** van de zonnestraling op het aardoppervlak wordt de **zonneconstante** genoemd.
+- De zonneconstante is het **vermogen** dat je per vierkante meter oppervlak ontvangt van de zonnestralen.
+- Het vermogen per vierkante meter kan berekend worden met behulp van de **kwadratenwet**.
+- De zonneconstante kan worden berekend met de gegevens uit Binas tabel 32c:
+  - **Vermogen van de zon**: \(3,9 \times 10^{26}\) watt
+  - **Afstand tot de zon**: \(1,496 \times 10^{11}\) meter
+- De berekende intensiteit van de zonnestralen op aarde is \(1,4 \times 10^{3}\) watt per vierkante meter.
+- De **nauwkeurig bepaalde zonneconstante** is \(1,368 \times 10^{3}\) watt per vierkante meter.
+- Belangrijke overwegingen:
+  - Alleen de **daghelft** van de aarde ontvangt deze intensiteit.
+  - De intensiteit varieert afhankelijk van de **hoek** waaronder de zonnestralen het aardoppervlak bereiken.
+  - Er is geen rekening gehouden met de **reflectie** en de atmosfeer die een deel van de straling terugkaatst of absorbeert.
+- Samenvattend: De zonneconstante ligt rond de \(1,4 \times 10^{3}\) watt per vierkante meter, maar kan iets variëren.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                                                                                                   | **Antwoord**                                                     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Wat wordt de intensiteit van zonnestraling op het aardoppervlak genoemd?                                                                                                 | De zonneconstante.                                               |
+| Hoe wordt de zonneconstante berekend?                                                                                                                                       | Met de kwadratenwet, op basis van het vermogen van de zon en de afstand tot de zon. |
+| Wat zijn de waarden voor het vermogen van de zon en de afstand tot de zon volgens Binas tabel 32c?                                                                       | Vermogen van de zon: \(3,9 \times 10^{26}\) watt; afstand tot de zon: \(1,496 \times 10^{11}\) meter. |
+| Wat is de berekende intensiteit van de zonnestralen op aarde?                                                                                                              | \(1,4 \times 10^{3}\) watt per vierkante meter.                  |
+| Wat is de nauwkeurig bepaalde waarde van de zonneconstante?                                                                                                                 | \(1,368 \times 10^{3}\) watt per vierkante meter.                |
+| Welke factoren beïnvloeden de werkelijke zonnestraling die het aardoppervlak bereikt?                                                                                     | De daghelft die de zonnestralen ontvangt, de hoek van de stralen, en de reflectie door de atmosfeer. |
+| Waarom is de zonneconstante een benadering?                                                                                                                                | Omdat slechts de helft van de aarde de straling ontvangt, de hoek van de zonnestralen varieert, en een deel van de straling door de atmosfeer wordt gereflecteerd of geabsorbeerd. |

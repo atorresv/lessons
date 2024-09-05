@@ -1,0 +1,50 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Toepassingen van Lorentzkracht**
+
+- **Lorentzkracht en geladen deeltjes:**
+  - **Lorentzkracht** werkt op een geladen deeltje in een magneetveld.
+  - **Beweging** van een geladen deeltje verandert bij het aanzetten van een magneetveld.
+  - **Regel**: met de linkerhand kun je de richting van de kracht bepalen; vingers in de richting van snelheid, handpalm vangt het magneetveld op.
+  - **Resultaat**: het deeltje beweegt in een cirkelbaan door de Lorentzkracht, die de middelpuntzoekende kracht levert.
+
+- **Formules:**
+  - **Lorentzkracht**: \( F_L = p \cdot v \cdot B \)
+    - **p** = magnetische veldsterkte
+    - **v** = snelheid van het deeltje
+    - **B** = magnetische veldsterkte
+  - **Middelpuntzoekende kracht**: \( F_{cent} = \frac{m \cdot v^2}{r} \)
+    - **m** = massa van het deeltje
+    - **v** = snelheid
+    - **r** = straal van de cirkelbaan
+
+- **Toepassingen:**
+  - **Onderzoek naar elementaire deeltjes**: het bepalen van de lading en massa van deeltjes door hun snelheid en straal te meten.
+  - **Elektromotor**: werking door een stroomdraad die draait in een magnetisch veld. 
+    - **Stroom** door een draad creëert een Lorentzkracht die de draad laat draaien.
+    - **Elektromotor** bestaat uit meerdere draden in een magneetveld die continu draaien door wisseling van stroomrichting.
+
+- **Samenvatting:**
+  - **Lorentzkracht** is cruciaal voor het vangen van geladen deeltjes en het functioneren van elektromotoren.
+  - De Lorentzkracht zorgt voor **cirkelbewegingen** van deeltjes en de werking van **elektromotoren** door middel van magnetische velden.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Kort antwoord                                                                                     |
+|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Wat is de Lorentzkracht?                                                                      | De kracht die werkt op een geladen deeltje in een magneetveld, waardoor het deeltje een cirkelbaan volgt. |
+| Hoe kun je de richting van de Lorentzkracht bepalen?                                          | Gebruik je linkerhand: vingers in de richting van de snelheid, handpalm vangt het magneetveld op. |
+| Wat zijn de formules voor Lorentzkracht en middelpuntzoekende kracht?                         | Lorentzkracht: \( F_L = p \cdot v \cdot B \). Middelpuntzoekende kracht: \( F_{cent} = \frac{m \cdot v^2}{r} \). |
+| Welke grootheden worden gebruikt in de formule voor Lorentzkracht?                           | Magnetische veldsterkte (p), snelheid (v), en de magnetische veldsterkte (B). |
+| Wat gebeurt er met een geladen deeltje als het zich in een magneetveld bevindt?               | Het deeltje beweegt in een cirkelbaan door de Lorentzkracht die de middelpuntzoekende kracht levert. |
+| Hoe werkt een elektromotor op basis van Lorentzkracht?                                        | Een stroomdraad in een magneetveld draait door de Lorentzkracht die wordt veroorzaakt door de stroom die door de draad gaat. |
+| Wat gebeurt er met de Lorentzkracht als de stroomrichting in een elektromotor wordt omgewisseld? | De Lorentzkracht verandert van richting, wat zorgt voor continue rotatie van de draad in de elektromotor. |
+| Hoe kan Lorentzkracht worden toegepast in onderzoek naar elementaire deeltjes?               | Door de snelheid en straal van de deeltjes te meten, kan de lading en massa van de deeltjes worden berekend. |
+| Waarom draait de draad in een elektromotor?                                                   | De draad draait door de Lorentzkracht die ontstaat door de interactie van de stroom met het magnetische veld. |
+| Wat is de rol van de Lorentzkracht in een elektromotor?                                        | De Lorentzkracht zorgt voor de rotatie van de draad, wat de motor in werking stelt. |

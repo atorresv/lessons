@@ -1,0 +1,52 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Echografie (Ultrasound)**
+
+- **Gebruik van geluidsgolven**:
+  - Geluidsgolven met een frequentie van **1 MHz tot 10 MHz** worden gebruikt.
+  - Deze frequenties liggen ver boven het **hoorbare** spectrum en worden **ultrasoon** genoemd.
+
+- **Eigenschappen van ultrasone golven**:
+  - Ultrasone golven kunnen zich niet door **lucht** voortplanten, maar wel door **lichamelijk weefsel**.
+  - Een **geluidsbron** wordt in contact met het lichaam gebracht, en er wordt een **gel** gebruikt om luchtbellen te voorkomen.
+
+- **Werking van echografie**:
+  - Geluidsgolven planten zich voort in het lichaam en worden **teruggekaatst** door voorwerpen met een andere geluidssnelheid.
+  - De teruggekaatste geluidsgolven worden door een **transducer** opgevangen.
+  - De transducer is verbonden met een **computer** die een **live beeld** van het lichaam genereert.
+
+- **Resolutie en golflengte**:
+  - De **kleinste details** die zichtbaar zijn, hangen af van de **golflengte** van de geluidsgolven.
+  - De golflengte kan worden berekend met de formule: golflengte = geluidssnelheid / frequentie.
+  - Voor een frequentie van **5,0 MHz** en een geluidssnelheid van **1600 m/s** in zacht weefsel, is de golflengte **0,32 mm**.
+
+- **Belangrijke punten**:
+  - Echografie vereist geen **ioniserende straling**.
+  - Het gebruik van hoge frequenties maakt het mogelijk om kleine details te zien in het lichaam.
+  - De resolutie hangt samen met de **golflengte** van de geluidsgolven.
+
+- **Referentie**:
+  - Geluidssnelheden in verschillende lichaamsdelen zijn te vinden in **Binas tabel 15A**.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                                     |
+|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Wat is de frequentiebereik van ultrasone geluidsgolven gebruikt in echografie? | **1 MHz tot 10 MHz**                                                                                           |
+| Hoe wordt geluid dat gebruikt wordt in echografie genoemd?                | **Ultrasoon geluid**                                                                                            |
+| Waarom wordt een gel gebruikt bij echografie?                             | De gel voorkomt **luchtbellen** tussen de geluidsbron en het lichaam, wat de voortplanting van geluidsgolven bevordert. |
+| Wat gebeurt er met geluidsgolven wanneer ze een object met een andere geluidssnelheid raken? | Ze worden **teruggekaatst**.                                                                                      |
+| Wat doet een **transducer** in een echografie-apparaat?                    | De transducer **zendt geluidsgolven uit** en **vangt de teruggekaatste golven op**.                                |
+| Hoe wordt het beeld in echografie gevormd?                                | Door de **teruggekaatste geluidsgolven** te analyseren en te verwerken met een computer.                         |
+| Wat bepaalt de kleinste detailgrootte die zichtbaar is in echografie?      | De **golflengte** van de geluidsgolven.                                                                           |
+| Hoe bereken je de golflengte van de geluidsgolven?                         | **Golflengte = geluidssnelheid / frequentie**.                                                                   |
+| Wat is de golflengte bij een frequentie van 5,0 MHz en een geluidssnelheid van 1600 m/s? | **0,32 mm**                                                                                                    |
+| Waarom is echografie een veilige techniek?                                | Omdat het geen **ioniserende straling** gebruikt.                                                                |
+| Waarin verschilt de resolutie van echografie?                             | De resolutie hangt af van de **golflengte** van de geluidsgolven.                                                |
+| Waar kun je informatie vinden over geluidssnelheden in verschillende lichaamsdelen? | In **Binas tabel 15A**.                                                                                         |

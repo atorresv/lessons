@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Wisselspanning en Effectieve Spanning**
+
+- **Wisselspanning**:
+  - Spanning die **constant wisselt van richting en grootte**.
+  - Bij aansluiting op een apparaat, zoals een lamp, zal ook de **stroom wisselen van richting**.
+
+- **Wisselspanning als Functie van Tijd**:
+  - **Formule**: \( V(t) = V_{max} \cdot \sin(2 \pi \cdot \text{frequentie} \cdot t) \)
+  - Bij een stopcontact: 
+    - **Maximale spanning**: 325 V
+    - **Frequentie**: 50 Hz (50 keer per seconde wisselen van plus naar min).
+
+- **Effectieve Spanning**:
+  - **Definitie**: De spanning van een gelijkspanning die **evenveel energie levert** als de wisselspanning.
+  - Voor een stopcontact:
+    - **Effectieve spanning**: 230 V
+    - Dit is lager dan de maximale spanning van 325 V.
+  - **Berekening**: Effectieve spanning = Maximale spanning / √2 (voor sinusvormige wisselspanning).
+
+- **Praktische Toepassing**:
+  - Wisselspanningen in stopcontacten zijn **sinusvormig**.
+  - Effectieve spanning geeft een **betrouwbare maat** voor de energie-inhoud van de wisselspanning.
+
+Samenvattend: Wisselspanning wisselt constant van richting en heeft zowel een maximale als een effectieve spanning. De effectieve spanning is lager dan de maximale spanning en wordt berekend door de maximale spanning te delen door √2.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Kort antwoord                                                      |
+|-----------------------------------------------------------------------|---------------------------------------------------------------------|
+| Wat is wisselspanning?                                                | Spanning die constant wisselt van richting en grootte.              |
+| Hoe kun je wisselspanning schematisch weergeven?                       | Met de formule \( V(t) = V_{max} \cdot \sin(2 \pi \cdot \text{frequentie} \cdot t) \). |
+| Wat is de maximale spanning van een stopcontact in Nederland?          | 325 V.                                                              |
+| Wat is de frequentie van de wisselspanning in een stopcontact?         | 50 Hz.                                                              |
+| Hoe wordt de effectieve spanning berekend?                            | Effectieve spanning = Maximale spanning / √2.                       |
+| Wat is de effectieve spanning van een stopcontact in Nederland?       | 230 V.                                                              |
+| Waarom is de effectieve spanning lager dan de maximale spanning?      | Omdat de maximale spanning 325 V is, maar de effectieve spanning is 230 V. |
+| Waarom wordt effectieve spanning gebruikt in plaats van maximale spanning? | Het geeft een betrouwbaarder maat voor de energie-inhoud van de wisselspanning. |
+| Welke vorm heeft de wisselspanning in de praktijk?                   | Sinusvormig.                                                        |
+| Hoe wordt de energie-inhoud van wisselspanning vergeleken met gelijkspanning? | Effectieve spanning levert evenveel energie als de gelijkspanning die dezelfde effectieve waarde heeft. |
+

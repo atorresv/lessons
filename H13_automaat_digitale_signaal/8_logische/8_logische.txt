@@ -1,0 +1,31 @@
+8_LOGISCHE_POORTEN_WAARHEIDSTABELLEN
+*  Binaire signalen
+*  EN-poort
+*  Waarheidstabel
+*  OF-poort
+*  Invertor
+*  Combineren logische poorten
+
+
+logische poorten verwerkings element
+invertor
+enpoort
+ofpoort
+werken met binaire signaalen
+twee en
+twee invertors
+en: allen als beide 1 => 1
+waarheidstabel berekenen
+
+of-poort:
+symbool,
+als een 1 => 1
+
+invertor: maakt 1 van 0 een andersom
+kan met elkaar combineeren
+
+logische porten werken met binaire signalen
+en poort
+of poort
+invertor
+waarhaidstabel

@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Middelpuntzoekende Kracht in Cirkelbewegingen**
+
+- **Middelpuntzoekende kracht** is nodig om een voorwerp in een cirkelbaan te laten bewegen.
+  - **Richting**: Altijd naar het midden van de cirkel gericht.
+  - Vaak afgekort als **Fₚ** (F middelpuntzoekend).
+
+- **Formule voor middelpuntzoekende kracht**:
+  - Bij gebruik van **baansnelheid (v)**: \( Fₚ = \frac{m \cdot v^2}{r} \)
+    - **m** = massa van het voorwerp
+    - **v** = baansnelheid
+    - **r** = straal van de baan
+  - Bij gebruik van **hoeksnelheid (ω)**: \( Fₚ = m \cdot \omega^2 \cdot r \)
+    - **ω** = hoeksnelheid
+
+- Volgens de **tweede wet van Newton**:
+  - Nettokracht op een voorwerp zorgt voor versnelling.
+  - In een cirkelbeweging verandert de snelheid van richting, niet van grootte.
+
+- **Versnelling** in cirkelbeweging:
+  - Richting van de snelheid verandert voortdurend.
+  - De grootte van de snelheid blijft constant, alleen de richting verandert.
+
+- **Samenvatting**:
+  - De middelpuntzoekende kracht zorgt voor een verandering in de richting van de snelheid, niet in de grootte van de snelheid.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is de rol van de middelpuntzoekende kracht in een cirkelbeweging? | De middelpuntzoekende kracht is nodig om een voorwerp in een cirkelbaan te laten bewegen en is altijd gericht naar het midden van de cirkel. |
+| Hoe bereken je de middelpuntzoekende kracht als je de baansnelheid (v) kent? | Gebruik de formule: \( Fₚ = \frac{m \cdot v^2}{r} \), waarbij **m** de massa van het voorwerp is, **v** de baansnelheid en **r** de straal van de cirkelbaan. |
+| Hoe verschilt de formule voor middelpuntzoekende kracht als je de hoeksnelheid (ω) gebruikt? | De formule wordt dan: \( Fₚ = m \cdot \omega^2 \cdot r \), waarbij **m** de massa van het voorwerp is, **ω** de hoeksnelheid en **r** de straal van de cirkelbaan. |
+| Wat zegt de tweede wet van Newton over de relatie tussen kracht en versnelling in een cirkelbeweging? | De tweede wet van Newton stelt dat de nettokracht op een voorwerp zorgt voor versnelling. In een cirkelbeweging verandert de snelheid van richting, maar niet van grootte. |
+| Wat gebeurt er met de snelheid van een voorwerp in een cirkelbeweging? | De grootte van de snelheid blijft constant, maar de richting van de snelheid verandert voortdurend. |
+| Waarom verandert de snelheid van richting in een cirkelbeweging? | De middelpuntzoekende kracht verandert de richting van de snelheid, waardoor het voorwerp in een cirkelbaan blijft bewegen. |
+

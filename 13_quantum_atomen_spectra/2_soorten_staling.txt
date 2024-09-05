@@ -1,0 +1,52 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Overzicht van het Elektromagnetisch Spectrum**
+
+  - **Electromagnetisch Spectrum**: Bevat naast **licht** ook **gamma-straling**, **UV-straling**, **infraroodstraling** en **radiostraling**.
+  
+  - **Infraroodstraling**:
+    - Ook wel **warmtestraling** genoemd.
+    - **Nabij-infrarood**: Kleine golflengtes, lijkt op licht, zichtbaar met speciale camera's en afstandsbedieningen.
+    - **Ver-infrarood**: Grotere golflengtes, zichtbaar met speciale camera's, lijkt meer op radiostraling.
+    
+  - **Radiostraling**:
+    - Gebruikt voor **communicatie** (bijv. mobiele telefoons, radio, radar).
+    - **Magnetron** maakt gebruik van radiostraling om voedsel te verwarmen.
+    - Vereist een **antenne** of **schotel** om op te vangen.
+    
+  - **UV-straling**:
+    - **Ultraviolet** straling, schadelijk en **kankerverwekkend** bij overmatige blootstelling.
+    - Verantwoordelijk voor **viltstiften** die oplichten onder UV-licht.
+    - Speciale **UV-camera's** nodig om te detecteren.
+    
+  - **Röntgenstraling**:
+    - **Hoog doordringend vermogen**, kan door **huid** en **weefsels** heen.
+    - **Ioniserend**, wat betekent dat het stoffen **ioniseert**.
+    - Gevaarlijker dan UV-straling, gebruikt in **ziekenhuizen** voor het maken van **botfoto's**.
+    - Gebruikt een **röntgenbuis** en **fotografische film**.
+    
+  - **Gammastraling**:
+    - Zeer **ioniserend** en gevaarlijker dan röntgenstraling.
+    - Vrij bij **radioactief verval** van stoffen.
+    - Kan niet worden gezien met camera's, maar **gemeten** met **radioactiviteitsdetectors**.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Korte Antwoord                                                           |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Wat is het elektromagnetisch spectrum?                                                        | Het elektromagnetisch spectrum bevat licht, gamma-straling, UV-straling, infraroodstraling en radiostraling. |
+| Welke straling wordt ook wel warmtestraling genoemd?                                           | Infraroodstraling.                                                        |
+| Wat is het verschil tussen nabij-infrarood en ver-infrarood?                                  | Nabij-infrarood heeft kleinere golflengtes en lijkt op licht, ver-infrarood heeft grotere golflengtes en lijkt meer op radiostraling. |
+| Voor welke toepassingen wordt radiostraling gebruikt?                                         | Voor communicatie (zoals mobiele telefoons en radio) en in magnetrons.   |
+| Waarom is UV-straling schadelijk?                                                              | UV-straling is schadelijk en kankerverwekkend bij overmatige blootstelling. |
+| Hoe kun je UV-straling detecteren?                                                             | Met speciale UV-camera's.                                                |
+| Wat is een belangrijk kenmerk van röntgenstraling?                                             | Röntgenstraling heeft een hoog doordringend vermogen en is ioniserend.    |
+| Waarvoor wordt röntgenstraling vaak gebruikt?                                                 | Voor het maken van röntgenfoto's in ziekenhuizen, bijvoorbeeld bij botbreuken. |
+| Wat is de eigenschap van gammastraling?                                                         | Gammastraling is zeer ioniserend, gevaarlijker dan röntgenstraling, en komt vrij bij radioactief verval. |
+| Hoe kun je gammastraling meten?                                                                 | Met radioactiviteitsdetectors, zoals een Geiger-teller.                   |

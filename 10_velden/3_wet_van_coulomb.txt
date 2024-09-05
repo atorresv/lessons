@@ -1,0 +1,34 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Kracht van Aantrekking en Afstoting bij Ladingen**
+
+  - **Gelijke ladingen** stoten elkaar af.
+  - **Verschillende ladingen** trekken elkaar aan.
+  - De kracht van aantrekking of afstoting kan worden berekend met de **wet van Coulomb**:
+    - **Formule**: \( F = k \cdot \frac{q_1 \cdot q_2}{r^2} \)
+      - \( k \) is de constante van Coulomb (te vinden in Binas).
+      - \( q_1 \) en \( q_2 \) zijn de ladingen van de twee voorwerpen.
+      - \( r \) is de afstand tussen de middelpunten van de twee voorwerpen.
+  - Voorbeeld: 
+    - Stel een bal met lading \( -4,5 \times 10^{-6} \text{C} \) en een elektron met lading \( -1,602 \times 10^{-19} \text{C} \) op 3 cm afstand.
+    - Bereken de kracht met de wet van Coulomb en vind een kracht van \( 7,2 \times 10^{-12} \text{N} \).
+  - Volgens de **derde wet van Newton** is de kracht die het ene voorwerp op het andere uitoefent gelijk in grootte en tegengesteld in richting aan de kracht die het andere voorwerp op het eerste uitoefent.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| Wat gebeurt er als twee voorwerpen met gelijke ladingen elkaar benaderen? | Ze stoten elkaar af. |
+| Wat gebeurt er als twee voorwerpen met verschillende ladingen elkaar benaderen? | Ze trekken elkaar aan. |
+| Welke formule gebruik je om de kracht van aantrekking of afstoting tussen twee geladen voorwerpen te berekenen? | \( F = k \cdot \frac{q_1 \cdot q_2}{r^2} \) |
+| Wat stelt de constante \( k \) voor in de wet van Coulomb? | De constante van Coulomb, die te vinden is in Binas. |
+| Hoe worden de ladingen van de voorwerpen aangeduid in de formule van Coulomb? | \( q_1 \) en \( q_2 \). |
+| Hoe moet je de afstand tussen de voorwerpen aangeven in de formule van Coulomb? | Als \( r \), de afstand tussen de middelpunten van de twee voorwerpen. |
+| Wat is de kracht tussen een bal met lading \( -4,5 \times 10^{-6} \text{C} \) en een elektron op 3 cm afstand volgens de wet van Coulomb? | Ongeveer \( 7,2 \times 10^{-12} \text{N} \). |
+| Wat zegt de derde wet van Newton over de krachten tussen twee voorwerpen? | De krachten zijn gelijk in grootte en tegengesteld in richting. |

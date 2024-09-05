@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Eigenschappen van Lenzen**
+
+  - **Lens**: Een doorzichtig voorwerp met een specifieke **vorm**.
+  - **Positieve Lens (Bolle Lens)**:
+    - Voorwerp heeft een **bolle** vorm aan de voorkant.
+    - **Parallelle lichtstralen** worden **samen** gebogen in een punt, het **Brandpunt**.
+    - Het Brandpunt wordt aangeduid met de **hoofdletter F**.
+    - Lichtstralen die van beide kanten invallen komen samen in hetzelfde Brandpunt.
+  - **Negatieve Lens (Holle Lens)**:
+    - Parallelle lichtstralen **divergere** aan de andere kant van de lens.
+    - Lichtstralen lijken uit een **gemeenschappelijk punt** te komen.
+    - Het Brandpunt wordt gedefinieerd als het punt waar de lichtstralen vandaan lijken te komen, maar niet echt samenkomen.
+  - **Brandpuntsafstand**:
+    - De afstand van de lens tot het Brandpunt.
+    - Aangeduid met een kleine letter **f**.
+    - **Kleine brandpuntsafstand** betekent een **sterke lens** met veel bolling.
+    - **Grote brandpuntsafstand** betekent een **zwakke lens** met minder bolling.
+  - **Samenvatting**:
+    - Een lens met een bolle vorm convergeert lichtstralen naar een punt.
+    - Een lens met een holle vorm divergeert lichtstralen.
+    - De brandpuntsafstand bepaalt de sterkte van de lens: hoe kleiner de afstand, hoe sterker de lens.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| Wat is een lens? | Een doorzichtig voorwerp met een specifieke vorm die lichtstralen buigt. |
+| Wat is een positieve lens? | Een lens met een bolle vorm die parallelle lichtstralen convergeert naar een punt, het Brandpunt. |
+| Hoe wordt het Brandpunt van een positieve lens aangeduid? | Met de hoofdletter F. |
+| Wat gebeurt er met parallelle lichtstralen bij een positieve lens? | Ze worden gebogen en komen samen in een punt. |
+| Hoe wordt het Brandpunt van een negatieve lens gedefinieerd? | Het punt waar de lichtstralen vandaan lijken te komen, hoewel ze niet echt samenkomen. |
+| Wat gebeurt er met parallelle lichtstralen bij een negatieve lens? | Ze divergeren en lijken uit een gemeenschappelijk punt te komen. |
+| Wat is de brandpuntsafstand? | De afstand van de lens tot het Brandpunt. |
+| Hoe wordt de brandpuntsafstand aangeduid? | Met een kleine letter f. |
+| Wat betekent een kleine brandpuntsafstand? | De lens is sterk en heeft veel bolling. |
+| Wat betekent een grote brandpuntsafstand? | De lens is zwak en heeft minder bolling. |

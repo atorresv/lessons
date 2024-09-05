@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Werking en Analyse van Röntgenstraling**
+
+  - **Röntgenstraling** gaat door het lichaam en wordt opgevangen op een fotografische plaat.
+  - **Botten** blokkeren meer straling dan **zachte weefsels**, waardoor botten beter zichtbaar zijn op röntgenfoto's.
+  - **Halveringsdikte**: de dikte waarbij de intensiteit van de straling gehalveerd wordt.
+    - **Afhankelijk van**:
+      - Het **soort straling**: Sommige straling gaat makkelijker door materialen dan andere.
+      - Het **materiaal**: Bijvoorbeeld, botten hebben een kleinere halveringsdikte dan zachte weefsels.
+  - Voorbeeld berekening:
+    - **Dikte van arm**: 15 cm.
+    - **Dikte van bot**: 5 cm.
+    - **Halveringsdikte van water**: 3,08 cm.
+      - Intensiteit na passage door zachte weefsels: 3,4% van de beginintensiteit.
+    - **Halveringsdikte van bot**: 1,08 cm.
+      - Intensiteit na passage door bot: 4% van de beginintensiteit.
+  - **Röntgenfoto's** worden vaak als **negatief** afgedrukt: zwart betekent hoge intensiteit, wit betekent lage intensiteit.
+  - **Binas tabel 28** geeft halveringsdiktes voor verschillende materialen en stralingssoorten.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                     | Kort Antwoord                                                   |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| **Wat is de functie van röntgenstraling bij het maken van een röntgenfoto?**               | Röntgenstraling gaat door het lichaam en wordt opgevangen op een fotografische plaat. |
+| **Waarom zijn botten beter zichtbaar op een röntgenfoto dan zachte weefsels?**            | Botten blokkeren meer straling dan zachte weefsels.              |
+| **Wat is de halveringsdikte?**                                                             | De dikte waarbij de intensiteit van de straling gehalveerd wordt. |
+| **Waar hangt de halveringsdikte van af?**                                                  | Van het soort straling en het materiaal.                         |
+| **Hoe bereken je de intensiteit van straling na passage door een materiaal?**              | Intensiteit = Beginintensiteit × 1/2^(dikte / halveringsdikte).  |
+| **Wat is de halveringsdikte van water?**                                                   | 3,08 cm.                                                        |
+| **Wat is de halveringsdikte van bot?**                                                     | 1,08 cm.                                                        |
+| **Hoeveel straling komt er door een 15 cm dikke arm zonder bot?**                         | 3,4% van de beginintensiteit.                                    |
+| **Hoeveel straling komt er door een 5 cm dik bot?**                                        | 4% van de beginintensiteit.                                     |
+| **Waarom worden röntgenfoto's vaak als negatief afgedrukt?**                               | Zwart betekent hoge intensiteit en wit betekent lage intensiteit. |
+| **Waar kan je halveringsdiktes van verschillende materialen vinden?**                       | In Binas tabel 28.                                              |

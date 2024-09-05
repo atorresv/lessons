@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Krachten op een Blokje op een Helling**
+
+  - **Zwaartekracht** werkt recht naar beneden.
+  - **Normaalkracht** werkt loodrecht op het oppervlak van de helling.
+  - **Wrijvingskracht** is afhankelijk van de andere krachten en werkt langs de helling.
+
+  - **Probleem:** Zwaartekracht staat niet loodrecht op de andere krachten, wat het uitrekenen bemoeilijkt.
+
+  - **Oplossing:** Ontbinden van de zwaartekracht in twee componenten:
+    - **Component langs de helling** (Fzx)
+    - **Component loodrecht op de helling** (Fzy)
+  
+  - **Driehoek**:
+    - De helling vormt een driehoek met een hoek \( \alpha \).
+    - **Hoek Alfa** van de helling is gelijk aan de hoek in de driehoek.
+
+  - **Berekeningen**:
+    - **Fzx**: \( Fzx = Fz \times \sin(\alpha) \)
+    - **Fzy**: \( Fzy = Fz \times \cos(\alpha) \)
+
+  - **Evenwicht**:
+    - De **normaalkracht** (Fzy) is gelijk aan de component loodrecht op de helling.
+    - De **wrijvingskracht** (Fzx) is gelijk aan de component langs de helling.
+
+  - **Samenvatting**:
+    - Teken alle krachten die werken.
+    - Ontbind de scheve kracht in twee componenten die loodrecht op elkaar staan.
+    - Bereken de relevante krachten uit de componenten.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                   | Kort Antwoord                                                   |
+|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Welke krachten werken op een blokje dat stil ligt op een helling?                      | **Zwaartekracht** en **normaalkracht**.                          |
+| Waarom is het moeilijk om de zwaartekracht op een helling te berekenen?                 | Omdat de zwaartekracht niet loodrecht staat op de andere krachten. |
+| Hoe kun je de zwaartekracht ontbinden op een helling?                                    | Door de zwaartekracht in **componenten** te ontbinden: langs de helling (Fzx) en loodrecht op de helling (Fzy). |
+| Hoe bereken je de componenten van de zwaartekracht langs en loodrecht op de helling?     | **Fzx** = \( Fz \times \sin(\alpha) \) en **Fzy** = \( Fz \times \cos(\alpha) \). |
+| Wat is de relatie tussen de normaalkracht en de component van de zwaartekracht loodrecht op de helling? | **De normaalkracht** is gelijk aan de component van de zwaartekracht loodrecht op de helling (Fzy). |
+| Hoe bereken je de wrijvingskracht op een blokje op een helling?                          | De wrijvingskracht is gelijk aan de component van de zwaartekracht langs de helling (Fzx). |
+| Wat moet je altijd doen bij het oplossen van opgaven met een helling?                    | Teken alle krachten, ontbind de scheve kracht in componenten die loodrecht op elkaar staan, en bepaal de relevante krachten. |

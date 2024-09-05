@@ -1,0 +1,38 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Belangrijke Begrippen in Elektrische Schakelingen**
+
+  - **Stroomsterkte**
+    - **Hoeveelheid elektrische lading** per seconde die door een draadje of lampje stroomt.
+    - Symbool: **I**
+    - Eenheid: **A** (ampère)
+    - Vergelijking: Net als een rivier die een waterrad aandrijft, verbruikt het lampje geen stroom, maar maakt het gebruik van de stroom die erdoorheen loopt.
+  
+  - **Spanning**
+    - **Kracht** waarmee elektrische lading wordt geduwd door een batterij of andere bron.
+    - Symbool: **U**
+    - Eenheid: **V** (volt)
+    - Vergelijking: Een batterij functioneert als een pomp die elektrische lading rondpompt in een schakeling.
+  
+  - **Weerstand**
+    - Hoe goed een materiaal of component **stroom tegenhoudt** bij een bepaalde spanning.
+    - Symbool: **R**
+    - Eenheid: **Ω** (ohm)
+    - Voorbeelden: Grote weerstand (rubber, plastic, hout, zuiver water) en kleine weerstand (metalen draadjes, zout water).
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| Wat is stroomsterkte en hoe wordt deze aangeduid? | Stroomsterkte is de hoeveelheid elektrische lading die per seconde door een draadje of lampje stroomt. Het symbool is **I** en de eenheid is **A** (ampère). |
+| Hoe kun je stroomsterkte vergelijken met de werking van een rivier? | Net zoals een rivier water naar een waterrad brengt zonder het water te verbruiken, maakt een lampje gebruik van de stroom zonder deze echt te verbruiken. |
+| Wat betekent spanning en welk symbool en eenheid worden hiervoor gebruikt? | Spanning is de kracht waarmee elektrische lading ergens heen wordt geduwd. Het symbool is **U** en de eenheid is **V** (volt). |
+| Hoe kun je de werking van een batterij vergelijken met een fysieke pomp? | Een batterij functioneert als een pomp die elektrische lading rondpompt in een schakeling, waarbij spanning de kracht is die deze lading verplaatst. |
+| Wat is weerstand en hoe wordt deze aangeduid? | Weerstand is hoe goed een materiaal stroom tegenhoudt bij een bepaalde spanning. Het symbool is **R** en de eenheid is **Ω** (ohm). |
+| Geef voorbeelden van materialen met grote en kleine weerstand. | Grote weerstand: rubber, plastic, hout, zuiver water. Kleine weerstand: metalen draadjes, zout water. |

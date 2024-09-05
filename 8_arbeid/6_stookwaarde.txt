@@ -1,0 +1,39 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Stookwaarde en Energie in Brandstoffen**
+
+  - **Stookwaarde**: De hoeveelheid energie in een bepaalde hoeveelheid brandstof.
+  - **Voorbeeld**: Een auto gebruikt benzine. De **kinetische energie** van de auto komt van de **chemische energie** in de benzine.
+  - **Chemische energie**: De energie die in brandstoffen zoals **olie**, **aardgas**, en **steenkool** zit.
+  - **Eenheden van stookwaarde**:
+    - **Aardgas**: \(32 \times 10^6 \text{ J/m}^3\)
+    - **Benzine**: \(33 \times 10^9 \text{ J/l}\)
+    - **Steenkool**: \(29 \times 10^6 \text{ J/kg}\)
+  - **Voedsel**: Bevat ook chemische energie, bijvoorbeeld:
+    - **Aardappelen**: 25 kJ per 100 gram
+    - **Yoghurt**: 243 kJ per 100 gram
+  - **Voorbeeldvraag**: Een elektriciteitscentrale levert 10 GJ met een rendement van 32%. 
+    - Bereken hoeveel **aardgas** nodig is.
+    - **Stap 1**: Bepaal de totale benodigde energie: \( \frac{10 \times 10^9 \text{ J}}{0.32} = 31.25 \times 10^9 \text{ J} \).
+    - **Stap 2**: Aardgas heeft een stookwaarde van \(32 \times 10^6 \text{ J/m}^3\). 
+    - **Stap 3**: Benodigde hoeveelheid aardgas: \( \frac{31.25 \times 10^9 \text{ J}}{32 \times 10^6 \text{ J/m}^3} = 976 \text{ m}^3 \).
+  - **Samenvatting**: Stookwaarde geeft de energie per eenheid van brandstof aan en kan worden gevonden in **Binas**.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is stookwaarde? | Stookwaarde is de hoeveelheid energie die in een bepaalde hoeveelheid brandstof zit. |
+| Wat is een voorbeeld van een brandstof met een hoge stookwaarde? | Benzine heeft een hoge stookwaarde van \(33 \times 10^9 \text{ J/l}\). |
+| Hoe wordt chemische energie omgezet in een auto? | Chemische energie in benzine wordt omgezet in kinetische energie die de auto in beweging brengt. |
+| Wat is de stookwaarde van aardgas? | De stookwaarde van aardgas is \(32 \times 10^6 \text{ J/m}^3\). |
+| Hoeveel energie bevat yoghurt per 100 gram? | Yoghurt bevat 243 kJ per 100 gram. |
+| Hoeveel aardgas is nodig om 10 GJ energie te leveren met een rendement van 32%? | 976 m³ aardgas is nodig. |
+| Wat is de formule om de totale energiebehoefte te berekenen? | De formule is: Totale energie = Nuttige energie / Rendement. |
+| Wat geeft de stookwaarde aan in Binas? | De stookwaarde geeft aan hoeveel energie er per eenheid van brandstof zit. |

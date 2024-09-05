@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Warmtecapaciteit en Energiebehoefte bij Verwarming
+
+- **Warmtecapaciteit**:
+  - De hoeveelheid **energie** (in joules) nodig om een voorwerp **één kelvin** in temperatuur te laten stijgen.
+  - Voor een groot voorwerp is meer energie nodig dan voor een klein voorwerp.
+
+- **Formule**:
+  - Hoeveelheid warmte: \( Q = CΔT \)
+    - **Q**: Hoeveelheid warmte
+    - **C**: Warmtecapaciteit
+    - **ΔT**: Temperatuurverschil
+
+- **Voorbeeld**:
+  - Warmtecapaciteit van een magnetronmaaltijd: **2100 J/K**
+  - Om de maaltijd van **20°C** naar **60°C** te verwarmen:
+    - Temperatuurverschil (**ΔT**): 40°C (of 40 Kelvin)
+    - Berekening: \( Q = 2100 \text{ J/K} \times 40 \text{ K} \)
+    - Totale hoeveelheid warmte nodig: **8,4 x 10^4 joule**
+
+- **Toepassing**:
+  - Een magnetron gebruikt **warmtestraling** om deze hoeveelheid energie toe te voegen.
+
+- **Samenvatting**:
+  - Warmtecapaciteit bepaalt hoeveel energie nodig is om een voorwerp in temperatuur te laten stijgen.
+  - Gebruik de formule \( Q = CΔT \) om de benodigde hoeveelheid warmte te berekenen.
+  - Voor een magnetronmaaltijd met een warmtecapaciteit van 2100 J/K en een temperatuurstijging van 40 K, is 8,4 x 10^4 joule aan energie nodig.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                 | Korte antwoord                                                                                          |
+|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Wat is warmtecapaciteit?                                                                            | De hoeveelheid **energie** (in joules) nodig om een voorwerp **één kelvin** in temperatuur te laten stijgen. |
+| Hoe bereken je de hoeveelheid warmte die nodig is om een voorwerp op te warmen?                      | Met de formule \( Q = CΔT \), waarbij **Q** de hoeveelheid warmte is, **C** de warmtecapaciteit en **ΔT** het temperatuurverschil. |
+| Wat is de warmtecapaciteit van de magnetronmaaltijd in het voorbeeld?                                | **2100 J/K**.                                                                                           |
+| Hoeveel energie is nodig om de maaltijd van 20°C naar 60°C op te warmen?                            | **8,4 x 10^4 joule**.                                                                                  |
+| Wat is het temperatuurverschil in kelvin als het temperatuurverschil in graden Celsius 40 is?         | **40 kelvin**.                                                                                         |
+| Hoe wordt de energie in een magnetron toegevoegd aan de maaltijd?                                     | Via **warmtestraling**.                                                                               |
+| Wat betekent een warmtecapaciteit van 2100 J/K in de context van het verwarmen van een maaltijd?     | Het betekent dat je **2100 joule** nodig hebt om de maaltijd **één kelvin** in temperatuur te laten stijgen. |
+| Wat gebeurt er als je de temperatuurstijging van 20°C naar 60°C omrekent naar kelvin?                  | Het temperatuurverschil blijft **40 kelvin**.                                                          |

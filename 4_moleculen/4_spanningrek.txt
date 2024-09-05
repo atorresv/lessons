@@ -1,0 +1,46 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Spanning en Rek in Materiaal
+
+- **Materiaal** wordt langer bij **trekking**.
+- In plaats van kracht, wordt **spanning** gebruikt:
+  - **Spanning** = kracht per vierkante meter oppervlak.
+  - Symbool: **σ** (Griekse letter Sigma).
+  - Eenheid: **Newton per vierkante meter** (N/m²).
+
+- Voorbeeld:
+  - **Kracht** = 1500 Newton
+  - **Oppervlak** = 0,3 cm² (omrekenen naar m²: 0,3 x 10^-4 m²)
+  - **Spanning** = 1500 N / 0,3 x 10^-4 m² = 5,0 x 10^5 N/m²
+
+- **Rek** (ε) = lengteverandering / oorspronkelijke lengte:
+  - Voorbeeld: Oorspronkelijke lengte = 20,0 meter
+  - Lengteverandering = 5 cm (0,05 meter)
+  - **Rek** = Δl / l0 = 0,05 m / 20,0 m = 0,25
+
+- Relatie tussen spanning en rek geeft **materiaal eigenschappen** aan:
+  - **Spanning** = kracht per m²
+  - **Rek** = lengteverandering ten opzichte van oorspronkelijke lengte
+
+- **Samenvatting**: Spanning is de kracht per eenheid oppervlak, rek is de verhouding van lengteverandering ten opzichte van oorspronkelijke lengte. Beide grootheden helpen bij het bepalen van de eigenschappen van een materiaal.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                  | Korte antwoord                                                                                           |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Wat gebeurt er met een materiaal als je eraan trekt?                                                   | Het materiaal wordt langer.                                                                             |
+| Wat is de formule voor **spanning**?                                                                    | Spanning (σ) = kracht / oppervlak.                                                                      |
+| Wat is het symbool voor spanning en wat is de eenheid ervan?                                           | Symbool: σ (Griekse letter Sigma); Eenheid: Newton per vierkante meter (N/m²).                           |
+| Hoe reken je de spanning uit als je een kracht van 1500 N hebt en een oppervlak van 0,3 cm²?          | Spanning = 1500 N / (0,3 x 10^-4 m²) = 5,0 x 10^5 N/m².                                                 |
+| Hoe wordt rek (ε) gedefinieerd en berekend?                                                             | Rek (ε) = lengteverandering (Δl) / oorspronkelijke lengte (l0).                                           |
+| Wat is de rek als de oorspronkelijke lengte 20 meter is en de lengteverandering 5 cm?                | Rek = 0,05 m / 20,0 m = 0,25.                                                                          |
+| Welke informatie kun je afleiden uit de relatie tussen spanning en rek?                                | Materiaal eigenschappen zoals hoe het materiaal zich gedraagt onder spanning.                           |
+| Wat is het verschil tussen spanning en rek?                                                             | Spanning is de kracht per eenheid oppervlak; rek is de verhouding van lengteverandering ten opzichte van de oorspronkelijke lengte. |
+| Hoe wordt spanning uitgedrukt?                                                                         | In Newton per vierkante meter (N/m²).                                                                   |
+| Hoe wordt rek uitgedrukt?                                                                             | Als een dimensionale verhouding (bijvoorbeeld 0,25).                                                     |

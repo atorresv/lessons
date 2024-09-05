@@ -1,0 +1,50 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Momenten en krachten in evenwicht**
+
+- **Momenten**:
+  - **Moment** wordt weergegeven met hoofdletter **M** en de eenheid is **Newton-meter** (Nm).
+  - Momenten kunnen **linksom** of **rechtsom** zijn.
+  - **Momenten in evenwicht**: Het totaal van alle momenten linksom moet gelijk zijn aan het totaal van alle momenten rechtsom.
+  - Als de momenten niet in evenwicht zijn, zal het voorwerp gaan draaien in de richting van het grootste moment.
+
+- **Praktisch voorbeeld**:
+  - Bij een **zware balk** die op een steunpunt rust, veroorzaakt de **zwaartekracht** een moment naar beneden.
+  - Het moment wordt berekend als de **zwaartekracht** maal de **afstand** van het draaipunt.
+  - Om de balk in evenwicht te houden, moet een ander moment naar rechtsom toegevoegd worden, bijvoorbeeld door een **blok** te plaatsen.
+  - De kracht van het blok moet zodanig zijn dat het moment rechtsom gelijk is aan het moment linksom.
+
+- **Berekeningen**:
+  - Moment linksom = **zwaartekracht** × **afstand** van het draaipunt.
+  - Moment rechtsom = **kracht van het blok** × **afstand** van het draaipunt.
+  - Voor evenwicht moeten beide momenten gelijk zijn: **zwaartekracht × arm1 = kracht blok × arm2**.
+
+- **Krachten in evenwicht**:
+  - Naast momenten moet ook **kracht** in evenwicht zijn.
+  - De som van alle krachten die op het voorwerp werken moet **nul** zijn.
+  - Een krachtenevenwicht vereist soms een extra kracht die vanuit het **steunpunt** werkt om het voorwerp op zijn plaats te houden.
+
+- **Samenvatting**:
+  - **Momenten in evenwicht**: Momenten linksom moeten gelijk zijn aan momenten rechtsom.
+  - **Krachten in evenwicht**: De som van alle krachten moet nul zijn, waarbij de kracht op het draaipunt vaak niet direct invloed heeft op de momentenberekening.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                   | **Korte Antwoord**                                   |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Wat is de eenheid van het moment?                                                            | **Newton-meter** (Nm).                              |
+| Wat betekent momenten in evenwicht?                                                          | Het totaal van de momenten linksom is gelijk aan het totaal van de momenten rechtsom. |
+| Hoe wordt het moment dat de zwaartekracht veroorzaakt berekend?                              | Moment = **zwaartekracht** × **afstand** van het draaipunt. |
+| Wat moet je doen om een balk in evenwicht te houden?                                        | Zorg ervoor dat het moment linksom gelijk is aan het moment rechtsom. |
+| Hoe kan je het moment rechtsom op een balk creëren?                                         | Bijvoorbeeld door een **blok** te plaatsen dat een moment rechtsom veroorzaakt. |
+| Waarom is een extra kracht vaak nodig bij krachtenevenwicht?                                | Om ervoor te zorgen dat de som van alle krachten nul is, zodat het voorwerp niet beweegt. |
+| Wat gebeurt er als de momenten niet in evenwicht zijn?                                      | Het voorwerp zal draaien in de richting van het grootste moment. |
+| Hoe beïnvloedt de kracht op het draaipunt de momentberekening?                               | Kracht op het draaipunt heeft geen invloed op de momentberekening omdat de arm van deze kracht nul is. |
+| Wat moet je controleren bij momenten in evenwicht?                                           | Zorg ervoor dat het moment linksom gelijk is aan het moment rechtsom en dat de som van alle krachten nul is. |
+

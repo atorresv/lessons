@@ -1,0 +1,38 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Soorten Golven: Transversale en Longitudinale Golven
+
+- **Golf**: Een golf verplaatst zich door een medium door trillingen.
+- **Medium**: Het materiaal waar een golf zich doorheen verplaatst, zoals touw, water of lucht.
+  - **Touw**: Bij een touw verplaatst de golf zich door heen en weer bewegen van het touw.
+  - **Wateroppervlak**: Golven verplaatsen zich door de verstoring van het wateroppervlak.
+  - **Lucht**: Geluidsgolven verplaatsen zich door luchtdrukveranderingen.
+- **Transversale Golven**:
+  - Trilling en voortplantingsrichting zijn **loodrecht** op elkaar.
+  - Voorbeeld: Een golf op een touw beweegt op en neer terwijl de golf zich horizontaal voortbeweegt.
+- **Longitudinale Golven**:
+  - Trilling en voortplantingsrichting zijn **in dezelfde richting**.
+  - Voorbeeld: Geluidsgolven die zich voortplanten als drukgolven in de lucht, waarbij luchtmoleculen afwisselend samengedrukt en uitgerekt worden.
+- **Samengevat**:
+  - **Lopende Golf**: Golf die zich verplaatst met een constante snelheid in een bepaalde richting door een medium.
+  - **Transversale Golf**: Trilling en voortplantingsrichting staan loodrecht op elkaar.
+  - **Longitudinale Golf**: Trilling en voortplantingsrichting zijn gelijk.
+
+**Diagnostische vragen**
+
+| Vraag                                                        | Korte Antwoord                                                                                                    |
+|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Wat is een golf?                                             | Een golf is een verstoring die zich verplaatst door een medium door trillingen.                                   |
+| Noem drie voorbeelden van media waarin golven zich verplaatsen. | Touw, wateroppervlak, lucht.                                                                                      |
+| Wat gebeurt er als je een touw heen en weer beweegt?          | Er ontstaat een transversale golf waarbij de trilling op en neer beweegt terwijl de golf zich horizontaal voortbeweegt. |
+| Wat is een transversale golf?                                | Een golf waarbij de richting van de trilling loodrecht staat op de richting van voortplanting.                   |
+| Geef een voorbeeld van een longitudinale golf.               | Geluidsgolven die zich verplaatsen als drukgolven in de lucht.                                                     |
+| Hoe verplaatsen longitudinale golven zich?                    | Door afwisselende compressies en uitbreidingen van het medium in de voortplantingsrichting.                        |
+| Wat is het verschil tussen de richtingen van trilling en voortplanting bij transversale en longitudinale golven? | Bij transversale golven zijn ze loodrecht op elkaar, bij longitudinale golven zijn ze gelijk.                       |
+| Wat is een lopende golf?                                     | Een golf die zich voortbeweegt met een constante snelheid in een bepaalde richting door een medium.               |

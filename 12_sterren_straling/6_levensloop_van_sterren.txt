@@ -1,0 +1,35 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Leven en Dood van Sterren**
+
+- **Sterren** ontstaan uit **grote gaswolken**, voornamelijk waterstof.
+- Onder invloed van **zwaartekracht** trekt de gaswolk samen, wat **druk** en **temperatuur** in het midden verhoogt.
+- Wanneer de temperatuur hoog genoeg is, treedt **kernfusie** op: waterstof wordt omgezet in **helium**.
+- Tijdens kernfusie komt er veel **energie** vrij in de vorm van **straling**.
+- **Hoofdreeks Sterren** zijn sterren die waterstof omzetten in helium. Onze **zon** is een voorbeeld van een hoofdreeksster.
+- **Kleine sterren** (rode sterren) hebben een langzamere brandstofverbruik en blijven langer op de hoofdreeks.
+- **Grote sterren** (blauwe sterren) hebben een sneller brandstofverbruik en verlaten sneller de hoofdreeks.
+- Na het uitputten van waterstof:
+  - **Kleine en gemiddelde sterren**: worden **rode reuzen**, stoten hun buitenste lagen af, en worden een **witte dwerg**.
+  - **Grote sterren**: ondergaan een **supernova-explosie**. 
+    - Na de explosie blijft een **neutronenster** of **pulsar** achter als de ster niet extreem groot is.
+    - Als de ster extreem groot is, blijft er een **zwart gat** over, waarbij de materie zo dicht op elkaar is gepakt dat zelfs **licht** niet kan ontsnappen.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Hoe ontstaat een ster? | Een ster ontstaat uit een grote gaswolk, voornamelijk waterstof, die onder invloed van zwaartekracht samengetrokken wordt. |
+| Wat gebeurt er bij kernfusie in een ster? | Bij kernfusie wordt waterstof omgezet in helium, waarbij veel energie vrijkomt in de vorm van straling. |
+| Wat is een hoofdreeksster? | Een hoofdreeksster is een ster die waterstof omzet in helium en op de hoofdreeks van een Hertzsprung-Russell-diagram staat. |
+| Wat is het verschil in brandstofverbruik tussen kleine en grote sterren? | Kleine sterren (rode sterren) hebben een langzamere brandstofverbruik en blijven langer op de hoofdreeks. Grote sterren (blauwe sterren) hebben een sneller brandstofverbruik en verlaten sneller de hoofdreeks. |
+| Wat gebeurt er met een kleine of gemiddelde ster na het uitputten van waterstof? | Na het uitputten van waterstof wordt de ster een rode reus, stoot zijn buitenste lagen af en verandert in een witte dwerg. |
+| Wat gebeurt er met een grote ster na het uitputten van waterstof? | Een grote ster ondergaat een supernova-explosie. Na de explosie blijft er een neutronenster of een zwart gat over. |
+| Wat blijft er over na een supernova-explosie van een niet extreem grote ster? | Na een supernova-explosie van een niet extreem grote ster blijft een neutronenster of pulsar over. |
+| Wat is een zwart gat? | Een zwart gat is een object met zo'n sterke zwaartekracht dat zelfs licht er niet aan kan ontsnappen. Dit ontstaat na de supernova-explosie van een extreem grote ster. |

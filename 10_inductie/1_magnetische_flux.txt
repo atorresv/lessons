@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Magnetische Flux en het Verband met Elektriciteit en Magnetisme**
+
+  - **Magnetische Flux**: 
+    - **Definitie**: Het aantal **magnetische veldlijnen** dat door een bepaald oppervlak loopt.
+    - **Maat**: Wordt gemeten in **Weber (Wb)**.
+    - **Symbool**: De hoofdletter **Φ** (Phi) van het Griekse alfabet.
+  
+  - **Formule voor Flux**: 
+    - **Flux** = **B** × **A**
+    - Waarbij **B** = magnetische veldsterkte en **A** = oppervlakte in vierkante meters.
+  
+  - **Voorwaarden voor de Formule**:
+    - **Homogeen veld**: Het magneetveld moet over het hele oppervlak gelijkmatig zijn.
+    - **Loodrecht oppervlak**: Het oppervlak moet loodrecht staan op de magnetische veldlijnen.
+  
+  - **Onregelmatigheden**:
+    - Bij een **niet-homogeen veld**: Gebruik de gemiddelde veldsterkte voor het oppervlak.
+    - Als het oppervlak niet loodrecht staat op de veldlijnen, gebruik je de **component van de veldlijnen** die wel loodrecht op het oppervlak staat, oftewel **B × A × cos(α)**, waarbij **α** de hoek is tussen de veldlijnen en het oppervlak.
+  
+  - **Samenvatting**:
+    - **Flux** is een maat voor hoeveel veldlijnen er door een oppervlak lopen.
+    - De formule voor het berekenen van Flux kan alleen worden gebruikt als het oppervlak loodrecht staat op de veldlijnen. Bij andere hoeken moet de hoekcorrectie toegepast worden.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is **magnetische Flux**? | Het aantal magnetische veldlijnen dat door een bepaald oppervlak loopt. |
+| Hoe wordt **Flux** gemeten? | In **Weber (Wb)**. |
+| Wat is het symbool voor Flux? | De hoofdletter **Φ** (Phi). |
+| Geef de formule voor **Flux**. | **Flux** = **B** × **A**, waarbij **B** de magnetische veldsterkte is en **A** het oppervlak in vierkante meters. |
+| Welke voorwaarden moeten gelden om de formule voor Flux te gebruiken? | Het magneetveld moet homogeen zijn en het oppervlak moet loodrecht op de magnetische veldlijnen staan. |
+| Wat doe je als het magneetveld niet homogeen is? | Gebruik de gemiddelde veldsterkte binnen het oppervlak. |
+| Hoe bereken je de Flux als het oppervlak niet loodrecht staat op de veldlijnen? | Gebruik de formule **B × A × cos(α)**, waarbij **α** de hoek is tussen de veldlijnen en het oppervlak. |
+| Wat betekent het als het oppervlak niet loodrecht staat op de magnetische veldlijnen? | Je moet de component van de veldlijnen die loodrecht op het oppervlak staat gebruiken, of de hoekcorrectie toepassen in de formule. |

@@ -1,0 +1,29 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Ontwikkeling van het Heliocentrisch en Geocentrisch Stelsel**
+
+- **Oude Opvatting: Geocentrisch Stelsel**
+  - **Zon** en **planeten** draaien om de **aarde**.
+  - **Geocentrisch** betekent aarde in het midden.
+  - Deze opvatting werd verdedigd door **Aristoteles** en later door de **Katholieke Kerk**.
+
+- **Nieuwe Opvatting: Heliocentrisch Stelsel**
+  - **Nicolaas Copernicus** en **Galileo Galilei** stelden dat de **zon** in het midden staat.
+  - **Heliocentrisch** betekent zon in het midden.
+  - Tegenwoordig wordt aangenomen dat de **zon** in het midden staat van ons zonnestelsel.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat was de oude opvatting over het zonnestelsel? | De oude opvatting was het **geocentrisch stelsel**, waarbij de **aarde** in het midden stond en alles om de aarde heen draaide. |
+| Wie verdedigden de geocentrische theorie? | De **Katholieke Kerk** en de Griekse filosoof **Aristoteles** verdedigden de geocentrische theorie. |
+| Welke wetenschappers introduceerden het heliocentrische stelsel? | **Nicolaas Copernicus** en **Galileo Galilei** introduceerden het heliocentrische stelsel. |
+| Wat houdt het heliocentrische stelsel in? | Het **heliocentrische stelsel** houdt in dat de **zon** in het midden staat en de planeten om de zon draaien. |
+| Wat betekent de term "heliocentrisch"? | **Heliocentrisch** betekent dat de **zon** in het midden staat. |

@@ -1,0 +1,31 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **De Wet van Kepler en Planeetbanen**
+
+- **Planeetbanen** om de zon zijn **elliptisch**, maar worden in veel gevallen als cirkels beschouwd.
+- **Kepler** ontdekte in de 16e eeuw een **verband** tussen de afstand van een planeet tot de zon en de omlooptijd van die planeet.
+- Dit verband wordt uitgedrukt als de **afstand tot de zon tot de derde macht** gedeeld door de **omlooptijd in het kwadraat** is een constante.
+- **Middelpuntzoekende kracht** in een planeetbaan wordt geleverd door de **zwaartekracht** van de zon.
+- De formule voor middelpuntzoekende kracht is \( \frac{MV^2}{r} \), waarbij \( M \) de massa van de planeet en \( r \) de afstand tot de zon is.
+- **Kepler's wet** kan worden uitgedrukt als: \( \frac{r^3}{T^2} = \text{constante} \), waarbij \( r \) de afstand tot de zon is en \( T \) de omlooptijd van de planeet.
+- De **constanten** in de formule zijn de massa van de zon en de zwaartekrachtconstante.
+- **Kepler** wist niet precies waarom zijn wet gold, maar later werden de krachten zoals de middelpuntzoekende kracht en de gravitatiekracht verklaard door de wetten van **Newton**.
+- Gegevens zoals de **afstanden** van planeten tot de zon en hun **omlooptijden** kunnen worden gevonden in de **Binas-tabellen**: Tabel 32c en 31h.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat ontdekte Kepler in de 16e eeuw over planetenbanen? | Kepler ontdekte dat er een verband bestaat tussen de afstand van een planeet tot de zon en de omlooptijd van die planeet. |
+| Hoe wordt het verband tussen afstand tot de zon en omlooptijd uitgedrukt volgens Kepler? | Het verband wordt uitgedrukt als de afstand tot de zon tot de derde macht gedeeld door de omlooptijd in het kwadraat is altijd een constante. |
+| Welke kracht levert de middelpuntzoekende kracht in een planeetbaan? | De middelpuntzoekende kracht wordt geleverd door de zwaartekracht van de zon. |
+| Wat is de formule voor middelpuntzoekende kracht? | De formule is \( \frac{MV^2}{r} \), waarbij \( M \) de massa van de planeet en \( r \) de afstand tot de zon is. |
+| Hoe kan Kepler's wet worden uitgedrukt? | Kepler's wet kan worden uitgedrukt als \( \frac{r^3}{T^2} = \text{constante} \), waarbij \( r \) de afstand tot de zon is en \( T \) de omlooptijd van de planeet. |
+| Welke informatie werd later verklaard door de wetten van Newton? | De krachten zoals de middelpuntzoekende kracht en de gravitatiekracht werden later verklaard door de wetten van Newton. |
+| Waar kunnen gegevens zoals de afstanden van planeten tot de zon en hun omlooptijden worden gevonden? | Deze gegevens kunnen worden gevonden in de Binas-tabellen: Tabel 32c en 31h. |

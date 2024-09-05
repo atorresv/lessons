@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Snelheid bij horizontale worp**
+
+- **Horizontale worp**: Combinatie van twee bewegingen, **horizontaal** (eenparig) en **verticaal** (valbeweging).
+- **Formules**: 
+  - **Horizontale beweging**: \( s = v_x \cdot t \)
+  - **Verticale beweging**: \( s_y = \frac{1}{2} g t^2 \)
+- **Snelheid**:
+  - **Horizontale snelheid** \( v_x \) is constant.
+  - **Verticale snelheid** \( v_y \) neemt toe met de versnelling \( g \) (9,81 m/s²).
+  - Totale snelheid is de optelsom van **horizontale** en **verticale** snelheid, berekend met **Pythagoras**.
+- **Voorbeeld**:
+  - Knikkers worden met **2,0 m/s** horizontale snelheid van een **70 cm** hoge tafel gegooid.
+  - **Valtijd** is **0,378 seconden**.
+  - **Verticale snelheid** bij de grond is **3,71 m/s**.
+  - Totale snelheid bij de grond is **4,2 m/s**.
+  - **Hoek** met de grond is **62 graden**.
+- **Samenvatting**: 
+  - **Horizontale worp** bestaat uit een eenparige beweging en een eenparig versnelde beweging.
+  - **Horizontale snelheid** is constant, **verticale snelheid** neemt toe. 
+  - Totale snelheid wordt berekend met Pythagoras en is een combinatie van beide snelheden.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                     | **Antwoord**                               |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------|
+| Wat is een horizontale worp?                                                                  | Een combinatie van een eenparige beweging (horizontaal) en een valbeweging (verticaal). |
+| Welke formules zijn nodig om een horizontale worp te beschrijven?                            | Horizontale beweging: \( s = v_x \cdot t \), Verticale beweging: \( s_y = \frac{1}{2} g t^2 \). |
+| Wat is de snelheid in horizontale richting tijdens een horizontale worp?                     | De horizontale snelheid \( v_x \) is constant. |
+| Hoe verandert de verticale snelheid tijdens een horizontale worp?                            | De verticale snelheid \( v_y \) neemt toe met de versnelling \( g \) (9,81 m/s²). |
+| Hoe bereken je de totale snelheid van een voorwerp bij de grond?                             | Gebruik Pythagoras om de totale snelheid te berekenen: de optelsom van horizontale en verticale snelheid. |
+| Wat is de snelheid van een knikker die van een tafel van 70 cm hoogte valt met een horizontale snelheid van 2,0 m/s? | Totale snelheid is 4,2 m/s. |
+| Hoe bereken je de hoek van de snelheid met de grond?                                           | De hoek is berekend met de inverse tangens van de verhouding van de verticale snelheid tot de horizontale snelheid. |
+| Wat is de hoek met de grond als de horizontale snelheid 2,0 m/s is en de verticale snelheid 3,71 m/s? | De hoek is 62 graden. |
+| Wat is het effect van tijd op de verticale snelheid in een horizontale worp?                  | De verticale snelheid neemt toe naarmate de tijd vordert. |
+| Wat is de versnelling in de verticale richting tijdens een horizontale worp?                  | De versnelling is constant en gelijk aan \( 9,81 \, \text{m/s}^2 \). |

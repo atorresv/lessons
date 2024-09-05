@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Halveringstijd en Radioactief Verval**
+
+- **Radioactief verval** is moeilijk te voorspellen voor een **individueel atoom**.
+  - Het kan variëren van **seconden** tot **jaren**.
+- Voor een **grote groep atomen** kan het verval wel voorspeld worden.
+  - Dit wordt uitgedrukt in de **halveringstijd**.
+- **Halveringstijd**: de tijd waarin de helft van de atomen in een monster is vervallen.
+  - Genoteerd als \( t_{1/2} \).
+  - Eenheden: seconden, dagen, of jaren.
+- Voorbeeld van **jodium-131**:
+  - **8 dagen** halveringstijd.
+  - Na 8 dagen is 50% vervallen, daarna 25%, etc.
+- De formule voor halveringstijd:
+  - \( N(t) = N_0 \times \left(\frac{1}{2}\right)^{t / t_{1/2}} \)
+  - Waarbij \( N(t) \) het aantal overgebleven atomen is na tijd \( t \).
+  - \( N_0 \) is het oorspronkelijke aantal atomen.
+  - \( t_{1/2} \) is de halveringstijd.
+- Voor massa-berekeningen:
+  - Massa op een bepaald moment = Beginmassa \( \times \left(\frac{1}{2}\right)^{t / t_{1/2}} \)
+- Voorbeeldberekening:
+  - Beginmassa van 5 mg Neon-24.
+  - Na 1 dag: bereken met halveringstijd van 15 uur.
+  - Resultaat: **1,6 mg** over na 1 dag.
+- **Samenvatting**:
+  - Individueel atoom: verval is onvoorspelbaar.
+  - Grote groepen: halveringstijd geeft voorspelbaarheid.
+  - Hoeveelheid atomen neemt exponentieel af, steeds gehalveerd.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is radioactief verval en hoe varieert het? | Radioactief verval van een individueel atoom is moeilijk te voorspellen en kan variëren van enkele seconden tot jaren. |
+| Hoe wordt de halveringstijd uitgedrukt en wat betekent het? | De halveringstijd (genoteerd als \( t_{1/2} \)) is de tijd waarin de helft van de atomen in een monster is vervallen. |
+| Wat is de formule voor het berekenen van het aantal overgebleven atomen na een bepaalde tijd? | \( N(t) = N_0 \times \left(\frac{1}{2}\right)^{t / t_{1/2}} \), waarbij \( N(t) \) het aantal overgebleven atomen is, \( N_0 \) het oorspronkelijke aantal atomen, \( t \) de verstreken tijd, en \( t_{1/2} \) de halveringstijd. |
+| Hoe kan de massa van een stof na een bepaalde tijd worden berekend? | Massa op een bepaald moment = Beginmassa \( \times \left(\frac{1}{2}\right)^{t / t_{1/2}} \). |
+| Wat is de halveringstijd van jodium-131 en hoeveel is er over na 8 dagen? | Jodium-131 heeft een halveringstijd van 8 dagen. Na 8 dagen is 50% van de oorspronkelijke hoeveelheid over. |
+| Hoeveel milligram van een stof blijft over na 1 dag als de halveringstijd 15 uur is? | Begin met 5 milligram en na 1 dag blijft er ongeveer 1,6 milligram over. |
+| Wat is het effect van halveringstijd op een grote groep atomen? | De hoeveelheid atomen neemt exponentieel af en wordt telkens gehalveerd over een bepaalde tijd. |

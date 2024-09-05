@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van de hefboomwet**
+
+- **Hefboom in evenwicht**:
+  - Voor een balk die aan het midden wordt ondersteund, kunnen **ongelijke massa's** aan beide zijden geplaatst worden en toch in evenwicht blijven.
+  - Voorwaarde: **Hefboomwet** moet worden gevolgd.
+
+- **Hefboomwet**:
+  - **F1**: Kracht aan de ene kant van het draaipunt.
+  - **F2**: Kracht aan de andere kant van het draaipunt.
+  - **r1**: Afstand van het draaipunt tot het midden van de eerste massa.
+  - **r2**: Afstand van het draaipunt tot het midden van de tweede massa.
+  - Verhouding: **F1 × r1 = F2 × r2**.
+
+- **Voorbeeld met gewicht**:
+  - Stel je een gewicht van **3,5 kg** voor aan een arm.
+  - Afstand van het gewicht tot het draaipunt: **40 cm**.
+  - Afstand van de spier tot het draaipunt: **5 cm**.
+  - Kracht **F1** van het gewicht: **34,35 N** (3,5 kg × 9,81 m/s²).
+  - Om het gewicht in evenwicht te houden, moet de kracht **F2** zijn: **27,47 N** (afgerond op 2 cijfers: **2,7 × 10² N**).
+
+- **Conclusie**:
+  - De hefboomwet helpt bij het berekenen van de krachten en afstanden die nodig zijn om een object in **evenwicht** te houden.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                   | **Korte Antwoord**                                   |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Wat gebeurt er met de balk als je twee ongelijke massa’s aan beide zijden plaatst?          | De balk blijft in **evenwicht**.                     |
+| Wat moet er worden voldaan om een balk in evenwicht te houden?                             | De **hefboomwet**.                                  |
+| Wat betekent **F1** in de hefboomwet?                                                        | De kracht aan de ene kant van het draaipunt.        |
+| Wat is **r1** in de hefboomwet?                                                               | De afstand van het draaipunt tot de massa aan de ene kant. |
+| Hoe wordt de hefboomwet uitgedrukt in formulevorm?                                           | **F1 × r1 = F2 × r2**.                              |
+| Wat is de afstand van het gewicht tot het draaipunt in het voorbeeld?                       | **40 cm**.                                          |
+| Hoe groot is de kracht die nodig is om een gewicht van 3,5 kg in evenwicht te houden met een spierafstand van 5 cm? | Ongeveer **27,47 N**.                               |
+| Welke formule gebruik je om de kracht te berekenen die nodig is om iets in evenwicht te houden? | **F1 × r1 = F2 × r2**.                              |

@@ -1,0 +1,33 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Toestandsverandering en Algemene Gaswet**
+
+- **Algemene gaswet**: Gebruikt om te berekenen wat er gebeurt met een gas tijdens een toestandsverandering.
+- **Toestandsverandering**: Wijziging in **druk**, **volume**, **temperatuur**, of **aantal mol** van een gas.
+- **Voorbeeld**: Begin met **druk** van standaarddruk, **temperatuur** van 293 K, en **volume** van 100 dm³. Gas wordt **samengedrukt** tot 75 dm³, terwijl temperatuur en aantal mol gelijk blijven.
+  - Vraag: Wat is de nieuwe druk?
+- **Toepassing**: Gebruik de **algemene gaswet** om de nieuwe druk te berekenen. Soms is het handiger om een **constante** te gebruiken.
+- **Wet van Boyle**: Als temperatuur en aantal mol constant zijn, kan de formule worden vereenvoudigd naar \( \frac{P_1 \cdot V_1}{P_2 \cdot V_2} \).
+  - **Druk** in situatie 2 (P2) = \( P_1 \cdot \frac{V_1}{V_2} \).
+  - Voorwaarden: \( P_1 = 1,01 \times 10^5 \text{ Pa} \), \( V_1 = 100 \text{ dm}^3 \), \( V_2 = 75 \text{ dm}^3 \).
+  - Resultaat: **Druk** = 1,3 × 10^5 Pa (meer dan 2 keer zo groot door samenpersen).
+- **Samenvatting**: Toestand van een gas wordt bepaald door **druk**, **temperatuur**, **volume**, en **aantal deeltjes**. Toestandsveranderingen omvatten wijzigingen in twee of meer van deze parameters. De nieuwe waarden kunnen worden berekend met behulp van de vereenvoudigde vorm van de algemene gaswet: \( \frac{P_1 \cdot V_1}{T_1} = \frac{P_2 \cdot V_2}{T_2} \).
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Korte antwoord                                                   |
+|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Wat is een toestandsverandering?                                                              | Een wijziging in **druk**, **volume**, **temperatuur**, of **aantal mol** van een gas. |
+| Hoe kun je de nieuwe druk berekenen na een toestandsverandering?                             | Met behulp van de **algemene gaswet** of de **wet van Boyle** als temperatuur en aantal mol constant blijven. |
+| Wat gebeurt er met de formule van de algemene gaswet als de temperatuur en aantal mol constant zijn? | De formule vereenvoudigt naar de wet van Boyle: \( P_1 \cdot V_1 = P_2 \cdot V_2 \). |
+| Wat is de wet van Boyle?                                                                      | De formule \( \frac{P_1 \cdot V_1}{T_1} = \frac{P_2 \cdot V_2}{T_2} \) waarbij temperatuur en aantal mol constant blijven. |
+| Hoe bereken je de druk in de nieuwe situatie als het volume verandert?                       | \( P_2 = P_1 \cdot \frac{V_1}{V_2} \) waarbij \( P_1 \), \( V_1 \), en \( V_2 \) bekend zijn. |
+| Wat is de druk in situatie 2 als \( P_1 = 1,01 \times 10^5 \text{ Pa} \), \( V_1 = 100 \text{ dm}^3 \), en \( V_2 = 75 \text{ dm}^3 \)? | De druk in situatie 2 is 1,3 × 10^5 Pa. |
+| Wat blijft constant tijdens een toestandsverandering als je de wet van Boyle gebruikt?         | **Temperatuur** en **aantal mol**.                               |
+| Hoe kan de algemene gaswet worden toegepast in verschillende situaties?                       | Door een constante toe te voegen die in elke situatie hetzelfde blijft. |

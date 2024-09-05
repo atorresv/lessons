@@ -1,0 +1,45 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Regels voor afronden bij optellen en aftrekken**
+
+  - **Nauwkeurigheid van gegevens**: 
+    - Bij metingen zoals de hoogte van een toren is de nauwkeurigheid belangrijk.
+    - Bijvoorbeeld: een toren van **225 meter** en een dikte van **1 mm**.
+  
+  - **Afronden bij optellen en aftrekken**:
+    - **Optellen en aftrekken** volgen andere regels dan vermenigvuldigen en delen.
+    - Zorg ervoor dat de gegevens dezelfde **eenheid** of **macht van 10** hebben.
+    - Kijk naar het aantal **cijfers achter de komma** van de gegevens.
+    - Het eindantwoord moet worden afgerond op het aantal cijfers achter de komma van de gegevens met het **minst aantal cijfers achter de komma**.
+  
+  - **Voorbeeld**:
+    - **Hoogte toren**: 225 meter + 0,001 meter = 225,001 meter.
+    - Afronden op **0 cijfers achter de komma**: 225 meter.
+    - **Nauwkeurigheid**: 1 mm verschil is niet merkbaar als je op meter nauwkeurig bent.
+  
+  - **Andere voorbeelden**:
+    - 6,17 × 10^4 + 0,9 × 10^4 = 7,07 × 10^4; afgerond op **1 cijfer achter de komma**: 7,1 × 10^4.
+    - 340,1 kJ - 0,008 kJ = 340,092 kJ; afgerond op **1 cijfer achter de komma**: 340,1 kJ.
+  
+  - **Belangrijk**:
+    - De regels voor optellen en aftrekken komen relatief weinig voor in natuurkunde.
+    - Vermenigvuldigen en delen volgen meestal de regels voor significante cijfers.
+    - Weet hoe je moet afronden bij optellen en aftrekken voor wanneer het nodig is.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                   | Kort antwoord                                    |
+|-----------------------------------------------------------------------------------------|-------------------------------------------------|
+| Wat is de regel voor afronden bij optellen en aftrekken?                               | Kijk naar het aantal cijfers achter de komma van de gegevens met het minste aantal cijfers achter de komma. |
+| Hoe moet je de eenheden en machten van 10 controleren bij optellen en aftrekken?         | Zorg ervoor dat de gegevens dezelfde eenheid of macht van 10 hebben.                           |
+| Hoe rond je het antwoord af als je de hoogte van een toren (225 meter) en een dikte van 1 mm optelt? | Afronden op 0 cijfers achter de komma: 225 meter.       |
+| Wat gebeurt er als je een meting van 225 meter optelt met 0,001 meter?                  | De hoogte wordt 225,001 meter, afgerond op 225 meter. |
+| Hoeveel cijfers achter de komma moet je gebruiken bij het optellen van 6,17 × 10^4 en 0,9 × 10^4? | Afronden op 1 cijfer achter de komma: 7,1 × 10^4.  |
+| Hoe rond je 340,092 kJ af als je 340,1 kJ - 0,008 kJ berekent?                         | Afronden op 1 cijfer achter de komma: 340,1 kJ. |
+| Waarom is het belangrijk om de regels voor optellen en aftrekken te kennen?              | Omdat je deze regels moet toepassen als je met optellen of aftrekken werkt, ondanks dat vermenigvuldigen en delen vaak voorkomen.  |

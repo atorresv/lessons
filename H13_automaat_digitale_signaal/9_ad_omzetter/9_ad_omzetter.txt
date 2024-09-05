@@ -1,0 +1,24 @@
+9_AD_OMZETTER_COMPERATOR
+*  Comperator
+*  U>Uref → 1
+*  AD-omzetter
+*  Resolutie en aantal bits
+
+
+elemente die een analoog signaal kune omzetten in een digitaal signaal
+comperator:
+knop die verdraaid kan worden
+heeft analoge ingang en digitale uitgaang
+referentie spannig kan ingesteld worden
+ingag > ref => 1
+
+AD omzetter: linksonder 1 ingagn 4 uitgangen
+ingang analoog uitgnag 4bit digitaal signaal
+ingang tussen 0 en 5V
+uitgaang tussen 0-15
+per volt stapje .3V -> resolutie
+
+AD en comperator:
+analoog -> digitaal
+AD -> binaair getaal
+comperator: vergelijking met referentie spanning

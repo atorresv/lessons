@@ -1,0 +1,13 @@
+3_AMPLITUDE_MODULATIE_AM
+*  Moduleren draaggolf
+*  Moduleren van amplitude
+*  Grafische weergave
+*  AM in de praktijk
+
+
+techniek om een senaal te moduleren
+amplitude van draaggolf moduleren
+vorm van het draaggolf word gemoduleerd
+de ontvanger meet de amplitude van de draggolf
+modulatie: verstoppen van signal in een draggolf
+amplitude gevarierd vorgens signaal

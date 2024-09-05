@@ -1,0 +1,56 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Activiteit en Halveringstijd van Radioactieve Isotopen**
+
+- **Activiteit**: Het aantal radioactieve kernen dat per seconde vervalt in een bepaalde stof. Afgekort als **Becquerel (Bq)**.
+  
+- **Belangrijke punten**:
+  - **Activiteit** verschilt van het aantal deeltjes dat je meet, omdat niet alle deeltjes de detector bereiken en niet elke deeltje een klik op de detector veroorzaakt.
+  - **Activiteit** hangt af van:
+    - Het **aantal aanwezige kernen**.
+    - De **halveringstijd** van de isotoop.
+  
+- **Formule voor Activiteit**:
+  - \( A = \frac{\ln(2)}{t_{1/2}} \times N \)
+  - Waarbij \( \ln(2) \) ongeveer **0,693** is, \( t_{1/2} \) de halveringstijd, en \( N \) het aantal kernen.
+
+- **Voorbeeld**:
+  - Activiteit van **3 kg uranium-238**:
+    - Massa atoom = **238 u** (atomair gewicht).
+    - 3 kg uranium gedeeld door massa van een atoom geeft het aantal kernen.
+    - Halveringstijd van uranium-238 = **4,47 × 10^9 jaar**.
+    - Omrekenen naar seconden = **1,41 × 10^17 seconden**.
+    - Activiteit berekend = **3,7 × 10^8 Bq**.
+
+- **Relatie tussen Activiteit en Aantal Kernen**:
+  - Activiteit is recht evenredig met het aantal kernen.
+  - Als het aantal kernen halveert, halveert ook de activiteit.
+  
+- **Voorbeeld met Jodium-131**:
+  - Halveringstijd van **8 dagen**.
+  - Na 8 dagen is de activiteit gehalveerd omdat het aantal kernen is gehalveerd.
+
+- **Samenvatting**:
+  - **Activiteit** hangt af van het aantal kernen en de halveringstijd.
+  - Halveringstijd is de tijd waarin de helft van de kernen is vervallen, en dit beïnvloedt de activiteit op dezelfde manier.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| Wat betekent de term "activiteit" in de context van radioactieve isotopen? | Activiteit betekent het aantal radioactieve kernen dat per seconde vervalt, afgekort als Becquerel (Bq). |
+| Waar hangt de activiteit van een radioactieve stof van af? | Activiteit hangt af van het aantal aanwezige kernen en de halveringstijd van de isotoop. |
+| Wat is de formule voor het berekenen van de activiteit? | \( A = \frac{\ln(2)}{t_{1/2}} \times N \), waarbij \( \ln(2) \) ongeveer 0,693 is, \( t_{1/2} \) de halveringstijd, en \( N \) het aantal kernen. |
+| Hoe bereken je de activiteit van 3 kg uranium-238? | Eerst het aantal kernen berekenen door 3 kg te delen door de massa van één atoom. Vervolgens de halveringstijd van uranium-238 omrekenen naar seconden en de activiteit berekenen met de formule. |
+| Wat is de halveringstijd van uranium-238? | De halveringstijd van uranium-238 is ongeveer 4,47 × 10^9 jaar. |
+| Hoe verandert de activiteit als het aantal kernen halveert? | De activiteit halveert ook als het aantal kernen halveert. |
+| Geef een voorbeeld van een isotoop met een halveringstijd van 8 dagen. | Jodium-131 is een voorbeeld van een isotoop met een halveringstijd van 8 dagen. |
+| Wat gebeurt er met de activiteit van een isotoop na één halveringstijd? | Na één halveringstijd is de activiteit gehalveerd omdat het aantal kernen is gehalveerd. |
+| Hoe kun je de massa van een radioactieve stof relateren aan het aantal kernen? | De massa van een stof kan worden omgezet naar het aantal kernen door te delen door de massa van één atoom, waarbij het aantal kernen direct gerelateerd is aan de massa. |
+

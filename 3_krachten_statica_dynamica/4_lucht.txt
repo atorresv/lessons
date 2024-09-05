@@ -1,0 +1,46 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Luchtweerstand**
+
+- **Luchtweerstand** ontstaat doordat een bewegend object, zoals een auto, tegen luchtmoleculen botst.
+- **Luchtwrijvingskracht** is de kracht die in de richting tegengesteld aan de beweging werkt.
+- **Formule** voor luchtweerstand: \( \frac{1}{2} \cdot C_w \cdot \rho \cdot A \cdot v^2 \)
+  - \( C_w \): Luchtwrijvingscoëfficiënt
+  - \( \rho \): Dichtheid van de lucht
+  - \( A \): Frontaal oppervlak
+  - \( v \): Snelheid
+- **Luchtwrijvingscoëfficiënt (C_w)**:
+  - Geeft aan hoe gestroomlijnd een object is.
+  - **Lage C_w-waarde**: Gestroomlijnd, minder luchtweerstand.
+  - **Hoge C_w-waarde**: Minder gestroomlijnd, meer luchtweerstand.
+- **Dichtheid van de lucht**:
+  - Normaal: 1,293 kg/m³, maar kan variëren met temperatuur en luchtdruk.
+- **Frontaal oppervlak (A)**:
+  - Het oppervlak van het voertuig dat recht op de bewegingsrichting staat.
+  - Hoe groter het oppervlak, hoe meer luchtweerstand.
+- **Snelheid (v)**:
+  - Heeft een grote invloed op luchtwrijving.
+  - Luchtweerstand is kwadratisch afhankelijk van de snelheid; hogere snelheid betekent veel grotere luchtweerstand.
+- **Samenvatting**:
+  - Luchtweerstand is de kracht die een voertuig ervaart door interactie met luchtmoleculen.
+  - Afhankelijk van **vorm**, **dichtheid van de lucht**, **frontaal oppervlak** en **snelheid**.
+
+**Diagnostische vragen**
+
+| **Vraag**                                          | **Antwoord**                                                                 |
+|----------------------------------------------------|------------------------------------------------------------------------------|
+| Wat is luchtweerstand?                            | Luchtweerstand is de kracht die een object ondervindt bij beweging door de lucht. |
+| Hoe wordt de luchtwrijvingskracht berekend?        | Met de formule: \( \frac{1}{2} \cdot C_w \cdot \rho \cdot A \cdot v^2 \).        |
+| Wat betekent de term \( C_w \) in de formule?      | \( C_w \) is de luchtwrijvingscoëfficiënt, die aangeeft hoe gestroomlijnd een object is. |
+| Hoe beïnvloedt een lage \( C_w \)-waarde de luchtweerstand? | Een lage \( C_w \)-waarde betekent minder luchtweerstand omdat het object meer gestroomlijnd is. |
+| Wat is de normale dichtheid van lucht?              | Normaal is de dichtheid van lucht 1,293 kg/m³, maar deze kan variëren.        |
+| Hoe beïnvloedt het frontale oppervlak \( A \) de luchtweerstand? | Een groter frontaal oppervlak leidt tot meer luchtweerstand.                  |
+| Wat is de relatie tussen snelheid en luchtweerstand? | Luchtweerstand is kwadratisch afhankelijk van de snelheid; hogere snelheid resulteert in veel grotere luchtweerstand. |
+| Wat gebeurt er met de luchtweerstand bij een hogere snelheid? | De luchtweerstand neemt veel sneller toe bij hogere snelheden.                 |
+| Waarom is het belangrijk om de luchtwrijvingscoëfficiënt te minimaliseren voor voertuigen? | Een lagere luchtwrijvingscoëfficiënt vermindert de luchtweerstand en verbetert de brandstofefficiëntie. |

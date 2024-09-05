@@ -1,0 +1,57 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Ontbinden van Krachten in een Scheve Slinger**
+
+- **Krachten op de Slanger**:
+  - **Zwaartekracht**: Werkt recht naar beneden.
+  - **Spankracht**: Werkt omhoog langs het touwtje.
+
+- **Evenwicht van Krachten**:
+  - In een rechtopstaande slinger: Spankracht = Zwaartekracht.
+  - In een scheve slinger: Krachten zijn minder duidelijk.
+
+- **Ontbinden van Krachten**:
+  - Bij scheefgetrokken slinger moeten krachten worden **ontbonden**:
+    - **Zwaartekracht**: Moet worden ontbonden in componenten.
+    - **Spankracht**: Ontbonden in componenten loodrecht op elkaar.
+
+- **Ontbinden van Spankracht**:
+  - Spankracht wordt ontbonden in **verticaal** en **horizontaal** component.
+  - **Hoek Alpha** wordt gebruikt:
+    - **Verticale Component**: \( \text{Spankracht} \times \sin(\alpha) \)
+    - **Horizontale Component**: \( \text{Spankracht} \times \cos(\alpha) \)
+
+- **Voorbeeld**:
+  - Bij een scheefgetrokken slinger met een hoek van 50 graden:
+    - Zwaartekracht wordt ontbonden in **componenten** langs en loodrecht op de richting van het touwtje.
+
+- **Berekeningen**:
+  - Gebruik van **sinus** en **cosinus** om componenten van krachten te berekenen.
+  - Krachten worden vergeleken met de ontbonden componenten van andere krachten.
+
+- **Samenvatting**:
+  - **Teken** alle krachten.
+  - **Ontbind** de scheve krachten in hun componenten.
+  - Vergelijk de ontbonden krachten om **evenwicht** te bepalen.
+  - In de voorbeelden: Eerst spankracht ontbonden, dan zwaartekracht in een andere situatie.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat zijn de twee krachten die op een rechtopstaande slinger werken? | **Zwaartekracht** en **spankracht**. |
+| Hoe verhouden de spankracht en zwaartekracht zich in een rechtopstaande slinger? | Ze zijn **gelijk** aan elkaar. |
+| Wat moet er gebeuren om de krachten in een scheefgetrokken slinger te analyseren? | De krachten moeten worden **ontbonden** in componenten. |
+| Hoe wordt de spankracht ontbonden in een scheve slinger? | In een **horizontale** en **verticale** component. |
+| Welke formule gebruik je om de verticale component van de spankracht te berekenen? | \( \text{Spankracht} \times \sin(\alpha) \). |
+| Hoe bereken je de horizontale component van de spankracht? | \( \text{Spankracht} \times \cos(\alpha) \). |
+| Hoe wordt de zwaartekracht ontbonden in een scheve situatie? | In componenten **langs** en **loodrecht** op de richting van het touwtje. |
+| Wat moet je altijd doen bij het analyseren van krachten in scheve situaties? | **Teken** alle krachten en **ontbind** de scheve krachten in componenten. |
+| Waarom is het belangrijk om de componenten van de krachten te berekenen? | Om de krachten in **evenwicht** te brengen en een duidelijk beeld te krijgen van hun effecten. |
+| Wat moet je doen als je de krachten hebt ontbonden? | Vergelijk de ontbonden krachten om te bepalen hoe groot de krachten zijn die je wilt weten. |

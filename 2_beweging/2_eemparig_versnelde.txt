@@ -1,0 +1,61 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Versnelde en Vertrage Bewegingen
+
+- **Versnelling**: 
+  - De toename van snelheid wordt **versnelling** genoemd.
+  - Versnelling is de verandering in snelheid per tijdseenheid en wordt uitgedrukt in **m/s²**.
+  - Op aarde is de versnelling door de zwaartekracht **9,81 m/s²** (aangeduid als **g**).
+
+- **Eenparig Versnelde Beweging**:
+  - **Versnelde beweging**: Beweging waarbij de snelheid in de loop van de tijd regelmatig toeneemt.
+  - **Snelheid-tijd diagram**: De snelheid neemt lineair toe, weergegeven als een rechte lijn.
+  - Versnelling kan worden berekend met de formule: \( a = \frac{\Delta v}{\Delta t} \).
+
+- **Plaats-tijd Diagram**:
+  - De verplaatsing kan worden berekend door de **gemiddelde snelheid** te vermenigvuldigen met de tijd.
+  - Voor een eenparig versnelde beweging is de formule voor verplaatsing: \( s = \frac{1}{2} a t^2 \).
+
+- **Gemiddelde Snelheid**:
+  - Gemiddelde snelheid over een tijdsinterval kan worden berekend als het gemiddelde van de beginsnelheid en de eindsnelheid: \( v_{gem} = \frac{v_{begin} + v_{eind}}{2} \).
+  - Voor een eenparig versnelde beweging met beginsnelheid 0 is \( v_{gem} = \frac{1}{2} a t \).
+
+- **Vertraagde Beweging**:
+  - **Vertraagde beweging**: Beweging waarbij de snelheid afneemt.
+  - Kan worden beschreven met een negatieve versnelling, waarbij de snelheid afneemt in plaats van toeneemt.
+
+- **Niet-eenparige Beweging**:
+  - Kan worden opgedeeld in stukken met elk eenparig versnelde beweging of constante snelheid.
+  - Belangrijk om te controleren of elk segment voldoet aan de criteria voor een eenparig versnelde beweging.
+
+- **Formules en Toepassingen**:
+  - Versnelling: \( a = \frac{\Delta v}{\Delta t} \).
+  - Verplaatsing bij een eenparig versnelde beweging: \( s = \frac{1}{2} a t^2 \).
+  - Alleen geldig als de beginsnelheid **0** is.
+
+- **Belangrijke Concepten**:
+  - **Versnelling**: Hoeveel snelheid per seconde toeneemt (m/s²).
+  - **Eenparig versnelde beweging**: Regelmatige toename van snelheid.
+  - **Vertraagde beweging**: Regelmatige afname van snelheid.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Korte Antwoord** |
+|-----------|--------------------|
+| Wat is versnelling? | Versnelling is de toename van snelheid per tijdseenheid, uitgedrukt in **m/s²**. |
+| Wat is de waarde van de versnelling door de zwaartekracht op aarde? | De versnelling door de zwaartekracht op aarde is **9,81 m/s²**. |
+| Wat is een eenparig versnelde beweging? | Een eenparig versnelde beweging is een beweging waarbij de snelheid **regelmatig** toeneemt. |
+| Hoe ziet het snelheid-tijd diagram eruit voor een eenparig versnelde beweging? | Het snelheid-tijd diagram is een **rechte lijn** die stijgt. |
+| Hoe bereken je de versnelling? | Versnelling wordt berekend met de formule: \( a = \frac{\Delta v}{\Delta t} \). |
+| Hoe bereken je de verplaatsing bij een eenparig versnelde beweging? | Verplaatsing wordt berekend met de formule: \( s = \frac{1}{2} a t^2 \). |
+| Wat is de formule voor de gemiddelde snelheid in een eenparig versnelde beweging met beginsnelheid 0? | De gemiddelde snelheid is \( v_{gem} = \frac{1}{2} a t \). |
+| Wat is een vertraagde beweging? | Een vertraagde beweging is een beweging waarbij de snelheid **afneemt**. |
+| Hoe kun je een niet-eenparige beweging analyseren? | Een niet-eenparige beweging kan worden opgedeeld in segmenten, waarbij elk segment een eenparig versnelde beweging of constante snelheid kan zijn. |
+| Wanneer zijn de formules voor versnelde beweging en verplaatsing geldig? | De formules zijn geldig als de **beginsnelheid 0** is. |
+

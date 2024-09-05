@@ -1,0 +1,45 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Uitleg van Elektrisch Vermogen**
+
+  - **Vermogen**: Hoeveel **energie per seconde** wordt omgezet in een andere energievorm.
+  - **Elektrisch vermogen**: Hoeveel **elektrische energie** per seconde wordt omgezet in bijvoorbeeld **warmte** en **straling**.
+  - **Formule voor vermogen**: Vermogen = **Joule per seconde** = **Watt**.
+  - **Spanning en stroom**:
+    - **Spanning (V)**: De spanning over een component.
+    - **Stroomsterkte (I)**: Kan worden berekend met de formule **I = P / V**.
+  - Voorbeeld met **gloeilamp**:
+    - 60 Watt bij 230 volt: **Stroomsterkte** = **0,26 ampère**.
+  - **Wet van Ohm**: **U = I * R**. Dit helpt bij het berekenen van spanning, stroom, of weerstand.
+  - **Vermogen formule**: **P = U * I**.
+  - Bij meerdere componenten op een batterij:
+    - Bereken **vermogen** voor elk component door de spanning en stroom te meten.
+    - Vermogen in **weerstanden** wordt omgezet in **warmte**.
+  - **Samenvatting**:
+    - Vermogen = Energie per seconde omgezet in een andere vorm.
+    - Elektrisch vermogen = Hoeveel elektrische energie omgezet in andere vormen zoals warmte.
+    - Gebruik **P = U * I** voor berekeningen.
+    - **Totaal vermogen** = Spanning van de batterij × Stroom uit de batterij.
+    - **Rendement**: Bijna nooit 100%, vaak gaat energie verloren als **warmte**.
+
+**Diagnostische vragen**
+
+| Vraag                                                        | Korte Antwoord                                                |
+|--------------------------------------------------------------|---------------------------------------------------------------|
+| Wat betekent het begrip **vermogen**?                        | Hoeveel energie er per seconde wordt omgezet in een andere energievorm. |
+| Wat is het **elektrisch vermogen**?                          | Hoeveel elektrische energie per seconde wordt omgezet in een andere energievorm, zoals warmte of straling. |
+| Hoe wordt het vermogen uitgedrukt?                           | In **Watt** (joule per seconde).                             |
+| Welke formule gebruik je om **vermogen** te berekenen?        | **P = U * I** (vermogen = spanning × stroom).                |
+| Hoe bereken je de **stroomsterkte** als je het vermogen en de spanning hebt? | Met de formule **I = P / V**.                                |
+| Wat is de stroomsterkte voor een 60 Watt lamp bij 230 volt?  | **0,26 ampère** (60 Watt / 230 volt).                       |
+| Wat zegt de **wet van Ohm**?                                | **U = I * R** (spanning = stroom × weerstand).               |
+| Hoe bereken je het **vermogen** van een component in een schakeling? | Meet de spanning en stroom door dat component en gebruik **P = U * I**. |
+| Hoe wordt **elektrische energie** omgezet in een weerstand?  | In **warmte**.                                               |
+| Hoe bereken je het **totaal vermogen** van een apparaat?      | Vermenigvuldig de spanning van de batterij met de stroom die uit de batterij loopt. |
+| Waarom is het **rendement** van lampjes en speakers meestal niet 100%? | Omdat veel energie verloren gaat als **warmte**.            |

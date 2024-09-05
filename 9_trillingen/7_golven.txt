@@ -1,0 +1,45 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Belangrijke Eigenschappen van Golven**
+
+- **Golf**:
+  - Een golf is een **trilling** die zich in de ruimte verplaatst.
+  - Voorstel: Stel je een touw voor dat op en neer beweegt, waardoor de trilling zich door het touw verspreidt.
+
+- **Golfkenmerken**:
+  - **Snelheid**: De snelheid waarmee de golf zich in een bepaalde richting verplaatst, wordt de **golf snelheid** genoemd.
+  - **Amplitude**: De maximale uitwijking van de golf, vergelijkbaar met gewone trillingen.
+  - **Frequentie**: Het aantal keren dat een punt van de golf op en neer beweegt per seconde.
+  - **Golflengte**: De lengte van een volledige trilling in de ruimte, gemeten van topje tot topje of van dal tot dal. Het symbool voor golflengte is de **Griekse letter lambda (λ)** en de eenheid is meter (m).
+
+- **Formules**:
+  - **Golflengte uitrekenen**: 
+    - Als je de **trillingstijd** en de **snelheid** van de golf weet, gebruik je de formule: 
+      \[ \text{Golflengte} = \text{Golf snelheid} \times \text{Trillingstijd} \]
+    - Als je de **frequentie** weet, gebruik je de formule:
+      \[ \text{Golflengte} = \frac{\text{Golf snelheid}}{\text{Frequentie}} \]
+
+- **Samenvatting**:
+  - Een golf is een trilling die zich voortplant in de ruimte.
+  - Het heeft net als een gewone trilling een **periode**, **frequentie**, **amplitude**, en **golflengte**.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                               | Kort Antwoord                                                   |
+|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Wat is een golf?                                                                                   | Een golf is een trilling die zich voortplant in de ruimte.       |
+| Wat wordt bedoeld met de snelheid van een golf?                                                    | De snelheid waarmee de golf zich in een bepaalde richting verplaatst. |
+| Hoe wordt de maximale uitwijking van een golf genoemd?                                              | De amplitude.                                                   |
+| Wat is de frequentie van een golf?                                                                   | Het aantal keren dat een punt van de golf op en neer beweegt per seconde. |
+| Hoe wordt de afstand tussen twee opeenvolgende toppen of dalen van een golf genoemd?               | De golflengte.                                                   |
+| Wat is het symbool voor golflengte en welke eenheid wordt gebruikt?                               | Het symbool is de Griekse letter lambda (λ) en de eenheid is meter (m). |
+| Hoe kun je de golflengte uitrekenen als je de snelheid en trillingstijd kent?                      | Gebruik de formule: Golflengte = Golf snelheid × Trillingstijd.  |
+| Hoe kun je de golflengte uitrekenen als je de frequentie weet?                                       | Gebruik de formule: Golflengte = Golf snelheid / Frequentie.     |
+| Wat is het verschil tussen de amplitude en de golflengte van een golf?                             | Amplitude is de maximale uitwijking, golflengte is de afstand tussen twee opeenvolgende toppen of dalen. |
+| Wat is de eenheid van golflengte?                                                                   | Meter (m).                                                      |

@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Lenssterkte en Brandpuntsafstand**
+
+- **Lenssterkte**:
+  - **Definitie**: Maat voor de **convergerende** of **divergerende** werking van een lens.
+  - **Symbool**: Hoofdletter **S**.
+  - **Eenheid**: Afgekort als **D** (dioptrie).
+
+- **Brandpuntsafstand**:
+  - **Kleine Brandpuntsafstand**: De lens heeft een sterke **convergerende** werking en buigt lichtstralen sterk af.
+  - **Grote Brandpuntsafstand**: De lens heeft een zwakkere **convergerende** werking of een **divergerende** werking en buigt lichtstralen minder af.
+
+- **Lenssterkte**:
+  - Wordt gebruikt bij **brillenglazen**.
+  - Een bril met **+2** dioptrie betekent een lens met een brandpuntsafstand van **50 cm**.
+  
+- **Berekening**:
+  - De lenssterkte kan worden uitgerekend op basis van de brandpuntsafstand, waarbij de brandpuntsafstand in **meters** moet worden uitgedrukt.
+
+- **Samenvatting**:
+  - **Lenssterkte** bepaalt hoe sterk een lens lichtstralen afbuigt. 
+  - **Kleine brandpuntsafstand** = sterke convergentie.
+  - **Grote brandpuntsafstand** = zwakkere convergentie of divergentie.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte antwoord                                                                                        |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Wat is de lenssterkte?                                                 | Lenssterkte is de maat voor de **convergerende** of **divergerende** werking van een lens.            |
+| Hoe wordt de lenssterkte uitgedrukt?                                   | Lenssterkte wordt uitgedrukt in **dioptrie** en aangeduid met de hoofdletter **S**.                    |
+| Wat betekent een kleine brandpuntsafstand voor een lens?               | Een kleine brandpuntsafstand betekent dat de lens een sterke **convergerende** werking heeft.         |
+| Wat betekent een grote brandpuntsafstand voor een lens?                | Een grote brandpuntsafstand betekent dat de lens een zwakkere **convergerende** werking of een **divergerende** werking heeft. |
+| Hoe wordt lenssterkte vaak uitgedrukt bij brillenglazen?               | Lenssterkte bij brillenglazen wordt vaak uitgedrukt in **dioptrie**.                                    |
+| Wat betekent een bril met +2 dioptrie?                                 | Een bril met +2 dioptrie heeft een lens met een brandpuntsafstand van **50 cm**.                       |
+| Hoe reken je de lenssterkte uit?                                       | De lenssterkte wordt uitgerekend op basis van de **brandpuntsafstand** in meters.                       |
+| Wat is de eenheid van lenssterkte?                                     | De eenheid van lenssterkte is de **dioptrie** (D).                                                     |

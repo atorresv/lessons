@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Belangrijkste Toepassingen van Inductiespanning: De Dynamo**
+
+- **Dynamo**: Zet **bewegingsenergie** om in **elektrische energie**.
+  
+- **Werking**:
+  - Bestaat uit een **draad** die draait in een **magneetveld** tussen de **Noordpool** en de **Zuidpool**.
+  - Bij het draaien verandert de **flux** van nul naar maximaal, wat **inductiespanning** opwekt.
+
+- **Flux Verandering**:
+  - **Minimaal** als de draad parallel staat aan de magnetische veldlijnen.
+  - **Maximaal** als de draad loodrecht staat op de veldlijnen.
+  - **Spanning** is het hoogst wanneer de flux het snelst verandert.
+
+- **Spanning**:
+  - **Wisselspanning** wordt opgewekt omdat de spanning constant wisselt van richting.
+  - **Constante spanning** kan niet met een dynamo worden opgewekt; dynamo produceert altijd wisselspanning.
+
+- **Samenvatting**:
+  - Een dynamo is een apparaat dat **beweging** omzet in **elektriciteit**.
+  - Bestaat uit een **draad** in een **magneetveld**, en de opgewekte spanning is altijd **wisselspanning** door continue flux verandering.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is een dynamo? | Een dynamo is een apparaat dat **bewegingsenergie** omzet in **elektrische energie**. |
+| Hoe werkt een dynamo? | Een dynamo bestaat uit een **draad** die draait in een **magneetveld**. Deze beweging veroorzaakt een **fluxverandering** die **inductiespanning** opwekt. |
+| Wat gebeurt er met de flux als de draad parallel staat aan de magnetische veldlijnen? | De flux is **minimaal** als de draad parallel staat aan de magnetische veldlijnen. |
+| Wanneer is de flux maximaal? | De flux is **maximaal** als de draad loodrecht staat op de magnetische veldlijnen. |
+| Wat voor soort spanning wordt opgewekt door een dynamo? | Een dynamo wekt **wisselspanning** op, omdat de spanning constant van richting verandert. |
+| Kan een dynamo constante spanning opwekken? | Nee, een dynamo kan geen constante spanning opwekken; de spanning is altijd **wisselspanning**. |
+| Hoe verandert de spanning in een dynamo tijdens de rotatie? | De spanning verandert **continue** door de fluxverandering tijdens de rotatie van de draad. |
+| Wat is het effect van fluxverandering op de opgewekte spanning? | Hoe sneller de fluxverandering, hoe **hoger** de spanning die wordt opgewekt. |

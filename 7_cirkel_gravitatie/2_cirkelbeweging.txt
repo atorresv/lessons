@@ -1,0 +1,46 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Belangrijke Concepten van Cirkelbeweging**
+
+- **Cirkelbeweging**: Beweging waarbij een object in een **cirkelbaan** beweegt. 
+  - **Eenparige cirkelbeweging**: Beweging waarbij de **grootte** van de snelheid constant is, maar de richting verandert.
+  - **Omlooptijd (T)**: De tijd die nodig is om één volledige cirkel te maken.
+  - **Frequentie (f)**: Het aantal omwentelingen per seconde, gemeten in **Hertz (Hz)**. Verhouding: \( f = \frac{1}{T} \).
+  - **Toerental (rpm)**: Het aantal omwentelingen per minuut, afgekort als **rpm**.
+
+- **Snelheden in Cirkelbeweging**:
+  - **Baansnelheid (v)**: De snelheid van een object op een bepaald punt in de baan. 
+    - **Formule**: \( v = \frac{2 \pi r}{T} \), waarbij **r** de straal van de cirkel is.
+  - **Hoeksnelheid (ω)**: De snelheid waarmee de hoeken in radialen per seconde worden afgelegd.
+    - **Formule**: \( \omega = \frac{2 \pi}{T} \), waarbij **T** de omlooptijd is.
+
+- **Relatie tussen Baansnelheid en Hoeksnelheid**:
+  - **Formule**: \( v = \omega \cdot r \)
+    - **v**: Baansnelheid
+    - **ω**: Hoeksnelheid
+    - **r**: Straal van de cirkelbaan
+
+Samenvattend:
+- Bij een eenparige cirkelbeweging blijft de grootte van de snelheid constant, maar de richting verandert.
+- Belangrijke parameters zijn **omlooptijd**, **frequentie**, **toerental**, **baansnelheid**, en **hoeksnelheid**.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                   | Antwoord                                                                                                      |
+|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Wat is een **eenparige cirkelbeweging**?                                               | Een beweging waarbij de grootte van de snelheid constant blijft, maar de richting verandert.                |
+| Hoe wordt de **omlooptijd (T)** gemeten?                                                | De tijd die nodig is om één volledige cirkel te maken.                                                       |
+| Wat is de eenheid van **frequentie (f)**?                                                | Hertz (Hz).                                                                                                 |
+| Hoe wordt **toerental** gemeten?                                                         | In omwentelingen per minuut (rpm).                                                                           |
+| Hoe bereken je de **baansnelheid (v)**?                                                   | \( v = \frac{2 \pi r}{T} \), waarbij **r** de straal van de cirkel is en **T** de omlooptijd.                 |
+| Wat is de formule voor **hoeksnelheid (ω)**?                                             | \( \omega = \frac{2 \pi}{T} \), waarbij **T** de omlooptijd is.                                             |
+| Hoe verhoudt de **baansnelheid** zich tot de **hoeksnelheid**?                          | \( v = \omega \cdot r \), waarbij **v** de baansnelheid, **ω** de hoeksnelheid en **r** de straal is.         |
+| Wat verandert bij een **eenparige cirkelbeweging**?                                      | De richting van de snelheid verandert, maar de grootte blijft constant.                                     |
+| Hoe kun je de **frequentie (f)** berekenen als je de **omlooptijd (T)** weet?            | \( f = \frac{1}{T} \), waarbij **T** de omlooptijd is.                                                        |
+| Wat geeft de **toerental** weer in termen van beweging?                                  | Het aantal omwentelingen per minuut van een object in cirkelbeweging.                                       |

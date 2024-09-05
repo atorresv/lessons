@@ -1,0 +1,46 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Toepassingen en Werking van Kernsplijting**
+
+  - **Toepassingen**:
+    - **Kernwapens**
+    - **Kernenergie**
+
+  - **Werking van Kernsplijting**:
+    - **Uranium 235** splijt bij neutronenbombardement.
+    - **Splijting** van uranium 235 leidt tot de vrijmaking van **energie** en **kernen**.
+    - Een enkele splijting kan leiden tot meerdere splijtingen, wat resulteert in een **kettingreactie**.
+
+  - **Kernwapens**:
+    - Kleinere brokken uranium 235 zijn niet effectief omdat de neutronen de splijting niet voortzetten (noem **subkritisch**).
+    - Grotere brokken veroorzaken een **zelfversterkende kettingreactie**, wat leidt tot een **gigantische ontploffing**.
+
+  - **Kernenergie**:
+    - **Kritische massa** van uranium 235 zorgt voor een gecontroleerde kettingreactie.
+    - **Controlestaven** van materialen absorberen neutronen om de reactie te reguleren.
+    - Het **hete water** dat door de splijting wordt geproduceerd, drijft **turbines** aan en wekt **elektriciteit** op.
+    - **Koeling** gebeurt door het water waarin de brandstofstaven zich bevinden.
+
+  - **Samenvatting**:
+    - Voor zowel **kernwapens** als **kernenergie** is uranium 235 nodig.
+    - Een gecontroleerde kettingreactie wordt bereikt door het reguleren van de neutronen met **controlestaven** in een kernreactor.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                     | Kort antwoord                                                        |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Wat zijn de twee belangrijke toepassingen van kernsplijting?                               | Kernwapens en kernenergie.                                            |
+| Wat gebeurt er bij de splijting van uranium 235?                                         | Bij splijting komen er meerdere kernen vrij en wordt energie vrijgegeven. |
+| Waarom is een kleinere hoeveelheid uranium 235 niet effectief voor kernwapens?           | Omdat de neutronen niet genoeg kans hebben om verdere splijtingen te veroorzaken (subkritisch). |
+| Hoe kan een grotere hoeveelheid uranium 235 leiden tot een kernexplosie?                  | Een grotere massa veroorzaakt een zelfversterkende kettingreactie, wat resulteert in een enorme ontploffing. |
+| Hoe wordt in een kernreactor de kettingreactie gecontroleerd?                              | Met behulp van controlestaven die neutronen absorberen om de reactie te reguleren. |
+| Wat gebeurt er met het water in een kernreactor?                                          | Het water wordt heet door de splijting en drijft turbines aan om elektriciteit op te wekken. |
+| Waarom is koeling belangrijk in een kerncentrale?                                         | Om te voorkomen dat de reactie uit de hand loopt en om het water af te koelen. |
+| Wat is een "kritische massa" in de context van kernsplijting?                             | De minimale hoeveelheid uranium 235 die nodig is om een doorlopende kettingreactie te veroorzaken. |
+| Hoe worden controle-staven gebruikt in kerncentrales?                                     | Ze worden tussen de brandstofstaven bewogen om de hoeveelheid neutronen te reguleren en zo de reactie te beheersen. |

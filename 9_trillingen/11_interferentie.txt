@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Interferentie bij Golven**
+
+- **Interferentie** is het verschijnsel waarbij golven elkaar kunnen **versterken** of **uitdoven**.
+  - **Constructieve interferentie**: Als golven **in fase** zijn (faseverschil 0, 1, 2, enz.), **versterken** ze elkaar.
+    - Voorbeeld: Hoge druk van de ene golf valt samen met hoge druk van de andere golf.
+  - **Destructieve interferentie**: Als golven **in tegenfase** zijn (faseverschil 0,5, 1,5, 2,5, enz.), **doven** ze elkaar uit.
+    - Voorbeeld: Lage druk van de ene golf valt samen met hoge druk van de andere golf, wat resulteert in een **uitdoving** van de golf.
+
+- **Constructieve interferentie** leidt tot een **versterkte golf**.
+- **Destructieve interferentie** leidt tot een **afname** of **verdwijning** van de golf.
+  
+- **Grafiek van interferentie**:
+  - Horizontaal: **Faseverschil** tussen twee golven.
+  - Verticaal: **Amplitude** van de resulterende golf.
+    - Faseverschil 0: Maximale amplitude (constructieve interferentie).
+    - Faseverschil 0,5: Amplitude = 0 (destructieve interferentie).
+    - Faseverschil 1: Weer maximale amplitude (constructieve interferentie).
+
+- **Voorwaarden**:
+  - Gelijktijdige frequenties en **gelijke amplitudes** van de golven.
+  - Golven moeten **sinusvormig** zijn.
+
+- **Samenvatting**:
+  - Interferentie is het effect waarbij golven elkaar kunnen **versterken** of **uitdoven**.
+  - **Constructieve interferentie** bij faseverschillen van **hele getallen** (0, 1, 2, ...).
+  - **Destructieve interferentie** bij faseverschillen van **halve getallen** (0,5, 1,5, 2,5, ...).
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                               | **Korte Antwoord**                                                                            |
+|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Wat is interferentie?                                                                                  | Interferentie is het effect waarbij golven elkaar kunnen **versterken** of **uitdoven**.     |
+| Wat gebeurt er bij **constructieve interferentie**?                                                     | Golven die **in fase** zijn, versterken elkaar.                                              |
+| Wat gebeurt er bij **destructieve interferentie**?                                                      | Golven die **in tegenfase** zijn, doven elkaar uit.                                          |
+| Wat is de relatie tussen faseverschil en amplitude bij constructieve interferentie?                      | Bij faseverschil van 0, 1, 2, enz. is er maximale amplitude (versterking).                    |
+| Wat is de relatie tussen faseverschil en amplitude bij destructieve interferentie?                       | Bij faseverschil van 0,5, 1,5, 2,5, enz. is de amplitude 0 (uitdoving).                       |
+| Wat moet er gelijk zijn voor interferentie om effectief te zijn?                                         | De frequenties en **amplitudes** van de golven moeten gelijk zijn, en ze moeten **sinusvormig** zijn. |
+| Hoe ziet de grafiek eruit bij **constructieve interferentie**?                                          | De grafiek toont maximale amplitude bij faseverschil van hele getallen.                      |
+| Hoe ziet de grafiek eruit bij **destructieve interferentie**?                                           | De grafiek toont amplitude = 0 bij faseverschil van halve getallen.                          |
+| Welke voorwaarden moeten worden vervuld voor interferentie?                                             | De golven moeten **sinusvormig** zijn en de **frequenties** en **amplitudes** moeten gelijk zijn.  |

@@ -1,0 +1,51 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Betekenis van Warmte in de Natuurkunde**
+
+- **Temperatuur**:
+  - Maat voor de **gemiddelde kinetische energie** van de deeltjes in een stof.
+  - Temperatuur in **Kelvin** geeft aan hoeveel kinetische energie de deeltjes gemiddeld hebben.
+  - Voorbeeld: 200 Kelvin betekent dubbel zoveel kinetische energie als 100 Kelvin.
+
+- **Moleculen**:
+  - Bewegen altijd en hebben **kinetische energie**.
+  - Moleculen kunnen aan elkaar kleven of niet, afhankelijk van de stof (gas, vloeistof, vaste stof).
+
+- **Inwendige Energie**:
+  - Totale energie in een voorwerp door bewegende deeltjes.
+  - Gelijk aan het aantal deeltjes maal de gemiddelde kinetische energie.
+
+- **Warmte**:
+  - Energie die **toegevoerd** of **afgevoerd** moet worden om de inwendige energie van een voorwerp te laten stijgen of dalen.
+  - Symbool: **Q**
+  - Eenheid: **joule** (J)
+
+- **Effect van Warmte**:
+  - Toevoegen van warmte verhoogt de **temperatuur** van een voorwerp.
+  - Afvoeren van warmte verlaagt de **temperatuur** van een voorwerp.
+
+- **Samenvatting**:
+  - Temperatuur: maat voor gemiddelde kinetische energie.
+  - Inwendige energie: totaal van kinetische energie van de deeltjes in een stof.
+  - Warmte: energie nodig om de temperatuur te verhogen of te verlagen.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is temperatuur in de natuurkunde? | **Temperatuur** is een maat voor de **gemiddelde kinetische energie** van de deeltjes in een stof. |
+| Hoe wordt de temperatuur uitgedrukt in de natuurkunde? | Temperatuur wordt uitgedrukt in **Kelvin**. |
+| Wat is inwendige energie? | **Inwendige energie** is de totale kinetische energie van de deeltjes binnen een stof. |
+| Wat betekent het als een voorwerp 200 Kelvin heeft? | Het betekent dat de deeltjes in het voorwerp gemiddeld **twee keer zoveel kinetische energie** hebben als bij 100 Kelvin. |
+| Wat is warmte? | **Warmte** is de energie die nodig is om de **inwendige energie** van een voorwerp te laten stijgen of dalen. |
+| Wat is het symbool en de eenheid van warmte? | Het symbool voor warmte is **Q** en de eenheid is **joule** (J). |
+| Wat gebeurt er met de temperatuur van een voorwerp als je warmte toevoegt? | De **temperatuur** van het voorwerp **stijgt**. |
+| Wat gebeurt er met de temperatuur van een voorwerp als je warmte afvoert? | De **temperatuur** van het voorwerp **daalt**. |
+| Hoe verschilt inwendige energie van temperatuur? | **Inwendige energie** is de totale kinetische energie van alle deeltjes in een stof, terwijl **temperatuur** de gemiddelde kinetische energie van die deeltjes aangeeft. |
+

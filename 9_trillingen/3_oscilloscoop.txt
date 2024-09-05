@@ -1,0 +1,49 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Werking van een Oscilloscoop**
+
+- **Oscilloscoop**: Apparaat voor het zichtbaar maken van elektrische trillingen.
+- **Trillingen zichtbaar maken**: Zet elektrische trillingen om in een visuele weergave.
+- **Onderdelen**:
+  - **Beeldscherm**: Toont de weergegeven trillingen.
+  - **Tijdbasis**: Knop om het aantal seconden per divisie in te stellen.
+  - **Gevoeligheid**: Knop om het aantal volt per divisie in te stellen.
+  - **Ingang**: Waar elektrische signalen worden aangesloten.
+- **Werking**:
+  - **Stipje op scherm**: Beweegt van links naar rechts, snelheid instelbaar met de tijdbasis.
+  - **Tijdbasis**: Bepaalt hoe snel het stipje beweegt; 0,1 seconden per hokje of sneller/langzamer.
+  - **Gevoeligheid**: Bepaalt de hoogte van het stipje op basis van de spanning.
+- **Weergave van spanningen**:
+  - **Positieve spanning**: Stipje gaat omhoog.
+  - **Negatieve spanning**: Stipje gaat omlaag.
+  - **Grafiek**: Vorm van de spanning wordt zichtbaar als een golfvorm op het scherm.
+- **Analyse**:
+  - **Trillingstijd**: Bepaalde door het aantal hokjes tussen toppen op het scherm.
+  - **Amplitude**: Hoogte van de uitwijking op het scherm.
+- **Samenvatting**:
+  - **Oscilloscoop**: Voor het zichtbaar maken van elektrische trillingen.
+  - **Belangrijke knoppen**:
+    - **Tijdbasis**: Insteltijd per hokje.
+    - **Gevoeligheid**: Instelt aantal volt per hokje.
+  - **Visuele weergave**: Tijd horizontaal, spanning verticaal.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                  | Korte Antwoord                                                        |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Wat is een oscilloscoop?                                                                | Een apparaat dat elektrische trillingen zichtbaar maakt.                |
+| Welke twee belangrijke knoppen heeft een oscilloscoop en waarvoor dienen ze?          | Tijdbasis (stelt het aantal seconden per hokje in) en Gevoeligheid (stelt het aantal volt per hokje in). |
+| Hoe wordt de beweging van het stipje op het scherm van een oscilloscoop beïnvloed door de tijdbasis? | De tijdbasis bepaalt hoe snel het stipje van links naar rechts beweegt, oftewel de snelheid van de tijdsverdeling. |
+| Wat gebeurt er met het stipje op het scherm bij een positieve spanning?                 | Het stipje beweegt omhoog.                                              |
+| Wat gebeurt er met het stipje op het scherm bij een negatieve spanning?                 | Het stipje beweegt omlaag.                                              |
+| Hoe kun je de trillingstijd van een golfvorm op het scherm aflezen?                     | Door het aantal hokjes tussen twee toppen te tellen.                    |
+| Hoe bepaal je de amplitude van een golfvorm op een oscilloscoop?                         | Door te kijken naar de hoogte van de uitwijking op het scherm.           |
+| Wat geeft de gevoeligheidsinstelling van een oscilloscoop aan?                          | Hoeveel volt per hokje wordt weergegeven.                               |
+| Wat wordt er getoond als het stipje op het scherm van een oscilloscoop heel snel beweegt? | Een continue lijn of grafiek die de golfvorm van de spanning laat zien. |
+| Waar staat de tijd en waar staat de spanning op het scherm van een oscilloscoop?        | Tijd staat horizontaal en spanning staat verticaal.                     |

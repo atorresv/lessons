@@ -1,0 +1,57 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Krachten en hun Eigenschappen**
+
+- **Kracht**: 
+  - **Vector grootheid**: Niet alleen de grootte is belangrijk, maar ook de richting en het aangrijpingspunt.
+  - **Eenheid**: Newton (N).
+
+- **Belangrijke Eigenschappen van Kracht**:
+  - **Grootte**: Hoe hard de kracht is.
+  - **Richting**: De richting waarin de kracht werkt.
+  - **Aangrijpingspunt**: Het punt waarop de kracht wordt uitgeoefend.
+
+- **Optellen van Krachten**:
+  - **Kop-staart methode**:
+    - Plaats de krachten achter elkaar (kop-staart).
+    - Teken de resulterende kracht als een vector van het beginpunt tot het eindpunt van de gecombineerde krachten.
+  - **Resultante kracht**:
+    - **Sigma F** of **Netto kracht**: De optelsom van alle krachten op een voorwerp.
+
+- **Formules voor Krachten Loodrecht op Elkaar**:
+  - **Resultante kracht**: Gebruik de stelling van Pythagoras.
+    - Formule: \( R = \sqrt{F_x^2 + F_y^2} \)
+  - **Hoek**: Gebruik de tangensfunctie.
+    - Formule: \( \theta = \tan^{-1}\left(\frac{F_y}{F_x}\right) \)
+
+- **Voorbeeld**:
+  - Voor een bal met krachten van 50 N omhoog, 80 N naar beneden, 90 N naar links, en 30 N naar rechts:
+    - **Verticale krachten**: 50 N omhoog en 80 N naar beneden resulteren in 30 N naar beneden.
+    - **Horizontale krachten**: 90 N naar links en 30 N naar rechts resulteren in een kracht van 60 N naar links.
+    - **Resultante kracht**: \( R = \sqrt{60^2 + 30^2} = 67,1 \) N
+    - **Hoek**: \( \theta = \tan^{-1}\left(\frac{30}{60}\right) = 26,6^\circ \)
+
+- **Krachten Niet Loodrecht**:
+  - Gebruik de ontbindingsmethode om krachten in componenten te splitsen en daarna samen te voegen. 
+
+Deze samenvatting geeft een overzicht van de belangrijkste concepten bij het werken met krachten en hoe ze te analyseren en optellen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                  | Antwoord                                                       |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Wat is een kracht en welke eigenschappen heeft het?                                    | Een kracht is een vector grootheid. Het heeft drie eigenschappen: grootte, richting, en aangrijpingspunt. |
+| Welke eenheid wordt gebruikt om krachten uit te drukken?                              | Newton (N).                                                    |
+| Wat is de kop-staart methode bij het optellen van krachten?                            | De krachten worden achter elkaar geplaatst, en de resulterende kracht wordt getekend van het beginpunt naar het eindpunt van de gecombineerde krachten. |
+| Hoe bereken je de grootte van de resulterende kracht als twee krachten loodrecht op elkaar staan? | Gebruik de stelling van Pythagoras: \( R = \sqrt{F_x^2 + F_y^2} \). |
+| Welke formule gebruik je om de hoek te berekenen bij krachten loodrecht op elkaar?    | Gebruik de tangensfunctie: \( \theta = \tan^{-1}\left(\frac{F_y}{F_x}\right) \). |
+| Hoe kun je de resulterende kracht vinden als de krachten niet loodrecht op elkaar staan? | Ontbind de krachten in hun componenten, tel de componenten op, en combineer de resultaten. |
+| Wat is de resulterende kracht als er krachten van 50 N omhoog, 80 N omlaag, 90 N naar links, en 30 N naar rechts werken? | De resulterende kracht is 67,1 N met een hoek van 26,6° naar links. |
+| Hoe vind je de resulterende kracht van twee krachten als je alleen de grootte en hoek hebt? | Gebruik de formules voor de sinus en cosinus om de componenten van de krachten te berekenen. |
+

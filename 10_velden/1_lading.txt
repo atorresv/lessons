@@ -1,0 +1,53 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Elektrische Lading en Elementaire Deeltjes**
+
+- **Opbouw van Stoffen**:
+  - Elk voorwerp is opgebouwd uit **atomen**, die weer uit **elementaire deeltjes** bestaan.
+  - De drie **elementaire deeltjes** zijn: **protonen**, **neutronen** en **elektronen**.
+
+- **Eigenschappen van Deeltjes**:
+  - **Protonen** en **elektronen** stoten elkaar af als ze gelijk geladen zijn.
+  - Protonen en elektronen trekken elkaar aan als ze tegengesteld geladen zijn.
+
+- **Lading en Voorwerpen**:
+  - Voorwerpen kunnen **geladen** raken door een **overschot** of **tekort** aan elektronen.
+  - Voorwerpen met een **overschot** aan elektronen zijn **negatief** geladen.
+  - Voorwerpen met een **tekort** aan elektronen zijn **positief** geladen.
+
+- **Meten van Lading**:
+  - De **lading** van een voorwerp wordt gemeten en aangeduid met de symbolen **Q** of **q**.
+  - De eenheid van lading is de **Coulomb** (C), genoemd naar de Franse natuurkundige Charles-Augustin de Coulomb.
+
+- **Elementaire Lading**:
+  - De kleinst mogelijke lading is de lading van één elektron, **1,602 x 10^-19 Coulomb**.
+  - Deze lading wordt ook wel de **elementaire lading** genoemd.
+
+- **Wet van Coulomb**:
+  - De kracht van elektrische aantrekkingskracht of afstoting kan worden berekend met de **Wet van Coulomb**:
+    - Kracht = **constante** × (Lading 1 × Lading 2) / (Afstand)^2
+  - De kracht hangt af van de afstand tussen de voorwerpen: dichterbij is de kracht groter, verder weg is de kracht kleiner.
+
+- **Samenvatting**:
+  - **Elektrische lading** is een eigenschap van de elementaire deeltjes in stoffen, met **protonen** als positief geladen en **elektronen** als negatief geladen.
+  - De eenheid van lading is **Coulomb**, en ladingen kunnen worden berekend met de Wet van Coulomb.
+  - Voorwerpen stoten elkaar af of trekken elkaar aan afhankelijk van hun lading en afstand.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                              | Kort Antwoord                                                                                              |
+|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Wat zijn de drie elementaire deeltjes waaruit atomen zijn opgebouwd?                              | **Protonen**, **neutronen**, en **elektronen**                                                             |
+| Welke deeltjes stoten elkaar af als ze gelijk geladen zijn?                                       | **Protonen** en **elektronen** stoten elkaar af als ze gelijk geladen zijn.                               |
+| Wat gebeurt er als protonen en elektronen tegengesteld geladen zijn?                             | Ze trekken elkaar aan.                                                                                     |
+| Hoe kun je een geladen voorwerp herkennen aan een overschot of tekort aan elektronen?              | Voorwerpen met een **overschot** aan elektronen zijn **negatief** geladen; voorwerpen met een **tekort** zijn **positief** geladen. |
+| Wat is de eenheid van elektrische lading?                                                           | **Coulomb** (C)                                                                                            |
+| Wat is de kleinst mogelijke lading en hoe wordt deze genoemd?                                      | **1,602 x 10^-19 Coulomb**; wordt de **elementaire lading** genoemd.                                      |
+| Hoe wordt de kracht van elektrische aantrekkingskracht of afstoting berekend volgens de Wet van Coulomb? | Kracht = **constante** × (Lading 1 × Lading 2) / (Afstand)^2                                               |
+| Wat is het effect van de afstand op de kracht volgens de Wet van Coulomb?                          | Dichtbij elkaar is de kracht groter, verder weg is de kracht kleiner.                                      |

@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+
+* **Het Begrip Vermogen en Toepassingen**
+
+- **Wet van behoud van energie**: Energie wordt omgezet in een andere soort, maar de totale hoeveelheid blijft gelijk.
+- **Vermogen**: De snelheid waarmee energie wordt omgezet. Het is de **energie per seconde**.
+- **Formule voor vermogen**: \( P = \frac{E}{t} \), waarbij \( P \) het vermogen is, \( E \) de energie en \( t \) de tijd.
+- **Eenheid van vermogen**: Watt (W).
+- **Voorbeeld met hijskraan**:
+  - Gewicht van 350 kg wordt omhoog getild met een snelheid van 2,1 m/s.
+  - Vermogen berekenen: de **toename van potentiële energie per seconde**.
+- **Energiesoorten**: Kinetische energie, potentiële energie, veerenergie.
+  - **Arbeid**: Het proces waarbij energie wordt omgezet, is altijd gepaard met arbeid.
+- **Formule voor vermogen bij arbeid**: Vermogen = Arbeid / Tijd.
+- **Voorbeeld auto**:
+  - Auto rijdt met constante snelheid; motor moet kracht leveren om **wrijvingskracht** te overwinnen.
+  - Vermogen = Kracht x Snelheid. 
+
+Samengevat, vermogen meet **hoeveel arbeid per seconde** wordt verricht of **hoeveel energie per seconde** wordt omgezet.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte antwoord                                                               |
+|------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Wat is het begrip "vermogen" in de natuurkunde?                        | Vermogen is de snelheid waarmee energie per seconde wordt omgezet.           |
+| Hoe wordt vermogen berekend?                                           | Met de formule \( P = \frac{E}{t} \), waarbij \( P \) vermogen is, \( E \) energie, en \( t \) tijd. |
+| Wat is de eenheid van vermogen?                                        | De eenheid van vermogen is Watt (W).                                          |
+| Wat gebeurt er met de energie van een gewicht dat omhoog wordt getild? | De potentiële energie neemt toe, wat overeenkomt met het vermogen van de motor. |
+| Hoe bereken je het vermogen dat nodig is om een gewicht omhoog te tillen? | Bereken de toename van potentiële energie per seconde.                         |
+| Wat is een voorbeeld van arbeid in energieomzetting?                    | Een voorbeeld is het verrichten van arbeid door een hijskraan die een gewicht optilt. |
+| Hoe wordt het vermogen van een auto die constant rijdt bepaald?        | Vermogen = Kracht x Snelheid.                                                 |
+| Wat is de formule voor het berekenen van de arbeid bij wrijving?       | De arbeid door wrijving = Kracht x Afstand, waarbij de kracht tegen de verplaatsing gericht is. |
+| Wat is de relatie tussen arbeid en vermogen?                           | Vermogen is de arbeid verricht per seconde.                                   |
+| Welke formule gebruik je om de snelheid van een kogel uit een veer te berekenen? | Gebruik de formule voor kinetische energie \( \frac{1}{2}mv^2 \).              |

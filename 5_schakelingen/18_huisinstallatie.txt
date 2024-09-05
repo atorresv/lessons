@@ -1,0 +1,62 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Elektrische Schakelingen en Beveiligingen in Huis**
+
+- **Huisinstallaties** zorgen voor **stroom** en **spanning** naar alle apparaten in je huis.
+  - Het **lichtnet** levert een spanning van **230 volt** gelijkspanning, met een frequentie van **50 keer per seconde**.
+
+- **Meterkast**:
+  - Bevat een **groepenkast**, **hoofdschakelaar** en **meter**.
+  - De **meter** meet het elektriciteitsverbruik.
+  - De **hoofdschakelaar** schakelt de elektriciteit aan of uit.
+  - De **groepenkast** verdeelt elektriciteit over de verschillende kamers.
+
+- **Draden** in huis:
+  - **Bruine draad**: **fasedraad** (spanning).
+  - **Blauwe draad**: **nuldraad** (geen spanning).
+  - **Groen-gele draad**: **aarde**.
+  - **Zwarte draad**: **schakeldraad** (bijvoorbeeld voor wandschakelaars).
+
+- **Stopcontacten**:
+  - Twee gaatjes: een voor de **fasedraad**, een voor de **nuldraad**.
+  - Niet alle stopcontacten zijn automatisch met **aardleiding** verbonden.
+
+- **Elektrische apparaten**:
+  - Apparaten staan **parallel** aan elkaar in een kamer.
+  - Bij **kortsluiting** kan een **zekering** doorbranden om te voorkomen dat te veel stroom loopt.
+  - **Moderne zekeringen** zijn vaak elektronische en springen automatisch uit bij teveel stroom.
+
+- **Aardlekschakelaar**:
+  - Vergelijkt de stroom die **in** en **uit** een apparaat gaat.
+  - Zet de stroom uit als er een **lekstroom** is, bijvoorbeeld bij aanraking van de fasedraad.
+
+- **Aardleiding**:
+  - Derde draad die zorgt voor veiligheid bij apparaten met metalen behuizing of veel water.
+  - Leidt gevaarlijke stroom weg naar de aarde en voorkomt **elektrische schokken**.
+
+- **Samenvatting**:
+  - Elektriciteit in huis is verdeeld in groepen per kamer of verdieping.
+  - Kleurcode: bruin (fasedraad), blauw (nuldraad), groen-geel (aarde).
+  - Apparaten zijn parallel aangesloten en hebben dezelfde spanning van **230 volt**.
+  - Beveiligingen: **zekering**, **aardlekschakelaar**, en **aardleiding**.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                          | Kort antwoord                                                                                                          |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Wat is de functie van een huisinstallatie?                                                      | Een huisinstallatie voorziet alle apparaten in huis van stroom en spanning.                                             |
+| Welke spanning levert het lichtnet in een normaal stopcontact?                                | Het lichtnet levert een spanning van **230 volt** gelijkspanning.                                                       |
+| Wat zijn de drie belangrijkste onderdelen van een meterkast?                                    | **Groepenkast**, **hoofdschakelaar**, en **meter**.                                                                     |
+| Wat doet de hoofdschakelaar in de meterkast?                                                     | De hoofdschakelaar schakelt de elektriciteit aan of uit.                                                                 |
+| Welke draden lopen er naar elke kamer en wat zijn hun kleuren?                                  | **Bruine draad** (fasedraad), **blauwe draad** (nuldraad), en **groen-geel draad** (aarde).                             |
+| Wat gebeurt er als er kortsluiting ontstaat in een apparaat?                                    | Een zekering zal doorbranden en de stroom onderbreken om gevaarlijke situaties te voorkomen.                           |
+| Hoe werkt een aardlekschakelaar?                                                                 | Een aardlekschakelaar vergelijkt de stroom die in en uit een apparaat gaat en schakelt uit bij een lekstroom.            |
+| Wat is het doel van een aardleiding in een elektrisch systeem?                                  | De aardleiding leidt gevaarlijke stroom weg naar de aarde en voorkomt elektrische schokken.                             |
+| Waarom zijn apparaten in een kamer parallel aangesloten?                                         | Omdat ze allemaal dezelfde spanning van 230 volt ontvangen en apart functioneren.                                      |
+| Wat is het verschil tussen de fasedraad en de nuldraad in een stopcontact?                      | De **fasedraad** heeft spanning, terwijl de **nuldraad** geen spanning heeft.                                           |

@@ -1,0 +1,38 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Magnetische Veldsterkte en Veldlijnen**
+
+- **Magnetische veldlijnen**:
+  - Lopen van **noord** naar **zuid** buiten een staafmagneet.
+  - Lijnen zijn dichter bij de magneet en verder uit elkaar naarmate je verder van de magneet afkomt.
+  
+- **Magnetische veldsterkte**:
+  - Hoe dichter de lijnen, hoe sterker het magneetveld.
+  - Voorbeeld: Veldsterkte op een punt kan **0,1 Tesla** zijn en op een ander punt **0,3 Tesla**.
+
+- **Richting van het magneetveld**:
+  - Veldlijnen geven de richting aan.
+  - Een **kompas** volgt de richting van de veldlijnen.
+  
+- **Eenheid en notatie**:
+  - **Tesla** (T) is de eenheid van magnetische veldsterkte.
+  - Magnetische veldsterkte wordt aangeduid met de letter **B** en een vectorpijl.
+  - **Magnetische inductie** betekent hetzelfde als magnetische veldsterkte.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte Antwoord                                                                                      |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Hoe lopen de magnetische veldlijnen rondom een staafmagneet?           | De veldlijnen lopen van **noord** naar **zuid** buiten de magneet.                                   |
+| Wat zegt de dichtheid van de veldlijnen over de sterkte van het magneetveld? | Hoe dichter de lijnen bij elkaar staan, hoe sterker het magneetveld.                                |
+| Wat is de eenheid van magnetische veldsterkte?                        | De eenheid is **Tesla** (T).                                                                        |
+| Wat is de relatie tussen de veldlijnen en een kompas?                  | Een kompas volgt de richting van de **veldlijnen**.                                                |
+| Wat betekent het als magnetische veldsterkte wordt aangeduid met **B**? | **B** staat voor magnetische veldsterkte en geeft zowel grootte als richting aan.                   |
+| Wat betekent magnetische inductie?                                    | Magnetische inductie betekent hetzelfde als magnetische veldsterkte.                                |
+| Wat is een voorbeeld van magnetische veldsterkte in Tesla?             | Voorbeeldwaarden zijn **0,1 Tesla** en **0,3 Tesla**.                                               |

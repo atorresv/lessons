@@ -1,0 +1,49 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Radioactiviteit en Verval van Isotopen**
+
+- **Zuurstof-16** is de meest voorkomende isotoop in de lucht:
+  - Bevat **8 protonen** en **8 neutronen**.
+  - De meerderheid van zuurstofatomen in de lucht bestaat uit zuurstof-16.
+
+- Er zijn ook andere isotopen van zuurstof, zoals zuurstof-214:
+  - **Zuurstof-214** is een **instabiele isotoop** die vervalt in **lood-210**.
+  - Dit verval is een voorbeeld van **alfa-verval**.
+
+- **Alfa-verval**:
+  - Bij het verval ontstaat een **alfa-deeltje** (2 protonen en 2 neutronen) en **gamma-straling**.
+  - Het **alfa-deeltje** heeft een massa en een lading, maar **gamma-straling** heeft geen massa en geen lading.
+
+- **Gamma-straling**:
+  - Wordt uitgezonden bij radioactief verval en heeft geen massa of lading.
+  - Het is een vorm van **elektromagnetische straling**.
+
+- **Reactievergelijking**:
+  - Een reactievergelijking beschrijft de veranderingen tijdens het verval van een atoom.
+  - Voor elk verval wordt een vergelijking opgesteld om de geproduceerde deeltjes en straling te tonen.
+
+- **Radioactiviteit**:
+  - **Radioactieve stoffen** zenden constant straling uit door het verval van instabiele isotopen.
+  - **Alfa-deeltjes**, **beta-deeltjes**, en **gamma-straling** zijn de vormen van straling die vrijkomen tijdens het verval.
+
+- **Praktische toepassing**:
+  - **Binas tabel 25** toont de verschillende vervalprocessen van isotopen en welke deeltjes en straling daarbij vrijkomen.
+
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                           |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Waaruit bestaat het grootste deel van de zuurstofatomen in de lucht?       | Het grootste deel bestaat uit **zuurstof-16**, dat heeft **8 protonen** en **8 neutronen**.           |
+| Wat gebeurt er met zuurstof-214 tijdens verval?                            | Zuurstof-214 vervalt in **lood-210** en zendt een **alfa-deeltje** en **gamma-straling** uit.           |
+| Wat is een **alfa-deeltje** en wat bevat het?                             | Een alfa-deeltje bevat **2 protonen** en **2 neutronen**.                                               |
+| Hoe verschilt **gamma-straling** van alfa-deeltjes?                         | **Gamma-straling** heeft geen massa en geen lading, terwijl **alfa-deeltjes** massa en lading hebben.   |
+| Wat is een **reactievergelijking** in de context van radioactiviteit?       | Een reactievergelijking beschrijft het vervalproces van een atoom en de geproduceerde deeltjes en straling. |
+| Waarom worden stoffen die straling uitzenden **radioactief** genoemd?       | Omdat ze **constant straling** uitzenden door het verval van instabiele isotopen.                      |
+| Welke tabel in Binas toont de verschillende vervalprocessen van isotopen?  | **Binas tabel 25** toont de vervalprocessen en de deeltjes en straling die daarbij vrijkomen.           |

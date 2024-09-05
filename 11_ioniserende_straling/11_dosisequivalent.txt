@@ -1,0 +1,57 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Risico's en Metingen van Bestraling**
+
+  - **Bestraling en Gezondheid**:
+    - **Bestraling** kan schadelijk zijn omdat **ioniserende straling** atomen in de stof en in ons lichaam ioniseert.
+    - Dit leidt tot **positieve ionen** en kan gevaarlijke chemische reacties veroorzaken, zoals **kanker**.
+
+  - **Factoren van Schadelijkheid**:
+    - Afhankelijk van **soort straling**, **intensiteit**, **blootstellingsduur**, en **locatie** van blootstelling (huid of intern).
+
+  - **Bestraling vs. Besmetting**:
+    - **Bestraling**: Straling gaat door je heen zonder contact.
+    - **Besmetting**: Radioactieve stoffen komen in of op je huid terecht, waardoor je constant blootgesteld bent.
+
+  - **Stralingsdosis**:
+    - **Stralingsdosis** wordt gemeten in **Gray (Gy)** en berekend als **dosis = geabsorbeerde energie / massa**.
+    - **Dosisequivalent** houdt rekening met het **soort straling** en wordt gemeten in **Sievert (Sv)**.
+
+  - **Berekening van Dosisequivalent**:
+    - Formule: **dosisequivalent (Sv) = dosis (Gy) × weegfactor (Q)**.
+    - **Alfastraling** heeft een weegfactor van 20, terwijl **Beta- en Gamma-straling** een weegfactor van 1 hebben.
+
+  - **Voorbeeld van Berekening**:
+    - **Jodium-131** (Beta-straling) met een activiteit van **2000 Bq** heeft een **energie** van **0,609 eV**.
+    - Geabsorbeerde energie door hand: **6,919 × 10^-7 Joules**.
+    - **Dosisequivalent**: **0,0015 Sv** voor de hand van **450 gram**.
+
+  - **Vergelijking met Natuurlijke Straling**:
+    - Natuurlijke **jaarlijkse stralingsbelasting**: ongeveer **2 mSv**.
+    - Wettelijke limiet voor professionals: **20 mSv**.
+    - **Röntgenfoto**: ongeveer **0,1 mSv** per foto.
+
+  - **Gezondheidseffecten**:
+    - Hoge dosissen kunnen leiden tot **gezondheidsproblemen** en zelfs **dood**.
+    - Overzicht van effecten te vinden in **Binas tabel 27A**.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                   | **Antwoord**                                                                                                                                                                                |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Waarom is bestraling gevaarlijk voor ons?                                                   | Bestraling veroorzaakt ionisatie van atomen, wat leidt tot schadelijke chemische reacties zoals kanker.                                                                                      |
+| Welke factoren bepalen de schadelijkheid van bestraling?                                    | Het hangt af van het soort straling, de intensiteit, de duur van blootstelling en de locatie van blootstelling (huid of intern).                                                             |
+| Wat is het verschil tussen bestraling en besmetting?                                         | Bestraling gaat door je heen zonder contact. Besmetting betekent dat radioactieve stof in of op je huid terechtkomt, waardoor je constant blootgesteld bent.                                  |
+| Hoe wordt stralingsdosis gemeten en berekend?                                               | Stralingsdosis wordt gemeten in Gray (Gy) en berekend als dosis = geabsorbeerde energie / massa.                                                                                             |
+| Wat houdt dosisequivalent in en hoe wordt het gemeten?                                       | Dosisequivalent houdt rekening met het soort straling en wordt gemeten in Sievert (Sv). Het wordt berekend als dosisequivalent = dosis (Gy) × weegfactor (Q).                               |
+| Wat is de weegfactor voor alfastraling en hoe verschilt dit van Beta- en Gamma-straling?     | De weegfactor voor alfastraling is 20, terwijl Beta- en Gamma-straling een weegfactor van 1 hebben.                                                                                         |
+| Hoe wordt de dosisequivalent berekend voor een stof zoals jodium-131?                       | Eerst bereken je de geabsorbeerde energie per seconde, vermenigvuldig dit met de tijd (bijvoorbeeld een uur), en deel dit door de massa. Gebruik dan de formule: dosisequivalent = dosis × weegfactor (Q). |
+| Wat is de jaarlijkse natuurlijke stralingsbelasting voor een persoon?                       | Ongeveer 2 mSv per jaar.                                                                                                                                                                      |
+| Wat is de wettelijke limiet voor stralingsbelasting voor professionals?                      | 20 mSv per jaar.                                                                                                                                                                             |
+| Hoeveel dosisequivalent ontvang je bij een typische röntgenfoto?                             | Ongeveer 0,1 mSv per röntgenfoto.                                                                                                                                                             |

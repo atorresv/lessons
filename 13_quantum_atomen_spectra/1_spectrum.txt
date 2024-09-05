@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Het elektromagnetisch spectrum en licht**
+
+- **Licht** is een **elektromagnetische golf**.
+  - Bestaat uit een **elektrisch veld** en een **magnetisch veld** die loodrecht op elkaar staan.
+  - Beweegt zich voort met een snelheid van ongeveer **3 x 10^8 m/s**.
+
+- **Kleur van licht**:
+  - Gerelateerd aan de **golflengte**.
+  - **Blauw licht** heeft een golflengte van ongeveer **450 nm**.
+  - **Rood licht** heeft een golflengte van ongeveer **650 nm**.
+  - Golflengtes worden gemeten in **nanometers (nm)**, waarbij 1 nm = 10^-9 meter.
+
+- **Spectrum van licht**:
+  - Bestaat uit een reeks kleuren van **violet** tot **rood**.
+  - Deze kleuren kunnen worden uitgesplitst in een **spectrum**.
+  
+- **Andere soorten elektromagnetische straling**:
+  - **Infrarood**: Golflengte groter dan rood licht.
+  - **Radiostraling**: Nog grotere golflengtes.
+  - **Ultraviolet (UV)**: Golflengtes kleiner dan 400 nm.
+  - **Röntgenstraling**: Nog kleinere golflengtes.
+  - **Gammastraling**: Allerkleinste golflengtes.
+
+- **Electromagnetisch spectrum**:
+  - Het geheel van al deze stralingen, van **radio** tot **gamma** straling.
+
+**Diagnostische vragen**
+
+| Vraag                                                         | Antwoord                                                               |
+|---------------------------------------------------------------|------------------------------------------------------------------------|
+| Wat is licht volgens de tekst?                               | Licht is een **elektromagnetische golf**.                              |
+| Welke twee velden zijn aanwezig in een elektromagnetische golf? | Een **elektrisch veld** en een **magnetisch veld**.                     |
+| Wat is de snelheid van licht?                                | Ongeveer **3 x 10^8 m/s**.                                             |
+| Hoe wordt de kleur van licht bepaald?                        | Door de **golflengte** van het licht.                                  |
+| Wat is de golflengte van blauw licht?                         | Ongeveer **450 nm**.                                                   |
+| Wat is de golflengte van rood licht?                          | Ongeveer **650 nm**.                                                   |
+| Wat is het verschil tussen infrarood en radiostraling?        | Infrarood heeft een **kortere golflengte** dan radiostraling.           |
+| Wat zijn de golflengtes voor ultraviolet (UV) straling?       | **Kleiner dan 400 nm**.                                                |
+| Welke straling heeft de kleinste golflengte?                 | **Gammastraling**.                                                      |
+| Wat is het elektromagnetisch spectrum?                        | Het spectrum van alle vormen van **elektromagnetische straling**.       |

@@ -1,0 +1,50 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Relatie tussen Elektriciteit en Magnetisme**
+
+- **19e Eeuw Ontdekking**:
+  - Voor het begin van de 19e eeuw werd gedacht dat **elektriciteit** en **magnetisme** totaal verschillende fenomenen waren.
+
+- **Experiment van Ørsted**:
+  - **Hans Christian Ørsted**, een Deense natuurkundige, ontdekte dat **elektriciteit** en **magnetisme** met elkaar verbonden zijn.
+  - Tijdens een experiment merkte hij op dat een **kompasnaald** bewoog wanneer **stroom** door een draad liep, en weer terug naar het noorden ging als de stroom werd uitgeschakeld.
+
+- **Magnetisch Veld Rond Stroomdraad**:
+  - Rond een **stroomdraad** ontstaat een **magnetisch veld**.
+  - Om dit magnetische veld te beschrijven, moeten we **drie dimensies** overwegen, waarbij we speciale notaties gebruiken voor **stroomdraad** en **magnetische veldlijnen**.
+
+- **Notaties**:
+  - **Veldlijnen het bord in**: **Kruisje** (bij een stroomdraad die het bord in gaat).
+  - **Veldlijnen het bord uit**: **Puntje** (bij een stroomdraad die het bord uit gaat).
+  - Denk aan een **pijl en boog**: een **pijl** die naar je toe komt is een puntje, en een **pijl** die van je afgaat is een kruisje.
+
+- **Veldlijnpatroon**:
+  - Bij een **stroomdraad** die het bord in gaat, lopen de magnetische veldlijnen **rondom de draad** als cirkels.
+  - Van opzij bekeken vormen de veldlijnen **cirkelvormige patronen** rondom de draad.
+
+- **Samenvatting**:
+  - **Magnetisme** en **elektriciteit** zijn met elkaar verbonden.
+  - Speciale **notaties** zijn nodig om het magnetische veld rond stroomdraden te beschrijven.
+  - Voor het bepalen van de richting van het magnetische veld gebruiken we de **rechterhandregel**, die in een ander filmpje zal worden uitgelegd.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                         | **Antwoord**                                                                                                   |
+|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| **1. Wat werd er voor het begin van de 19e eeuw gedacht over elektriciteit en magnetisme?** | Elektriciteit en magnetisme werden als totaal verschillende fenomenen beschouwd.                            |
+| **2. Wie ontdekte de relatie tussen elektriciteit en magnetisme?** | Hans Christian Ørsted, een Deense natuurkundige.                                                               |
+| **3. Wat gebeurde er met de kompasnaald tijdens Ørsted's experiment?** | De kompasnaald bewoog wanneer stroom door de draad liep en keerde terug naar het noorden wanneer de stroom uit was. |
+| **4. Wat ontstaat er rond een stroomdraad volgens Ørsted's ontdekking?** | Een magnetisch veld.                                                                                           |
+| **5. Hoe worden de magnetische veldlijnen rond een stroomdraad genoteerd?** | Veldlijnen die het bord in gaan worden aangegeven met een kruisje, en veldlijnen die het bord uitgaan met een puntje. |
+| **6. Hoe kun je het verschil onthouden tussen veldlijnen die het bord in en uit gaan?** | Denk aan een pijl en boog: een puntje als de pijl naar je toe komt en een kruisje als de pijl van je afgaat.  |
+| **7. Hoe zien de magnetische veldlijnen eruit bij een stroomdraad die het bord in gaat?** | De veldlijnen vormen cirkels rondom de draad, van boven naar beneden en van onder naar boven.                 |
+| **8. Wat is het belangrijkste verschil tussen magnetische veldlijnen en elektrische veldlijnen?** | Magnetische veldlijnen zijn altijd gesloten krommen, terwijl elektrische veldlijnen beginnen bij positieve lading en eindigen bij negatieve lading. |
+| **9. Waarom is de rechterhandregel belangrijk in deze context?** | De rechterhandregel wordt gebruikt om de richting van het magnetische veld rondom stroomdraden te bepalen.    |
+| **10. Wat zal in het volgende filmpje worden uitgelegd?**          | De rechterhandregel voor het bepalen van de richting van het magnetische veld.                               |
+

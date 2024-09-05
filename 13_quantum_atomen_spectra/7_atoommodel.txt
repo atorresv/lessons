@@ -1,0 +1,45 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Ontwikkeling van Atomaire Modellen in de 19e en 20e Eeuw**
+
+  - **Zoektocht naar verklaring**: Natuurkundigen probeerden te begrijpen waarom stoffen specifieke spectra vertonen.
+  
+  - **Model van Rutherford**:
+    - **Kern**: Positief geladen.
+    - **Elektron**: Draait rond de kern.
+    - **Potentiële energie**: Elektronen dichtbij de kern hebben weinig potentiële energie; verder weg hebben ze veel potentiële energie.
+    - **Energie**: Energie moet worden toegevoegd om een elektron verder van de kern te krijgen, en energie wordt uitgezonden als een elektron naar een lagere baan valt.
+
+  - **Model van Bohr**:
+    - **Positieve kern**: Vergelijkbaar met Rutherford.
+    - **Elektronenschillen**: Elektronen bevinden zich in specifieke, vaste schillen rond de kern.
+    - **Energieovergangen**: 
+      - **Absorptie**: Wanneer een elektron een foton absorbeert, springt het naar een hogere schil.
+      - **Emissie**: Wanneer een elektron terugvalt naar een lagere schil, wordt een foton uitgezonden met een specifieke energie.
+    - **Fotonen**: Fotonen hebben steeds dezelfde energie en dus dezelfde golflengte (kleur) bij elke overgang.
+    - **Kleur**: De specifieke kleuren in een spectrum komen overeen met de energieverschillen tussen de schillen.
+
+  - **Samenvatting**:
+    - **Rutherford-model**: Elektron draait rond de kern en kan op alle afstanden zitten.
+    - **Bohr-model**: Elektronen bevinden zich in specifieke schillen; energieovergangen bepalen de kleur van het uitgestraalde licht.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| **Wat was de zoektocht van natuurkundigen aan het eind van de 19e en het begin van de 20e eeuw?** | Natuurkundigen zochten naar een verklaring voor de specifieke spectra die stoffen vertonen. |
+| **Hoe zag het atoommodel van Rutherford eruit?** | Het atoommodel van Rutherford had een positieve kern met een elektron dat eromheen draaide. |
+| **Wat is de potentiële energie van een elektron dichtbij de kern volgens Rutherford?** | Dichtbij de kern heeft een elektron weinig potentiële energie. |
+| **Hoe verschilt het model van Bohr van het model van Rutherford?** | Bohr’s model veronderstelt dat elektronen zich in specifieke, vaste schillen bevinden, terwijl Rutherford’s model geen vaste schillen veronderstelt. |
+| **Wat gebeurt er volgens het Bohr-model wanneer een elektron een foton absorbeert?** | Het elektron springt naar een hogere schil. |
+| **Wat gebeurt er wanneer een elektron terugvalt naar een lagere schil volgens het Bohr-model?** | Het elektron zendt een foton uit met een specifieke energie. |
+| **Hoe bepaalt de Bohr-theorie de kleur van het licht dat wordt uitgestraald?** | De kleur van het licht wordt bepaald door de energie van het foton dat wordt uitgezonden, wat overeenkomt met het energieverschil tussen de schillen. |
+| **Wat verklaart het emissiespectrum van een stof volgens het Bohr-model?** | Het emissiespectrum wordt verklaard door de specifieke kleuren van het licht die overeenkomen met de energieovergangen van elektronen tussen schillen. |
+| **Hoe wordt de kleur van het licht bij een bepaalde overgang bepaald volgens het Bohr-model?** | De kleur van het licht wordt bepaald door de golflengte van het foton dat wordt uitgezonden, wat gelijk is aan de energieverschil tussen de schillen. |
+| **Wat is het belangrijkste verschil tussen het model van Rutherford en het model van Bohr?** | Rutherford’s model laat elektronen op elke afstand van de kern toe, terwijl Bohr’s model elektronen in specifieke, vaste schillen plaatst.

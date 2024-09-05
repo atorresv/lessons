@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Dubbel-spleetexperiment en de golf-natuur van elektronen**
+
+- **Dubbel-spleetexperiment**:
+  - Een **spleet** in een plaat waarlangs een **golf** wordt gestuurd.
+  - De golf verspreidt zich in alle richtingen aan de andere kant van de spleet.
+  - Bij twee spleten ontstaan er **interferentiepatronen** door **constructieve** (versterking) en **destructieve** (uitdoving) interferentie van de golven.
+
+- **Interferentie met elektronen**:
+  - De verwachting was dat elektronen zich als **deeltjes** gedragen en dus geen interferentiepatronen zouden vertonen.
+  - In werkelijkheid vertonen elektronen een interferentiepatroon, vergelijkbaar met dat van golven.
+
+- **Herhaling van het experiment**:
+  - Elektronen werden één voor één afgevuurd.
+  - Ondanks individuele afvuren, bleef het interferentiepatroon zichtbaar.
+
+- **Conclusie**:
+  - Elektronen vertonen **golf-eigenschappen** en moeten worden gezien als golven in plaats van alleen als deeltjes.
+  - Het experiment toont aan dat **interferentie** optreedt, wat normaal gesproken een kenmerk is van golven en niet van deeltjes.
+
+- **Samenvatting**:
+  - Het **dubbel-spleetexperiment** toont aan dat elektronen als **golven** moeten worden beschouwd, aangezien ze interferentiepatronen vertonen die typisch zijn voor golven.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                   | Kort Antwoord                                                                                             |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Wat gebeurde er tijdens het dubbel-spleetexperiment met golven?                         | Golven die door twee spleten heen gaan interfereren, wat leidt tot versterking en uitdoving op bepaalde plekken. |
+| Hoe werd het dubbel-spleetexperiment herhaald met elektronen?                           | Elektronen werden één voor één afgevuurd door de spleten en vormden nog steeds een interferentiepatroon.    |
+| Wat was de aanvankelijke verwachting van het experiment met elektronen?                 | Verwacht werd dat elektronen zich als deeltjes zouden gedragen en geen interferentiepatronen zouden vertonen. |
+| Wat bleek er uit de resultaten van het experiment met elektronen?                       | Elektronen vertoonden een interferentiepatroon, wat aangeeft dat ze ook als golven kunnen worden gezien.     |
+| Waarom werd het dubbel-spleetexperiment belangrijk voor de kwantummechanica?            | Het toonde aan dat elektronen als golven moeten worden beschouwd, wat de golf-deeltje dualiteit aantoont.   |
+| Hoe gedroegen de elektronen zich in het dubbel-spleetexperiment wanneer ze één voor één werden afgevuurd? | Ze vertoonden nog steeds een interferentiepatroon, wat suggereert dat elk elektron als een golf opereert.   |
+| Wat is de belangrijkste conclusie van het dubbel-spleetexperiment met betrekking tot elektronen? | Elektronen hebben golf-eigenschappen en moeten als golven worden beschouwd, niet alleen als deeltjes.      |

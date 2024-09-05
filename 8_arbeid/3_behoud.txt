@@ -1,0 +1,63 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van de Wet van Behoud van Energie en Voorbeelden**
+
+- **Wet van Behoud van Energie**  
+  - **Totale hoeveelheid energie** in de natuur blijft altijd gelijk.  
+  - Energie kan **niet verdwijnen** en kan **niet spontaan ontstaan**.  
+  - Energie kan **omgezet worden** van de ene soort naar de andere.
+
+- **Soorten Energie**  
+  - **Kinetische energie**: Energie van bewegende voorwerpen.  
+  - **Potentiële energie**: Energie van een object op hoogte.  
+  - **Veerenergie**: Energie opgeslagen in een gespannen veer.  
+  - **Arbeid**: Energie die wordt overgebracht door kracht.  
+  - **Warmte**: Energie die vrijkomt door warmteoverdracht.
+
+- **Voorbeelden**  
+  - **Kogel omhoog geschoten**  
+    - Kinetische energie bij het afschieten wordt omgezet in potentiële energie.  
+    - Formule: \( E_k = \frac{1}{2} m v^2 \), \( E_p = mgh \)  
+    - Resultaat: Hoogte = 32 meter.
+
+  - **Veerenergie naar Kinetische Energie**  
+    - Veer met constante van 120 N/m, ingedrukt tot 20 cm, schiet een kogel weg.  
+    - Formule: \( E_v = \frac{1}{2} k x^2 \), \( E_k = \frac{1}{2} m v^2 \)  
+    - Snelheid van de kogel = 4,9 m/s.
+
+  - **Trein afremmen**  
+    - Kinetische energie wordt omgezet in warmte bij het remmen.  
+    - Formule: \( E_k = \frac{1}{2} m v^2 \)  
+    - Warmte vrijgekomen bij remmen = 3,8 x \(10^6\) J.  
+    - **Gemiddelde remkracht**: Kinetische energie gedeeld door afstand.  
+    - Kracht = 190 kN.
+
+- **Samenvatting**  
+  - De wet van behoud van energie stelt dat de totale energie constant blijft.  
+  - Energie kan omgezet worden tussen verschillende vormen.  
+  - Voor het oplossen van problemen wordt gebruik gemaakt van de omzetting tussen energieën.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte Antwoord                                                 |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------|
+| Wat zegt de wet van behoud van energie?                              | De totale hoeveelheid energie blijft altijd gelijk.             |
+| Kan energie verdwijnen of spontaan ontstaan volgens deze wet?        | Nee, energie kan niet verdwijnen of spontaan ontstaan.          |
+| Wat is kinetische energie?                                           | Energie van bewegende voorwerpen.                               |
+| Hoe wordt potentiële energie gedefinieerd?                           | Energie van een object op hoogte.                               |
+| Wat is veerenergie?                                                   | Energie opgeslagen in een gespannen veer.                       |
+| Hoe wordt warmte beschreven in termen van energie?                   | Warmte is energie die vrijkomt door warmteoverdracht.            |
+| Hoe wordt kinetische energie omgezet in potentiële energie bij een kogel? | Kinetische energie wordt omgezet in potentiële energie naarmate de kogel stijgt. |
+| Welke formule gebruik je om de hoogte van een omhoog geschoten kogel te berekenen? | \( E_k = \frac{1}{2} m v^2 \), \( E_p = mgh \)                  |
+| Hoe bereken je de snelheid van een kogel die door een veer wordt afgeschoten? | Gebruik de formules voor veerenergie en kinetische energie: \( E_v = \frac{1}{2} k x^2 \), \( E_k = \frac{1}{2} m v^2 \) |
+| Wat gebeurt er met kinetische energie bij het remmen van een trein?   | De kinetische energie wordt omgezet in warmte.                  |
+| Hoe bereken je de gemiddelde remkracht bij het afremmen van een trein? | Deel de kinetische energie door de afstand die de trein aflegt. |
+| Wat is de formule om de kinetische energie te berekenen?              | \( E_k = \frac{1}{2} m v^2 \)                                   |
+| Hoe bereken je de warmte vrijgekomen bij het remmen van een trein?    | Gebruik de formule voor kinetische energie en zet deze om in warmte. |
+| Wat is de gemiddelde remkracht als de trein 1,9 km nodig heeft om tot stilstand te komen? | Kracht = kinetische energie gedeeld door afstand = 190 kN.      |

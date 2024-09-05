@@ -1,0 +1,29 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Relativiteit van de Tijd en Lichtsnelheid**
+
+  - **Lichtsnelheid**: De snelheid van het licht, aangeduid als **c**, is **2,979 x 10^8 m/s** en is constant voor alle waarnemers.
+  - **Experimentele Opstelling**: In een trein rijdt een waarnemer die een experiment uitvoert om te meten hoe lang een lichtstraal erover doet om van een lichtbron naar een spiegel en weer terug te keren.
+  - **Resultaten van de Meting**:
+    - De waarnemer in de trein zal een langere tijd meten voor de lichtstraal om de heen en terugreis te maken omdat de trein beweegt.
+    - De tijd die gemeten wordt is een functie van de afstand en de snelheid van het licht.
+  - **Relativiteit van de Tijd**:
+    - Voor een stilstaande waarnemer in de trein is de tijd voor de lichtstraal een directe functie van de afstand en de snelheid van het licht.
+    - Voor de bewegende waarnemer in de trein is de afstand groter door de beweging van de trein, wat invloed heeft op de tijdsmeting.
+  - **Conclusie**: De lichtsnelheid is constant voor alle waarnemers, maar de tijd is relatief. Dit betekent dat de tijd die verstrijkt voor dezelfde gebeurtenis kan verschillen afhankelijk van de snelheid en het referentiekader van de waarnemer. Dit is een fundamenteel principe van de **speciale relativiteitstheorie** van Albert Einstein.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                       | **Antwoord**                                                                                                                                                                                                                           |
+|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wat is de lichtsnelheid en hoe wordt deze aangeduid?                                           | De lichtsnelheid is **2,979 x 10^8 m/s** en wordt aangeduid als **c**.                                                                                                                                                              |
+| Wat doet de waarnemer in de trein tijdens het experiment?                                      | De waarnemer meet hoe lang een lichtstraal erover doet om van een lichtbron naar een spiegel en weer terug te keren, terwijl de trein beweegt.                                                                                       |
+| Wat is het effect van de beweging van de trein op de gemeten tijd voor de lichtstraal?           | De waarnemer in de trein zal een langere tijd meten voor de lichtstraal om de heen en terugreis te maken, omdat de trein beweegt.                                                                                                    |
+| Hoe beïnvloedt de snelheid van de trein de tijdmeting volgens het experiment?                    | De tijdmeting wordt beïnvloed omdat de afstand die de lichtstraal moet afleggen in de bewegende trein groter lijkt door de beweging van de trein.                                                                                   |
+| Wat is de conclusie over de lichtsnelheid en tijd volgens de speciale relativiteitstheorie?     | De lichtsnelheid is constant voor alle waarnemers, maar de tijd is relatief. Dit betekent dat de tijd die verstrijkt voor dezelfde gebeurtenis kan verschillen afhankelijk van de snelheid en het referentiekader van de waarnemer. |

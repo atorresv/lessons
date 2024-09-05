@@ -1,0 +1,40 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Toepassingen van Versnellers: Beeldbuis en Röntgenbuis**
+
+- **Elektronenkanon**:
+  - **Gloeidraad**: Vrijkomen van elektronen door constante verhitting.
+  - **Versnelling**: Elektronen worden versneld door een positieve plaat met een gat.
+  - **Beeldbuis**:
+    - **Oude TV's**: Beeldbuis werd gebruikt in oudere televisies.
+    - **Werking**: Elektronen botsen tegen een fluorescerend scherm, waardoor het oplicht.
+    - **Positieve en Negatieve Platen**: Elektronen worden afgebogen door de spanning op twee platen, wat het stipje op het scherm beïnvloedt.
+    - **Beeldschrijven**: Het stipje beweegt snel over het scherm om een beeld te creëren, vaak 50 keer per seconde.
+    - **Vacuum**: De beeldbuis moet vacuüm zijn om te voorkomen dat elektronen verloren gaan.
+
+- **Röntgenbuis**:
+  - **Principe**: Werkt op basis van hetzelfde principe als de beeldbuis.
+  - **Blok Metaal**: Elektronen botsen tegen een schuin aflopend blok metaal.
+  - **Röntgenstraling**: Ontstaat bij botsingen van elektronen met het metaal en wordt uitgestraald.
+  - **Toepassing**: Gebruikt in ziekenhuizen voor het maken van röntgenfoto's.
+
+- **Samenvatting**:
+  - Elektronenkanon met een fluorescerend scherm wordt gebruikt in oude TV's en monitoren.
+  - Röntgenbuis maakt gebruik van versneld elektronen om röntgenstraling te produceren, gebruikt voor medische beeldvorming.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Korte Antwoord                                                                                                    |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Wat is een elektronenkanon en hoe werkt het?                                                | Een elektronenkanon maakt elektronen vrij via een gloeidraad en versnelt ze door een positieve plaat met een gat. |
+| Hoe werkt een beeldbuis in een televisietoestel?                                              | Elektronen botsen op een fluorescerend scherm en worden door platen naar verschillende plekken gestuurd om een beeld te vormen. |
+| Waarom moet een beeldbuis vacuüm zijn?                                                         | Om te voorkomen dat elektronen verloren gaan voordat ze het scherm bereiken.                                      |
+| Wat is het principe achter een röntgenbuis?                                                   | Elektronen botsen tegen een schuin aflopend blok metaal en produceren röntgenstraling die wordt uitgestraald.     |
+| Voor welke toepassing wordt röntgenstraling gebruikt?                                          | Voor het maken van röntgenfoto's in ziekenhuizen.                                                                 |
+| Hoe wordt het stipje op het televisiescherm beweegbaar gemaakt?                                | Door variatie in spanning op platen, waardoor elektronen in verschillende richtingen worden gestuurd.            |

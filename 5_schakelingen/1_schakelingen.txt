@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Schematische Weergave van Elektrische Schakelingen**
+
+- **Schakeling**: 
+  - Een manier om elektrische componenten, zoals een batterij en lampje, correct met elkaar te verbinden.
+  
+- **Schema**:
+  - Een schematische weergave van een schakeling met symbolen in plaats van een fysieke weergave.
+  - Voorbeeld van symbolen:
+    - **Rondje met kruisje**: Lampje
+    - **Twee streepjes**: Batterij
+    - **Lijntjes**: Draad
+  - Symbolen staan in **tabel 16F**.
+
+- **Serieel schakelen**:
+  - Apparaten worden **achter elkaar** aangesloten.
+  - Voorbeeld: Twee lampjes die achter elkaar zijn aangesloten.
+
+- **Parallel schakelen**:
+  - Apparaten worden **naast elkaar** aangesloten, waardoor de stroom zich splitst en weer bij elkaar komt.
+  
+- **Voordelen van een schema**:
+  - Duidelijke weergave van de verbindingen tussen componenten.
+  - Eenvoudiger dan het tekenen van een fysieke schakeling.
+
+- **Samenvatting**:
+  - **Schakeling**: Verbinding van elektrische componenten.
+  - **Schema**: Schets van de schakeling met symbolen.
+  - **Serie**: Apparaten achter elkaar.
+  - **Parallel**: Apparaten naast elkaar met gesplitste stroom.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is een schakeling? | Een schakeling is een manier om elektrische componenten, zoals een batterij en lampje, correct met elkaar te verbinden. |
+| Wat is een schema in de natuurkunde? | Een schema is een schematische weergave van een schakeling met symbolen in plaats van een fysieke weergave. |
+| Welke symbolen worden vaak gebruikt in een schema voor een lampje en een batterij? | Een lampje wordt weergegeven door een rondje met een kruisje erin, en een batterij door twee streepjes. |
+| Wat betekent het als apparaten in serie geschakeld zijn? | Apparaten zijn in serie geschakeld als ze achter elkaar zijn aangesloten. |
+| Hoe worden apparaten genoemd die parallel zijn geschakeld? | Apparaten die parallel zijn geschakeld worden naast elkaar aangesloten, waardoor de stroom zich splitst en weer bij elkaar komt. |
+| Wat zijn de voordelen van het gebruik van een schema? | Een schema biedt een duidelijke weergave van de verbindingen tussen componenten en is eenvoudiger dan het tekenen van een fysieke schakeling. |

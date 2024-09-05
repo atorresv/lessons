@@ -1,0 +1,70 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van de Krachten**
+
+- **Zwaartekracht**  
+  - Werkt op alle voorwerpen op aarde  
+  - Aangeduid met **F_z**, richting is recht naar beneden  
+  - Grootte: massa \( \times \) 9,81 m/s²  
+  - Aangrijpingspunt is het **zwaartepunt** van het voorwerp
+
+- **Normaalkracht**  
+  - Voorkomt dat een voorwerp door een vlak valt  
+  - Aangeduid met **F_N**, werkt loodrecht op het vlak  
+  - Grootte is gelijk aan de zwaartekracht als het voorwerp stil staat  
+  - Richting verandert als het vlak schuin staat
+
+- **Spankracht**  
+  - Werkt in een touwtje of kabel  
+  - Aangeduid met **F_T**  
+  - Richting is altijd langs het touwtje  
+  - Grootte varieert afhankelijk van de situatie
+
+- **Wrijvingskracht**  
+  - Beïnvloedt het verschuiven van een voorwerp  
+  - Aangeduid met **F_w**  
+  - Richting is tegen de bewegingsrichting in  
+  - **Scheidingswrijving**: hangt af van of het voorwerp beweegt of stil staat  
+    - Stilstaand: wrijvingskracht is gelijk aan de duwkracht  
+    - Bewegend: wrijvingskracht is constant en onafhankelijk van de duwkracht
+
+- **Rolwrijving**  
+  - Beïnvloedt het contactoppervlak tussen het voorwerp en het vlak  
+  - Bijvoorbeeld bij een fietsband  
+  - Grootte is constant maar afhankelijk van de situatie
+
+- **Luchtwrijving**  
+  - Ontstaat door beweging door luchtmoleculen  
+  - Aangeduid met **F_L**  
+  - Afhankelijk van de snelheid (kwadratisch) en het frontale oppervlak  
+  - Meer luchtmoleculen worden bij hogere snelheid geraakt, en de kracht is groter
+
+- **Samenvatting**  
+  - De vier krachten zijn **zwaartekracht**, **normaalkracht**, **spankracht**, en **wrijvingskracht**  
+  - Alle opgaven met krachten zullen één of meerdere van deze krachten bevatten
+
+**Diagnostische vragen**
+
+| **Vraag**                                            | **Antwoord**                                                                                     |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Wat is de richting van de **zwaartekracht**?         | De richting is altijd recht naar beneden.                                                        |
+| Hoe wordt de **zwaartekracht** aangeduid?            | Het wordt aangeduid met **F_z**.                                                                  |
+| Wat is de formule voor het berekenen van de **zwaartekracht**? | De formule is: **F_z = massa \times 9,81 m/s²**.                                                |
+| Wat is de rol van de **normaalkracht**?              | De normaalkracht voorkomt dat een voorwerp door een vlak valt en werkt loodrecht op het vlak.     |
+| Hoe wordt de **normaalkracht** aangeduid?           | Het wordt aangeduid met **F_N**.                                                                  |
+| Wat gebeurt er met de **normaalkracht** als het vlak schuin staat? | De richting van de normaalkracht verandert en is schuin omhoog in plaats van recht omhoog.        |
+| Wat is de richting van de **spankracht**?           | De richting is altijd langs het touwtje of kabel.                                                |
+| Hoe wordt de **spankracht** aangeduid?              | Het wordt aangeduid met **F_T**.                                                                  |
+| Wat is de richting van de **wrijvingskracht**?       | De richting is altijd tegen de bewegingsrichting in.                                              |
+| Wat gebeurt er met de **wrijvingskracht** als het voorwerp stilstaat? | De wrijvingskracht is gelijk aan de duwkracht.                                                   |
+| Wat gebeurt er met de **wrijvingskracht** als het voorwerp beweegt? | De wrijvingskracht is constant en onafhankelijk van de duwkracht.                                |
+| Hoe beïnvloedt de snelheid de **luchtwrijving**?     | De luchtwrijving is kwadratisch afhankelijk van de snelheid.                                     |
+| Wat is het effect van het frontale oppervlak op de **luchtwrijving**? | Hoe groter het frontale oppervlak, hoe groter de luchtwrijving.                                  |
+| Hoe wordt de **luchtwrijving** aangeduid?            | Het wordt aangeduid met **F_L**.                                                                  |
+| Wat zijn de vier krachten die vaak worden behandeld in krachtenopgaven? | **Zwaartekracht**, **normaalkracht**, **spankracht**, en **wrijvingskracht**.                      |

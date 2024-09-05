@@ -1,0 +1,35 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Afstand in de Sterrenkunde**
+
+- **Afstanden** in sterrenkunde worden vaak gemeten in **lichtjaren**.
+- De **dichtstbijzijnde ster** tot de aarde staat op **4,2 lichtjaar** afstand.
+- Een **lichtjaar** is de afstand die licht in één jaar aflegt.
+- **Snelheid van licht**: **2,979 x 10^8 m/s** (tabel 7 Binas).
+- Het aantal seconden in een jaar kan worden gebruikt om **1 lichtjaar** te berekenen:
+  - **1 lichtjaar** = **9,4607 x 10^15 meter**.
+  - Ongeveer **9,5 x 10^12 kilometer**.
+  - Ongeveer **5 x 10^6 miljoen kilometer**.
+- Voor de dichtstbijzijnde ster betekent **4,2 lichtjaar** een afstand van **40 miljoen miljoen kilometer**.
+- **Samenvatting**:
+  - Een **lichtjaar** is een **afstandseenheid** in het heelal.
+  - Het is de afstand die licht in een jaar aflegt, gelijk aan **9,4607 x 10^15 meter**.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is de eenheid die vaak wordt gebruikt om afstanden in de sterrenkunde te meten? | **Lichtjaar** |
+| Hoe ver staat de dichtstbijzijnde ster van de aarde in lichtjaren? | **4,2 lichtjaar** |
+| Wat is de snelheid van licht volgens tabel 7 in Binas? | **2,979 x 10^8 m/s** |
+| Hoeveel meter is 1 lichtjaar? | **9,4607 x 10^15 meter** |
+| Hoeveel kilometer is 1 lichtjaar? | Ongeveer **9,5 x 10^12 kilometer** |
+| Hoeveel miljoen kilometer is 1 lichtjaar? | Ongeveer **5 x 10^6 miljoen kilometer** |
+| Wat is de afstand van de dichtstbijzijnde ster in kilometers? | Ongeveer **40 miljoen miljoen kilometer** |
+| Wat is de definitie van een lichtjaar? | De afstand die licht in één jaar aflegt, gelijk aan **9,4607 x 10^15 meter**.

@@ -1,0 +1,36 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Kringproces: Toestandsveranderingen die terugkeren naar de Beginsituatie**
+
+- **Kringproces**: Serie van toestandsveranderingen waarbij de eindsituatie hetzelfde is als de **beginsituatie**.
+- **Verbrandingsmotoren**: Voorbeeld van een kringproces met processen zoals **verwarmen**, **uitzetten**, en **indrukken**.
+- **Voorbeeldsituatie**: Begin met **druk**, **temperatuur** van 293 K, en **volume** van 100 dm³.
+  - **Verwarming** tot 580 K, **druk** stijgt, gas **zet uit**.
+  - **Samendrukken** bij 580 K, **druk** blijft gelijk, **temperatuur** blijft constant.
+  - **Afkoelen** tot 393 K, terug naar **beginsituatie**.
+- **Berekeningen**:
+  - **Aantal Mol**: 4,1 Mol.
+  - **Nieuwe volume** bij 580 K: 0,20 m³ (druk constant bij 1,01 Pa).
+  - **Volume** bij constante temperatuur: 2,02 m³.
+  - **Terug naar beginsituatie**: temperatuur 293 K, druk 1,01 Pa.
+- **Samenvatting**: Kringproces is een reeks van toestandsveranderingen die eindigen in de beginsituatie. Let op constante grootheden tijdens berekeningen en het weergeven van het proces in een **grafiek**.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Korte antwoord                                                   |
+|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Wat is een kringproces?                                                                       | Een serie toestandsveranderingen waarbij de eindsituatie gelijk is aan de beginsituatie. |
+| Noem een voorbeeld van een kringproces.                                                       | Verbrandingsmotoren.                                              |
+| Wat gebeurt er met het gas als het wordt verwarmd tot 580 K?                                 | De druk stijgt en het gas zet uit.                                |
+| Wat blijft constant tijdens het samendrukken van het gas?                                      | De temperatuur blijft constant.                                   |
+| Wat is het volume van het gas na verwarming tot 580 K als de druk 1,01 Pa is?                | 0,20 m³.                                                         |
+| Hoeveel mol is er aanwezig in het gas?                                                        | 4,1 Mol.                                                         |
+| Wat gebeurt er met het volume als het gas afkoelt tot 293 K?                                 | Het volume is 2,02 m³.                                           |
+| Wat moet je in de gaten houden bij het uitvoeren van berekeningen in een kringproces?         | Welke grootheden constant blijven tijdens de veranderingen.       |
+| Hoe kan een kringproces visueel worden weergegeven?                                            | Door middel van een grafiek.                                      |

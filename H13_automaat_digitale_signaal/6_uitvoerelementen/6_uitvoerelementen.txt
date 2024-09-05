@@ -1,0 +1,18 @@
+6_UITVOERELEMENTEN
+*  Welke uitvoerelementen?
+*  LED
+*  Zoemer
+*  Relais
+
+uitvoer elementen: led, zoemer, relais
+
+led: nul lapje uit, 1 lampje aan
+zoemer: nul zoemer uit 1 toon
+relais: schakelaar die bedient word door de ingaang
+gebruikt om iets anders aangestuuren
+relain niet bruikbaar met wandstroom
+
+uitvoerelementen: rechte kant
+led
+zoemer
+relais

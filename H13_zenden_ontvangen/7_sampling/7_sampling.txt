@@ -1,0 +1,22 @@
+7_SAMPLING_BEMONSTEREN
+*  Stroom enen en nullen
+*  Samplefrequentie
+*  Aantal bits bepaalt resolutie
+
+
+sinaal: in de tijd veranderende spanning
+doorzenden kan analoog of digitaal
+digitaal: vertaal spanning naar 0 en 1
+samplefrequentie: hoeveel keer per seconde er gemeten wordt
+
+hoge samplefrequentie:
+nauwkeuring
+veel data
+
+lange sample
+minder nauwkeuring
+minder data
+
+met meer bits naukeruger
+resolutie: aantal bits gebruik per meeting
+sampling = bemonsteren: sinaal naar nul of eens

@@ -1,0 +1,38 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Straling en de Wet van Wien**
+
+- **Elk warm voorwerp** straalt **straling** uit.
+- De **plank kromme** in de Binas toont hoe straling varieert met **temperatuur**.
+- **Maximale golflengte** van straling verschuift:
+  - **Hoger** bij lagere temperaturen (infrarood).
+  - **Kleiner** bij hogere temperaturen (richting rood/blauw).
+- De **Wet van Wien** relateert de **maximale golflengte** (\( \lambda_{\text{max}} \)) aan de **temperatuur** (\( T \)) van een voorwerp:
+  - Formule: \( \lambda_{\text{max}} \times T = \text{constante van Wien} \).
+  - De constante van Wien staat in de Binas.
+- Voorbeeld: Bij een **golflengte** van 480 nm (nanometer) uit een ster, is de temperatuur te berekenen met de Wet van Wien.
+- De **constante van Wien** en de temperatuur van een ster kunnen eenvoudig worden berekend met deze wet.
+- **Sterren** worden vaak als **zwarte stralers** beschouwd, dus de Wet van Wien kan toegepast worden voor hun temperatuur berekeningen.
+- **Samenvatting**: De Wet van Wien relateert **temperatuur** aan de kleur van straling. Deze wet geldt voor **zwarte stralers**, zoals sterren.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                       | **Antwoord**                                                                                           |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Wat is de Wet van Wien?                                                                         | De Wet van Wien relateert de maximale golflengte van straling aan de temperatuur van een voorwerp.    |
+| Hoe verschuift de maximale golflengte van straling bij een verhoging van de temperatuur?        | De maximale golflengte wordt kleiner naarmate de temperatuur stijgt.                                  |
+| Waar vind je de constante van Wien?                                                             | De constante van Wien staat in de Binas.                                                               |
+| Wat is de formule van de Wet van Wien?                                                           | \( \lambda_{\text{max}} \times T = \text{constante van Wien} \).                                     |
+| Hoe kun je de temperatuur van een ster berekenen als je de maximale golflengte kent?             | Gebruik de formule \( T = \frac{\text{constante van Wien}}{\lambda_{\text{max}}} \).                 |
+| Wat is een voorbeeld van een toepassing van de Wet van Wien?                                    | Het berekenen van de temperatuur van een ster op basis van de golflengte van de maximale intensiteit.   |
+| Welke voorwerpen worden als zwarte stralers beschouwd?                                           | Voorwerpen die van zichzelf geen kleur hebben, zoals sterren.                                          |
+| Hoe wordt de maximale golflengte van straling aangeduid in de Wet van Wien?                     | Als \( \lambda_{\text{max}} \), de golflengte waarbij de intensiteit van de straling maximaal is.      |
+| Waarom is de Wet van Wien nuttig voor het bestuderen van sterren?                               | Omdat sterren worden beschouwd als zwarte stralers, waardoor de Wet van Wien kan worden toegepast.     |
+| Wat gebeurt er met de maximale golflengte van straling als een voorwerp koeler wordt?            | De maximale golflengte wordt groter.                                                                   |
+

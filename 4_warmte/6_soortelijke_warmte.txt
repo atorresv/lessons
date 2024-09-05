@@ -1,0 +1,57 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Soortelijke Warmte en Warmtecapaciteit
+
+- **Warmtecapaciteit**:
+  - Hoeveel **joule** nodig is om een voorwerp **één kelvin** in temperatuur te laten stijgen.
+  - Hangt af van:
+    - **Massa**: Zwaardere voorwerpen kosten meer energie om te verwarmen dan lichtere voorwerpen.
+    - **Materiaal**: Verschillende materialen vereisen verschillende hoeveelheden energie om te verwarmen.
+
+- **Soortelijke warmte**:
+  - Hoeveel energie nodig is om **één kilogram** van een stof **één kelvin** in temperatuur te laten stijgen.
+  - Symbool voor soortelijke warmte is kleine **'c'**.
+  - Een eigenschap van een stof, te vinden in **Binas** tabellen 8, 9, 10, 11, en 12.
+
+- **Formule**: \( q = cmΔt \)
+  - **q**: Hoeveelheid warmte (in joules)
+  - **c**: Soortelijke warmte
+  - **m**: Massa van de stof
+  - **Δt**: Temperatuurverschil
+
+- **Voorbeeld**:
+  - Energie nodig om 2 liter water van 20°C aan de kook te brengen.
+    - **Dichtheid van water**: 998 kg/m³
+    - **Volume**: 0,020 m³
+    - Massa berekend als **2,0 kilogram**.
+    - Temperatuurverschil: 80°C (of 80 Kelvin).
+    - Hoeveelheid warmte berekend als **6,7 x 10^5 joule**.
+
+- **Toepassing**:
+  - In een **magnetron** wordt deze energie via **warmtestraling** toegevoegd aan het water.
+
+- **Samenvatting**:
+  - **Warmtecapaciteit** is de hoeveelheid energie nodig om een voorwerp in temperatuur te laten stijgen.
+  - **Soortelijke warmte** is de energie nodig om één kilogram van een stof in temperatuur te verhogen.
+  - Gebruik de formule \( q = cmΔt \) om de benodigde hoeveelheid warmte te berekenen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                  | Korte antwoord                                                                                           |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Wat is warmtecapaciteit?                                                                             | De hoeveelheid **joule** die nodig is om een voorwerp **één kelvin** in temperatuur te laten stijgen.   |
+| Waar hangt de warmtecapaciteit van een voorwerp van af?                                               | Van de **massa** van het voorwerp en het **materiaal**.                                                   |
+| Wat is het symbool voor soortelijke warmte?                                                             | Kleine letter **'c'**.                                                                                   |
+| Hoe kun je de soortelijke warmte van een stof vinden?                                                   | Door te kijken in **Binas** tabellen 8, 9, 10, 11, en 12.                                                |
+| Wat is de formule voor het berekenen van de hoeveelheid warmte?                                         | \( q = cmΔt \), waarbij **q** de hoeveelheid warmte is, **c** de soortelijke warmte, **m** de massa, en **Δt** het temperatuurverschil. |
+| Hoe bereken je de massa van 2 liter water?                                                             | Door het volume te vermenigvuldigen met de **dichtheid**. Voor water is de dichtheid 998 kg/m³, dus massa = volume x dichtheid. |
+| Wat is de massa van 2 liter water afgerond?                                                             | Ongeveer **2,0 kilogram**.                                                                               |
+| Wat is de hoeveelheid warmte nodig om 2 liter water van 20°C aan de kook te brengen?                   | **6,7 x 10^5 joule**.                                                                                   |
+| Hoe wordt energie in een magnetron toegevoegd?                                                          | Via **warmtestraling**.                                                                                  |
+| Wat zijn de twee belangrijkste factoren in de formule \( q = cmΔt \)?                                   | **Soortelijke warmte** (**c**) en **temperatuurverschil** (**Δt**).                                      |

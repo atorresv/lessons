@@ -1,0 +1,49 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Rol van Transformatoren bij Elektriciteitstransport**
+
+- **Elektriciteitstransport**:
+  - Elektriciteit wordt van **elektriciteitscentrale** naar huizen getransporteerd via **elektriciteitsmasten** en **kabels**.
+
+- **Stroom en Spanning**:
+  - Voor een stadje met een **vermogen** van 10 MW en een **spanning** van 230 V, wordt de benodigde stroom uitgerekend als \( \text{Stroom} = \frac{10 \times 10^6}{230} \approx 44.000 \text{ A} \).
+  - De kabels hebben **weerstand**, wat leidt tot energieverlies als **warmte**.
+
+- **Energieverlies in Kabels**:
+  - Bij een weerstand van 0,5 Ω en een stroom van 44.000 A, is de spanning over de weerstanden 22.000 V.
+  - Het **vermogen** dat verloren gaat door warmte in de kabels is \( \text{Vermogen} = \text{Stroom}^2 \times \text{Weerstand} \approx 9,7 \times 10^8 \text{ W} \).
+
+- **Totale Vermogen van de Centrale**:
+  - De centrale moet meer vermogen leveren dan wat door de huizen wordt verbruikt, om energieverlies te compenseren.
+  - Totale levering is \( 10 \text{ MW} + 2 \times 9,7 \times 10^8 \text{ W} \approx 20 \text{ MW} \).
+
+- **Efficiëntie bij Hoge Spanning**:
+  - Bij hogere spanning (bijvoorbeeld 100.000 V), is de stroom lager en daardoor is het verlies door warmte veel kleiner.
+  - Voor een spanning van 100.000 V en hetzelfde vermogen, is de stroom 100 A en het verlies aan warmte is veel minder (5.000 W).
+
+- **Transformatoren**:
+  - **Transformatoren** verhogen de spanning voor transport (bijv. naar 100.000 V) en verlagen de spanning nabij de gebruikers (bijv. 230 V).
+  - Dit maakt het transport veel efficiënter door **vermogensverlies** te minimaliseren.
+
+- **Conclusie**:
+  - Hoge spanning vermindert **vermogensverlies** tijdens transport.
+  - Transformatoren spelen een cruciale rol in het **op- en neer-transformeren** van spanning voor efficiënte elektriciteitstransport.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is de rol van elektriciteitsmasten en kabels in het transport van elektriciteit? | Ze transporteren elektriciteit van de elektriciteitscentrale naar de huizen. |
+| Hoe wordt de benodigde stroom uitgerekend voor een stadje met een vermogen van 10 MW en een spanning van 230 V? | De stroom wordt berekend als \( \text{Stroom} = \frac{10 \times 10^6}{230} \approx 44.000 \text{ A} \). |
+| Wat gebeurt er met de energie die verloren gaat door weerstand in de kabels? | Deze energie wordt omgezet in warmte. |
+| Hoeveel vermogen gaat verloren door warmte in de kabels als de weerstand 0,5 Ω en de stroom 44.000 A is? | Het vermogen dat verloren gaat is \( \text{Vermogen} = \text{Stroom}^2 \times \text{Weerstand} \approx 9,7 \times 10^8 \text{ W} \). |
+| Hoeveel vermogen moet de centrale leveren om energieverlies te compenseren? | De centrale moet ongeveer 20 MW leveren, rekening houdend met het energieverlies. |
+| Waarom is het efficiënter om elektriciteit bij hoge spanning te transporteren? | Bij hoge spanning is de stroom lager, wat het vermogensverlies door warmte vermindert. |
+| Wat is het voordeel van transformatoren in het elektriciteitstransport? | Ze verhogen de spanning voor transport en verlagen deze nabij de gebruikers, waardoor het energieverlies wordt verminderd. |
+| Wat is de spanning die vaak wordt gebruikt voor elektriciteitstransport? | Vaak wordt een spanning van 100.000 V gebruikt voor efficiënt transport. |

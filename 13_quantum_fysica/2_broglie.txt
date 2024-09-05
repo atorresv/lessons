@@ -1,0 +1,56 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Golflengte en Impuls in de Kwantummechanica**
+
+- **Deeltjes als Golven**:
+  - In de kwantummechanica worden deeltjes voorgesteld als **golven**.
+  - Wanneer deze golven vrij kunnen bewegen, worden ze **de Broglie-golven** genoemd, naar de Franse natuurkundige Louis de Broglie.
+
+- **Golflengte**:
+  - Een de Broglie-golf kan worden voorgesteld als een **sinusvormige golf**.
+  - De **golflengte** van deze golf hangt af van de **constante van Planck** en de **impuls** van het deeltje.
+
+- **Impuls**:
+  - Impuls is een maat voor de hoeveelheid **beweging** van een deeltje.
+  - Het wordt berekend als \( p = m \times v \), waarbij \( m \) de massa is en \( v \) de snelheid van het deeltje.
+
+- **Formule voor Golflengte**:
+  - De formule voor de golflengte (\( \lambda \)) is \( \lambda = \frac{h}{p} \), waarbij \( h \) de constante van Planck is en \( p \) de impuls van het deeltje.
+
+- **Voorbeelden van Golflengte**:
+  - **Tennisbal**: 
+    - Massa: 125 gram 
+    - Snelheid: 20 m/s 
+    - Golflengte: \( 2,7 \times 10^{-34} \) meter (extreem klein)
+  - **Elektron**:
+    - Massa: massa van een elektron
+    - Snelheid: 20 m/s 
+    - Golflengte: \( 3,6 \times 10^{-5} \) meter (relatief groter dan bij de tennisbal)
+
+- **Vergelijking**:
+  - De golflengte van alledaagse voorwerpen zoals tennisballen is **extreem klein** en merk je niets van in het dagelijks leven.
+  - De golflengte van atomen en moleculen is **van dezelfde orde** van grootte als deze structuren, wat leidt tot merkbare kwantumverschijnselen.
+
+- **Samenvatting**:
+  - In de kwantummechanica worden deeltjes als golven gezien, waarbij de golflengte afhankelijk is van de impuls van het deeltje. 
+  - De golflengte is **enorm klein** voor alledaagse voorwerpen, maar vergelijkbaar met de orde van grootte van atomen en moleculen, waardoor kwantumverschijnselen op die schaal merkbaar zijn.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                       | Kort antwoord                                                                                     |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Hoe worden deeltjes voorgesteld in de kwantummechanica?                                    | Ze worden voorgesteld als **golven**.                                                             |
+| Wat zijn **de Broglie-golven**?                                                             | Golven die worden voorgesteld voor deeltjes die vrij kunnen bewegen in de ruimte.                  |
+| Wat bepaalt de **golflengte** van een de Broglie-golf?                                      | De **constante van Planck** en de **impuls** van het deeltje.                                    |
+| Hoe wordt **impuls** berekend?                                                               | Impuls wordt berekend als \( p = m \times v \) (massa × snelheid).                              |
+| Welke formule wordt gebruikt om de **golflengte** te berekenen?                            | \( \lambda = \frac{h}{p} \), waarbij \( h \) de constante van Planck is en \( p \) de impuls.    |
+| Wat is de golflengte van een **tennisbal** met een massa van 125 gram en snelheid van 20 m/s? | De golflengte is \( 2,7 \times 10^{-34} \) meter, wat extreem klein is.                         |
+| Wat is de golflengte van een **elektron** met een snelheid van 20 m/s?                     | De golflengte is \( 3,6 \times 10^{-5} \) meter, relatief groter dan bij de tennisbal.           |
+| Waarom merk je de golflengte van alledaagse voorwerpen zoals tennisballen niet in het dagelijks leven? | De golflengte is **extreem klein** vergeleken met de afmetingen van alledaagse objecten.          |
+| Waarom zijn kwantumverschijnselen merkbaar op de schaal van atomen en moleculen?            | Omdat de golflengte op deze schaal van dezelfde orde van grootte is als de atomen en moleculen. |

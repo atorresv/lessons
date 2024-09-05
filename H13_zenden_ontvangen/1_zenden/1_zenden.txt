@@ -1,0 +1,19 @@
+1_ZENDEN_RADIOSTRALING
+
+*  Antenne
+*  Zender en ontvanger
+*  Eigenschappen radiostraling
+*  Lopende golf λ=v/f
+
+
+zenden en ontvangen van radiostraling
+
+draadloos overzenden van signaln
+antenne nodig: metal staf
+zender
+ontvanger heeft ook een antene -> wisselspanning opgewecht
+radiostraling: electromagnetische straling
+snelheid = lichtsnelheid
+f > 10 kHz
+zender ontvanger afspraken welke frequentie
+golflengte = v/f v=c

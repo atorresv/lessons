@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Overzicht van Sterren volgens het Hertzsprung-Russell Diagram**
+
+- **Onze Zon**:
+  - Een **gewone ster**.
+  - **Geel-wit** van kleur.
+  - **Gemiddelde intensiteit** vergeleken met andere sterren.
+
+- **Sterrenclassificatie**:
+  - **Blauwe sterren**: Zeer heet.
+  - **Rode sterren**: Relatief koel, maar nog steeds extreem heet.
+
+- **Hertzsprung-Russell Diagram**:
+  - **Horizontale as**: **Kleur** van de ster (temperatuur).
+  - **Verticale as**: **Intensiteit** (absolute helderheid).
+
+- **Sterrenpatronen**:
+  - **Hoofdreeks sterren**: Liggen op een diagonale band van linksboven naar rechtsonder in het diagram.
+  - **Rode reuzen**: Grote sterren die rood van kleur zijn en minder helder.
+  - **Witte dwergen**: Klein en wit van kleur.
+
+- **Belang van het Diagram**:
+  - Het **Hertzsprung-Russell Diagram** helpt bij het **bepalen van de evolutie** van sterren.
+  - **Ontdekkingen** over de levenscyclus van sterren zijn gedaan dankzij dit diagram.
+
+- **Bronnen**:
+  - **Binas** tabel 33.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Korte Antwoord**                                                                                      |
+|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Wat is de kleur en intensiteit van de zon?                               | De zon is een **geel-witte ster** met een **gemiddelde intensiteit**.                                |
+| Wat zijn de kenmerken van blauwe sterren?                                | Blauwe sterren zijn **zeer heet** en hebben een hoge **intensiteit**.                                |
+| Wat is een rode reus en waar bevinden ze zich op het Hertzsprung-Russell Diagram? | Een **rode reus** is een grote, koele ster die zich **rechtsboven** op het diagram bevindt.           |
+| Waar vind je witte dwergen op het Hertzsprung-Russell Diagram?            | **Witte dwergen** bevinden zich **beneden** op het diagram en zijn **klein** en **wit**.              |
+| Wat toont de horizontale as van het Hertzsprung-Russell Diagram?          | De horizontale as toont de **kleur** van de ster, wat de **temperatuur** van de ster aangeeft.        |
+| Wat toont de verticale as van het Hertzsprung-Russell Diagram?            | De verticale as toont de **intensiteit** of **absolute helderheid** van de ster.                     |
+| Wat is de functie van het Hertzsprung-Russell Diagram?                    | Het diagram helpt bij het **bepalen van de evolutie** van sterren en hun **belangrijkste groepen**.   |
+| Hoe wordt het Hertzsprung-Russell Diagram ook wel genoemd?                | Het wordt ook wel het **HR-diagram** genoemd.                                                         |
+| Waar kun je het Hertzsprung-Russell Diagram vinden in de Binas?            | Het diagram staat op **blz 33** in de Binas.                                                          |

@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Maanfasen en de beweging van de maan**
+
+- **De maan** draait om de **aarde**, en samen draaien de aarde en de maan om de **zon** heen.
+  - De aarde en de maan draaien als een systeem rond de zon.
+  
+- **Verlichting** van de maan:
+  - De maan is **helft verlicht** door de zon en de andere helft is **donker**.
+  - Dit geldt ook voor de aarde: **dag** aan de verlichte kant en **nacht** aan de donkere kant.
+  
+- **Maanfasen**:
+  - **Nieuwe maan**: Wanneer de maan niet zichtbaar is omdat deze niet verlicht wordt door de zon.
+  - **Eerste kwartier**: De rechterhelft van de maan is verlicht.
+  - **Volle maan**: De maan is volledig verlicht door de zon.
+  - **Laatste kwartier**: De linkerhelft van de maan is verlicht.
+
+- **Verandering in zichtbaarheid**:
+  - Na verloop van tijd verandert de **zichtbaarheid** van de maan vanuit de aarde gezien.
+  - De vorm en de verlichte kant van de maan veranderen afhankelijk van de positie ten opzichte van de aarde en de zon.
+  
+- **Samenvatting**:
+  - De maan draait om de aarde en de verlichte zijde hangt af van de positie ten opzichte van de zon.
+  - De verschillende **maanfasen** worden bepaald door de hoeveelheid van de maan die verlicht is en zichtbaar vanaf de aarde.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                   |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Hoe draait de maan in relatie tot de aarde en de zon?                      | De maan draait om de aarde, en samen draaien de aarde en de maan om de zon.                   |
+| Wat is het effect van de zon op de verlichting van de maan?                | De maan is aan één kant verlicht door de zon, en de andere kant is donker.                    |
+| Wat zie je tijdens een nieuwe maan?                                         | Tijdens een nieuwe maan is de maan niet zichtbaar omdat deze niet verlicht wordt door de zon. |
+| Hoe ziet de maan eruit tijdens het eerste kwartier?                        | Tijdens het eerste kwartier is de rechterhelft van de maan verlicht.                          |
+| Wat is een volle maan?                                                      | Een volle maan is wanneer de maan volledig verlicht is door de zon.                           |
+| Wat gebeurt er tijdens het laatste kwartier?                               | Tijdens het laatste kwartier is de linkerhelft van de maan verlicht.                          |
+| Hoe verandert de zichtbaarheid van de maan gedurende de maand?              | De zichtbaarheid verandert afhankelijk van de maanfasen en de positie ten opzichte van de zon.|
+| Wat bepaalt de verschillende maanfasen?                                     | De verschillende maanfasen worden bepaald door de hoeveelheid van de maan die verlicht is.   |

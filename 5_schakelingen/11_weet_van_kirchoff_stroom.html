@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-05 Thu 14:19 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org3e0c244"><b><b>Wet van Kirchhoff voor Stromen</b></b></a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3e0c244" class="outline-2">
+<h2 id="org3e0c244"><b><b>Wet van Kirchhoff voor Stromen</b></b></h2>
+<div class="outline-text-2" id="text-org3e0c244">
+<ul class="org-ul">
+<li><b><b>Wet van Kirchhoff voor stromen</b></b>: De som van alle stromen bij een bepaald punt in een schakeling is <b><b>0</b></b>.
+<ul class="org-ul">
+<li>Stroom <b><b>positief</b></b> rekenen als deze naar een punt toe gaat.</li>
+<li>Stroom <b><b>negatief</b></b> rekenen als deze van een punt afgaat.</li>
+</ul></li>
+<li><b><b>Voorbeeld</b></b>: Als de stromen bij een punt 10 mA, 15 mA en 25 mA zijn:
+<ul class="org-ul">
+<li>Stroom van 25 mA gaat van het punt af: <b><b>-25 mA</b></b>.</li>
+<li>Stromen van 10 mA en 15 mA gaan naar het punt toe: <b><b>+10 mA</b></b> en <b><b>+15 mA</b></b>.</li>
+<li>Som: -25 mA + 10 mA + 15 mA = <b><b>0</b></b>.</li>
+</ul></li>
+<li><b><b>Bepalen van onbekende stroom</b></b>: 
+<ul class="org-ul">
+<li>Als je de stromen van 25 mA en 35 mA hebt:
+<ul class="org-ul">
+<li>25 mA gaat naar het punt toe: <b><b>+25 mA</b></b>.</li>
+<li>35 mA gaat van het punt af: <b><b>-35 mA</b></b>.</li>
+<li>Onbekende stroom is <b><b>10 mA</b></b> naar het punt toe om de som op 0 te brengen.</li>
+</ul></li>
+</ul></li>
+<li>De wet van Kirchhoff voor stromen helpt bij het <b><b>uitrekenen van stromen</b></b> in een schakeling door het toepassen van de regel dat de som van alle stromen bij een punt altijd <b><b>0</b></b> moet zijn.</li>
+<li>Naast deze wet voor stromen bestaat er ook een wet van Kirchhoff voor <b><b>spanning</b></b>, die gebruikt kan worden om spanningen in schakelingen te berekenen.</li>
+</ul>
+
+<p>
+<b><b>Diagnostische vragen</b></b>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Vraag</th>
+<th scope="col" class="org-left">Korte antwoord</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Wat zegt de wet van Kirchhoff over stromen bij een bepaald punt in een schakeling?</td>
+<td class="org-left">De som van alle stromen bij een bepaald punt is <b><b>0</b></b>.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe reken je een stroom die naar een punt toe gaat?</td>
+<td class="org-left">Die stroom reken je <b><b>positief</b></b>.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe reken je een stroom die van een punt afgaat?</td>
+<td class="org-left">Die stroom reken je <b><b>negatief</b></b>.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is de som van de stromen bij een punt als de stromen 10 mA, 15 mA en 25 mA zijn, en de 25 mA stroom van het punt afgaat?</td>
+<td class="org-left">De som is <b><b>0</b></b> mA. (10 mA + 15 mA - 25 mA = 0)</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe bepaal je de onbekende stroom met de wet van Kirchhoff als je 25 mA en 35 mA hebt?</td>
+<td class="org-left">De onbekende stroom is <b><b>10 mA</b></b> naar het punt toe.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat moet je doen als je een onbekende stroom wilt berekenen in een schakeling?</td>
+<td class="org-left">Gebruik de wet van Kirchhoff door de som van alle stromen bij een punt op <b><b>0</b></b> te stellen.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat moet je bij de wet van Kirchhoff voor stromen altijd controleren?</td>
+<td class="org-left">Of de stromen naar het punt toe positief en de stromen van het punt af negatief moeten worden gerekend.</td>
+</tr>
+
+<tr>
+<td class="org-left">Welke andere wet van Kirchhoff bestaat naast de wet voor stromen?</td>
+<td class="org-left">De wet van Kirchhoff voor <b><b>spanning</b></b>.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-05 Thu 14:19</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,56 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+
+* **Modelleren en Computationele Methoden**
+
+- **Formulegebruik**: 
+  - Voor het uitrekenen van een probleem moet je meestal de juiste **formule** kennen.
+  - Je vult **getallen** in en verkrijgt een **antwoord**.
+
+- **Probleemvoorbeeld**:
+  - Bij een slinger die je opzij trekt en loslaat, wil je uitrekenen hoe de slinger beweegt.
+  - Je moet de **kracht** berekenen wanneer de slinger wordt losgelaten:
+    - **Krachten**: naar beneden en **spankracht**.
+    - Bepaal de **resulterende kracht**, vervolgens de **versnelling**, en daarna de **snelheid**.
+    - Herhaal dit proces voor elke nieuwe positie van de slinger.
+
+- **Modelleren**:
+  - Deze aanpak wordt **modelleren** genoemd.
+  - De set van rekenregels en formules bij elkaar vormt het **model**.
+
+- **Nadelen**:
+  - **Modelleren** kan veel **rekenwerk** zijn.
+  - Handmatig rekenen is tijdrovend bij meerdere **tijdstappen**.
+
+- **Computergebruik**:
+  - Modelleren wordt vaak uitgevoerd met **computers** om tijdstappen uit te rekenen.
+  - Veelgebruikte programma’s:
+    - **Coach**
+    - **Grafische rekenmachine**
+    - **Excel**
+
+- **Samenvatting**:
+  - **Modelleren** is het opdelen van een probleem in kleine tijdstappen en het herhaald berekenen van de beweging of kracht.
+  - Programma's zoals Coach, grafische rekenmachines, en Excel helpen bij het uitvoeren van deze berekeningen.
+
+
+**Diagnostische vragen**
+
+| **Vraag**                                                      | **Antwoord**                                                                                                                                                                   |
+|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wat moet je meestal doen om een probleem op te lossen?         | Je moet de juiste **formule** weten, **getallen** invullen, en het **antwoord** berekenen.                                                                                     |
+| Wat moet je berekenen bij een slinger die je opzij trekt?      | Je moet de **kracht** berekenen bij het loslaten, de **resulterende kracht**, **versnelling**, en vervolgens de **snelheid** en de nieuwe **positie** van de slinger.             |
+| Hoe wordt het proces van het uitrekenen van elke tijdstap genoemd? | Dit proces wordt **modelleren** genoemd.                                                                                                                                       |
+| Wat vormt samen het **model** bij modelleren?                  | De set van **rekenregels** en **formules** vormt samen het **model**.                                                                                                          |
+| Wat is een belangrijk nadeel van modelleren met de hand?       | Het is **tijdbesparend** en **arbeidsintensief**, vooral bij veel **tijdstappen**.                                                                                             |
+| Welke programma's worden vaak gebruikt voor modelleren?       | Veelgebruikte programma's zijn **Coach**, een **grafische rekenmachine**, en **Excel**.                                                                                        |
+| Hoe helpt een computer bij modelleren?                         | Een computer rekent de **tijdstappen** uit en verwerkt de benodigde **berekeningen** automatisch.                                                                              |
+| Wat moet je doen om de beweging van de slinger te berekenen?   | Deel de beweging op in **kleine tijdstappen**, bereken per stap de krachten, versnelling, snelheid en positie, en herhaal dit proces.                                         |
+| Waarom worden vaak computers gebruikt voor modelleren?         | Computers worden gebruikt om het **tijdbesparende** rekenwerk en de verwerking van **grote hoeveelheden data** te vereenvoudigen.                                              |
+| Hoe worden tijdstappen behandeld bij modelleren?               | Tijdstappen worden afzonderlijk behandeld en elk tijdstap wordt gebruikt om de **resulterende kracht**, **versnelling**, **snelheid**, en **positie** te berekenen.              |

@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Lorentzkracht en Richting**
+
+- **Lorentzkracht**: Kracht die werkt op een **bewegend geladen deeltje** in een magneetveld.
+- **Beweging in Magneetveld**: 
+  - Een **positief geladen deeltje** dat zich beweegt in een magneetveld ervaart een kracht die het afbuigt.
+  - Een **negatief geladen deeltje** beweegt ook in een bepaalde richting, maar de kracht richting wordt bepaald door de linkerhandregel.
+- **Linkerhandregel**:
+  - **Vingers** wijzen in de richting van de ladingbeweging.
+  - **Handpalm** vangt de magneetveldlijnen op.
+  - **Duim** wijst de richting van de kracht.
+- **Stroomdraad in Magneetveld**:
+  - Een stroomdraad in een magneetveld ondervindt een kracht volgens dezelfde regels als bij een geladen deeltje.
+  - De kracht op de stroomdraad kan worden berekend met de formule \( F = B \cdot I \cdot L \), waarbij \( B \) de magnetische veldsterkte is, \( I \) de stroomsterkte in ampère, en \( L \) de lengte van het draadsegment in meters dat zich in het magneetveld bevindt.
+- **Formules**:
+  - Voor **bewegende deeltjes**: \( F = q \cdot v \cdot B \)
+  - Voor **stroomdraad**: \( F = B \cdot I \cdot L \)
+- **Samenvatting**:
+  - De Lorentzkracht is essentieel voor het begrijpen van de interacties van geladen deeltjes en stromen in magneetvelden.
+  - Richting van de kracht wordt bepaald met de linkerhandregel.
+  - Krachtberekeningen verschillen voor deeltjes en stroomdraden.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                   |
+|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Wat is de Lorentzkracht?                                                   | De Lorentzkracht is de kracht die werkt op een bewegend geladen deeltje in een magneetveld.  |
+| Hoe wordt de richting van de kracht op een geladen deeltje bepaald?        | De richting van de kracht wordt bepaald met de **linkerhandregel**.                            |
+| Hoe pas je de linkerhandregel toe om de richting van de kracht te bepalen? | **Vingers** wijzen in de richting van de ladingbeweging, **handpalm** vangt het magneetveld op, en **duim** wijst de kracht richting aan. |
+| Welke formule gebruik je om de kracht op een bewegend geladen deeltje te berekenen? | \( F = q \cdot v \cdot B \), waarbij \( q \) de lading is, \( v \) de snelheid en \( B \) de magnetische veldsterkte. |
+| Welke formule gebruik je om de kracht op een stroomdraad in een magneetveld te berekenen? | \( F = B \cdot I \cdot L \), waarbij \( B \) de magnetische veldsterkte is, \( I \) de stroomsterkte en \( L \) de lengte van de draad in het magneetveld. |
+| Hoe beïnvloedt de richting van de magneetveld de kracht op een geladen deeltje? | De magneetveldrichting bepaalt hoe de kracht op het deeltje afbuigt volgens de linkerhandregel.  |
+| Waarom ondervindt een stilstaan geladen deeltje geen Lorentzkracht?        | Een stilstaan geladen deeltje ondervindt geen kracht omdat het geen beweging heeft in het magneetveld. |
+| Wat gebeurt er met een deeltje in een magneetveld als de snelheid verandert? | De kracht op het deeltje verandert ook, aangezien de Lorentzkracht afhankelijk is van de snelheid van het deeltje. |
+| Hoe kun je een elektromotor maken met gebruik van de Lorentzkracht?        | Door een stroomdraad in een magneetveld te laten draaien en de stroom op tijd om te wisselen, creëer je een draaiend effect dat de werking van een elektromotor mogelijk maakt. |
+

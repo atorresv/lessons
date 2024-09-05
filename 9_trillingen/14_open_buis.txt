@@ -1,0 +1,55 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Staande Golven in Blaasinstrumenten**
+
+- **Blaasinstrument**:
+  - Bestaat uit een **mondstuk** en een **buis**.
+  - De **lengte van de buis** bepaalt de toonhoogte door variërende frequenties.
+
+- **Variatie van Buislengte**:
+  - **Saxofoon**: Kleppen openen en sluiten om de buislengte te variëren.
+  - **Trombone**: De buis wordt door te schuiven verlengd of verkort.
+  - **Blokfluit**: Gaatjes in de buis regelen de toonhoogte.
+
+- **Staande Golf**:
+  - **Open uiteinden**: Hebben een **buik** (maximale drukvariatie) aan beide uiteinden.
+  - **Gesloten uiteinden**: Hebben een **knoop** (geen drukvariatie) aan het gesloten uiteinde.
+
+- **Trillingspatronen**:
+  - Verschillende **trillingsmodi** kunnen ontstaan met diverse patronen van knopen en buiken.
+  - **Eenvoudigste Trilling**: Eén buik en één knoop, gelijk aan de helft van een golflengte.
+
+- **Frequentie en Lengte**:
+  - De frequentie \( f \) kan worden berekend met de formule: \( f = \frac{v}{2L} \), waarbij \( v \) de snelheid van geluid is en \( L \) de lengte van de buis.
+  - **Grotere buis**: Lagere frequentie.
+  - **Kleinere buis**: Hogere frequentie.
+
+- **Grondtoon en Boventonen**:
+  - **Grondtoon**: De **sterkste** en duidelijkst hoorbare toon.
+  - **Boventonen**: Hogere frequenties die **zachter** zijn dan de grondtoon.
+
+- **Samenvatting**:
+  - In een buis met **twee open uiteinden** ontstaat een staande golf.
+  - **Buiken** bevinden zich aan de open uiteinden van de buis.
+  - **Grondtoon** is de basisfrequentie die het sterkst klinkt, terwijl de boventonen zwakker zijn.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                          | **Korte Antwoord**                                                                                 |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Wat is de rol van de buislengte bij een blaasinstrument?                                           | De buislengte bepaalt de **frequentie** en daarmee de toonhoogte van het instrument.               |
+| Hoe wordt de buislengte in een saxofoon aangepast?                                                | Door middel van **kleppen** die openen en sluiten.                                                |
+| Wat ontstaat er aan beide uiteinden van een buis met twee open uiteinden?                         | Aan de open uiteinden ontstaan **buiken**.                                                         |
+| Wat is een knoop in de context van een staande golf in een buis?                                  | Een knoop is een punt waar de **drukvariatie** nul is en de trilling minimaal is.                  |
+| Hoe verschilt een buis met een gesloten uiteinde van een buis met twee open uiteinden qua druk?    | Bij een gesloten uiteinde is de druk **constant** (geen variatie), terwijl er bij open uiteinden een buik ontstaat met maximale drukvariatie. |
+| Wat is de formule voor het berekenen van de frequentie van een blaasinstrument?                    | \( f = \frac{v}{2L} \), waarbij \( v \) de snelheid van geluid is en \( L \) de lengte van de buis. |
+| Wat is de grondtoon van een blaasinstrument?                                                       | De **sterkste** en duidelijkst hoorbare toon die overeenkomt met de basisfrequentie.              |
+| Wat zijn boventonen en hoe verhouden ze zich tot de grondtoon?                                     | Boventonen zijn **hogere frequenties** die **zachter** zijn dan de grondtoon.                      |
+| Wat gebeurt er met de frequentie als de lengte van de buis toeneemt?                               | De frequentie wordt **lager**.                                                                     |
+| Welke trilling is het eenvoudigst en wat is het kenmerk ervan?                                     | De eenvoudigste trilling heeft één **buik** en één **knoop**, gelijk aan de helft van een golflengte. |

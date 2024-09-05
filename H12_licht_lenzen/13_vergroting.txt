@@ -1,0 +1,51 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Vergroting en Beeldgrootte van Voorwerpen**
+
+- **Vergroting**: Hoeveel keer **groter** of **kleiner** het beeld is dan het voorwerp.
+  - **Vergroting** geeft aan hoeveel keer groter een beeld is ten opzichte van het voorwerp.
+  - Een vergroting van **10** betekent dat het beeld 10 keer groter is dan het voorwerp.
+  - Een vergroting van **0,1** betekent dat het beeld 10 keer kleiner is dan het voorwerp.
+
+- **Vergroting Berekenen**:
+  - **Formule**: Vergroting = Beeldafstand (B) / Voorwerpsafstand (V).
+  - De **absolute waarde** van de uitkomst wordt genomen om een positief getal te verkrijgen.
+
+- **Voorbeeld 1**:
+  - Voorwerp op afstand van **6 cm** van de lens.
+  - Brandpuntsafstand van de lens: **4 cm**.
+  - Beeldafstand: **2,4 cm**.
+  - Vergroting = 2,4 / 6 = **0,4** (absolute waarde: 2,5).
+  - Het beeld is 2,5 keer groter dan het voorwerp.
+
+- **Voorbeeld 2**:
+  - Postzegel bekeken met een loep.
+  - Voorwerpsafstand: **4 cm**.
+  - Beeldafstand: **-20 cm** (negatief omdat het een virtueel beeld is).
+  - Vergroting = | -20 / 4 | = **5**.
+  - Het beeld van de postzegel is 5 keer groter dan het werkelijke formaat.
+
+- **Samenvatting**:
+  - **Vergroting** bepaalt hoe veel groter of kleiner het beeld is in vergelijking met het voorwerp.
+  - Kan worden berekend met de verhouding van beeldafstand tot voorwerpsafstand.
+  - Een **constructietekening** kan ook worden gebruikt om vergroting visueel te bepalen.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                                    |
+|---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------|
+| Wat geeft de vergroting aan?                                              | Vergroting geeft aan hoeveel keer groter of kleiner het beeld is ten opzichte van het voorwerp.                 |
+| Hoe bereken je de vergroting?                                             | Vergroting = Beeldafstand (B) / Voorwerpsafstand (V).                                                           |
+| Wat betekent een vergroting van 10?                                       | Het beeld is 10 keer groter dan het voorwerp.                                                                   |
+| Wat betekent een vergroting van 0,1?                                      | Het beeld is 10 keer kleiner dan het voorwerp.                                                                  |
+| Hoe bepaal je de vergroting zonder een constructietekening?               | Door de verhouding van beeldafstand tot voorwerpsafstand te berekenen met de formule voor vergroting.           |
+| Wat is de vergroting als het beeld 2,5 keer groter is dan het voorwerp?   | De vergroting is 2,5.                                                                                           |
+| Waarom is de vergroting in het tweede voorbeeld negatief?                 | Het negatieve teken duidt aan dat het beeld virtueel is en aan dezelfde kant van de lens ligt als het voorwerp. |
+| Wat betekent een vergroting van 5?                                        | Het beeld is 5 keer groter dan het werkelijke formaat van het voorwerp.                                         |
+| Wat moet je doen met een negatief getal bij het berekenen van vergroting? | De absolute waarde nemen om een positief getal te verkrijgen.                                                   |

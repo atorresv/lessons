@@ -1,0 +1,37 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Manieren van Warmtetransport**
+
+  - **Warmtetransport**: Het overbrengen van warmte van de ene plaats naar de andere plaats.
+  
+  - **Stroming**: 
+    - Koude moleculen worden vervangen door snellere, warmere moleculen.
+    - Moleculen veranderen van positie en zorgen voor een **temperatuurstijging**.
+  
+  - **Geleiding**: 
+    - Trillingen van warme moleculen worden doorgegeven aan de omliggende, koudere moleculen.
+    - Warmte verspreidt zich door het voorwerp door **moleculaire beweging**.
+  
+  - **Straling**: 
+    - Warmere voorwerpen zenden **straling** uit die wordt opgevangen door koudere voorwerpen.
+    - Straling kan plaatsvinden in een **vacuüm** en is de manier waarop de zon de aarde verwarmt.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                      |
+|---------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Wat is de rol van moleculen bij warmtetransport?                           | Moleculen bewegen en dragen warmte over door **stroming**.        |
+| Welke manier van warmtetransport houdt in dat moleculen zelf van positie veranderen? | **Stroming**                                                     |
+| Hoe wordt warmte verspreid over een voorwerp bij geleiding?                | Door de **trillingen** van moleculen die aan elkaar worden doorgegeven. |
+| Wat is een kenmerk van warmteoverdracht via straling?                       | Straling kan plaatsvinden in een **vacuüm** en vereist geen moleculen. |
+| Hoe verwarmt de zon de aarde?                                               | Door **straling**                                                 |
+| Wat gebeurt er met een koud voorwerp als het in contact komt met een warm voorwerp? | Het koude voorwerp **absorbeert** warmte door **straling**.       |
+| Welke methode van warmtetransport is het enige mechanisme in de ruimte?    | **Straling**                                                      |
+| Wat is het effect van trillingen van moleculen op een voorwerp bij geleiding? | De trillingen zorgen voor een **verspreiding** van warmte.         |
+| Hoe verandert het temperatuurverschil bij stroming?                         | Het temperatuurverschil **verandert** door de beweging van moleculen. |

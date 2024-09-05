@@ -1,0 +1,40 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Grootheden en Eenheden in de Natuurkunde**
+
+  * In de **natuurkunde** heeft elke **meting** een **betekenis** in het echte leven.
+  * Een **grootheid** is iets wat je kunt **meten**, zoals **massa**, **lengte**, of **tijdsduur**.
+  * Om de grootte van een grootheid aan te geven, gebruik je een **eenheid**, bijvoorbeeld **m** voor meter, **kg** voor kilogram, en **s** voor seconde.
+  * Elk **symbooltje** (hoofdletter, kleine letter, of Griekse letter) heeft een **specifieke betekenis** en er zijn **internationale afspraken** over deze symbolen.
+  * Voorbeeld: massa van iets = **5,4 kg**. Hier staat **m** voor massa en **kg** voor kilogram, de eenheid voor massa.
+  * Er zijn twee soorten **SI-eenheden**:
+    * **Grond-eenheden**: Basis-eenheden zoals **meter** en **kilogram**.
+    * **Afgeleide eenheden**: Afgeleid van grond-eenheden, zoals **Newton (N)** voor kracht.
+  * Voorbeeld van afgeleide eenheid: **Newton (N)**, gedefinieerd als de kracht nodig om een massa van 1 kg met een versnelling van 1 m/s² te versnellen.
+  * Meer dan **100 afgeleide eenheden** zijn te vinden in **Binas tabel 4**.
+  * Naast **SI-eenheden** bestaan er ook **niet-SI-eenheden** die in natuurkundeopgaven kunnen voorkomen, vermeld in **Binas tabel 5**.
+  * **Belangrijk**: Controleer altijd de betekenis van symbolen en eenheden in **Binas** om verwarring te voorkomen.
+
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                         | **Antwoord**                                                                            |
+|-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------|
+| Wat heeft elke meting in de natuurkunde?                                          | Een betekenis in het echte leven.                                                       |
+| Hoe wordt een meetbare eigenschap in de natuurkunde genoemd?                      | Grootheid.                                                                              |
+| Welke eenheden worden gebruikt om grootheden uit te drukken?                      | Bijvoorbeeld **m** (meter), **kg** (kilogram), **s** (seconde).                         |
+| Wat betekent het symbool **m** in de natuurkunde?                                 | Het staat voor de grootheid massa.                                                      |
+| Wat geeft de eenheid **kg** aan?                                                  | Het gewicht in kilogram.                                                                |
+| Hoe worden grond-eenheden gedefinieerd?                                           | Ze zijn basis-eenheden zoals meter en kilogram.                                         |
+| Wat is een voorbeeld van een afgeleide eenheid?                                   | Newton (N) voor kracht.                                                                 |
+| Hoe wordt **Newton (N)** gedefinieerd?                                            | Als de kracht nodig om een massa van 1 kg met een versnelling van 1 m/s² te versnellen. |
+| Hoeveel afgeleide eenheden zijn er ongeveer?                                      | Meer dan 100.                                                                           |
+| Waar vind je informatie over SI-eenheden en niet-SI-eenheden in Binas?            | SI-eenheden in tabel 4 en niet-SI-eenheden in tabel 5.                                  |
+| Waarom is het belangrijk om de betekenis van symbolen en eenheden te controleren? | Om verwarring te voorkomen.                                                             |
+|                                                                                   |                                                                                         |

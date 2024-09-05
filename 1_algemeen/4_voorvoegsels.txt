@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Eenheden en Voorvoegsels in Natuurkunde**
+
+  * Voor **lengte** gebruik je meestal de eenheid **meter (m)**.
+    * Bij grotere afstanden zoals van Amsterdam naar Parijs, schrijf je **600.000 meter** als **600 kilometer (km)**.
+    * Voor kleinere afstanden zoals de dikte van een vel papier, gebruik je **millimeter (mm)** voor **0,001 meter**.
+  * Er zijn veel **voorvoegsels** die je helpen grote en kleine getallen handiger te maken.
+    * **Binas tabel 2** geeft een overzicht van deze voorvoegsels, hun betekenissen, en hoe je ze gebruikt.
+  * Voorvoegsels zijn een manier om grote of kleine getallen compact weer te geven.
+    * **5,0 seconden** betekent **0,005 seconden**.
+    * **23 kilo** betekent **23.000 watt**.
+    * **10 MB** betekent **10.000.000 bytes**.
+  * **Wetenschappelijke notatie** en **voorvoegsels** zijn uitwisselbaar.
+    * **5,3 × 10^6 joule** kan ook als **5,3 megajoule** worden geschreven.
+    * **632,8 nm** kan ook als **6,328 × 10^-7 meter** worden geschreven.
+  * Voorbeelden van het gebruik van beide systemen:
+    * **8,7 × 10^3 kilonewton** (wetenschappelijke notatie en voorvoegsel).
+    * **2,93 × 10^3 miliampère** (wetenschappelijke notatie en voorvoegsel).
+    * **1,1 × 10^3 mega-ohm** (wetenschappelijke notatie en voorvoegsel).
+  * Het is belangrijk om te weten hoe je **voorvoegsels** herkent en wat ze betekenen, vooral bij opgaven en in boeken.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                             | **Antwoord**                                      |
+|-----------------------------------------------------------------------|---------------------------------------------------|
+| Welke eenheid gebruik je voor lengte?                                | **Meter (m)**                                    |
+| Hoe schrijf je een afstand van **600.000 meter** handiger op?         | **600 kilometer (km)**                           |
+| Wat gebruik je voor de dikte van een vel papier als eenheid?          | **Millimeter (mm)**                              |
+| Waar vind je een overzicht van voorvoegsels en hun betekenissen?      | **Binas tabel 2**                                |
+| Wat betekent **5,0 seconden** in wetenschappelijke notatie?           | **0,005 seconden**                               |
+| Hoe schrijf je **23.000 watt** met een voorvoegsel?                   | **23 kilo-watt (kW)**                            |
+| Wat betekent **10 MB** in bytes?                                      | **10.000.000 bytes**                            |
+| Hoe schrijf je **5,3 × 10^6 joule** met een voorvoegsel?              | **5,3 megajoule (MJ)**                           |
+| Wat is de wetenschappelijke notatie voor **632,8 nm**?                | **6,328 × 10^-7 meter**                          |
+| Geef een voorbeeld van een getal dat zowel wetenschappelijke notatie als een voorvoegsel gebruikt. | **8,7 × 10^3 kilonewton (kN)**                  |
+| Wat moet je weten over voorvoegsels voor natuurkundeopgaven?          | Hoe je ze herkent en wat ze betekenen.           |

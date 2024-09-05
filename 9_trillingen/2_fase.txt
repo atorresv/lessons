@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Begrip van Fase en Faseverschil in Trillingen en Golven**
+
+- **Fase**:
+  - **Fase** geeft aan hoeveel trillingen al zijn doorlopen.
+  - Bij **0 milliseconden** is de fase **0**.
+  - Bij **22 milliseconden** is de fase **1** (één volledige trilling).
+  - Bij **44 milliseconden** is de fase **2**.
+  - De fase kan ook een **deel** van een trilling zijn, zoals **0,1** of **1,5**.
+
+- **Faseverschil**:
+  - **Faseverschil** (ΔΦ) is het verschil in fase tussen twee momenten.
+  - **Geen eenheid**; uitgedrukt als een deel van een periode.
+  - Voorbeeld: verschil tussen **11 ms** en **44 ms** is **1,5 periodes**.
+  - Formule: ΔΦ = (Δt / T), waarbij Δt het tijdsverschil is en T de periode.
+  - Bij **11 ms** en **44 ms** met een periode van **22 ms**: ΔΦ = (33 ms / 22 ms) = **1,5**.
+
+- **Gerelateerde Concepten**:
+  - **Gerelateerde Fase**: Het deel van de fase na het verwijderen van gehele getallen, nooit groter dan **1**.
+  - **Gereduceerde fase** voor **1,5** is **0,5** (verwijder de gehele getallen).
+
+- **Toepassing**:
+  - Belangrijk voor het begrijpen van **interferentie** en het combineren van **meerdere trillingen en golven**.
+
+**Diagnostische vragen**
+
+| **Vraag**                                          | **Antwoord**                                                       |
+|----------------------------------------------------|--------------------------------------------------------------------|
+| Wat geeft de fase aan in trillingen en golven?    | De fase geeft aan hoeveel trillingen al zijn doorlopen.            |
+| Wat is de fase bij 0 milliseconden?                | De fase is 0.                                                      |
+| Hoeveel is de fase bij 22 milliseconden?           | De fase is 1 (één volledige trilling).                              |
+| Wat is de fase bij 44 milliseconden?               | De fase is 2 (twee volledige trillingen).                           |
+| Kan de fase een deel van een trilling zijn?        | Ja, de fase kan ook een deel van een trilling zijn, zoals 0,1 of 1,5. |
+| Wat is faseverschil?                              | Het verschil in fase tussen twee momenten.                          |
+| Heeft faseverschil een eenheid?                    | Nee, faseverschil heeft geen eenheid.                               |
+| Hoe bereken je faseverschil?                       | Met de formule ΔΦ = (Δt / T), waarbij Δt het tijdsverschil is en T de periode. |
+| Wat is het faseverschil tussen 11 ms en 44 ms bij een periode van 22 ms? | Het faseverschil is 1,5.                                           |
+| Wat is gereduceerde fase?                         | De fase na het verwijderen van gehele getallen, altijd kleiner dan 1. |
+| Wat is de gereduceerde fase voor een fase van 1,5? | De gereduceerde fase is 0,5.                                       |
+| Waarom zijn fase en faseverschil belangrijk?       | Ze zijn belangrijk voor het begrijpen van interferentie en het combineren van meerdere trillingen en golven. |

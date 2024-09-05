@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Laden en Werking van een Elektroscoop**
+
+- **Laden van voorwerpen**: 
+  - Voorwerpen kunnen geladen raken door wrijving, bijvoorbeeld een **ballon** tegen je haar.
+  - **Papiersnippers** kunnen worden aangetrokken door een geladen ballon.
+
+- **Elektroscoop**:
+  - Een apparaat om **lading** te meten.
+  - De eenvoudigste vorm is de **Staten elektroscoop**, bestaande uit twee **blaadjes** van geleidende stof, zoals **aluminiumfolie**.
+
+- **Werking**:
+  - Bij een **positieve lading** verspreidt een tekort aan **elektronen** zich door de elektroscoop.
+  - De blaadjes stoten elkaar af en **spreiden uit** bij gelijke ladingen.
+  - Als de elektroscoop veel **uit elkaar staat**, is deze sterk geladen; als de blaadjes weinig uit elkaar staan, is de lading zwak.
+
+- **Invloed van nabijheid**:
+  - **Invloed** is de verandering in ladingverdeling door een nabij aanwezige lading.
+  - Positieve lading in de buurt trekt **elektronen** aan naar de plaats van de lading.
+  - Dit verandert de verdeling van ladingen, maar de totale lading blijft **0**.
+
+- **Samenvatting**:
+  - Een elektroscoop meet de lading door te kijken naar de spreiding van de blaadjes.
+  - Ladingen hoeven niet per se op het voorwerp zelf te zijn om een uitslag te veroorzaken, dankzij het **effect van influentie**.
+
+**Diagnostische vragen**
+
+| Vraag | Korte Antwoord |
+|-------|----------------|
+| Hoe kan een voorwerp geladen raken? | Door wrijving, zoals een ballon tegen je haar. |
+| Wat is een elektroscoop? | Een apparaat om lading te meten. |
+| Hoe werkt een Staten elektroscoop? | Het bestaat uit twee blaadjes van geleidende stof die uit elkaar worden geduwd bij gelijke ladingen. |
+| Wat gebeurt er met de blaadjes van een elektroscoop als de elektroscoop geladen raakt? | De blaadjes stoten elkaar af en spreiden uit. |
+| Wat betekent influentie in de context van een elektroscoop? | De verandering in ladingverdeling door een nabij aanwezige lading. |
+| Hoe verandert de ladingverdeling in een elektroscoop bij nabijheid van een positieve lading? | Elektronen worden naar de nabijheid van de lading getrokken, wat de ladingverdeling verandert, maar de totale lading blijft gelijk. |
+| Kan een elektroscoop lading meten zonder dat het voorwerp zelf geladen is? | Ja, door influentie kan de elektroscoop toch een uitslag geven. |

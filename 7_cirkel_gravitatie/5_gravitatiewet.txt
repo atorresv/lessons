@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van de Gravitatiewet**
+
+- **Gravitatiewet**: 
+  - Formule: \( F_{\text{gravitatie}} = \frac{G \cdot m_1 \cdot m_2}{r^2} \)
+  - Waarbij:
+    - \( G \) = gravitatieconstante (\( 6{,}674 \times 10^{-11} \, \text{N} \cdot \text{m}^2/\text{kg}^2 \))
+    - \( m_1 \) en \( m_2 \) = massa's van de twee voorwerpen
+    - \( r \) = afstand tussen de zwaartepunten van de twee voorwerpen
+
+- **Toepassing van de Wet**:
+  - Gravitatiekracht is de aantrekkingskracht tussen massa's.
+  - Voorwerpen met grote massa's (zoals de aarde) hebben sterkere gravitatiekrachten.
+  - Voorwerpen met kleine massa's (zoals appels) hebben een veel kleinere gravitatiekracht die vaak moeilijk te meten is.
+
+- **Voorbeeld**:
+  - Gravitatiekracht tussen twee appels is extreem klein en moeilijk te meten.
+  - Voor een blok en de aarde moet je de massa van de aarde en de afstand tot het middelpunt van de aarde gebruiken.
+
+- **Belangrijke Informatie**:
+  - De afstand die je in de formule gebruikt is de afstand tussen de middelpunten van de massa's.
+  - Het is belangrijk om te weten hoe zwaar de aarde is en wat de afstand tot het aardoppervlak is, informatie die je kunt vinden in Binas (Tabel 31).
+
+- **Derde Wet van Newton**:
+  - Elke kracht heeft een gelijke en tegengestelde reactie.
+  - De zwaartekracht die de aarde op een voorwerp uitoefent, is gelijk aan de zwaartekracht die dat voorwerp op de aarde uitoefent.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                      | Korte Antwoord                                                                                                         |
+|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Wat beschrijft de gravitatiewet?                                                            | De gravitatiewet beschrijft de aantrekkingskracht tussen massa's, volgens de formule \( F_{\text{gravitatie}} = \frac{G \cdot m_1 \cdot m_2}{r^2} \).        |
+| Wat is de waarde van de gravitatieconstante \( G \)?                                       | \( G = 6{,}674 \times 10^{-11} \, \text{N} \cdot \text{m}^2/\text{kg}^2 \)                                              |
+| Welke massa's worden gebruikt in de gravitatieformule?                                    | \( m_1 \) en \( m_2 \) zijn de massa's van de twee voorwerpen.                                                          |
+| Wat is de formule voor gravitatiekracht?                                                   | \( F_{\text{gravitatie}} = \frac{G \cdot m_1 \cdot m_2}{r^2} \)                                                          |
+| Hoe wordt de afstand \( r \) in de formule gemeten?                                        | De afstand \( r \) is de afstand tussen de zwaartepunten van de twee voorwerpen.                                        |
+| Waarom is de gravitatiekracht tussen twee appels moeilijk te meten?                       | De gravitatiekracht tussen kleine massa's zoals appels is extreem klein en moeilijk te meten.                           |
+| Wat is het effect van een grotere massa op de gravitatiekracht?                           | Grotere massa's veroorzaken sterkere gravitatiekrachten.                                                                 |
+| Hoe kan je de gravitatiekracht tussen een voorwerp en de aarde uitrekenen?                  | Gebruik de massa van de aarde, de massa van het voorwerp, en de afstand van het middelpunt van de aarde tot het oppervlak. |
+| Wat zegt de derde wet van Newton over gravitatiekracht?                                    | De derde wet van Newton stelt dat elke kracht een gelijke en tegengestelde reactie heeft.                                |
+| Waar kun je informatie vinden over de massa van de aarde en de afstand tot het aardoppervlak? | In de Binas, specifiek in Tabel 31.                                                                                       |

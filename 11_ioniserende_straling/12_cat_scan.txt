@@ -1,0 +1,42 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Röntgenfoto's en CT-scans: Vergelijking en Werking**
+
+- **Röntgenfoto**:
+  - **Röntgenstraling** wordt door de patiënt gestuurd.
+  - **Aan de andere kant** van de patiënt wordt een foto van de straling gemaakt.
+  - **Botten** op de foto worden zichtbaar omdat ze de straling tegenhouden.
+  - **Nadeel**: de foto is **tweedimensionaal** en **plat**, waardoor het moeilijk is om diepte en achterliggende structuren te zien.
+
+- **CT-scan**:
+  - **Serie röntgenfoto's** wordt gemaakt van de patiënt onder verschillende hoeken.
+  - De foto's worden **computerbehandeld** om een **drie-dimensionaal** (3D) beeld te creëren.
+  - **Voordeel**: 3D beelden geven een gedetailleerder inzicht in het lichaam.
+  - **Nadeel**: **Hogere stralingsdosis** en **langere tijd** om de beelden te maken.
+
+- **Praktische uitvoering**:
+  - De patiënt wordt in een **ronde ring** geplaatst.
+  - **Camera's** en **detectors** draaien rond de patiënt om de opnames te maken.
+  - Deze techniek staat bekend als **Computer Aided Tomography** (CAT-scan) of **CT-scan**.
+
+- **Samenvatting**:
+  - Gewone **röntgenfoto's** geven 2D beelden met een lage dosis straling.
+  - **CT-scans** geven 3D beelden, maar met een hogere stralingsdosis en langere opnametijd.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| Wat gebeurt er bij het maken van een röntgenfoto in het ziekenhuis? | De patiënt wordt bestraald met röntgenstraling en aan de andere kant van de patiënt wordt een foto gemaakt van de straling die niet door botten heen kan. |
+| Wat is een belangrijk nadeel van een röntgenfoto? | Het is een tweedimensionaal (plat) beeld, waardoor het moeilijk is om diepte en achterliggende structuren te zien. |
+| Hoe wordt een 3D-beeld van een patiënt verkregen met behulp van CT-scans? | Door een serie röntgenfoto's te maken onder verschillende hoeken en deze beelden met een computer te combineren tot een 3D-voorstelling. |
+| Wat zijn de voordelen van een CT-scan ten opzichte van een gewone röntgenfoto? | CT-scans geven een 3D-beeld, waardoor veel meer detail zichtbaar is. |
+| Noem een nadeel van een CT-scan. | Het kost meer tijd en de stralingsdosis is veel hoger dan bij een enkele röntgenfoto. |
+| Hoe wordt de CT-scan in de praktijk uitgevoerd? | De patiënt ligt in een ronde ring waarin camera's en detectors rond de patiënt draaien om de opnames te maken. |
+| Wat is het verschil in stralingsdosis tussen een gewone röntgenfoto en een CT-scan? | Een CT-scan vereist een veel hogere stralingsdosis dan een enkele röntgenfoto. |

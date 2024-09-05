@@ -1,0 +1,15 @@
+6_BITRATE
+*  Stroom enen en nullen
+*  Wat is bitrate?
+*  Voorbeeld
+*  Byte is 8 bits
+
+
+signaal digitaal doorsuture
+samplen: sinaal in 0 en 1 verstald
+bitrate: hoeveel 0 of 1 per seconde gezonden
+ook gebruik bij computers:
+voorbeeld: hoe veel duur downloaden van 20MB
+
+stoom bits = bits/s
+byte = 8 bits

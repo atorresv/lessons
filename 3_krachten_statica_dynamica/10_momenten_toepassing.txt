@@ -1,0 +1,40 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van momenten en evenwicht**
+
+- **Momenten en draaipunt**:
+  - Bij het berekenen van momenten is het belangrijk om het **draaipunt** te bepalen.
+  - **Zwaartekracht** werkt vanuit het **zwaartepunt** van het voorwerp en veroorzaakt een **moment** rondom het draaipunt.
+
+- **Eerste situatie**:
+  - Als de kast kantelt en je laat deze los, zal deze terugvallen door het **moment** dat naar links wil draaien.
+  - Het **moment** wordt berekend als de **zwaartekracht** maal de **afstand** van het draaipunt tot de krachtlijn.
+  - Om de kast in evenwicht te houden, moet de kracht die je uitoefent zo zijn dat het **moment** rechtsom gelijk is aan het **moment** linksom.
+
+- **Tweede situatie**:
+  - Als de kast verder gekanteld is en vanzelf plat op de grond zou vallen, veroorzaakt de zwaartekracht een **moment** rechtsom.
+  - De **kracht** die je moet uitoefenen om het **moment** rechtsom te compenseren, wordt bepaald door de afstand van het draaipunt tot de krachtlijn.
+  - Zorg ervoor dat het **moment** rechtsom gelijk is aan het **moment** linksom door de juiste kracht op de juiste afstand te zetten.
+
+- **Algemene regel**:
+  - Voor **momenten in evenwicht**: het moment naar links moet gelijk zijn aan het moment naar rechts.
+  - Meet afstanden en krachten in de tekening om de benodigde waarden te berekenen.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                   | **Korte Antwoord**                                   |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Wat is belangrijk om te bepalen bij het berekenen van momenten?                             | Het **draaipunt**.                                  |
+| Hoe veroorzaakt de zwaartekracht een moment rondom het draaipunt?                           | De zwaartekracht werkt vanuit het **zwaartepunt** en veroorzaakt een moment rond het draaipunt. |
+| Wat moet je doen om de kast in evenwicht te houden?                                        | De kracht moet zodanig zijn dat het **moment** rechtsom gelijk is aan het moment linksom. |
+| Hoe bereken je het moment dat de zwaartekracht veroorzaakt?                                 | Moment = **zwaartekracht** × **afstand** van het draaipunt tot de krachtlijn. |
+| Wat moet je bepalen om te voorkomen dat de kast omvalt als deze verder gekanteld is?        | De kracht die je moet uitoefenen om het moment rechtsom te compenseren zodat het gelijk is aan het moment linksom. |
+| Hoe vind je de juiste kracht om een kast in evenwicht te houden?                           | Zorg ervoor dat het moment rechtsom gelijk is aan het moment linksom door de juiste kracht op de juiste afstand te zetten. |
+| Wat moet je meten of berekenen bij het oplossen van momenten in evenwicht?                  | Meet **afstanden** en **krachten** in de tekening om de benodigde waarden te berekenen. |
+| Wat is de algemene regel voor momenten in evenwicht?                                        | Het moment naar links moet gelijk zijn aan het moment naar rechts. |

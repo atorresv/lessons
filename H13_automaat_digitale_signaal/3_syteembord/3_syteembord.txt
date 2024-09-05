@@ -1,0 +1,18 @@
+3_SYSTEEMBORD
+*  Wat is een systeembord?
+*  Invoer, verwerking, uitvoer
+*  Verbinden met stekkertjes
+*  Systeemborden koppelen
+*  Computersimulaties
+
+sytem bood:
+pannel met alle componenten van een automatische system
+verschillende componenten
+invoer verwerking outvoer
+verbonden met kabeltjes
+niet genoet componenten: gebruik meer system woorden: aarde met elkaar verbinden
+simulatieporgramas: systemboord simulatie
+
+systeembord: pannel om system bouwen en testen
+merdere tegelijk
+kan ook digitaal

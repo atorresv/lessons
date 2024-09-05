@@ -1,0 +1,49 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Structuur en Notatie van Atomen**
+
+  - **Atoomkern**:
+    - **Extreem compact**: De kern is zo klein dat een atoom bijna leeg is, vergelijkbaar met een vlieg in een kathedraal.
+    - **Bestanddelen**: De kern bestaat uit **protonen** (positief geladen) en **neutronen** (neutraal).
+
+  - **Protonen en Neutronen**:
+    - **Protonen**: Bepalen de lading van de kern en het atoomnummer.
+    - **Neutronen**: Hebben geen lading en samen met protonen bepalen ze de massa van de kern.
+
+  - **Notatie van Atoomkernen**:
+    - **Symbool**: Het chemisch symbool van het element (bijv. C voor koolstof).
+    - **Atoomnummer**: Het aantal protonen in de kern, aangegeven door de letter Z.
+    - **Massagetal**: Het totaal aantal deeltjes in de kern (protonen + neutronen).
+
+  - **Voorbeelden**:
+    - **Koolstof**: \(^{12}_6C\) betekent 12 deeltjes in de kern (6 protonen en 6 neutronen).
+    - **Zuurstof-16**: \(^{16}_8O\) betekent 16 deeltjes in de kern (8 protonen en 8 neutronen).
+
+  - **Isotopen**:
+    - **Definitie**: Atomen van hetzelfde element met een verschillend aantal neutronen.
+    - **Voorbeeld**: Zuurstof-18 is een isotopen van zuurstof met 2 extra neutronen (0,2% van alle zuurstof op aarde).
+
+  - **Samenvatting**:
+    - De atoomkern is positief geladen en extreem compact, bevat alle massa van het atoom.
+    - Atomen worden genoteerd met een massagetal, een ladinggetal en een symbool.
+    - Verschillende soorten van een element met verschillende neutronen worden isotopen genoemd.
+
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is de structuur van een atoomkern? | De atoomkern is extreem compact en bestaat uit protonen (positief geladen) en neutronen (neutraal). |
+| Wat bepaalt het atoomnummer van een element? | Het atoomnummer wordt bepaald door het aantal protonen in de kern. |
+| Hoe wordt een atoomkern genoteerd? | Een atoomkern wordt genoteerd met een massagetal, een atoomnummer en een chemisch symbool (bijv. \(^{12}_6C\) voor koolstof). |
+| Wat betekent het massagetal in de notatie van een atoom? | Het massagetal is het totaal aantal deeltjes (protonen en neutronen) in de kern. |
+| Wat is een isotoop? | Isotopen zijn atomen van hetzelfde element met een verschillend aantal neutronen. |
+| Geef een voorbeeld van een isotoop. | Zuurstof-18 (\(^{18}_8O\)) is een isotoop van zuurstof met 2 extra neutronen. |
+| Hoeveel neutronen bevat zuurstof-16? | Zuurstof-16 bevat 8 neutronen (16 massagetal - 8 protonen). |
+| Wat is de verhouding van zuurstof-18 op aarde? | Ongeveer 0,2% van alle zuurstof op aarde bestaat uit zuurstof-18. |

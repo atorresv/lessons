@@ -1,0 +1,39 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Intensiteit van Licht en Afstand**
+
+  - **Intensiteit**: De **helderheid** van een lamp of lichtbron op een bepaald oppervlak.
+  - **Definitie**: Het vermogen per vierkante meter van een lichtbron, uitgedrukt in **watt per vierkante meter**.
+  - **Afhankelijkheid**: Intensiteit hangt af van het **vermogen** van de lamp en de **afstand** van de lamp.
+  - **Verdeling van Vermogen**:
+    - Vermogen van een lamp, bijvoorbeeld **100 watt**, wordt verdeeld over een **bolvormig oppervlak**.
+    - Oppervlakte van een bol = \(4 \pi r^2\), waarbij \(r\) de afstand tot de lamp is.
+  - **Wet van het Kwadraat**:
+    - Intensiteit neemt **af** met het **kwadraat** van de afstand.
+    - Verdubbeling van de afstand betekent een **vier keer** kleinere intensiteit.
+  - **Voorbeeld**:
+    - Ster met vermogen \(5,0 \times 10^{27}\) watt op afstand van 1 lichtjaar van de aarde.
+    - Intensiteit op aarde: \(4,4 \times 10^{-8}\) watt per vierkante meter.
+    - Ondanks de lage waarde, is de ster zichtbaar door onze ogen.
+  - **Samenvatting**:
+    - Intensiteit = Vermogen per vierkante meter.
+    - Volgens de kwadratenwet neemt de intensiteit af met de afstand tot de lichtbron.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                  | **Antwoord**                                                                                     |
+|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Wat is de **intensiteit** van een lamp?                                                   | De intensiteit is het vermogen per vierkante meter van de lamp, uitgedrukt in watt per vierkante meter. |
+| Hoe verandert de **intensiteit** als je verder van de lamp afstaat?                        | De intensiteit neemt af met het kwadraat van de afstand; als je twee keer zo ver staat, is de intensiteit vier keer kleiner. |
+| Hoe wordt het vermogen van een lamp verdeeld over een oppervlak?                          | Het vermogen wordt verdeeld over een bolvormig oppervlak met oppervlakte \(4 \pi r^2\), waarbij \(r\) de afstand is. |
+| Wat is de formule voor het berekenen van de intensiteit op een bepaalde afstand van een lichtbron? | Intensiteit \(I = \frac{P}{4 \pi r^2}\), waarbij \(P\) het vermogen van de lichtbron is en \(r\) de afstand. |
+| Hoe wordt de **intensiteit** berekend voor een ster op 1 lichtjaar afstand?                | Gebruik de formule \(I = \frac{P}{4 \pi r^2}\) met \(P = 5,0 \times 10^{27}\) watt en \(r = 9,46 \times 10^{16}\) meter. |
+| Wat is het resultaat van de intensiteit berekend voor een ster op 1 lichtjaar afstand?       | De intensiteit is \(4,4 \times 10^{-8}\) watt per vierkante meter. |
+| Waarom kunnen we sterren aan de hemel zien, ondanks de lage intensiteit?                    | Omdat onze ogen zeer gevoelig zijn en sterren nog steeds zichtbaar zijn bij zulke lage intensiteiten. |
+

@@ -1,0 +1,34 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Beeldvorming met een Positieve Lens**
+
+  - **Positieve Lens**:
+    - Een **positieve lens** kan een **afbeelding** maken van een voorwerp door lichtstralen te buigen.
+  
+  - **Brandpuntsafstanden**:
+    - Er zijn twee **brandpuntsafstanden**: **de brandpuntsafstand van de lens** en **de brandpuntsafstand van het voorwerp**.
+
+  - **Afbeelding Maken**:
+    - Stel je voor dat je een bloem hebt. Lichtstralen van de bloem worden door de lens gebogen en komen samen in een punt, dat is **het beeldpunt**.
+    - Elk punt van de bloem wordt afgebeeld als een punt op een andere plaats door de lens.
+    - Dit betekent dat je een **projectie** van de bloem op een scherm of papiertje kunt zien.
+
+  - **Constructietekening**:
+    - Om te bepalen waar het beeld precies wordt gevormd, teken je **twee lichtstralen** vanaf een punt van het voorwerp naar de lens.
+    - Kies een lichtstraal die door het **brandpunt** gaat en een lichtstraal die **parallel** aan de hoofdas loopt en door het brandpunt gaat.
+
+  - **Afstand en Beeld**:
+    - Als de bloem verder van de lens staat dan de brandpuntsafstand, wordt het **beeld** aan de andere kant van de lens gevormd.
+    - Als de bloem dichterbij de lens staat dan de brandpuntsafstand, wordt er geen reëel beeld gevormd dat je op een scherm kunt projecteren.
+
+  - **Samenvatting**:
+    - **Beeldvorming** door een positieve lens gebeurt als het voorwerp verder van de lens staat dan de brandpuntsafstand.
+    - De exacte positie van het beeld kan worden gevonden door lichtstralen te tekenen en te analyseren waar ze samenkomen.
+
+Samengevat, een **positieve lens** creëert een **afbeelding** van een voorwerp door lichtstralen te buigen. Door **constructietekeningen** te maken met lichtstralen, kun je bepalen waar het beeld precies wordt gevormd. Een beeld kan alleen worden geprojecteerd als het voorwerp verder staat dan de brandpuntsafstand van de lens.

@@ -1,0 +1,33 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Eigenschappen van Licht en Fotonen**
+
+- **Licht als golf**: Licht kan worden gezien als een **golf** en bestaat uit een combinatie van golven met verschillende **golflengtes** en kleuren.
+- **Licht als stroom van deeltjes**: Licht gedraagt zich soms ook als een stroom van **fotonen**, kleine deeltjes die stralingsenergie vervoeren.
+- **Eigenschappen van fotonen**: 
+  - **Snelheid**: Fotonen bewegen altijd met de snelheid van het **licht** (ongeveer 3 x 10^8 m/s).
+  - **Energie**: De energie van een foton hangt af van de **golflengte**. Korte golflengtes (bijvoorbeeld bij **blauw licht**) hebben meer energie, lange golflengtes (bijvoorbeeld bij **radiostraling**) hebben minder energie.
+  - **Formule**: De energie van een foton kan worden berekend met de formule: \( E = \frac{h \cdot c}{\lambda} \) waarbij \( h \) de **constante van Planck** is, \( c \) de lichtsnelheid, en \( \lambda \) de golflengte.
+- **Voorbeeldberekening**:
+  - **Rode laserpointer**: Golflengte = 635 nm, Vermogen = 15 mW.
+  - Energie per foton = \( \frac{6,6 \times 10^{-34} \text{ J s} \cdot 3 \times 10^8 \text{ m/s}}{635 \times 10^{-9} \text{ m}} \approx 3,128 \times 10^{-19} \text{ J} \).
+  - Aantal fotonen per seconde = \( \frac{15 \times 10^{-3} \text{ J/s}}{3,128 \times 10^{-19} \text{ J}} \approx 4,8 \times 10^{16} \text{ fotonen/s} \).
+- **Samenvatting**: Fotonen zijn **energiepakketjes** die licht van de ene plaats naar de andere vervoeren. De **energie** van een foton hangt af van de **golflengte** van het licht, en de kleur van het licht komt overeen met de specifieke golflengte en bijbehorende energie van de fotonen.
+
+**Diagnostische vragen**
+
+| Vraag | Kort Antwoord |
+|-------|---------------|
+| Hoe wordt licht soms gezien? | Licht wordt soms gezien als een golf en soms als een stroom van deeltjes, **fotonen**. |
+| Wat bepaalt de energie van een foton? | De energie van een foton hangt af van de **golflengte** van het licht. |
+| Wat is de formule om de energie van een foton te berekenen? | De formule is \( E = \frac{h \cdot c}{\lambda} \), waarbij \( h \) de **constante van Planck** is, \( c \) de lichtsnelheid, en \( \lambda \) de golflengte. |
+| Hoeveel energie heeft een foton van een rode laserpointer met een golflengte van 635 nm? | De energie per foton is ongeveer \( 3,128 \times 10^{-19} \text{ J} \). |
+| Hoe bereken je het aantal fotonen per seconde voor een laserpointer met een vermogen van 15 mW? | Deel het vermogen door de energie per foton. Voor een vermogen van 15 mW en een energie van \( 3,128 \times 10^{-19} \text{ J} \), het aantal fotonen per seconde is ongeveer \( 4,8 \times 10^{16} \). |
+| Wat gebeurt er met de energie van fotonen als de golflengte verandert? | Bij een kortere golflengte (bijvoorbeeld bij blauw licht) hebben fotonen meer energie, terwijl bij een langere golflengte (bijvoorbeeld bij radiostraling) de energie van fotonen minder is. |
+| Wat is de lichtsnelheid? | De lichtsnelheid is ongeveer \( 3 \times 10^8 \text{ m/s} \). |

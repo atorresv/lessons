@@ -1,0 +1,57 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Soorten Verbanden in de Natuurkunde**
+
+- **Verband tussen opletten en cijfer:**
+  - Hoe beter je oplet, hoe hoger je cijfer.
+
+- **Recht Evenredig Verband:**
+  - **Kenmerken:** Formule \( y = kx \), grafiek is een **rechte lijn door de oorsprong**.
+  - **Voorbeelden:** 
+    - Afstand en tijd bij constante snelheid: \( s = v \times t \).
+    - Zwaarte-energie en hoogte: \( E = mgh \).
+
+- **Omgekeerd Evenredig Verband:**
+  - **Kenmerken:** Formule \( y = \frac{k}{x} \), grafiek is een **hyperbool** die de assen niet snijdt.
+  - **Voorbeelden:** 
+    - Frequentie en trillingstijd: \( f = \frac{1}{T} \).
+    - Volume en druk bij constante temperatuur: \( p \propto \frac{1}{V} \).
+
+- **Kwadratisch Verband:**
+  - **Kenmerken:** Formule \( y = kx^2 \), grafiek is een **parabool** die door de oorsprong gaat.
+  - **Voorbeelden:**
+    - Versnelde beweging: \( s = \frac{1}{2}at^2 \).
+    - Kinetische energie: \( E_k = \frac{1}{2}mv^2 \).
+
+- **Omgekeerd Kwadratisch Verband:**
+  - **Kenmerken:** Formule \( y = \frac{k}{x^2} \), grafiek is een **hyperbool** die de assen niet snijdt.
+  - **Voorbeelden:**
+    - Gravitationele aantrekkingskracht: \( F = \frac{Gm_1m_2}{r^2} \).
+
+- **Wortelverband:**
+  - **Kenmerken:** Formule \( y = k\sqrt{x} \), grafiek is een **kromme** die door de oorsprong gaat.
+  - **Voorbeeld:** 
+    - Lengte van een slinger en slingertijd: \( T \propto \sqrt{L} \).
+
+Deze verbanden worden in de natuurkunde vaak gebruikt en het is belangrijk om ze te herkennen aan zowel hun formules als grafieken.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                   | **Antwoord**                                                                                       |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Wat is een recht evenredig verband?                                                         | Een recht evenredig verband heeft de vorm \( y = kx \) en de grafiek is een rechte lijn door de oorsprong. |
+| Noem een voorbeeld van een recht evenredig verband.                                        | Afstand en tijd bij constante snelheid ( \( s = v \times t \) ).                                    |
+| Hoe herken je een omgekeerd evenredig verband in een formule?                              | De formule heeft de vorm \( y = \frac{k}{x} \).                                                    |
+| Geef een voorbeeld van een omgekeerd evenredig verband.                                    | Het verband tussen frequentie en trillingstijd ( \( f = \frac{1}{T} \) ).                         |
+| Wat zijn de kenmerken van een kwadratisch verband?                                          | De formule heeft de vorm \( y = kx^2 \) en de grafiek is een parabool die door de oorsprong gaat.  |
+| Noem een voorbeeld van een kwadratisch verband.                                             | De afstand bij versnelde beweging ( \( s = \frac{1}{2}at^2 \) ).                                  |
+| Wat is een omgekeerd kwadratisch verband?                                                   | Een omgekeerd kwadratisch verband heeft de vorm \( y = \frac{k}{x^2} \).                          |
+| Geef een voorbeeld van een omgekeerd kwadratisch verband.                                  | Gravitationele aantrekkingskracht ( \( F = \frac{Gm_1m_2}{r^2} \) ).                             |
+| Hoe herken je een wortelverband in een formule?                                             | De formule heeft de vorm \( y = k\sqrt{x} \).                                                     |
+| Noem een voorbeeld van een wortelverband.                                                   | Het verband tussen de lengte van een slinger en de slingertijd ( \( T \propto \sqrt{L} \) ).       |

@@ -1,0 +1,34 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Straling van Warme Voorwerpen: de Planck-kromme**
+
+- **Warme voorwerpen** stralen **straling** uit, wat wordt weergegeven in een **grafiek**.
+- Deze grafiek, bekend als de **Planck-kromme** (genoemd naar Max Planck), toont de **golflengte** op de verticale as en het **vermogen** van de straling.
+- Bij een **licht verwarmd voorwerp**:
+  - **Kleine verhoging** van de temperatuur resulteert in een **kleine hoeveelheid** straling met een piek tussen **infrarood** en **radio**.
+  - Bij **hogere temperaturen**:
+    - **Meer straling** wordt uitgezonden.
+    - De **piek van de straling** verschuift naar **kortere golflengten** (meer **blauw**).
+- **Hogere temperatuur** resulteert in:
+  - Een **kleinere maximale golflengte** (verschuiwing naar blauw).
+  - **Groter totaal vermogen** van uitgestraalde straling.
+- De **Planck-kromme** toont een **continu spectrum** bij vaste stoffen en vloeistoffen, waar **alle golflengten** binnen een bepaalde range aanwezig zijn.
+- Dit **continu spectrum** geldt alleen voor **vloeistoffen en vaste stoffen**, niet voor **gassen**.
+
+**Samenvatting**: Warme voorwerpen stralen straling uit die wordt weergegeven door de Planck-kromme. Bij stijgende temperatuur verschuift de piek van de straling naar kortere golflengten en neemt het totaal uitgezonden vermogen toe. Het continu spectrum geldt alleen voor vloeistoffen en vaste stoffen.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is de Planck-kromme en waarvoor wordt deze gebruikt? | De Planck-kromme toont de verdeling van straling (vermogen) als functie van golflengte voor een warm voorwerp. Het wordt gebruikt om te begrijpen hoeveel straling bij verschillende golflengten wordt uitgezonden door een voorwerp bij een bepaalde temperatuur. |
+| Hoe verandert de straling van een voorwerp als de temperatuur stijgt? | Bij stijgende temperatuur neemt het totaal uitgezonden vermogen toe en verschuift de piek van de straling naar kortere golflengten (blauwer). |
+| Wat betekent een continu spectrum en voor welke stoffen geldt dit? | Een continu spectrum betekent dat alle golflengten binnen een bepaalde range aanwezig zijn in de straling. Dit geldt alleen voor vaste stoffen en vloeistoffen, niet voor gassen. |
+| Wat gebeurt er met de maximale golflengte van de straling als de temperatuur van een voorwerp stijgt? | De maximale golflengte van de straling wordt kleiner (de piek verschuift naar kortere golflengten, richting blauw). |
+| Waarom is er geen continu spectrum bij gassen? | Bij gassen zijn de moleculen verder uit elkaar en kunnen ze elkaar niet beïnvloeden zoals bij vloeistoffen en vaste stoffen, waardoor geen continu spectrum maar een lijnenspectrum ontstaat. |

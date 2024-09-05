@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-05 Thu 14:15 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="aldemar" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgf6921c0"><b><b>Snelheid uit een XT-diagram halen</b></b></a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgf6921c0" class="outline-2">
+<h2 id="orgf6921c0"><b><b>Snelheid uit een XT-diagram halen</b></b></h2>
+<div class="outline-text-2" id="text-orgf6921c0">
+<ul class="org-ul">
+<li><b><b>Constante snelheid</b></b>: Eenvoudig te bepalen uit een XT-diagram door de <b><b>helling</b></b> van de lijn.
+<ul class="org-ul">
+<li><b><b>Eerste periode</b></b> (0 tot 1,4 seconden): 
+<ul class="org-ul">
+<li>Afstand: <b><b>6 meter</b></b> (van 0 naar 6 meter).</li>
+<li>Tijd: <b><b>1,4 seconden</b></b>.</li>
+<li><b><b>Snelheid</b></b>: \( \frac{6 \, \text{m}}{1,4 \, \text{s}} = 4,3 \, \text{m/s} \).</li>
+</ul></li>
+<li><b><b>Tweede periode</b></b> (1,4 tot 2 seconden):
+<ul class="org-ul">
+<li>Afstand: <b><b>-2,6 meter</b></b> (van 5 naar 3,4 meter).</li>
+<li>Tijd: <b><b>6 seconden</b></b>.</li>
+<li><b><b>Snelheid</b></b>: \( \frac{-2,6 \, \text{m}}{6 \, \text{s}} = -3 \, \text{m/s} \).</li>
+</ul></li>
+</ul></li>
+<li><b><b>Raaklijnmethode</b></b>:
+<ul class="org-ul">
+<li><b><b>Steilheid</b></b> van de raaklijn op een punt bepaalt de snelheid op dat punt.</li>
+<li><b><b>Voorbeeld</b></b> (tijd 2,25 seconden):
+<ul class="org-ul">
+<li>Teken een <b><b>raaklijn</b></b> op het punt.</li>
+<li>Bepaal <b><b>verplaatsing</b></b> en <b><b>delta t</b></b> van de raaklijn.</li>
+<li>Verplaatsing: <b><b>6 meter</b></b>.</li>
+<li>Delta t: <b><b>3 seconden</b></b>.</li>
+<li><b><b>Snelheid</b></b>: \( \frac{6 \, \text{m}}{3 \, \text{s}} = 2,0 \, \text{m/s} \).</li>
+</ul></li>
+<li><b><b>Voorbeeld</b></b> (ander punt op de grafiek):
+<ul class="org-ul">
+<li>Verplaatsing: <b><b>-3,5 meter</b></b> (van 6 naar 2,5 meter).</li>
+<li>Delta t: <b><b>3,5 seconden</b></b>.</li>
+<li><b><b>Snelheid</b></b>: \( \frac{-3,5 \, \text{m}}{3,5 \, \text{s}} = -1,0 \, \text{m/s} \).</li>
+</ul></li>
+</ul></li>
+<li><b><b>Samenvatting</b></b>:
+<ul class="org-ul">
+<li>Bij <b><b>constante snelheid</b></b> gebruik je de helling van de lijn in het XT-diagram.</li>
+<li>Bij <b><b>niet-lineaire</b></b> grafieken gebruik je de <b><b>raaklijnmethode</b></b> om de snelheid te bepalen.</li>
+<li><b><b>Raaklijnmethode</b></b>: Bepaal de helling op het gewenste punt door de verplaatsing en tijdsduur te meten.</li>
+</ul></li>
+</ul>
+
+<p>
+<b><b>Diagnostische vragen</b></b>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b><b>Vraag</b></b></th>
+<th scope="col" class="org-left"><b><b>Antwoord</b></b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Hoe bepaal je de snelheid uit een XT-diagram bij constante snelheid?</td>
+<td class="org-left">Gebruik de helling van de lijn; snelheid = afstand / tijd.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is de snelheid tijdens de eerste periode van een XT-diagram als de verplaatsing 6 meter is in 1,4 seconden?</td>
+<td class="org-left"><b><b>4,3 m/s</b></b> (6 meter / 1,4 seconden).</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe bereken je de snelheid in een tweede periode van een XT-diagram als de afstand -2,6 meter is in 6 seconden?</td>
+<td class="org-left"><b><b>-3 m/s</b></b> (-2,6 meter / 6 seconden).</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is de raaklijnmethode en hoe wordt deze gebruikt om de snelheid te bepalen?</td>
+<td class="org-left">De raaklijnmethode bepaalt de snelheid door de helling van de raaklijn op een specifiek punt in de grafiek te meten.</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe bepaal je de snelheid op het punt 2,25 seconden in een XT-diagram met behulp van de raaklijnmethode?</td>
+<td class="org-left">Teken een raaklijn op het punt, bepaal de verplaatsing en delta t van die lijn, en reken de snelheid uit door verplaatsing / delta t.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is de snelheid als de verplaatsing 6 meter is en delta t 3 seconden is?</td>
+<td class="org-left"><b><b>2,0 m/s</b></b> (6 meter / 3 seconden).</td>
+</tr>
+
+<tr>
+<td class="org-left">Hoe bepaal je de snelheid als de verplaatsing -3,5 meter is en delta t 3,5 seconden is?</td>
+<td class="org-left"><b><b>-1,0 m/s</b></b> (-3,5 meter / 3,5 seconden).</td>
+</tr>
+
+<tr>
+<td class="org-left">Wanneer gebruik je de raaklijnmethode in plaats van directe snelheidbepaling uit een XT-diagram?</td>
+<td class="org-left">Gebruik de raaklijnmethode als de grafiek geen rechte lijn is en de snelheid varieert.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat is het voordeel van de raaklijnmethode bij het analyseren van een XT-diagram met kromme lijnen?</td>
+<td class="org-left">Het stelt je in staat om de snelheid op specifieke punten te bepalen, zelfs als de lijn krom is.</td>
+</tr>
+
+<tr>
+<td class="org-left">Wat moet je doen als je een XT-diagram hebt met een constante snelheid?</td>
+<td class="org-left">Bereken de snelheid direct uit de helling van de rechte lijn.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: aldemar</p>
+<p class="date">Created: 2024-09-05 Thu 14:15</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

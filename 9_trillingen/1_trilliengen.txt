@@ -1,0 +1,52 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Basisbegrippen van Trillingen**
+
+- **Trilling**: Een beweging rond een **evenwichtsstand**. 
+  - Voorbeeld: Een **flesje** met een elastiek dat heen en weer slingert als het wordt losgelaten.
+
+- **Evenwichtsstand**: De positie waar een voorwerp zich bevindt wanneer er geen trilling is. Vaak het **midden** van de grafiek.
+
+- **Uitwijking**: De positie van het trillende voorwerp op een bepaald moment. 
+  - **Amplitude**: De grootste uitwijking van het voorwerp tijdens de trilling.
+
+- **Trillingstijd (periode)**: De tijd die nodig is voor één complete trilling. 
+  - **Symbool**: \( T \)
+  - **Eenheid**: Seconden (s)
+  - **Meten**: Van het ene topje naar het andere topje van de trilling.
+
+- **Frequentie**: Het aantal trillingen per seconde.
+  - **Symbool**: \( f \)
+  - **Eenheid**: Hertz (Hz)
+  - **Formule**: Frequentie = \( \frac{1}{\text{Trillingstijd}} \)
+
+- **Voorbeeld**: Als de trillingstijd 22 ms (milliseconden) is, dan is de frequentie 45 Hz. 
+  - Omrekening: 22 ms = 22 × 10^(-3) s
+  - Frequentie = \( \frac{1}{22 \times 10^{-3}} \approx 45 \) Hz
+
+- **Samenvatting**:
+  - Een trilling herhaalt zich rond een evenwichtsstand.
+  - Elke trilling heeft een **trillingstijd** (de tijd voor één complete cyclus) en een **frequentie** (het aantal trillingen per seconde).
+  - **Amplitude** is de grootste uitwijking van de trilling.
+  - **Uitwijking** is de positie van het voorwerp ten opzichte van de evenwichtsstand en wordt gemeten in meters of centimeters.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                                 | **Antwoord**                                  |
+|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Wat is een **trilling**?                                                                                  | Een herhalende beweging rond een **evenwichtsstand**. |
+| Wat betekent **evenwichtsstand**?                                                                        | De positie waar een voorwerp zich bevindt wanneer er geen trilling is. |
+| Hoe wordt de **uitwijking** gemeten?                                                                      | Het wordt gemeten in meters of centimeters, als de afstand boven of onder de evenwichtsstand. |
+| Wat is de **amplitude** van een trilling?                                                                 | De grootste uitwijking van het voorwerp tijdens de trilling. |
+| Hoe wordt de **trillingstijd (periode)** gedefinieerd?                                                     | De tijd die nodig is voor één volledige trilling. |
+| Wat is de **symbool** voor de trillingstijd en de eenheid?                                                 | Symbool: \( T \); Eenheid: seconden (s). |
+| Hoe wordt de **frequentie** van een trilling berekend?                                                     | Frequentie = \( \frac{1}{\text{Trillingstijd}} \). |
+| Wat is de **eenheid** van frequentie?                                                                      | Hertz (Hz). |
+| Hoe reken je de frequentie om als de trillingstijd 22 ms is?                                                | Frequentie = \( \frac{1}{22 \times 10^{-3}} \approx 45 \) Hz. |
+| Wat wordt er bedoeld met de **uitwijking** van een trilling?                                                | De positie van het trillende voorwerp ten opzichte van de evenwichtsstand. |

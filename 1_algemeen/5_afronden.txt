@@ -1,0 +1,31 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Nauwkeurigheid en significante cijfers in natuurkunde**
+
+  - In natuurkunde heeft elk getal niet alleen een **grootte** en een **eenheid**, maar ook een **nauwkeurigheid**.
+  - Bij een **meting** moet je aangeven hoe nauwkeurig het getal is.
+  - **Voorbeeld**: Twee broers meten de oppervlakte van een tuin. De ene broer meet nauwkeurig met een **lasermeter** (tot de tiende millimeter), terwijl de andere broer het met stappen schat (3 meter). 
+  - De **nauwkeurigheid** van de oppervlakteberekening wordt bepaald door de minst nauwkeurige meting. 
+  - Het resultaat van een berekening moet afgerond worden op het **aantal significante cijfers** van de minst nauwkeurige meting.
+  - **Voorbeeld 1**: Bij het berekenen van een kracht, als de gegevens **3 significante cijfers** en **4 significante cijfers** bevatten, moet het antwoord afgerond worden op **2 significante cijfers**.
+  - **Voorbeeld 2**: Bij het berekenen van energie, als het antwoord **200 joule** is, moet je afronden op **2 significante cijfers**. Dit wordt **2,0 × 10^2** in wetenschappelijke notatie.
+  - **Belangrijk**: Bij natuurkundeopgaven moet je letten op het aantal significante cijfers en de gegevens die je gebruikt hebt. Als een vraag uit meerdere delen bestaat, gebruik je het niet-afgeronde antwoord voor verdere berekeningen.
+
+
+**Diagnostische vragen**
+
+| Vraag | Korte antwoord |
+|-------|----------------|
+| Wat geeft de nauwkeurigheid van een meting aan in natuurkunde? | Het aantal significante cijfers van het getal. |
+| Hoe bepaal je de nauwkeurigheid van een resultaat dat uit een berekening komt? | Door de minst nauwkeurige meting of gegeven te gebruiken. |
+| Wat moet je doen met significante cijfers bij een berekening met meerdere gegevens? | Het antwoord moet afgerond worden op het aantal significante cijfers van de minst nauwkeurige gegeven. |
+| Hoe rond je een getal af dat drie significante cijfers heeft maar je moet afronden op twee significante cijfers? | Schrijf het getal in wetenschappelijke notatie en rond af op het gewenste aantal significante cijfers. |
+| Wat moet je doen als je een afgerond antwoord verder gebruikt in andere berekeningen? | Gebruik het niet-afgeronde antwoord voor verdere berekeningen. |
+| Hoe schrijf je een getal van 200 joule correct af in wetenschappelijke notatie als je twee significante cijfers nodig hebt? | 2,0 × 10^2 joule. |
+| Waarom is het belangrijk om significante cijfers goed te hanteren in natuurkunde? | Om de nauwkeurigheid van de metingen en berekeningen correct weer te geven. |

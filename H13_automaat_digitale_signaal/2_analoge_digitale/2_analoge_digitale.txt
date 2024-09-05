@@ -1,0 +1,36 @@
+2_ANALOGE_DIGITALE_SIGNALEN
+*  Wat is een signaal?
+*  Analoog signaal
+*  Digitaal signaal
+*  Binair signaal
+*  Meerdere bits is getal
+*  Omrekenen decimaal → binair
+*  Omrekenen binair → decimaal
+
+
+tussen invoer een verwerking informatie: signaal
+soorten signaalen:
+electronisch apparaat werk met voltages:
+spanning die variert in de tijd
+analoog signaal: spanning kan alle waardes hebben
+
+digitaal signaal: spanning kan allen bepaalde waarden
+binair signaal: kan maar twee waardes hebben
+hoog 1V, laat 0V
+
+apparaat met binare signalen: binare signalen niet alle 2 toestanden
+combinatie van 1 en 0: binaire notatie
+binaire naar decimaal omrekenen:
+binair naar decimaal: schrijf binare op onder machten van 2
+optellen alle getalen met 1
+
+decimaal naar binaire: grooste macht van 2, noteer 1 , aftrekken
+voorbeeld:
+1 grootste macht van 2
+aftrekken
+
+digitaal apparat werk met signaal
+analoog
+digitaal/binair
+binaire getallen
+omrekenen binair decimaal

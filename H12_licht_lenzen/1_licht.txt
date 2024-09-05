@@ -1,0 +1,64 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Lichtbundels en Interacties**
+
+- **Lichtbundels**: Gebruikt om lichtgedrag te beschrijven.
+  - **Licht**: Kan worden beschouwd als een soort golf.
+  - **Snelheid van licht**: **3 x 10^8 m/s**.
+  - **Frequentie**: Ongeveer **5 x 10^14 Hz**.
+  - **Golflengte**: Ongeveer **500 nm** (nanometer).
+    - **Blauw licht**: Golflengte van **450 nm**.
+    - **Rood licht**: Golflengte van **650 nm**.
+
+- **Samenstelling van wit licht**: Een mengsel van verschillende kleuren. 
+
+- **Lichtstraal**:
+  - Teken als een lijn met pijltjes om de richting aan te geven.
+  - Beweegt doorgaans recht vooruit, tenzij beïnvloed door een object.
+
+- **Lichtbundels**:
+  - **Evenwijdige bundel**: Lichtstralen hebben dezelfde richting.
+  - **Convergentie**: Lichtstralen komen samen.
+  - **Divergentie**: Lichtstralen verspreiden zich uit elkaar.
+
+- **Interactie met objecten**:
+  - **Absorptie**: Licht wordt opgenomen door een object (bijvoorbeeld een zwart boek).
+  - **Doorgelaten**: Licht gaat ongehinderd door een doorzichtig object (bijvoorbeeld lucht).
+  - **Breking**: Licht verandert van richting bij een doorzichtig materiaal (bijvoorbeeld glas, water).
+  - **Reflectie**:
+    - **Spiegeling**: Licht wordt teruggekaatst door een spiegelend oppervlak (bijvoorbeeld een metalen voorwerp).
+    - **Diffuse reflectie**: Licht wordt in alle richtingen weerkaatst door een ruw oppervlak (bijvoorbeeld een scherm).
+
+- **Kleurperceptie**:
+  - Het uiterlijk van een object (bijvoorbeeld een blauw scherm) hangt af van welke kleuren van het witte licht worden weerkaatst of geabsorbeerd.
+
+- **Samenvatting**:
+  - Lichtstraal wordt gebruikt om het gedrag van licht te beschrijven.
+  - Lichtbundel bestaat uit meerdere lichtstralen.
+  - Interacties met een object omvatten absorptie, doorgelaten licht, breking, reflectie en diffuse reflectie.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                  | Kort Antwoord                                                     |
+|----------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Wat is de snelheid van licht?                                                           | **3 x 10^8 m/s**                                                  |
+| Hoe wordt de golflengte van licht gemeten?                                              | In nanometers (nm).                                               |
+| Wat is de golflengte van blauw licht?                                                    | **450 nm**                                                        |
+| Wat is de golflengte van rood licht?                                                     | **650 nm**                                                        |
+| Hoe kun je wit licht beschouwen?                                                         | Als een mengsel van verschillende kleuren.                        |
+| Wat is een lichtstraal?                                                                  | Een lijn met pijltjes die de richting van licht aangeeft.          |
+| Wat is een evenwijdige lichtbundel?                                                      | Een bundel lichtstralen met dezelfde richting.                    |
+| Wat gebeurt er bij convergentie van lichtstralen?                                        | Lichtstralen komen samen op één punt.                             |
+| Wat gebeurt er bij divergentie van lichtstralen?                                         | Lichtstralen spreiden zich uit elkaar.                            |
+| Wat is absorptie van licht?                                                              | Licht wordt opgenomen door een object.                            |
+| Wat betekent doorgelaten licht?                                                          | Licht gaat ongehinderd door een doorzichtig materiaal.            |
+| Wat is breking van licht?                                                                | Licht verandert van richting bij het passeren van een materiaal.   |
+| Wat is spiegeling?                                                                      | Licht wordt teruggekaatst door een spiegelend oppervlak.           |
+| Wat is diffuse reflectie?                                                                | Licht wordt in alle richtingen weerkaatst door een ruw oppervlak.  |
+| Waarom ziet een blauw scherm blauw uit?                                                  | Omdat alleen blauw licht wordt weerkaatst en andere kleuren worden geabsorbeerd. |

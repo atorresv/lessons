@@ -1,0 +1,51 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Snelheid uit een XT-diagram halen**
+
+- **Constante snelheid**: Eenvoudig te bepalen uit een XT-diagram door de **helling** van de lijn.
+  - **Eerste periode** (0 tot 1,4 seconden): 
+    - Afstand: **6 meter** (van 0 naar 6 meter).
+    - Tijd: **1,4 seconden**.
+    - **Snelheid**: \( \frac{6 \, \text{m}}{1,4 \, \text{s}} = 4,3 \, \text{m/s} \).
+  - **Tweede periode** (1,4 tot 2 seconden):
+    - Afstand: **-2,6 meter** (van 5 naar 3,4 meter).
+    - Tijd: **6 seconden**.
+    - **Snelheid**: \( \frac{-2,6 \, \text{m}}{6 \, \text{s}} = -3 \, \text{m/s} \).
+- **Raaklijnmethode**:
+  - **Steilheid** van de raaklijn op een punt bepaalt de snelheid op dat punt.
+  - **Voorbeeld** (tijd 2,25 seconden):
+    - Teken een **raaklijn** op het punt.
+    - Bepaal **verplaatsing** en **delta t** van de raaklijn.
+    - Verplaatsing: **6 meter**.
+    - Delta t: **3 seconden**.
+    - **Snelheid**: \( \frac{6 \, \text{m}}{3 \, \text{s}} = 2,0 \, \text{m/s} \).
+  - **Voorbeeld** (ander punt op de grafiek):
+    - Verplaatsing: **-3,5 meter** (van 6 naar 2,5 meter).
+    - Delta t: **3,5 seconden**.
+    - **Snelheid**: \( \frac{-3,5 \, \text{m}}{3,5 \, \text{s}} = -1,0 \, \text{m/s} \).
+- **Samenvatting**:
+  - Bij **constante snelheid** gebruik je de helling van de lijn in het XT-diagram.
+  - Bij **niet-lineaire** grafieken gebruik je de **raaklijnmethode** om de snelheid te bepalen.
+  - **Raaklijnmethode**: Bepaal de helling op het gewenste punt door de verplaatsing en tijdsduur te meten.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                         | **Antwoord**                                      |
+|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Hoe bepaal je de snelheid uit een XT-diagram bij constante snelheid?                             | Gebruik de helling van de lijn; snelheid = afstand / tijd. |
+| Wat is de snelheid tijdens de eerste periode van een XT-diagram als de verplaatsing 6 meter is in 1,4 seconden? | **4,3 m/s** (6 meter / 1,4 seconden). |
+| Hoe bereken je de snelheid in een tweede periode van een XT-diagram als de afstand -2,6 meter is in 6 seconden? | **-3 m/s** (-2,6 meter / 6 seconden). |
+| Wat is de raaklijnmethode en hoe wordt deze gebruikt om de snelheid te bepalen?                  | De raaklijnmethode bepaalt de snelheid door de helling van de raaklijn op een specifiek punt in de grafiek te meten. |
+| Hoe bepaal je de snelheid op het punt 2,25 seconden in een XT-diagram met behulp van de raaklijnmethode? | Teken een raaklijn op het punt, bepaal de verplaatsing en delta t van die lijn, en reken de snelheid uit door verplaatsing / delta t. |
+| Wat is de snelheid als de verplaatsing 6 meter is en delta t 3 seconden is?                      | **2,0 m/s** (6 meter / 3 seconden). |
+| Hoe bepaal je de snelheid als de verplaatsing -3,5 meter is en delta t 3,5 seconden is?           | **-1,0 m/s** (-3,5 meter / 3,5 seconden). |
+| Wanneer gebruik je de raaklijnmethode in plaats van directe snelheidbepaling uit een XT-diagram? | Gebruik de raaklijnmethode als de grafiek geen rechte lijn is en de snelheid varieert. |
+| Wat is het voordeel van de raaklijnmethode bij het analyseren van een XT-diagram met kromme lijnen? | Het stelt je in staat om de snelheid op specifieke punten te bepalen, zelfs als de lijn krom is. |
+| Wat moet je doen als je een XT-diagram hebt met een constante snelheid?                         | Bereken de snelheid direct uit de helling van de rechte lijn. |
+

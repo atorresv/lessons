@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Hoeken in Graden en Radialen**
+
+  - **Hoeken** kunnen op twee manieren worden weergegeven: in **graden** of in **radialen**.
+  - **Graden**:
+    - Een volledige cirkel is **360 graden**.
+    - **180 graden** is de helft van een cirkel.
+    - **90 graden** is een kwart cirkel.
+  - **Radialen**:
+    - Een volledige cirkel is **2π radialen** (ongeveer **6,28 radialen**).
+    - **180 graden** is gelijk aan **π radialen** (ongeveer **3,14 radialen**).
+    - **90 graden** is gelijk aan **π/2 radialen** (ongeveer **1,57 radialen**).
+  - **Conversie**:
+    - Omrekenen van graden naar radialen: \( \text{Hoek in radialen} = \text{Hoek in graden} \times \frac{\pi}{180} \).
+    - Omrekenen van radialen naar graden: \( \text{Hoek in graden} = \text{Hoek in radialen} \times \frac{180}{\pi} \).
+  - **Rekenmachines**:
+    - Instellen op **graden** of **radialen** is belangrijk voor correcte berekeningen met **sinus**, **cosinus**, en **tangens**.
+    - **Wetenschap**: In natuurkunde worden vaak radialen gebruikt bij cirkelbewegingen, trillingen, en golven; graden worden meer gebruikt bij krachten en optica.
+    - **Instellingen**: Controleer altijd of je rekenmachine is ingesteld op graden of radialen:
+      - Bij een gewone rekenmachine: Knop **mode** instellen op **degr** (graden) of **rad** (radialen).
+      - Bij een grafische rekenmachine: Druk op **mode**, kies tussen **degree** of **radian** en bevestig met **enter**.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Kort antwoord                                                                                         |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Hoe wordt een hoek in een cirkel vaak weergegeven?                     | In **graden** of in **radialen**.                                                                     |
+| Hoeveel graden is een volledige cirkel?                                | **360 graden**.                                                                                      |
+| Hoeveel radialen is een volledige cirkel?                              | **2π radialen** (ongeveer **6,28 radialen**).                                                         |
+| Hoe kun je 180 graden omrekenen naar radialen?                         | \( 180 \text{ graden} = \pi \text{ radialen} \) (ongeveer **3,14 radialen**).                         |
+| Wat is de formule om graden naar radialen om te rekenen?               | \( \text{Hoek in radialen} = \text{Hoek in graden} \times \frac{\pi}{180} \).                         |
+| Wat is de formule om radialen naar graden om te rekenen?               | \( \text{Hoek in graden} = \text{Hoek in radialen} \times \frac{180}{\pi} \).                         |
+| Wat moet je controleren voordat je berekeningen met een rekenmachine maakt? | Of de rekenmachine is ingesteld op **graden** of **radialen**.                                        |
+| Welke knoppen gebruik je om een rekenmachine in te stellen op radialen? | Op een gewone rekenmachine: **mode** knop. Op een grafische rekenmachine: **mode** knop, kies **radian**. |
+| Bij welke natuurkundige onderwerpen wordt vaak met radialen gerekend? | Bij **cirkelbewegingen**, **trillingen**, en **golven**.                                               |
+| Bij welke natuurkundige onderwerpen worden vaak graden gebruikt?      | Bij **krachten** en **optica**.                                                                        |
+

@@ -1,0 +1,52 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Positron Emission Tomography (PET) en Gamma Straling**
+
+  - **Stikstof-13** vervalt en ontstaat een deeltje met:
+    - **Massagetal**: 0
+    - **Lading**: +1
+    - Dit deeltje wordt een **positron** genoemd.
+    
+  - **Positron** heeft tegenovergestelde eigenschappen van een **elektron**:
+    - **Lading**: +1
+    - Elektronen hebben een lading van -1.
+    
+  - Bij **opheffen** (annihilatie) van positron en elektron:
+    - Twee **gamma-deeltjes** ontstaan.
+    - Deze gamma-deeltjes vliegen in **tegenovergestelde richtingen**.
+
+  - **Gebruik van PET** in de medische diagnostiek:
+    - Bij een patiënt wordt een stof ingespoten die positronen uitstraalt.
+    - **Gamma-detectoren** in een ring rond de patiënt detecteren de gamma-straling van de annihilatie.
+    
+  - **Locatiebepaling** van de bron van positron-straling:
+    - Detectoren registreren de tijd van aankomst van gamma-deeltjes.
+    - Het **tijdsverschil** helpt om de exacte locatie van de bron te berekenen.
+    
+  - **Tracer**-stoffen worden gebruikt:
+    - Tracers zijn stoffen die binden aan een specifieke substantie in het lichaam, zoals tumoren.
+    - **PET** bepaalt waar deze tracers zich bevinden door de gamma-straling te detecteren die ontstaat bij annihilatie.
+
+  - **Samenvatting**:
+    - **PET** staat voor Positron Emission Tomography.
+    - Het detecteert **beta-plus deeltjes** indirect via de gamma-straling die ontstaat bij annihilatie.
+    - Het apparaat gebruikt **detectoren** om de locatie van de bron van de positronstraling te bepalen.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                                                                                                                                                 |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wat ontstaat bij het verval van stikstof-13?                                | Bij het verval van stikstof-13 ontstaat een **positron** met een massagetal van 0 en een lading van +1.                                                                                                                        |
+| Wat zijn de eigenschappen van een positron in vergelijking met een elektron? | De **positron** heeft tegenovergestelde eigenschappen van een **elektron**: de positron heeft een lading van +1, terwijl de elektron een lading van -1 heeft.                                                                 |
+| Wat gebeurt er bij de annihilatie van een positron en een elektron?         | Bij annihilatie van een positron en een elektron ontstaan er twee **gamma-deeltjes** die in tegenovergestelde richtingen wegvliegen.                                                                                           |
+| Hoe wordt de locatie van de bron van positron-straling bepaald met PET?     | De locatie van de bron wordt bepaald door **gamma-detectoren** die de gamma-straling detecteren. Het **tijdsverschil** tussen aankomst van gamma-deeltjes bij de detectoren helpt om de exacte locatie te berekenen.            |
+| Wat is een tracer in de context van PET?                                    | Een **tracer** is een stof die in het lichaam wordt gebracht en bindt aan een specifieke substantie (zoals tumoren). Deze stof straalt positronen uit, die worden gedetecteerd door PET.                                       |
+| Wat doet PET met betrekking tot gamma-straling?                             | **PET** detecteert de gamma-straling die ontstaat bij de annihilatie van positronen, wat helpt om de oorspronkelijke locatie van de positron-straling te bepalen.                                                                 |
+| Waarom wordt een tracer vaak aan een andere stof gebonden in PET?           | Een tracer wordt vaak gebonden aan een andere stof om te bepalen waar deze stof (en dus de tracergemerkte substantie) zich in het lichaam bevindt, zoals bij het opsporen van tumoren.                                           |
+| Wat is de afkorting voor Positron Emission Tomography?                      | De afkorting voor Positron Emission Tomography is **PET**.                                                                                                                                                                      |

@@ -1,0 +1,31 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Inductiespanning en de Richting van Stroom**
+
+  - **Sterk magnetisch veld**: Wanneer elektrische stroom door een spoel loopt, wordt een sterk magnetisch veld opgewekt.
+  - **Rechterhandregel**: Met de rechterhandregel kan de richting van het magneetveld door de spoel worden bepaald.
+  - **Magneten en stroom**: Magneten kunnen ook gebruikt worden om stroom op te wekken door veranderingen in het magneetveld.
+  - **Stroom bij beweging**: Wanneer een spoel beweegt ten opzichte van een magneet, wordt er wel stroom gemeten door de verandering in Flux.
+  - **Inductiespanning**: Inductiespanning wordt opgewekt door veranderingen in de magnetische Flux door een spoel. Deze spanning ontstaat alleen als de Flux verandert.
+  - **Formule inductiespanning**: De grootte van de inductiespanning kan worden berekend met de formule: inductiespanning = (aantal wikkelingen × verandering van Flux) / tijd.
+  - **Verandering van Flux**: Hoe sneller de Flux verandert, hoe groter de inductiespanning. Dit kan worden bepaald door de verandering van Flux in een grafiek te bekijken en een raaklijn te gebruiken als de verandering niet lineair is.
+  - **Samenvatting**: Inductiespanning en inductiestroom worden alleen opgewekt bij veranderingen in de Flux. Bij een rechte lijn in een grafiek kan de snelheid van verandering direct worden afgelezen; bij een niet-lineaire verandering moet een raaklijn worden gebruikt.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                  | Korte antwoord                                                                                                                                                       |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wat wordt er opgewekt als elektrische stroom door een spoel gaat?                     | Een sterk magnetisch veld.                                                                                                                                           |
+| Hoe kun je de richting van het magneetveld door een spoel bepalen?                     | Met de rechterhandregel.                                                                                                                                              |
+| Wat gebeurt er als je een magneet beweegt ten opzichte van een spoel?                  | Er wordt inductiestroom gemeten door de verandering in Flux.                                                                                                         |
+| Wat is inductiespanning?                                                                | Spanning die ontstaat door een verandering in de magnetische Flux door een spoel.                                                                                   |
+| Hoe wordt de grootte van de inductiespanning berekend?                                 | Met de formule: inductiespanning = (aantal wikkelingen × verandering van Flux) / tijd.                                                                             |
+| Wat bepaalt de grootte van de inductiespanning?                                         | De snelheid waarmee de Flux verandert.                                                                                                                              |
+| Hoe bepaal je de snelheid van Flux-verandering als deze niet lineair is?                | Door een raaklijn te gebruiken in een grafiek van Flux tegen tijd.                                                                                                  |
+| Wanneer wordt inductiespanning en inductiestroom opgewekt?                             | Alleen bij een verandering in de magnetische Flux.                                                                                                                  |

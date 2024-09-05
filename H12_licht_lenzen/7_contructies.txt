@@ -1,0 +1,60 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Belangrijke elementen van een constructietekening voor lenzen**
+
+  - **Constructietekening**:
+    - Schematische tekening van een lens en de brandpunten.
+    - Tekeningen tonen de lens en de lichtstralen die door de lens gaan.
+
+  - **Symbool voor lens**:
+    - **Positieve lens**: Dikke verticale lijn met een **plus**.
+    - **Negatieve lens**: Dikke verticale lijn met een **min**.
+
+  - **Notatie**:
+    - **Bol lens**: Twee pijltjes.
+    - **Hol lens**: Lijn door het midden van de lens, loodrecht op de lens.
+
+  - **Hoofdas**:
+    - Lijn die loodrecht op de lens staat door het **optisch midden** van de lens.
+
+  - **Optisch midden**:
+    - Aangeduid met een hoofdletter **O**.
+
+  - **Brandpuntsafstand**:
+    - Afstand van het optische midden tot het **brandpunt**.
+
+  - **Brandvlak**:
+    - Vlak evenwijdig aan de lens en door het brandpunt.
+
+  - **Bij-as**:
+    - Lijn door het optische midden, niet parallel aan de hoofdas.
+
+  - **Bij-brandpunt**:
+    - Punt in het brandvlak waar lichtstralen samenkomen.
+
+  - **Samenvatting**:
+    - Positieve lens: **Plus** symbool, brandpunt aan weerszijden van de lens.
+    - Negatieve lens: **Min** symbool, brandpunt aan weerszijden van de lens.
+    - Hoofdas: Loodrechte lijn door het optische midden.
+    - Brandpunt en brandvlak zijn essentieel voor constructietekening en lensanalyse.
+
+**Diagnostische vragen**
+
+| Vraag | Korte antwoord |
+|-------|----------------|
+| Wat toont een constructietekening van een lens? | Een schematische tekening van de lens en de brandpunten. |
+| Hoe wordt een positieve lens aangeduid op een tekening? | Met een dikke verticale lijn en een **plus** bovenaan. |
+| Wat is het symbool voor een negatieve lens? | Een dikke verticale lijn met een **min** bovenaan. |
+| Hoe wordt de hoofdas op een lens tekening weergegeven? | Als een lijn die loodrecht op de lens staat door het optische midden. |
+| Wat is het optische midden van een lens? | Het punt dat wordt aangeduid met een hoofdletter **O**. |
+| Hoe wordt de brandpuntsafstand aangeduid? | Met een dikke stip aan beide zijden van de lens. |
+| Wat is een brandvlak? | Een vlak dat evenwijdig aan de lens staat en door het brandpunt gaat. |
+| Wat is een bij-as? | Een lijn die door het optische midden van de lens loopt maar niet parallel is aan de hoofdas. |
+| Wat is een bij-brandpunt? | Het punt in het brandvlak waar de lichtstralen samenkomen. |
+| Hoe wordt een brandpunt aangeduid op een constructietekening? | Als een punt in het brandvlak, aangeduid met een hoofdletter **F**. |

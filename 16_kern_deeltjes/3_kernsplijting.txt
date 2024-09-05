@@ -1,0 +1,51 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Toepassingen van Uranium 235 en Kernsplijting**
+
+- **Isotopen van Uranium**
+  - Uranium 238 en Uranium 235 zijn de voornaamste isotopen.
+  - **Uranium 235** is bijzonder vanwege zijn splijtbare eigenschappen.
+
+- **Kernsplijting van Uranium 235**
+  - Wanneer een **Uranium 235** kern wordt geraakt door een neutron, splitst deze in twee kleinere deeltjes.
+  - **Drie neutronen** komen vrij tijdens deze splijting, samen met **energie** in de vorm van **gammastraling**.
+  - Deze energie komt uiteindelijk vrij als **warmte**.
+
+- **Kettingreactie**
+  - De vrijgekomen neutronen kunnen weer andere Uranium 235 kernen splijten, wat leidt tot een **zelfversterkende kettingreactie**.
+  - Het aantal nieuwe splijtingen is afhankelijk van de **vermenigvuldigingsfactor (k)**.
+  - In theorie is k gelijk aan 3, maar in de praktijk is k **kleiner dan 3** door:
+    - **Neutronen** die niet altijd met Uranium 235 kernen botsen.
+    - **Neutronen** die zonder splijting de stof verlaten.
+    - De snelheid van neutronen, die niet altijd ideaal is voor splijting.
+
+- **Toepassingen van Uranium 235**
+  - **Kernwapens**: Voor de productie van enorme energie door snelle kettingreacties.
+  - **Kernenergie**: Voor gecontroleerde energieopwekking in kerncentrales.
+
+- **Samenvatting**
+  - Uranium 235 is radioactief en splijtbaar, wat kan leiden tot een kettingreactie.
+  - De vermenigvuldigingsfactor (k) bepaalt hoe effectief een kettingreactie is, en is in de praktijk altijd kleiner dan 3.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                      | Korte antwoord                                                                                          |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Welke isotopen van uranium zijn belangrijk in kernsplijting?                               | **Uranium 238** en **Uranium 235**.                                                                  |
+| Wat gebeurt er als een kern van Uranium 235 wordt geraakt door een neutron?                | De kern **splitst** in twee kleinere deeltjes en **drie neutronen** komen vrij, samen met **energie**. |
+| Wat komt er vrij tijdens de splijting van Uranium 235?                                    | **Energie** in de vorm van **gammastraling** en **warmte**.                                           |
+| Wat is een kettingreactie bij kernsplijting?                                                | Een **zelfversterkende reactie** waarbij elke splijting leidt tot meerdere nieuwe splijtreacties.    |
+| Wat is de theoretische waarde van de vermenigvuldigingsfactor (k) bij kernsplijting?       | **3**.                                                                                               |
+| Waarom is de vermenigvuldigingsfactor (k) in de praktijk kleiner dan 3?                   | - Niet alle neutronen botsen met Uranium 235 kernen.                                                |
+|                                                                                            | - Sommige neutronen verlaten de stof zonder splijting.                                                |
+|                                                                                            | - De snelheid van neutronen is niet altijd ideaal voor splijting.                                     |
+| Noem twee belangrijke toepassingen van Uranium 235.                                        | **Kernwapens** en **kernenergie**.                                                                    |
+| Hoe wordt kernenergie opgewekt in een kerncentrale?                                        | Door een gecontroleerde kettingreactie waarbij **neutronen** in brandstofstaven worden geabsorbeerd.  |
+| Wat gebeurt er met de kernsplijting reactie in een kerncentrale om te voorkomen dat deze uit de hand loopt? | **Regelaars** worden gebruikt om de neutronenstroom te reguleren en de reactie onder controle te houden. |
+

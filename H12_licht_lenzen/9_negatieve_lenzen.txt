@@ -1,0 +1,40 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Bepalen van de Richting van Lichtstralen bij Negatieve Lenzen**
+
+  - **Constructietekening**:
+    - Gebruik een **constructietekening** om te bepalen hoe een lichtstraal door een **negatieve lens** verder loopt.
+
+  - **Regels voor Negatieve Lenzen**:
+    - **Regel 1**: Lichtstralen die door een negatieve lens gaan, lopen **rechtdoor** zonder af te buigen.
+    - **Regel 2**: Lichtstralen die **parallel** aan elkaar lopen lijken uit hetzelfde **brandpunt** aan de andere kant van de lens te komen.
+
+  - **Werkwijze**:
+    - Teken een lichtstraal die parallel loopt aan de hoofdas van de lens.
+    - Zoek het **brandpunt** aan dezelfde kant van de lens waar de lichtstraal vandaan lijkt te komen.
+    - Het verlengde van deze lichtstraal zal doorgaan zoals getrokken, alsof het uit het brandpunt komt.
+
+  - **Samenvatting**:
+    - Bij een negatieve lens gaat een lichtstraal rechtdoor en parallelle lichtstralen lijken uit hetzelfde brandpunt aan de andere kant van de lens te komen.
+    - Om te bepalen waar een lichtstraal heen gaat, teken je de lichtstraal en zoek je het brandpunt aan dezelfde kant van de lens.
+
+Samengevat, voor **negatieve lenzen** geldt dat lichtstralen rechtdoor gaan en parallelle stralen uit een brandpunt aan dezelfde kant van de lens lijken te komen. Het gebruik van een constructietekening helpt bij het bepalen van de richting van een lichtstraal door de lens.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                  |
+|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Wat is de eerste regel voor lichtstralen die door een negatieve lens gaan? | Lichtstralen lopen **rechtdoor** zonder af te buigen.                                        |
+| Wat is de tweede regel voor lichtstralen die parallel aan elkaar lopen bij een negatieve lens? | Ze lijken uit hetzelfde **brandpunt** aan de andere kant van de lens te komen.                |
+| Hoe vind je de richting van een lichtstraal die door een negatieve lens gaat? | Teken de lichtstraal en zoek het brandpunt aan dezelfde kant van de lens waar de straal vandaan lijkt te komen. |
+| Wat moet je doen met een lichtstraal die parallel aan de hoofdas van een negatieve lens loopt? | Zoek het brandpunt aan dezelfde kant van de lens en verleng de lichtstraal alsof deze uit dat punt komt. |
+| Wat gebeurt er met lichtstralen die door een negatieve lens gaan?         | Ze gaan rechtdoor en divergeren verder.                                                      |
+| Hoe teken je een lichtstraal die door een negatieve lens gaat?            | Teken de lichtstraal en zoek het brandpunt aan dezelfde kant van de lens; de straal lijkt uit dit brandpunt te komen. |
+
+

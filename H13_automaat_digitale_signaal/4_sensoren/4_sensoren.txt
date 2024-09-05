@@ -1,0 +1,36 @@
+4_SENSOREN
+*  Wat is een sensor?
+*  IJkgrafiek
+*  Bereik
+*  Lineariteit
+*  Gevoeligheid
+*  Nauwkeurigheid
+*  Aansluiten sensor
+
+
+termostaat: temperatuur in ruimte constant
+temperatuur gemeten met een sensor
+sensor vertal een grootheid naar voltage
+
+bij elke sensor hoort een ijkgrafiek
+naarmaate T toenemt U toenemt
+
+bereik
+lineariteit
+gevoeliheid
+naukeurigheid
+
+bereik: gebied waar zinvol gameten kan worden
+lineariteit: gebied waar de ijkgrafiek rechtloopt
+gevoeligheid: hoe veel spanning veranderd van bepaalde verandering van gemeteen grootheid
+formule voorbeekd du/dT
+nauwkeurigheid: verschil tussen gemeten waarde en waardelijke waarde
+
+sensor: kan aansluiten op het systemboord
+
+sensor
+ijkgrafiek
+bereik
+lineariteit
+gevoelihied
+naukeurighied

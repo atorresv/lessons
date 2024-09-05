@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Massa- en energieverhouding bij radioactief verval**
+
+- **Radioactief verval**: Bij het verval van een isotoop verandert de stof, bijvoorbeeld van **Polonium-210** naar **Lood-210** en **Helium-4**.
+  
+- **Massagetallen**: 
+  - Polonium-210 heeft een massa van **209,982 u**.
+  - Lood-210 heeft een massa die na correctie voor de massa van elektronen **bijna gelijk** zou moeten zijn aan de massa van Polonium-210.
+  - Helium-4 heeft een massa zoals vermeld in **Binas**.
+
+- **Massa-berekeningen**:
+  - Bij het berekenen van de massa van de atoomkernen en elektronen blijkt er een massa-verschil van **0,06914 u** te zijn.
+  
+- **Energieomzetting**:
+  - Het massa-verschil wordt omgezet in energie volgens de formule **E = mc²**.
+  - De energie komt uit op **6,406 MeV** (mega-electronvolt).
+  
+- **Energieverdeling**:
+  - De energie wordt verdeeld in:
+    - **Gamma-straling**: Vrijgekomen energie in de vorm van straling.
+    - **Kinetische energie**: De energie van het **Alfa-deeltje** en de **Lood-deeltje** die snelheid verkrijgen bij het verval.
+
+- **Samenvatting**:
+  - Bij radioactief verval gaat een klein beetje massa verloren, wat wordt omgezet in energie, die zich uitdrukt in **gamma-straling** en **kinetische energie** van de vrijkomende deeltjes.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                              |
+|---------------------------------------------------------------------------|-----------------------------------------------------------|
+| Wat is een voorbeeld van een stof die verandert tijdens radioactief verval? | Polonium-210 verandert in Lood-210 en Helium-4.            |
+| Wat is de massa van Polonium-210 volgens Binas?                           | 209,982 u                                                |
+| Hoe wordt de massa van een atoomkern berekend?                            | De massa van de atoomkern min de massa van de elektronen. |
+| Wat is het massa-verschil bij het verval van Polonium-210 naar Lood-210?  | 0,06914 u                                                |
+| Hoeveel energie komt vrij bij de radioactieve verval van Polonium-210?    | 6,406 MeV (mega-electronvolt)                             |
+| In welke vormen wordt de vrijgekomen energie verdeeld?                    | Gamma-straling en kinetische energie van de deeltjes.     |
+| Hoe wordt de massa-energie omgezet volgens Einstein's formule?             | E = mc² (waarbij m de massa is en c de lichtsnelheid)     |
+| Wat gebeurt er met de massa tijdens radioactief verval?                    | Een deel van de massa wordt omgezet in energie.           |

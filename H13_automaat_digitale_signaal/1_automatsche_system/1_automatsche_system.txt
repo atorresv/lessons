@@ -1,0 +1,39 @@
+1_AUTOMATISCHE_SYSTEMEN
+*  Voorbeeld automatisch systeem
+*  Invoer, verwerking, uitvoer
+*  Meetsysteem
+*  Stuursysteem
+*  Regelsysteem
+*  Terugkoppeling
+
+selftandige system neemen: automatische system
+voorbeeld: oven zorg dat goede temperatuur berekt wordt
+waat moet oven doen:
+controleren:
+temperauur
+tijd
+deur
+
+doen:
+verwarming
+lampje
+belletje
+
+3 delen voor alle automatische system
+invoer, verwerking, uitvoer
+
+3 systemen: meet, stuur, regel
+
+meetsysteem: laten zien van de invoer
+voorbeeld digitele kortsthermomenter
+
+stuursysteem: uitvoer actie
+voorbeeld rookmelder, inbraakalarm
+
+regelsysteem: actie heeft invloed op het invoer
+voorbeeld: terhmostaat
+terugkoppeling
+
+zelfstanding handelend
+invoer, verwerking, uitvoer
+drie soorten: meet stuur, regelsystemen

@@ -1,0 +1,19 @@
+10_GEHEUGENCEL
+*  Onthoudt één bit
+*  Hoe werkt een geheugencel?
+*  SET en RESET
+*  Voorbeeldschakeling
+
+utomatisch syteem tijdelijk waarde omhuoden
+geheugencel werk met binaire signalen
+kan maar een bit onthouden
+er is een geheugencel
+twee ingangen set/reset een uitgang
+1 als er een 1 is gewest
+
+voorbeeld: geheugen een lampje
+set ingang => 1
+reset ingant => 0
+geheugecell onthout een bit
+set ingang -> set 1
+reset ingang -> set 0

@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Trillingen en Frequenties bij een Gitaar**
+
+- **Gitaartrilling**: Om een toon te produceren, trek je de snaar opzij en laat je deze los, waardoor de snaar begint te **trillen**.
+- **Trillingsvormen**: Een snaar kan op **oneindig veel manieren** trillen, maar de basisvormen zijn:
+  - **Eenvoudige trilling**: De snaar trilt heen en weer.
+  - **Complexe trillingen**: Meerdere manieren zoals weergegeven in de voorbeelden.
+- **Staande Golf**:
+  - **Knopen**: Plekken waar de trilling **nul** is en de snaar **stil** blijft.
+  - **Buiken**: Plekken waar de trilling op zijn **maximaal** is.
+- **Trillingsvormen**:
+  - **Volledige golflengte**: Lengte van de snaar = **1 golflengte**.
+  - **Halve golflengte**: Lengte van de snaar = **0,5 golflengte**.
+  - **Anderhalve golflengte**: Lengte van de snaar = **1,5 golflengte**.
+- **Formule voor Frequentie**: 
+  - Frequentie = \( \frac{v}{2L} \) waarbij \( v \) de **snelheid** van geluid en \( L \) de **lengte** van de snaar is.
+  - **Langere snaar** = lagere frequentie; **Kortere snaar** = hogere frequentie.
+- **Frequenties van Trillingen**:
+  - **Grondtoon**: De meest **duidelijke** toon die je hoort bij de snaar, de toonfrequentie van de grondtoon is **110 Hz**.
+  - **Boventonen**: **Zwakkere** tonen die hogere frequenties hebben zoals 220 Hz, 330 Hz, 440 Hz, enzovoort.
+- **Samenvatting**: Een gitaar produceert **staande golven** in de snaar. De sterkste toon is de **grondtoon**, en de **boventonen** zijn veel zwakker.
+
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte Antwoord                                                    |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------|
+| Wat moet je doen om een toon op een gitaar te produceren?             | Trek de snaar opzij en laat deze los, zodat de snaar gaat trillen. |
+| Hoe wordt een staande golf op een snaar weergegeven?                  | Met knopen (stiltes) en buiken (maximale trilling).                |
+| Wat is een knoop bij een staande golf?                                | Een plek waar de trilling nul is en de snaar stil blijft.          |
+| Wat is een buik bij een staande golf?                                 | Een plek waar de trilling op zijn maximaal is.                     |
+| Hoe kun je de frequentie van een snaar berekenen?                      | Met de formule \( \text{Frequentie} = \frac{v}{2L} \), waarbij \( v \) de snelheid van geluid en \( L \) de lengte van de snaar is. |
+| Hoe verandert de frequentie als de lengte van de snaar toeneemt?       | De frequentie wordt lager.                                        |
+| Wat is de grondtoon bij een snaar van 110 Hz?                         | De toon met de laagste frequentie die het sterkst hoorbaar is.     |
+| Wat zijn boventonen en hoe verhouden ze zich tot de grondtoon?        | Boventonen zijn zwakkere tonen met hogere frequenties dan de grondtoon. |
+| Hoeveel golflengtes passen in de lengte van een snaar voor de eerste modus? | Eén golflengte voor de eerste modus.                              |
+| Wat is het effect van een kortere snaar op de frequentie?              | Een kortere snaar produceert een hogere frequentie.                |

@@ -1,0 +1,49 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Hoe Werkt Het Oog?**
+
+- **Oogstructuur**: 
+  - **Hoornvlies**: Aan de voorkant van het oog, laat licht binnen.
+  - **Pupil**: Verkleint bij veel licht en vergroot bij weinig licht.
+  - **Ooglens**: Flexibel en verandert de brandpuntsafstand.
+  - **Kringspier**: Om de ooglens, kan de lens aan- of ontspannen.
+
+- **Achterkant van het Oog**:
+  - **Netvlies**: Ontvangt het licht en bevat **lichtgevoelige cellen**.
+  - **Gele Vlek**: Gebied op het netvlies met de meeste **lichtgevoelige cellen**; belangrijk voor scherp zicht.
+  - **Blinde Vlek**: Punt waar de **oogzenuw** het oog verlaat; geen **lichtgevoelige cellen** aanwezig.
+
+- **Zien**:
+  - **Accommodatie**: Het proces waarbij de lens boller of platter wordt om een scherp beeld op het netvlies te vormen, afhankelijk van de afstand van het object.
+  - **Nabijheidspunt**: Het dichtstbijzijnde punt waarop je nog scherp kunt zien.
+  - **Verste Punt**: Bij gezonde ogen ligt dit op oneindig, wat betekent dat je objecten ver weg scherp kunt zien.
+
+- **Problemen en Oplossingen**:
+  - Als het nabije punt verder is dan 25 cm of het verste punt niet oneindig ver ligt, kan dit duiden op een oogafwijking.
+  - **Correctie**: Vaak kan een bril de afwijking corrigeren door de brandpuntsafstand van de lens aan te passen.
+
+- **Samenvatting**:
+  - De ooglens past zijn vorm aan (bolling) door de kringspier om scherp te stellen op verschillende afstanden.
+  - Het netvlies ontvangt het beeld en bevat de gele vlek voor scherp zicht en een blinde vlek waar de oogzenuw het oog verlaat.
+
+**Diagnostische vragen**
+
+| Vraag                                                               | Korte antwoord                                                                                          |
+|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Wat is de functie van het hoornvlies?                              | Het hoornvlies laat licht binnen in het oog.                                                             |
+| Hoe verandert de pupil bij veel licht?                              | De pupil verkleint bij veel licht.                                                                       |
+| Wat doet de pupil bij weinig licht?                                | De pupil vergroot bij weinig licht.                                                                      |
+| Wat is de rol van de ooglens?                                      | De ooglens past de brandpuntsafstand aan om een scherp beeld op het netvlies te vormen.                 |
+| Hoe helpt de kringspier bij het scherpstellen?                      | De kringspier spant aan of ontspant om de ooglens boller of platter te maken, wat de brandpuntsafstand verandert. |
+| Wat is de functie van de gele vlek op het netvlies?                 | De gele vlek bevat de meeste lichtgevoelige cellen en is belangrijk voor scherp zicht.                 |
+| Waar bevindt zich de blinde vlek in het oog?                       | De blinde vlek is het punt waar de oogzenuw het oog verlaat en heeft geen lichtgevoelige cellen.         |
+| Wat gebeurt er met de ooglens tijdens accommodatie?                 | De ooglens wordt boller of platter om een scherp beeld op het netvlies te krijgen, afhankelijk van de afstand van het object. |
+| Wat is het nabijheidspunt?                                          | Het nabijheidspunt is de dichtstbijzijnde afstand waarop je nog scherp kunt zien.                       |
+| Wat is het verste punt voor gezonde ogen?                           | Het verste punt ligt op oneindig, wat betekent dat je objecten ver weg scherp kunt zien.               |
+| Hoe kan een bril helpen bij oogafwijkingen?                        | Een bril kan de brandpuntsafstand van de lens corrigeren om problemen met dichtbij of veraf scherp zien te verhelpen. |

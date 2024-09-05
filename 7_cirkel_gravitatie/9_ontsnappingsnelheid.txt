@@ -1,0 +1,52 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Ontsnappingssnelheid en Gravitatie-energie**
+
+- **Ontsnappingssnelheid**: De snelheid die nodig is om een voorwerp te laten ontsnappen aan de zwaartekracht van een planeet.
+  - Zonder luchtweerstand en andere wrijvingen.
+  - De snelheid bepaalt of een object weer terug zal vallen of de ruimte in zal gaan.
+
+- **Gravitatie-energie**:
+  - Gravitatie-energie van een object aan het aardoppervlak is ongeveer **-63 megajoule** voor 1 kg massa.
+  - Verandert naar 0 als het object zich verder van de aarde bevindt.
+
+- **Kinetische energie**:
+  - Moet gelijk zijn aan het verschil tussen de gravitatie-energie aan het aardoppervlak en de energie ver weg.
+  - Formule: \( \text{Kinetische energie} = \frac{1}{2} mv^2 \)
+
+- **Formules en Berekeningen**:
+  - Ontsnappingssnelheid: \( v = \sqrt{2 \cdot G \cdot M / R} \)
+    - Waarbij \( G \) de gravitatieconstante is.
+    - \( M \) de massa van de aarde is.
+    - \( R \) de straal van de aarde is.
+  - Massa van het object zelf speelt geen rol in de ontsnappingssnelheid.
+
+- **Praktische Snelheid**:
+  - Ontsnappingssnelheid voor de aarde is ongeveer **11.182 meter per seconde**.
+  - Dit is meer dan 30 keer de geluidssnelheid.
+  - In de praktijk moeilijk te bereiken, maar theoretisch berekenbaar.
+
+- **Samenvatting**:
+  - Ontsnappingssnelheid hangt af van de massa en straal van de planeet.
+  - Kinetische energie moet gelijk zijn aan de negatieve gravitatie-energie aan het oppervlak.
+  - Formules zijn toepasbaar voor andere planeten in ons zonnestelsel.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                                                                          | **Antwoord**                                                                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wat is de ontsnappingssnelheid?                                                                                                                   | De snelheid die nodig is om een voorwerp te laten ontsnappen aan de zwaartekracht van een planeet.                                                                 |
+| Hoe wordt de ontsnappingssnelheid berekend?                                                                                                        | Met de formule: \( v = \sqrt{2 \cdot G \cdot M / R} \), waarbij \( G \) de gravitatieconstante is, \( M \) de massa van de aarde, en \( R \) de straal van de aarde. |
+| Wat is de gravitatie-energie van een 1 kg voorwerp aan het aardoppervlak?                                                                         | Ongeveer **-63 megajoule**.                                                                                                                                           |
+| Hoe verandert de gravitatie-energie als je verder van de aarde af gaat?                                                                           | De gravitatie-energie verandert naar 0 als je ver weg van de aarde bent.                                                                                           |
+| Wat moet de kinetische energie van een object zijn om te ontsnappen aan de aarde?                                                                  | De kinetische energie moet gelijk zijn aan de negatieve gravitatie-energie aan het aardoppervlak.                                                                   |
+| Wat speelt geen rol in de berekening van de ontsnappingssnelheid?                                                                                 | De massa van het object zelf speelt geen rol.                                                                                                                       |
+| Hoe snel moet je een object gooien om het te laten ontsnappen aan de aarde?                                                                       | Ongeveer **11.182 meter per seconde**, wat meer is dan 30 keer de geluidssnelheid.                                                                                  |
+| Hoe worden de ontsnappingssnelheden van andere planeten berekend?                                                                                 | Met dezelfde formule, waarbij de massa en straal van de betreffende planeet worden gebruikt.                                                                       |
+| Waarom is de ontsnappingssnelheid in de praktijk moeilijk te bereiken?                                                                            | Omdat de benodigde snelheid enorm hoog is en moeilijk te realiseren is in praktische omstandigheden.                                                                 |

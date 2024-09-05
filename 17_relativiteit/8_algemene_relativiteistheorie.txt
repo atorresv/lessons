@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van de Algemene Relativiteitstheorie**
+
+- **Speciale Relativiteitstheorie (1905)**
+  - **Stelling**: Niets kan sneller bewegen dan de **lichtsnelheid**.
+  - **Gevolg**: Informatie kan ook niet sneller dan de lichtsnelheid worden overgedragen.
+
+- **Probleem met Zwaartekracht**:
+  - **Voorbeeld**: Als de zon plotseling zou verdwijnen, zou de aarde **direct** merken dat de zon weg is en haar baan aanpassen.
+  - **Probleem**: Volgens de speciale relativiteitstheorie kan informatie pas na ongeveer 8 minuten (de tijd die licht nodig heeft om van de zon naar de aarde te reizen) worden doorgegeven.
+
+- **Algemene Relativiteitstheorie (1915)**
+  - **Aanvulling** op de speciale relativiteitstheorie.
+  - **Zwaartekracht**: Wordt niet gezien als een kracht, maar als een gevolg van een **gekromde tijdruimte**.
+    - **Voorbeeld**: Stel je een balletje voor op een gekromd oppervlak; het lijkt naar beneden te rollen door de kromming van het oppervlak, niet door een kracht.
+
+- **Equivalentieprincipe**:
+  - **Stelling**: Zwaartekracht en **versnelling** zijn niet van elkaar te onderscheiden.
+  - **Gevolg**: Het effect van zwaartekracht kan worden verklaard door versnelling in een versnellende referentiekader.
+
+- **Conclusie**:
+  - De algemene relativiteitstheorie legt uit dat zwaartekracht voortkomt uit de kromming van tijdruimte en niet uit een directe kracht. Het equivalentieprincipe benadrukt dat zwaartekracht en versnelling in wezen dezelfde effecten veroorzaken.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                                           | **Antwoord**                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Wat is de belangrijkste stelling van de speciale relativiteitstheorie?                                                | Niets kan sneller bewegen dan de lichtsnelheid.                                                              |
+| Wat gebeurt er met de aarde als de zon plotseling verdwijnt volgens de speciale relativiteitstheorie?               | De aarde zou na 8 minuten merken dat de zon verdwenen is, omdat informatie niet sneller dan licht reist.       |
+| Welke theorie heeft Einstein opgesteld als aanvulling op de speciale relativiteitstheorie?                           | De algemene relativiteitstheorie.                                                                            |
+| Hoe verklaart de algemene relativiteitstheorie zwaartekracht?                                                          | Zwaartekracht is geen kracht, maar een gevolg van een gekromde tijdruimte.                                   |
+| Wat gebeurt er met een voorwerp dat zich op een gekromd oppervlak bevindt volgens de algemene relativiteitstheorie? | Het voorwerp lijkt naar beneden te rollen door de kromming van het oppervlak, niet door een directe kracht.   |
+| Wat zegt het equivalentieprincipe van de algemene relativiteitstheorie?                                              | Zwaartekracht en versnelling zijn in principe niet van elkaar te onderscheiden.                              |
+| Wat is het effect van de kromming van tijdruimte op de beweging van voorwerpen?                                      | Voorwerpen bewegen langs gekromde paden in de tijdruimte, wat lijkt op een aantrekkingskracht.                |

@@ -1,0 +1,52 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Ontbinden van Krachten**
+
+- **Krachten loodrecht op elkaar**:
+  - Het is eenvoudig om uit te rekenen hoe ze elkaar opheffen en de resulterende kracht te vinden.
+
+- **Krachten niet loodrecht**:
+  - In de praktijk staan krachten vaak niet loodrecht op elkaar. Het is dan nodig om een kracht te ontbinden.
+
+- **Wat is ontbinden?**:
+  - Ontbinden is het opdelen van een schuine kracht in twee componenten: één horizontaal (F_x) en één verticaal (F_y).
+
+- **Hoe ontbind je een kracht?**:
+  - **Grootte van de schuine kracht**: Eerst moet je weten hoe groot de schuine kracht is en de hoek (α) ten opzichte van horizontaal of verticaal.
+  - **Formules**:
+    - **Horizontale Component (F_x)**:
+      - **F_x = F \* cos(α)**
+    - **Verticale Component (F_y)**:
+      - **F_y = F \* sin(α)**
+
+- **Driehoek bij ontbinden**:
+  - Bij het ontbinden van krachten teken je een rechthoekige driehoek.
+  - **Hoeken**: De hoeken en zijden van de driehoek helpen bij het uitrekenen van F_x en F_y.
+
+- **Belangrijke aandachtspunten**:
+  - Controleer altijd welke zijde de overstaande en aanliggende zijde is.
+  - Vermijd het klakkeloos invullen van formules zonder de juiste hoeken en zijden te identificeren.
+
+- **Resultaat van ontbinden**:
+  - Je vervangt een schuine kracht door twee componenten die onderling loodrecht zijn.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                  | **Antwoord**                                                   |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Wat is het voordeel van krachten die loodrecht op elkaar staan?                           | Ze zijn eenvoudig uit te rekenen en te analyseren.              |
+| Wat moet je doen als krachten niet loodrecht op elkaar staan?                             | Je moet de krachten ontbinden in horizontale en verticale componenten. |
+| Hoe noem je de horizontale component van een schuine kracht?                              | F_x (horizontale component)                                    |
+| Hoe noem je de verticale component van een schuine kracht?                                | F_y (verticale component)                                      |
+| Welke informatie heb je nodig om een schuine kracht te ontbinden?                         | De grootte van de kracht en de hoek (α) ten opzichte van horizontaal of verticaal. |
+| Wat is de formule voor het berekenen van de horizontale component (F_x) van een schuine kracht? | F_x = F \* cos(α)                                             |
+| Wat is de formule voor het berekenen van de verticale component (F_y) van een schuine kracht? | F_y = F \* sin(α)                                             |
+| Waarom is het belangrijk om te controleren welke zijde de overstaande en aanliggende zijde is bij het gebruik van formules? | Omdat de formules voor sinus en cosinus afhankelijk zijn van de juiste identificatie van zijden en hoeken. |
+| Wat is het resultaat van het ontbinden van een schuine kracht?                             | De schuine kracht wordt vervangen door twee componenten die onderling loodrecht zijn. |
+

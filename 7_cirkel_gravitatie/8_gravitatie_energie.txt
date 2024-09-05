@@ -1,0 +1,49 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Gravitatie-energie en kinetische energie**
+
+- **Gravitatie-energie**:
+  - Energie die een voorwerp heeft door zijn positie ten opzichte van de aarde.
+  - **Afhankelijk** van de massa's van de voorwerpen en de afstand tussen hun zwaartepunten.
+  - Formule: \( E = - \frac{G \cdot m_1 \cdot m_2}{r} \)
+  - **Negatief** getal aan het aardoppervlak (bijv. **-63 megajoule**).
+  - Verandert naar **0** bij oneindige afstand van de aarde.
+
+- **Kinetische energie**:
+  - Energie die een voorwerp heeft door zijn beweging.
+  - Verhoogt als een voorwerp valt en versnelt.
+  - Berekening: \( E_k = \frac{1}{2} m v^2 \)
+  
+- **Voorbeeld met meteoriet**:
+  - Meteoriet van **5,0 kg** valt naar de maan vanuit een afstand van **10.000 km**.
+  - Gravitatie-energie op die afstand: **-2,089 megajoule**.
+  - Gravitatie-energie bij het maanoppervlak: **-14,109 megajoule**.
+  - **Energieverschil**: 12,02 megajoule wordt omgezet in kinetische energie.
+  - **Eindsnelheid** van meteoriet bij maanoppervlak: **2,2 x 10^3 m/s**.
+
+- **Samenvatting**:
+  - Gravitatie-energie is afhankelijk van massa's en afstand.
+  - Bij grote afstanden benadert de gravitatie-energie **0**.
+  - Potentiële energie geldt alleen op het aardoppervlak, in de ruimte gebruiken we gravitatie-energie.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                      |
+|---------------------------------------------------------------------------|------------------------------------------------------------------|
+| Wat is gravitatie-energie?                                                 | Energie die een voorwerp heeft door zijn positie ten opzichte van de aarde. |
+| Waar hangt de gravitatie-energie van af?                                    | De massa's van de voorwerpen en de afstand tussen hun zwaartepunten. |
+| Hoe verandert gravitatie-energie bij een grotere afstand van de aarde?      | Het verandert naar 0 bij oneindige afstand van de aarde.           |
+| Wat is de formule voor gravitatie-energie?                                  | \( E = - \frac{G \cdot m_1 \cdot m_2}{r} \)                          |
+| Wat is de kinetische energie?                                               | Energie die een voorwerp heeft door zijn beweging.                |
+| Hoe wordt de eindsnelheid van een meteoriet berekend?                       | Door het energieverschil tussen gravitatie-energie op de afstand en bij het maanoppervlak om te zetten in kinetische energie. |
+| Wat was de gravitatie-energie van de meteoriet op een afstand van 10.000 km van de maan? | **-2,089 megajoule**                                             |
+| Wat was de gravitatie-energie van de meteoriet bij het maanoppervlak?        | **-14,109 megajoule**                                            |
+| Hoeveel kinetische energie werd omgezet tijdens de val van de meteoriet?   | **12,02 megajoule**                                               |
+| Wat is de eindsnelheid van de meteoriet bij het maanoppervlak?              | **2,2 x 10^3 m/s**                                                |
+| Wat is het verschil tussen potentiële energie en gravitatie-energie?        | Potentiële energie wordt alleen op het aardoppervlak gebruikt; in de ruimte spreken we van gravitatie-energie. |

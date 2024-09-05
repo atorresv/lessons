@@ -1,0 +1,46 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Vergelijking van Massa en Bindingenergie van Atoomkernen**
+
+- **Massa van Atoomkern**:
+  - Voorbeeld: **Stikstof-12** heeft **7 protonen** en **5 neutronen**.
+  - Massa van de kern: **12,01 u** (in Binas)  
+  - Massa van losse protonen en neutronen bij elkaar: **12,097 u**
+  - Massa van de kern is lichter dan de som van losse deeltjes.
+
+- **Energie en Massa**:
+  - **Bindingsenergie**: Energie die nodig is om deeltjes samen te voegen tot een kern.
+  - De kern heeft **lagere energie** dan de losse deeltjes, wat betekent dat energie vrijkomt bij het samenvoegen van deeltjes.
+
+- **Berekening van Bindingsenergie**:
+  - Massa verschil tussen losse deeltjes en kern: **0,0794571 u**.
+  - Omrekening naar kilogram en elektronvolt: **74,0208 MeV**.
+  - Energie per deeltje: Bereken door totale energie te delen door het aantal deeltjes (bijvoorbeeld 12 voor stikstof-12).
+
+- **Bindingsenergie per Deeltje**:
+  - Bindingsenergie varieert met atoomsoort.
+  - Maximaal bij **ijzer-56**; kern van ijzer heeft de laagste bindingsenergie per deeltje, wat betekent dat de deeltjes het stevigst gebonden zijn in ijzer.
+
+- **Samenvatting**:
+  - **Bindingsenergie**: Verschil tussen de massa van losse deeltjes en de massa van de kern.
+  - Stikstof-12 en andere atomen hebben lagere energie in kernvorm dan als losse deeltjes.
+  - **IJzer-56** heeft de grootste bindingsenergie per deeltje, wat wijst op een sterke stabiliteit van de atoomkern.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                      |
+|---------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Wat is de massa van de kern van stikstof-12 vergeleken met de massa van losse protonen en neutronen? | De massa van de kern is lichter dan de som van de losse protonen en neutronen. |
+| Wat is de betekenis van bindingsenergie?                                  | Bindingsenergie is de energie die vrijkomt bij het samenvoegen van deeltjes tot een kern, of de energie die nodig is om deeltjes uit elkaar te halen. |
+| Hoe bereken je de bindingsenergie van een atoomkern?                       | Bereken het massa verschil tussen de losse deeltjes en de kern, zet dit om naar energie (bijvoorbeeld in MeV). |
+| Wat is de bindingsenergie per deeltje voor stikstof-12?                    | Dit hangt af van het totale verschil in energie gedeeld door het aantal deeltjes in de kern van stikstof-12. |
+| Welke atoomkern heeft de grootste bindingsenergie per deeltje?            | **IJzer-56** heeft de grootste bindingsenergie per deeltje. |
+| Waarom is de kern van ijzer-56 bijzonder stabiel?                         | Omdat het de hoogste bindingsenergie per deeltje heeft, wat betekent dat de deeltjes stevig gebonden zijn in de kern. |
+| Wat is de massa van stikstof-12 volgens Binas?                            | **12,01 u**                                                      |
+| Hoeveel energie kost het om de deeltjes van stikstof-12 uit elkaar te halen? | Ongeveer **74,0208 MeV**                                         |

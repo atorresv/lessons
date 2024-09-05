@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Rechthandregel voor Magnetische Velden Rond Stroomdraden**
+
+- **Tekenafspraken**:
+  - **Magnetische veldlijnen**:
+    - Het bord in: **Kruisje**.
+    - Het bord uit: **Puntje**.
+  - **Stroomdraad**:
+    - Het bord in: **Kruisje met een cirkel**.
+    - Het bord uit: **Puntje met een cirkel**.
+  - **Stroom**: Aangeduid met de letter **I** en een pijltje voor de richting.
+  - **Magnetische veldsterkte**: Aangeduid met **B** en een pijltje naar boven.
+
+- **Rechthandregel**:
+  - **Stroomdraad** door het bord in:
+    - **Duim** wijst in de richting van de stroom (het bord in).
+    - **Vingers** volgen de magnetische veldlijnen rondom de draad.
+      - Aan de voorkant van de draad: magnetische veldlijnen gaan naar beneden.
+      - Aan de achterkant van de draad: magnetische veldlijnen gaan omhoog.
+  - **Stroomdraad** naar rechts:
+    - **Duim** wijst naar rechts.
+    - **Vingers** geven de richting van de magnetische veldlijnen aan: rondom de draad, naar beneden aan de voorkant en omhoog aan de achterkant.
+
+- **Samenvatting**:
+  - De **rechterhandregel** helpt bij het bepalen van de richting van de magnetische veldlijnen rond een stroomdraad.
+  - Duim wijst in de richting van de stroom; vingers volgen de magnetische veldlijnen.
+  - Er bestaat ook een **rechterhandregel voor spoelen** die op een andere manier werkt, dit wordt in een ander filmpje uitgelegd.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat betekenen de tekenafspraken voor magnetische veldlijnen die het bord in en uit gaan? | Het bord in: kruisje; het bord uit: puntje. |
+| Hoe geef je een stroomdraad aan in een tekening? | Het bord in: kruisje met een cirkel; het bord uit: puntje met een cirkel. |
+| Hoe wordt de stroom in een tekening aangeduid? | Met de letter I en een pijltje voor de richting. |
+| Wat betekent de letter B met een pijltje naar boven in een tekening? | Magnetische veldsterkte. |
+| Hoe gebruik je de rechterhandregel voor een stroomdraad die het bord in gaat? | Duim wijst in de richting van de stroom (het bord in); vingers geven de richting van de magnetische veldlijnen aan (naar beneden aan de voorkant en omhoog aan de achterkant). |
+| Wat gebeurt er met de magnetische veldlijnen rond een stroomdraad die naar rechts loopt? | Duim wijst naar rechts; vingers volgen de magnetische veldlijnen, die naar beneden aan de voorkant en omhoog aan de achterkant gaan. |
+| Wat is het belangrijkste doel van de rechterhandregel? | Het bepalen van de richting van de magnetische veldlijnen rond een stroomdraad. |
+| Hoe verschilt de rechterhandregel voor een spoel van die voor een stroomdraad? | De rechterhandregel voor een spoel werkt anders; dit wordt in een ander filmpje uitgelegd. |
+

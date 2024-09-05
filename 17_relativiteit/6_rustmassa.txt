@@ -1,0 +1,45 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Relativiteit van Massa en Snelheid**
+
+  - **Versnelling van geladen deeltjes**:
+    - Twee **geladen platen**: één negatief en één positief.
+    - Een **geladen deeltje** wordt versneld door een elektrisch veld, waarbij het beweegt van negatief naar positief geladen platen.
+    - **Elektrische energie** wordt omgezet in **kinetische energie**.
+
+  - **Formule voor kinetische energie**:
+    - Kinetische energie \( = \frac{1}{2} m v^2 \).
+    - De snelheid \( v \) van een deeltje wordt berekend als \( v = \sqrt{\frac{2E}{m}} \), waarbij \( E \) de elektrische energie is en \( m \) de massa.
+
+  - **Beperkingen bij hoge snelheden**:
+    - De snelheid kan niet hoger worden dan de **lichtsnelheid**.
+    - Bij **hoge snelheden** wordt de massa van een deeltje groter, wat leidt tot een **toename in massa** volgens de formule:
+      \[ m = m_0 \times \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}} \]
+      waarbij \( m_0 \) de rustmassa is en \( c \) de lichtsnelheid.
+
+  - **Relativiteit van massa**:
+    - **Massa** van een deeltje neemt toe naarmate de snelheid dichter bij de lichtsnelheid komt.
+    - Het is **onmogelijk** om de lichtsnelheid te bereiken omdat de massa naar oneindig stijgt, wat **oneindig veel energie** zou kosten.
+
+  - **Samenvatting**:
+    - In de speciale relativiteitstheorie is massa **relatief**.
+    - De **rustmassa** is de massa van een deeltje als het niet beweegt.
+    - Bij dagelijkse snelheden is massa relatief meestal niet merkbaar, maar bij snelheden nabij de lichtsnelheid wordt het wel belangrijk.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| **Wat gebeurt er met een geladen deeltje in een elektrisch veld?** | Het deeltje versnelt van de negatief geladen plaat naar de positief geladen plaat door elektrische energie om te zetten in kinetische energie. |
+| **Welke formule wordt gebruikt om de snelheid van een geladen deeltje te berekenen?** | De snelheid wordt berekend met de formule \( v = \sqrt{\frac{2E}{m}} \), waarbij \( E \) de elektrische energie is en \( m \) de massa. |
+| **Waarom kan de snelheid van een deeltje nooit de lichtsnelheid bereiken?** | Omdat bij hoge snelheden de massa van het deeltje toeneemt, wat betekent dat het oneindig veel energie zou kosten om de lichtsnelheid te bereiken. |
+| **Wat gebeurt er met de massa van een deeltje naarmate de snelheid dichter bij de lichtsnelheid komt?** | De massa van het deeltje neemt toe volgens de formule \( m = m_0 \times \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}} \), waarbij \( m_0 \) de rustmassa is en \( c \) de lichtsnelheid. |
+| **Waarom is het bereiken van de lichtsnelheid voor een deeltje onmogelijk?** | Omdat de massa van het deeltje oneindig toeneemt bij snelheden dichtbij de lichtsnelheid, wat betekent dat het oneindig veel energie zou kosten om die snelheid te bereiken. |
+| **Wat is de rustmassa van een deeltje?** | De rustmassa is de massa van een deeltje wanneer het zich niet beweegt. |
+

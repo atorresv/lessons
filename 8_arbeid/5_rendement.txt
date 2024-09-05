@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Rendement en Energieomzetting**
+
+- **Energieomzetting**: Niet alle energie die we gebruiken wordt nuttig omgezet. Bijvoorbeeld, bij een lampje:
+  - **Elektrische energie** in de batterij wordt omgezet in **stralingsenergie** (licht) en **warmte**.
+  - **Warmte** is een vorm van **verspilde energie** in dit geval.
+
+- **Rendement**: Het percentage van de energie dat nuttig wordt omgezet.
+  - **Formule**: \( \text{Rendement} = \frac{\text{Nuttige energie}}{\text{Totale energie}} \times 100\% \)
+
+- **Voorbeeld**:
+  - Als een lampje 50 Joule aan licht (nuttige energie) geeft en 150 Joule aan warmte (verlies), is het rendement:
+    - **Berekening**: \( \frac{50}{200} \times 100\% = 25\% \)
+
+- **Kenmerken van Rendement**:
+  - **Nooit 100%**: Er gaat altijd energie verloren in een ongewenste vorm, meestal **warmte**.
+  - **Praktijkvoorbeelden**:
+    - **Gloeilampen**: Ongeveer **5%** rendement, 95% wordt omgezet in warmte.
+    - **Elektriciteitscentrales**: Ongeveer **30%** rendement, 70% gaat verloren aan warmte.
+    - **Verwarmingsketels**: Hoge rendementen, vaak **90%**, omdat ze efficiënt warmte produceren.
+
+- **Samenvatting**:
+  - **Rendement** is altijd lager dan 100%.
+  - **Rendement** geeft aan hoeveel van de energie nuttig wordt omgezet en hoeveel verloren gaat.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                                    | **Korte Antwoord**                                                                                       |
+|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Wat is het rendement van een energieomzetting?                                                               | Het percentage van de energie dat nuttig wordt omgezet.                                                  |
+| Hoe bereken je het rendement?                                                                              | \( \text{Rendement} = \frac{\text{Nuttige energie}}{\text{Totale energie}} \times 100\% \)               |
+| Stel je hebt een lampje dat 50 Joule aan licht (nuttige energie) geeft en 150 Joule aan warmte (verlies). Hoe bereken je het rendement? | Rendement = \( \frac{50}{200} \times 100\% = 25\% \)                                                    |
+| Waarom is het rendement van een gloeilamp meestal zo laag?                                                  | Omdat 95% van de energie verloren gaat aan warmte.                                                       |
+| Wat is een typisch rendement voor een elektriciteitscentrale?                                                | Ongeveer 30%.                                                                                            |
+| Wat is een voorbeeld van een apparaat met een hoog rendement?                                               | Een verwarmingsketel, met een rendement van vaak 90%.                                                    |
+| Waarom is het rendement nooit 100%?                                                                         | Omdat altijd een deel van de energie verloren gaat in de vorm van warmte of een andere ongewenste vorm.   |
+| Wat gebeurt er met energie tijdens een energieomzetting in een gloeilamp?                                    | Elektrische energie wordt omgezet in licht en warmte, waarbij een groot deel als warmte verloren gaat.    |

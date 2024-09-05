@@ -1,0 +1,51 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Soorten radioactief verval
+
+- **Alfa-verval**:
+  - Voorbeeld: **Polonium-214** vervalt in **lood-210**.
+  - **Alfa-deeltje** bestaat uit **2 protonen** en **2 neutronen**. 
+  - Notatie: **⁴₂He** (Helium) of **α-deeltje**.
+
+- **Beta-verval**:
+  - Voorbeeld: **Kalium-40** vervalt in **calcium-40**.
+  - **Beta-deeltje** is een **electron** met lading **-1** en massa **0**.
+  - **Positron** (β⁺) is een **positief geladen** elektron, massa **0**.
+
+- **Gamma-straling**:
+  - Voorbeeld: **Technetium-99m** zendt **gamma-straling** uit als de kern herschikt en energie vrijkomt.
+  - **Gamma-straling** heeft **geen massa** en **geen lading**.
+
+- **K-vangst**:
+  - Voorbeeld: **Krypton-109** absorbeert een **electron** en verandert in **zilver-109**.
+  - Bij absorptie van een elektron komt **energie** vrij.
+
+- **Belangrijke punten**:
+  - Bij alle vervalreacties komt **energie** vrij in de vorm van **gamma-straling**.
+  - **Alfa- en beta-verval** zijn het meest voorkomend, **gamma-straling** komt vaak extra voor.
+  - Na verval kan het resulterende atoom ook radioactief zijn en verder vervallen tot een stabiele isotoop wordt bereikt.
+
+- **Binas**:
+  - Tabel 25 toont de verschillende soorten verval en hun reactievergelijkingen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Korte antwoord                                                                                                        |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Wat is het voorbeeld van alfa-verval dat wordt genoemd?                                        | Polonium-214 vervalt in lood-210.                                                                                     |
+| Wat is een alfa-deeltje en hoe wordt het genoteerd?                                           | Een alfa-deeltje bestaat uit 2 protonen en 2 neutronen en wordt genoteerd als ⁴₂He of α-deeltje.                       |
+| Wat is een beta-deeltje en hoe wordt het genoteerd?                                          | Een beta-deeltje is een elektron met lading -1 en massa 0. Het kan genoteerd worden als β⁻ of een positron als β⁺.      |
+| Geef een voorbeeld van beta-verval en het resultaat.                                          | Kalium-40 vervalt in calcium-40.                                                                                      |
+| Wat is gamma-straling en wat zijn de kenmerken ervan?                                        | Gamma-straling is een vorm van elektromagnetische straling zonder massa en lading.                                    |
+| Wat gebeurt er bij K-vangst en welk voorbeeld wordt gegeven?                                | Bij K-vangst absorbeert een elektron de energie en verandert een atoom in een ander element, zoals krypton-109 in zilver-109. |
+| Hoe komt energie vrij bij de vervalprocessen?                                                 | Energie komt vrij als gamma-straling bij alfa-, beta-verval, en K-vangst, waarbij een deel van de energie als straling vrijkomt. |
+| Wat is het kenmerk van atomen die na verval verder vervallen?                                | Atomen die na verval radioactief zijn, zullen blijven vervallen totdat een stabiele isotoop wordt bereikt.            |
+| Waar kan je de verschillende soorten verval vinden?                                           | In Binas tabel 25.                                                                                                    |
+| Wat betekent het als een atoom verder vervalt na het eerste verval?                           | Het betekent dat het atoom nog steeds radioactief is en blijft vervallen tot een stabiele toestand bereikt is.       |
+

@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Gaswetten en Algemene Gaswet**
+
+- **Drie gaswetten**: Beschrijven het gedrag van gassen met de symbolen:
+  - **P**: Druk in Pascal.
+  - **Vd**: Volume in kubieke meter.
+  - **n**: Aantal mol (deeltjes).
+  - **T**: Temperatuur in Kelvin.
+- **Toepassing**: Gaswetten zijn alleen toepasbaar als **één parameter** verandert en de andere constant blijven, bijvoorbeeld bij verandering van volume.
+- **Algemene gaswet**: Gecombineerde gaswetten weergegeven als \( P \cdot V = n \cdot R \cdot T \).
+  - **R**: Gasconstante, waarde is 8,31450 J/(mol·K).
+- **Ideale gassen**: 
+  - Volume van moleculen is verwaarloosbaar.
+  - Geen botsingen tussen moleculen.
+  - De meeste gassen gedragen zich als ideale gassen bij normale drukken en temperaturen.
+- **Voorbeelden**:
+  - **Aantal mol lucht** in 1 liter bij 20°C en normale luchtdruk: \( P = 1,01 \times 10^5 \text{ Pa} \), \( V = 0,001 \text{ m}^3 \), \( T = 293 \text{ K} \), \( n = 0,041450 \).
+  - **Samendrukken van lucht** tot 0,5 liter bij 15°C: Druk neemt toe, \( n = 0,041450 \text{ mol} \), \( V = 0,0005 \text{ m}^3 \), \( T = 308 \text{ K} \), nieuwe druk = 2,1 × 10^5 Pa.
+- **Samenvatting**: De algemene gaswet beschrijft het verband tussen **druk**, **aantal deeltjes**, **volume**, en **temperatuur** voor ideale gassen. De gasconstante (R) kan worden gevonden in Binas, tabel 7.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Korte antwoord                                                   |
+|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Wat zijn de drie gaswetten en hun symbolen?                                                   | **P** (druk in Pascal), **Vd** (volume in kubieke meter), **n** (aantal mol), **T** (temperatuur in Kelvin). |
+| Wanneer kun je de gaswetten toepassen?                                                        | Als er maar **één parameter** verandert en de anderen constant blijven. |
+| Hoe wordt de algemene gaswet weergegeven?                                                     | Als \( P \cdot V = n \cdot R \cdot T \).                          |
+| Wat is de waarde van de gasconstante (R)?                                                     | 8,31450 J/(mol·K).                                               |
+| Wat zijn de voorwaarden voor een gas om als ideaal gas beschouwd te worden?                  | Volume van moleculen is verwaarloosbaar en er zijn geen botsingen tussen moleculen. |
+| Wat is een voorbeeld van een situatie waarin de algemene gaswet wordt gebruikt?               | Berekening van het aantal mol lucht in een liter bij normale luchtdruk en 20°C. |
+| Wat is de druk van lucht die wordt samengeperst tot 0,5 liter bij 15°C, gegeven het aantal mol en temperatuur? | De druk is 2,1 × 10^5 Pa.                                        |
+| Wat is het effect op de druk als het volume van een gas wordt verkleind en de temperatuur stijgt? | De druk **neemt toe**.                                          |
+| Waar kan de gasconstante (R) worden gevonden?                                                  | In Binas, tabel 7.                                               |
+| Wat moet je doen bij het gebruik van de algemene gaswet voor niet-ideale gassen?              | Nagaan of het gas zich als ideaal kan gedragen bij de gegeven omstandigheden. |

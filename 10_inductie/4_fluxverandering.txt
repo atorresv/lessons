@@ -1,0 +1,33 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Manieren om Fluxverandering te veroorzaken**
+
+  - **Flux** is de maat voor het aantal **veldlijnen** dat door een oppervlak gaat.
+  - **Wijzigen van het magneetveld**:
+    - **Verandering in veldsterkte (B)**: Als het magneetveld sterker of zwakker wordt, verandert de flux en wordt inductiespanning opgewekt.
+  - **Vergroten of verkleinen van het oppervlak**:
+    - **Oppervlakte vergroten**: Meer veldlijnen passen door een groter oppervlak, wat de flux verhoogt.
+  - **Wijzigen van de oriëntatie**:
+    - **Hoek veranderen**: Door de hoek tussen de spoel en de magnetische veldlijnen te veranderen, verandert de flux, wat ook inductiespanning opwekt.
+  - In de praktijk:
+    - Als een **magneet** dichterbij komt, verandert de flux.
+    - Een **spoel** kan ook gebruikt worden; de veldlijnen hoeven niet altijd volledig door de spoel te gaan.
+    - Door het **draaiend** maken van de draad verandert de flux, wat leidt tot inductiespanning.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                         | **Antwoord**                                                                                               |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Wat is de maat voor het aantal veldlijnen dat door een oppervlak gaat?                            | **Flux**                                                                                                 |
+| Hoe kun je de flux veranderen door het magneetveld aan te passen?                                | Door de **veldsterkte (B)** te verhogen of te verlagen.                                                   |
+| Wat gebeurt er met de flux als je het oppervlak van de spoel vergroot?                            | De flux **neemt toe** omdat er meer veldlijnen door het grotere oppervlak passen.                        |
+| Hoe verandert de flux door de oriëntatiehoek van de spoel te veranderen?                         | De flux verandert omdat de hoek tussen de spoel en de magnetische veldlijnen **verandert**.                |
+| Wat is een manier om inductiespanning op te wekken bij een draaiende spoel?                      | **Fluxverandering** door de spoel te laten draaien in het magneetveld.                                    |
+| Wat gebeurt er met de flux als een magneet dichterbij komt?                                       | De flux **verandert** omdat de veldlijnen dichterbij de spoel komen.                                       |
+| Waarom zijn veldlijnen niet altijd volledig door de spoel aanwezig?                              | Omdat niet alle veldlijnen van de magneet door de spoel gaan, afhankelijk van de positie van de spoel.     |

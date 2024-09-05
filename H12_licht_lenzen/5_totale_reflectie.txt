@@ -1,0 +1,37 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Totale Reflectie en Grenshoek**
+
+  - **Lichtstralen en Breking**: Lichtstralen worden normaal gesproken gebroken bij het grensvlak tussen twee stoffen.
+  - **Voorbeeld**: Bij glas en lucht, met glas als brekingsindex 1,5 en lucht als 1,0.
+  - **Hoek van Inval**: Bij een invalshoek van 60 graden wordt de brekingshoek berekend met de Wet van Snellius.
+  - **Resultaat**: De berekende sinus van de brekingshoek is 0,8, wat leidt tot een foutieve sinuswaarde bij de inverse berekening (1,299).
+  - **Totale Reflectie**: Wanneer de sinuswaarde boven 1 ligt, treedt totale reflectie op.
+    - **Voorwaarden voor Totale Reflectie**:
+      - Van een hoge brekingsindex naar een lage brekingsindex.
+      - De hoek van inval moet groter zijn dan de grenshoek.
+  - **Grenshoek Berekening**: De grenshoek wordt berekend als de sinus van de brekingsindex buiten de lens gedeeld door die binnen de lens (1,0 / 1,5 = 0,667), wat resulteert in een grenshoek van 42 graden.
+  - **Toepassing**:
+    - **Glasvezel**: Lichtstraal blijft binnen glasvezel door totale reflectie, wat lange afstandscommunicatie mogelijk maakt.
+    - **Diamant**: Diamanten hebben een zeer kleine grenshoek, wat resulteert in veel reflectie en schittering.
+  - **Samenvatting**:
+    - Totale reflectie treedt op als het licht van een materiaal met hoge brekingsindex naar een materiaal met lagere brekingsindex gaat, en als de invalshoek groter is dan de grenshoek.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                      | Korte Antwoord                                                               |
+|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Wat gebeurt er normaal gesproken met lichtstralen bij het grensvlak tussen twee stoffen?   | Ze worden gebroken.                                                           |
+| Wat is de brekingsindex van glas en lucht in het voorbeeld?                                | Glas: 1,5; Lucht: 1,0.                                                        |
+| Hoe wordt de brekingshoek berekend bij een invalshoek van 60 graden?                      | Met de Wet van Snellius, waarbij de sinus van de brekingshoek 0,8 is.          |
+| Wat is totale reflectie?                                                                   | Het verschijnsel waarbij licht volledig wordt teruggekaatst binnen een materiaal. |
+| Welke voorwaarden moeten voldaan zijn voor totale reflectie?                              | 1. Van hoge naar lage brekingsindex. 2. De invalshoek moet groter zijn dan de grenshoek. |
+| Hoe bereken je de grenshoek voor totale reflectie?                                         | Gebruik de formule: sinus van de grenshoek = brekingsindex buiten / brekingsindex binnen. |
+| Wat gebeurt er met licht in een glasvezelkabel?                                            | Het licht blijft binnen de kabel door totale reflectie, wat lange afstandscommunicatie mogelijk maakt. |
+| Waarom schittert een diamant zoveel?                                                       | Door de extreem kleine grenshoek worden lichtstralen veelvuldig gereflecteerd binnen de diamant. |

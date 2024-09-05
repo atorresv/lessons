@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Gedrag van Materiaal onder Spanning
+
+- **Spanning** op een materiaal veroorzaakt **uittrekken** van het materiaal.
+- Voorwerp heeft een **oorspronkelijke lengte** l0.
+- **Rek** is de **lengteverandering** ten opzichte van de oorspronkelijke lengte.
+- **Spanning-rek diagram** toont spanning op de horizontale as en rek op de verticale as.
+
+- Materiaal kan **elastisch** of **plastisch** vervormen:
+  - **Elastische vervorming**: Materiaal keert terug naar oorspronkelijke lengte na verwijdering van spanning (bijv. elastiek).
+  - **Plastische vervorming**: Materiaal behoudt nieuwe vorm na verwijdering van spanning (bijv. klei).
+
+- **Elastische fase**: Spanning en rek zijn in het begin recht evenredig. Materiaal keert terug naar oorspronkelijke lengte bij wegname van spanning.
+- **Elasticiteit** bereken je met de formule σ / ε, waarbij σ de spanning en ε de rek is.
+
+- Voorbeeld: 
+  - Rek = 0,25 bij kracht van 1500 N
+  - Doorsnede = 0,30 cm²
+  - Spanning = 5,0 x 10^5 N/m²
+  - Elasticiteit = 2,0 x 10^6 N/m²
+
+- **Samenvatting**: Spanning-rek diagram helpt bij het onderzoeken van materiaalgedrag, onderscheid tussen elastische en plastische fases, en berekening van elasticiteit.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                  | Korte antwoord                                                                                           |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Wat gebeurt er met een materiaal als je spanning erop zet?                                            | Het materiaal zal uittrekken.                                                                           |
+| Hoe noem je de lengteverandering van een voorwerp ten opzichte van de oorspronkelijke lengte?        | Rek                                                                                                      |
+| Wat toont een spanning-rek diagram?                                                                    | Het toont de spanning op de horizontale as en de rek op de verticale as.                                |
+| Wat is het verschil tussen elastische en plastische vervorming?                                        | Elastische vervorming: materiaal keert terug naar oorspronkelijke lengte. Plastische vervorming: materiaal behoudt nieuwe vorm. |
+| Wat gebeurt er met een elastiek als je de spanning weghaalt?                                           | Het elastiek keert terug naar zijn oorspronkelijke lengte.                                               |
+| Wat gebeurt er met klei als je de kracht weghaalt?                                                    | De klei behoudt zijn nieuwe vorm.                                                                        |
+| Hoe kun je de elasticiteit van een materiaal berekenen?                                                 | Door de spanning (σ) te delen door de rek (ε).                                                           |
+| Wat is de elasticiteit van een voorwerp met een rek van 0,25 bij een kracht van 1500 N en een doorsnede van 0,30 cm²? | 2,0 x 10^6 N/m²                                                                                         |
+| Wat wordt de elastische fase gekenmerkt?                                                                | Het voorwerp keert terug naar zijn oorspronkelijke lengte als de spanning wordt weggenomen.              |
+| Hoe wordt spanning-rek diagram gebruikt in de materiaalstudie?                                          | Het helpt bij het onderscheiden van elastische en plastische fases en het berekenen van de elasticiteit. |

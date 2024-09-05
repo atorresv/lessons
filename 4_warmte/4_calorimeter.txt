@@ -1,0 +1,34 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Calorimeter en zijn functies**
+
+- Een **calorimeter** is een instrument voor onderzoek naar het **verband tussen warmte** en **temperatuurstijging**.
+- Het bestaat uit een **bakje** waarin vloeistoffen en stoffen worden geplaatst.
+- Dit bakje is omgeven door een **isolerende laag**, zoals **piepschuim**, en heeft een **deksel**.
+- Het **deksel** bevat meestal **thermometers** en een **verwarmingselement**.
+- De **binnenkant** van de calorimeter heeft een **spiegelende laag** die straling terugkaatst.
+- De calorimeter voorkomt **warmtetransport** door:
+  - **Stroming** tegen te gaan met het deksel, zodat warme vloeistof niet kan ontsnappen.
+  - **Straling** tegen te gaan met de spiegelende laag die straling weerkaatst.
+  - **Geleiding** tegen te gaan met een **isolerende laag** (bijv. piepschuim) die warmte slecht geleidt.
+
+Samengevat, een calorimeter is een **geïsoleerde beker** die helpt bij het meten van warmte en temperatuur, vergelijkbaar met een **thermosfles**, waarbij stroming, straling en geleiding worden geminimaliseerd.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                          | Korte antwoord                                               |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Wat is een calorimeter?                                                                       | Een calorimeter is een instrument voor onderzoek naar **warmte** en **temperatuurstijging**. |
+| Hoe is een calorimeter opgebouwd?                                                              | Het bestaat uit een **bakje**, een **isolerende laag** (bijv. piepschuim), en een **deksel**. |
+| Wat bevindt zich in het deksel van de calorimeter?                                              | Het deksel bevat meestal **thermometers** en een **verwarmingselement**. |
+| Wat doet de spiegelende laag aan de binnenkant van de calorimeter?                              | De spiegelende laag kaatst **straling** terug en voorkomt dat straling naar buiten ontsnapt. |
+| Hoe wordt stroming in een calorimeter tegengegaan?                                              | Stroming wordt tegengegaan door het **deksel** dat voorkomt dat warme vloeistof ontsnapt. |
+| Hoe wordt geleiding in een calorimeter tegengegaan?                                             | Geleiding wordt tegengegaan door een **isolerende laag** (bijv. piepschuim) die warmte slecht geleidt. |
+| Waarom lijkt een calorimeter op een thermosfles?                                                | Beide gebruiken isolatie om **warmtetransport** te minimaliseren. |
+

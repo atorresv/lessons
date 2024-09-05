@@ -1,0 +1,39 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Horizontale worp**
+
+- **Horizontale worp**: Beweging waarbij iets horizontaal wordt weggegooid.
+- **Bewegingen**: 
+  - **Horizontaal**: Eenparige beweging.
+  - **Verticaal**: Valbeweging.
+- **Bewegingsvergelijkingen**:
+  - **Horizontaal**: \( s_x = v_x \cdot t \)
+  - **Verticaal**: \( s_y = \frac{1}{2} g t^2 \)
+- **Voorbeeld**:
+  - **Knikker** met **2,0 m/s** horizontale snelheid valt van een **70 cm** hoge tafel.
+  - **Valtijd**: 0,378 seconden (berekend met valbewegingformule).
+  - **Afstand** van de tafel tot de grond: **0,76 meter** (afgerond).
+- **Samenvatting**:
+  - **Horizontale worp** bestaat uit twee onafhankelijke bewegingen: eenparige beweging horizontaal en versnelde valbeweging verticaal.
+  - **Tijd in de lucht** is onafhankelijk van horizontale snelheid en hangt alleen af van de hoogte en zwaartekrachtversnelling.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                     | **Antwoord**                                      |
+|-----------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Wat is een horizontale worp?                                                                  | Een beweging waarbij iets horizontaal wordt weggegooid. |
+| Welke twee soorten bewegingen zijn betrokken bij een horizontale worp?                      | **Horizontale** (eenparige beweging) en **verticaal** (valbeweging). |
+| Welke formules worden gebruikt om de beweging in een horizontale worp te beschrijven?        | Horizontale beweging: \( s_x = v_x \cdot t \), Verticale beweging: \( s_y = \frac{1}{2} g t^2 \). |
+| Hoe bereken je de valtijd van een voorwerp dat van een bepaalde hoogte valt?                  | Gebruik de verticale bewegingsformule: \( t = \sqrt{\frac{2 s_y}{g}} \). |
+| Wat is de horizontale afstand die een knikker aflegt als deze van een hoogte van 70 cm valt met een horizontale snelheid van 2,0 m/s? | De horizontale afstand is **0,76 meter**. |
+| Hoe lang duurt het voordat een knikker de grond raakt bij een hoogte van 70 cm?                | Het duurt **0,378 seconden**. |
+| Wat bepaalt de tijd dat een voorwerp in de lucht blijft bij een horizontale worp?              | De tijd is afhankelijk van de hoogte en de zwaartekrachtversnelling, niet van de horizontale snelheid. |
+| Wat is de relatie tussen de hoogte van de tafel en de tijd in de lucht bij een horizontale worp? | De tijd in de lucht is afhankelijk van de hoogte en wordt berekend met de valbewegingformule. |
+| Wat gebeurt er met de horizontale en verticale snelheid tijdens een horizontale worp?         | De horizontale snelheid is constant; de verticale snelheid neemt toe met de versnelling \( g \). |
+| Hoe verandert de horizontale afstand naarmate de tijd vordert in een horizontale worp?       | De horizontale afstand neemt toe lineair met de tijd. |

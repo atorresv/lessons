@@ -1,0 +1,39 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Satellieten en Hun Bewegingen**
+
+- **Satellietbaan**: Een satelliet draait in een **cirkelbaan** om de aarde.
+  - **Cirkelbeweging**: Vereist een **middelpuntzoekende kracht**, geleverd door de **zwaartekracht**.
+- **Middelpuntzoekende kracht**:
+  - **Formule**: De kracht die zorgt voor de cirkelbeweging is gelijk aan de **gravitatiekracht**.
+  - **Wet van Kepler**: Toepasbaar voor satellieten en planeten. 
+- **Geostationaire baan**:
+  - **Definitie**: Een baan waarbij de omlooptijd van de satelliet gelijk is aan de rotatietijd van de aarde.
+  - **Hoogte**: Voor een geostationaire satelliet moet de hoogte boven de aarde **35.790 km** zijn.
+  - **Berekening**:
+    - Gebruik de massa van de aarde, de straal van de aarde, en de rotatietijd van de aarde (24 uur = 86.400 seconden).
+    - **Formule**: Bepaal de straal van de baan met de gegeven parameters.
+- **Praktische toepassing**:
+  - **Communicatie**: Geostationaire satellieten blijven op dezelfde plek ten opzichte van de aarde, handig voor communicatie- en televisiesignalen.
+
+- **Samenvatting**:
+  - Satellietbanen zijn cirkelbewegingen waarbij de zwaartekracht de middelpuntzoekende kracht levert.
+  - De hoogte voor een geostationaire baan is essentieel voor constante communicatie.
+
+**Diagnostische vragen**
+
+| Vraag | Korte antwoord |
+|-------|----------------|
+| Wat is een satellietbaan? | Een **cirkelbaan** om de aarde. |
+| Welke kracht levert de middelpuntzoekende kracht in een satellietbaan? | De **zwaartekracht**. |
+| Wat is de wet van Kepler? | De **wet** die ook voor planeten geldt en kan worden toegepast om de hoogte van een **geostationaire baan** te berekenen. |
+| Wat is een geostationaire baan? | Een baan waarbij de omlooptijd van de satelliet gelijk is aan de **rotatietijd** van de aarde, waardoor de satelliet altijd op dezelfde plek boven de aarde lijkt te staan. |
+| Hoe hoog moet een satelliet zijn voor een geostationaire baan? | **35.790 km** boven het aardoppervlak. |
+| Welke gegevens zijn nodig om de hoogte van een geostationaire baan te berekenen? | De **massa** van de aarde, de **straal** van de aarde, en de **rotatietijd** van de aarde. |
+| Waarom blijven geostationaire satellieten op dezelfde plek ten opzichte van de aarde? | Omdat ze **exact dezelfde rotatietijd** hebben als de aarde, waardoor ze synchroon draaien met de aarde. |

@@ -1,0 +1,51 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van het dualistische karakter van licht en elektronen**
+
+- **Lichtgedrag**: Licht gedraagt zich soms als een **golf** en soms als een **deeltje**.
+  - **Golfkarakter**: Te zien bij experimenten zoals het tralie-experiment en interferentiepatronen.
+  - **Deeltjeskarakter**: Te zien bij het foto-elektrisch effect, waarbij licht uit kleine **energiepakketjes** (fotonen) bestaat.
+
+- **Dualistisch karakter van licht**: Licht heeft zowel een golf- als een deeltjeskarakter. Dit betekent:
+  - In sommige situaties moet je licht als een golf beschouwen.
+  - In andere situaties moet je licht als een deeltje beschouwen.
+
+- **Elektronen en dualisme**:
+  - **Dubbel-spleet experiment**: Elektronen kunnen interferentiepatronen vertonen, wat typisch is voor golven.
+  - **Individuele elektronen**: Als elektronen één voor één worden gestuurd, vertonen ze nog steeds interferentiepatronen, wat suggereert dat ze ook als golven kunnen worden beschouwd.
+
+- **Golflengte van elektronen**:
+  - De golflengte van een elektron kan worden berekend met de formule: **Golflengte = constante van Planck / (massa × snelheid)**.
+  - Bij **hoge snelheden** is de golflengte van een elektron **zeer klein**, wat het moeilijk maakt om het als golf voor te stellen.
+
+- **Kwantummechanica**:
+  - Kwantummechanica beschrijft de wereld in termen van **golven** in plaats van deeltjes.
+  - Het idee van **waarschijnlijkheden** en **golffuncties** betekent dat een deeltje niet altijd op een specifieke plaats kan worden gevonden totdat het wordt gemeten.
+  - **Causaliteit** en **oorzaak-gevolg** zijn niet intuïtief in de kwantummechanica; de uitkomsten zijn gebaseerd op waarschijnlijkheden en metingen.
+
+- **Conclusie**:
+  - Het dualistische karakter van licht en elektronen toont aan dat de klassieke opvattingen van deeltjes en golven niet volledig adequaat zijn.
+  - **Kwantummechanica** biedt een meer accurate beschrijving van de werkelijkheid door het gedrag van deeltjes als golven te beschouwen en de waarschijnlijkheden te berekenen.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                           | **Antwoord**                                           |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Wat is het dualistische karakter van licht?                                                        | Licht kan zich zowel als een **golf** als een **deeltje** gedragen. |
+| Noem een experiment waarbij licht zich gedraagt als een golf.                                      | Het **tralie-experiment** waarbij interferentiepatronen worden waargenomen. |
+| Wat is het foto-elektrisch effect en hoe verklaart dit het deeltjeskarakter van licht?              | Het foto-elektrisch effect toont aan dat licht uit **energiepakketjes** (fotonen) bestaat die elektronen uit een materiaal kunnen losmaken. |
+| Hoe wordt het dualistische karakter van elektronen aangetoond?                                     | Door het **dubbel-spleet experiment** waarbij elektronen interferentiepatronen vertonen. |
+| Wat gebeurt er als je een elektron één voor één door de spleten stuurt in het dubbel-spleet experiment? | Het elektron vertoont nog steeds een interferentiepatroon, wat suggereert dat het zich ook als een golf gedraagt. |
+| Hoe kan de golflengte van een elektron worden berekend?                                             | Met de formule: **Golflengte = constante van Planck / (massa × snelheid)**. |
+| Waarom is de golflengte van een elektron bij hoge snelheden erg klein?                            | Omdat bij hoge snelheden de **golflengte** van een elektron **zeer klein** is, wat het moeilijk maakt om als golf voor te stellen. |
+| Wat is het belangrijkste verschil tussen klassieke mechanica en kwantummechanica?                  | Klassieke mechanica beschrijft de wereld in termen van **deeltjes** en **krachten**, terwijl kwantummechanica beschrijft in termen van **golven** en **waarschijnlijkheden**. |
+| Wat betekent het om de causaliteit los te laten in de context van kwantummechanica?                | Het betekent dat **oorzaak-gevolgrelaties** niet intuïtief zijn en niet altijd op een normale manier kunnen worden voorgesteld. |
+| Wat is de rol van de **golffunctie** in de kwantummechanica?                                        | De golffunctie geeft de **waarschijnlijkheid** aan om een deeltje op een bepaalde plaats te vinden. |
+
+

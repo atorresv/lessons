@@ -1,0 +1,26 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Belangrijke Feiten over Lichtsnelheid**
+
+- **Lichtsnelheid**: **2,979 x 10^8 m/s**, aangeduid met de hoofdletter **c** in formules.
+- **Constante snelheid**: De lichtsnelheid geldt voor alle soorten elektromagnetische straling (gamma-stralen, radio, UV-stralen, etc.).
+- **Onafhankelijk van bron**: De snelheid van het licht is **voor alle waarnemers gelijk**, ongeacht of de lichtbron naar je toe komt of zich van je af beweegt.
+- **Maximale snelheid**: **Lichtsnelheid is de hoogste snelheid** die mogelijk is in de natuur; het is onmogelijk om sneller te bewegen dan het licht.
+
+Samengevat: De lichtsnelheid is constant en onafhankelijk van de beweging van de bron, en het is de maximale snelheid die in de natuur kan worden bereikt.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| Wat is de lichtsnelheid in m/s? | **2,979 x 10^8 m/s** |
+| Hoe wordt de lichtsnelheid aangeduid in formules? | Met de hoofdletter **c** |
+| Geldt de lichtsnelheid voor alle soorten elektromagnetische straling? | Ja, de lichtsnelheid geldt voor **alle soorten elektromagnetische straling** (bijv. gamma-stralen, radio, UV-stralen). |
+| Is de lichtsnelheid afhankelijk van de beweging van de lichtbron? | Nee, de lichtsnelheid is **voor alle waarnemers gelijk**, ongeacht de beweging van de lichtbron. |
+| Wat is de maximale snelheid die mogelijk is in de natuur? | **Lichtsnelheid** is de hoogste snelheid die mogelijk is in de natuur; het is onmogelijk om sneller te bewegen dan het licht. |

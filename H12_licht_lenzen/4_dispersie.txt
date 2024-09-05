@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Dispersie en Lichtbreking**
+
+- **Lichtstralen** die door **transparante voorwerpen** vallen kunnen **gebroken** worden.
+  - Dit hangt af van de **invalshoek** en de **brekingsindex** van het materiaal.
+  - De **brekingsindex** geeft aan hoe goed licht wordt gebroken.
+
+- **Brekingsindex** varieert met **kleur** van licht.
+  - Voor **Flintglas** verschillen de brekingsindexen voor **rood**, **geel**, **blauw**, en **violet** licht.
+  - Dit verschijnsel heet **dispersie**.
+
+- **Dispersie** betekent dat verschillende kleuren licht op verschillende manieren worden gebroken.
+  - **Wit licht** wordt opgesplitst in meerdere kleuren bij **dispersie**.
+
+- **Prisma** wordt gebruikt om **licht** te onderzoeken en het **kleurenspectrum** zichtbaar te maken.
+  - Licht dat door een prisma valt wordt opgesplitst in **verschillende kleuren**.
+
+- **Regenboog** ontstaat door **zonlicht** dat op **regendruppels** valt.
+  - Regendruppels breken licht door **dispersie**, waarbij verschillende kleuren onder verschillende hoeken worden gebroken.
+
+- **Samenvatting**:
+  - **Dispersie**: Eigenschap waarbij de brekingsindex verschilt voor verschillende kleuren.
+  - Voorbeelden van dispersie: **prisma** en **regenboog**.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                   |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Hoe worden lichtstralen gebroken bij een transparant voorwerp?             | Lichtstralen worden gebroken afhankelijk van de invalshoek en de brekingsindex van het materiaal. |
+| Wat zegt de brekingsindex over het materiaal?                              | De brekingsindex geeft aan hoe goed het materiaal licht kan breken.                            |
+| Wat is dispersie?                                                           | Dispersie is het verschijnsel waarbij verschillende kleuren licht op verschillende manieren worden gebroken. |
+| Hoe verschilt de brekingsindex voor verschillende kleuren licht?           | De brekingsindex varieert met kleur, wat betekent dat verschillende kleuren licht verschillend worden gebroken. |
+| Wat gebeurt er met wit licht als het door een prisma valt?                  | Wit licht wordt opgesplitst in meerdere kleuren door dispersie.                                |
+| Hoe ontstaat een regenboog?                                                | Een regenboog ontstaat doordat zonlicht breekt en dispergeert door regendruppels.              |
+| Noem twee voorbeelden van dispersie in de praktijk.                         | Prisma en regenboog.                                                                          |
+| Hoe wordt een prisma gebruikt bij het bestuderen van licht?                 | Een prisma wordt gebruikt om het kleurenspectrum van licht zichtbaar te maken door dispersie.   |

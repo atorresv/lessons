@@ -1,0 +1,38 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Lengtecontractie in de Speciale Relativiteitstheorie**
+
+- **Lengtecontractie**: 
+  - Een vreemd verschijnsel in de speciale relativiteitstheorie.
+  - **Bewegende voorwerpen** lijken korter in de lengterichting wanneer waargenomen door een stilstaande waarnemer.
+
+- **Formule voor lengtecontractie**:
+  - De lengte die een stilstaande waarnemer waarneemt is **rustlengte** * \( \sqrt{1 - \frac{v^2}{c^2}} \).
+  - **v** = snelheid van het bewegende voorwerp.
+  - **c** = lichtsnelheid.
+  - Hoe groter de snelheid van het voorwerp, hoe groter de **contractie**.
+
+- **Voorbeeld**:
+  - Een raket met een **rustlengte** van 12,0 meter beweegt met een snelheid van een derde van de lichtsnelheid.
+  - Voor een stilstaande waarnemer lijkt de raket **11,3 meter** lang.
+
+- **Conclusie**:
+  - Lengte is relatief volgens de relativiteitstheorie.
+  - Bewegende voorwerpen zijn korter voor stilstaande waarnemers, maar blijven de **zelfde lengte** voor de waarnemers die meebewegen.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is lengtecontractie in de speciale relativiteitstheorie? | Lengtecontractie is het fenomeen waarbij een bewegend voorwerp korter lijkt voor een stilstaande waarnemer dan de rustlengte van het voorwerp. |
+| Welke formule gebruik je om de lengtecontractie te berekenen? | De formule is: Lengte = rustlengte * \( \sqrt{1 - \frac{v^2}{c^2}} \), waarbij **v** de snelheid van het voorwerp is en **c** de lichtsnelheid. |
+| Hoe verandert de lengte van een raket van 12 meter die beweegt met een snelheid van een derde van de lichtsnelheid volgens een stilstaande waarnemer? | De lengte van de raket lijkt 11,3 meter te zijn voor een stilstaande waarnemer. |
+| Wat is de relatie tussen snelheid en lengtecontractie? | Hoe groter de snelheid van het bewegende voorwerp, hoe groter de lengtecontractie (d.w.z. hoe korter het voorwerp lijkt). |
+| Hoe wordt de lengte van een voorwerp ervaren door een waarnemer die meebeweegt met het voorwerp? | Voor een waarnemer die meebeweegt met het voorwerp, verandert de lengte niet; het blijft gelijk aan de rustlengte van het voorwerp. |
+

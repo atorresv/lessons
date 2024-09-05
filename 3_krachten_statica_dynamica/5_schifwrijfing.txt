@@ -1,0 +1,49 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Schuifweerstand en Schuifwrijving**
+
+- **Schuifweerstand** is de kracht die je ondervindt bij het verschuiven van een voorwerp over een vlak.
+  - **Schuifwrijvingskracht** grijpt aan op het contact tussen het voorwerp en het vlak.
+  - Twee situaties voor schuifwrijving: **stilstaand** en **bewegend** voorwerp.
+
+- **Stilstaand Voorwerp**:
+  - De schuifwrijvingskracht is gelijk aan de kracht waarmee je tegen het voorwerp duwt.
+  - De kracht compenseert de duwkracht totdat de maximale schuifwrijvingskracht bereikt is.
+  - Bij overschrijding van de maximale kracht begint het voorwerp te bewegen.
+
+- **Bewegend Voorwerp**:
+  - De schuifwrijvingskracht is constant en gelijk aan de maximale schuifwrijvingskracht bij stilstand.
+  - Onafhankelijk van de kracht die je uitoefent; kan versnellen of vertragen afhankelijk van andere krachten.
+
+- **Afhankelijkheid**:
+  - Schuifwrijving hangt af van de **normaalkracht** die het vlak op het voorwerp uitoefent.
+  - Schuifwrijving is recht evenredig met de normaalkracht.
+  - Voor een zwaarder voorwerp is de schuifwrijving groter dan voor een lichter voorwerp.
+
+- **Opmerking bij Hellingen**:
+  - Op een helling is de normaalkracht gelijk aan de component van de zwaartekracht loodrecht op het vlak.
+  - Je moet de zwaartekracht ontbinden in componenten om de schuifwrijving correct te berekenen.
+
+- **Samenvatting**:
+  - **Stilstaand**: Schuifwrijvingskracht = duwkracht (tegenovergestelde richting).
+  - **Bewegend**: Schuifwrijvingskracht is constant en onafhankelijk van de uitgeoefende kracht.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is schuifweerstand? | Schuifweerstand is de kracht die je ondervindt bij het verschuiven van een voorwerp over een vlak. |
+| Welke twee situaties zijn er voor schuifwrijving? | Stilstaand voorwerp en bewegend voorwerp. |
+| Hoe gedraagt de schuifwrijvingskracht zich bij een stilstaand voorwerp? | De schuifwrijvingskracht is gelijk aan de kracht waarmee je tegen het voorwerp duwt, totdat de maximale schuifwrijvingskracht wordt bereikt. |
+| Wat gebeurt er als de kracht waarmee je tegen een stilstaand voorwerp duwt groter is dan de maximale schuifwrijvingskracht? | Het voorwerp begint te bewegen. |
+| Hoe gedraagt de schuifwrijvingskracht zich bij een bewegend voorwerp? | De schuifwrijvingskracht is constant en gelijk aan de maximale schuifwrijvingskracht bij stilstand, en is onafhankelijk van de kracht die je uitoefent. |
+| Waar hangt de schuifwrijving van af? | De schuifwrijving hangt af van de normaalkracht die het vlak op het voorwerp uitoefent. |
+| Wat gebeurt er met de schuifwrijving als een voorwerp zwaarder is? | De schuifwrijving is groter voor een zwaarder voorwerp. |
+| Hoe wordt de normaalkracht op een helling beïnvloed? | De normaalkracht is gelijk aan de component van de zwaartekracht die loodrecht op het vlak staat. |
+| Hoe moet je de zwaartekracht ontbinden bij een helling? | Je moet de zwaartekracht ontbinden in componenten die loodrecht en langs de helling staan. |

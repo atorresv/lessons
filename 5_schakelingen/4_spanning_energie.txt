@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Waarom Stroom Door een Lampje Gaat**
+
+- **Elektronenbeweging**:
+  - Elektronen bewegen door een lampje omdat ze van een **hoge energie** naar een **lage energie** willen gaan.
+  - Dit is vergelijkbaar met een **balletje** dat van een hoge heuvel naar een lagere positie rolt.
+
+- **Batterijwerking**:
+  - Een batterij creëert een **spanning** door een **hoog-potentieel** en een **laag-potentieel** te hebben.
+  - Elektronen bewegen van het hoge potentieel naar het lage potentieel door de batterij.
+
+- **Spanning en Energie**:
+  - Elektrische **spanning** is gelijk aan elektrische energie per eenheid lading.
+  - Spanning geeft het **energieverschil** tussen twee punten aan.
+  - **Spanning** en **energie** zijn verwant, waarbij spanning het verschil in energie per ladingseenheid vertegenwoordigt.
+
+- **Formule**:
+  - Spanning = Elektrische energie / Lading.
+
+- **Samenvatting**:
+  - Elektronen verplaatsen zich van een plek met veel elektrische energie naar een plek met weinig elektrische energie.
+  - In elektrische schakelingen wordt spanning gebruikt om dit verschil in energie aan te geven en te meten.
+
+
+**Diagnostische vragen**
+
+| **Vraag** | **Korte Antwoord** |
+|-----------|---------------------|
+| Waarom bewegen elektronen door een lampje? | Elektronen bewegen van een plek met hoge energie naar een plek met lage energie. |
+| Wat doet een batterij met betrekking tot elektrische potentiaal? | Een batterij creëert een verschil in potentieel door een hoge en een lage spanning te hebben. |
+| Wat is de relatie tussen elektrische spanning en energie? | Spanning is gelijk aan elektrische energie per eenheid lading. |
+| Hoe kun je het energieverschil tussen twee punten in een elektrische schakeling beschrijven? | Het energieverschil wordt weergegeven door de spanning. |
+| Wat betekent het als een batterij een spanning van 1,5 volt heeft? | Het betekent dat er een energieverschil van 1,5 volt is tussen de twee punten van de batterij. |
+| Hoe wordt spanning vaak weergegeven in plaats van energie? | Spanning wordt gebruikt om het energieverschil per eenheid lading te beschrijven. |

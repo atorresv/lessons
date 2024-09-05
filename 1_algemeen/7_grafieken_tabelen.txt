@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Informatie over Tabellen en Grafieken voor Onderzoek**
+
+- **Onderzoek**: Vaak wordt niet één, maar een **serie metingen** uitgevoerd.
+  - Om een overzicht te behouden, worden **tabellen** en **grafieken** gebruikt.
+
+- **Voorbeeld**:
+  - Onderzoek naar het **verband** tussen de lengte van een slinger en de **slingertijd**.
+  - Metingen worden vastgelegd in een **tabel**:
+    - **Onafhankelijke variabele** (lengte) staat vaak links.
+    - **Afhankelijke variabele** (slingertijd) staat rechts.
+
+- **Grafieken Maken**:
+  - Gebruik **ruitjespapier** met **x-as** (onafhankelijke variabele) en **y-as** (afhankelijke variabele).
+  - Kies **ronde getallen** voor de assen om een overzichtelijke grafiek te maken:
+    - Bijvoorbeeld, **lengte** van 0 tot 1,50 meter en **slingertijd** van 0 tot 2,5 seconden.
+
+- **Punten in de Grafiek**:
+  - Zet de **gemeten punten** op de grafiek.
+  - Trek een **vloeiende lijn** door de punten:
+    - Zorg ervoor dat de lijn **vloeiend** is en niet noodzakelijk door elk punt gaat vanwege **meetfouten**.
+
+- **Tips voor Grafieken**:
+  - Zorg dat je de grootste getallen op de assen past.
+  - Geef de assen een duidelijke **titel**.
+  - Vermeld **eenheid** (bijv. meter, seconden).
+
+- **Computergebruik**:
+  - Tegenwoordig worden grafieken vaak gemaakt met **Excel**, een veelgebruikt programma voor dit doel.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte antwoord                                                                                              |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Wat is het nut van tabellen en grafieken bij het onderzoeken?         | Ze helpen om een overzicht te behouden van een serie metingen.                                               |
+| Hoe worden de onafhankelijke en afhankelijke variabelen in een tabel gepresenteerd? | De onafhankelijke variabele staat vaak links en de afhankelijke variabele rechts.                           |
+| Wat moet je doen voordat je punten in een grafiek zet?                | Zorg ervoor dat de gegevens in dezelfde eenheid zijn en kies ronde getallen voor de assen.                  |
+| Hoe bepaal je de schaal van de assen op een grafiek?                  | Kies schaalverdelingen die de grootste en kleinste gemeten waarden dekken en gebruik ronde getallen.       |
+| Hoe teken je een lijn door de punten in een grafiek?                  | Trek een vloeiende lijn die de algehele trend volgt, zonder door elk punt te gaan, om meetfouten te compenseren. |
+| Wat is de functie van de titels en eenheden op de assen van een grafiek? | Ze geven aan welke variabelen worden weergegeven en in welke eenheden.                                     |
+| Welk programma wordt vaak gebruikt voor het maken van grafieken?      | **Excel** wordt vaak gebruikt om grafieken te maken.                                                        |

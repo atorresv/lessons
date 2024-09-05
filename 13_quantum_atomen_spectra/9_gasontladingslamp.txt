@@ -1,0 +1,35 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Gasontladingslampen en hun werking**
+
+- **Gasontladingslampen**: Bekend als TL-buizen of spaarlampen.
+- **Constructie**: Luchtdichte buis met gas onder lage druk.
+- **Hoogspanning**: Vereist om een elektrische stroom te laten lopen.
+- **Ionisatie**: Hoge spanning ioniseert het gas, waardoor elektronen worden vrijgemaakt.
+- **Elektronenbeweging**: Vrijgemaakte elektronen bewegen snel en botsen met andere atomen.
+- **Kanaal van elektronen**: Door botsingen wordt het gas geleid.
+- **Aangeslagen atomen**: Atomen worden aangeslagen en hun elektronen gaan naar hogere toestanden.
+- **Terugvallen naar grondtoestand**: Elektronen vallen terug naar lagere energieniveaus, wat gepaard gaat met het uitzenden van licht.
+- **Emissielijnen**: Lichtuitstraling resulteert in een spectrum van emissielijnen, wat bijdraagt aan de witte kleur van TL-licht.
+- **Fluorescentie**: Binnenkant van de buis bevat een fluorescerende stof die extra licht uitzendt, resulterend in een klein spectrum van kleuren.
+
+**Samenvatting**: Gasontlading in TL-buizen leidt tot ionisatie en elektronenbeweging, wat resulteert in lichtuitstraling met specifieke golflengtes. Het gecombineerde licht van emissielijnen en fluorescerende stoffen maakt het licht wit voor het oog.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                                      | **Antwoord**                                                                                                    |
+|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Wat is een gasontladingslamp en noem twee voorbeelden?                                          | Een gasontladingslamp is een lamp waarbij gas onder lage druk ioniseert om licht uit te zenden. Voorbeelden zijn TL-buizen en spaarlampen. |
+| Wat gebeurt er als je een hoge spanning op een gas in een gasontladingslamp zet?               | Elektronen worden vrijgemaakt en bewegen snel, ioniseren het gas, waardoor het gas begint te geleiden.     |
+| Hoe wordt een elektrisch geleidend kanaal van elektronen in een gasontladingslamp gevormd?    | Door botsingen tussen snel bewegende elektronen en atomen worden meer elektronen vrijgemaakt, waardoor een geleidend kanaal ontstaat. |
+| Wat gebeurt er met elektronen die in een hogere toestand terechtkomen in een gasontladingslamp? | Ze vallen terug naar de grondtoestand en zenden licht uit tijdens hun overgang.                           |
+| Wat bepaalt de kleur van het licht dat uit een gasontladingslamp komt?                         | De kleur van het licht wordt bepaald door de specifieke golflengtes van het licht die worden uitgezonden bij de overgang van elektronen naar lagere toestanden. |
+| Waarom lijkt het licht uit een TL-buis wit voor het oog?                                        | Het licht uit de TL-buis is een mengsel van verschillende kleuren (emissielijnen) die samen wit licht vormen. |
+| Wat doet de fluorescerende stof aan de binnenkant van een TL-buis?                              | De fluorescerende stof zet UV-licht om in zichtbaar licht, wat bijdraagt aan het spectrum van kleuren dat uit de TL-buis komt. |
+| Wat is het effect van ionisatie in een gasontladingslamp?                                       | Ionisatie leidt tot het ontstaan van een elektrisch geleidend kanaal en de uitzending van licht door elektronenovergangen. |

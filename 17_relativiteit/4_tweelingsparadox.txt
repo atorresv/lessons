@@ -1,0 +1,35 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **De Tweelingparadox en Tijdsdilatatie**
+
+- **Tijdsdilatatie**: In de speciale relativiteitstheorie, verstrijkt de tijd langzamer voor een bewegend voorwerp in vergelijking met een stilstaand voorwerp.
+- **Voorbeeld**: Twee tweelingbroers, waarbij één broeder 50 jaar weggaat in een raket met een snelheid van ongeveer tweederde van de lichtsnelheid.
+  - **Thuisblijver**: Wordt veel ouder in de 50 jaar die verstrijken.
+  - **Reiziger**: Veroudert minder, slechts 37 jaar, door tijdsdilatatie.
+- **Formule voor tijdsdilatatie**: 
+  - **tb**: Tijd voor de thuisblijver.
+  - **tp**: Tijd voor de reiziger.
+  - **v**: Snelheid van de raket.
+  - **c**: Lichtsnelheid.
+  - **Formule**: \( tp = \frac{tb}{\sqrt{1 - \frac{v^2}{c^2}}} \)
+  - Bij invoeren van \( v = \frac{2}{3}c \), blijkt dat 50 jaar thuis 37 jaar in de raket betekent.
+- **Tweelingparadox**: Dit fenomeen waarbij de reiziger jonger is bij terugkomst dan de thuisblijver door tijdsdilatatie.
+
+**Samenvatting**: Tijd is relatief volgens de speciale relativiteitstheorie. Een snel bewegend voorwerp ervaart minder tijdsverloop dan een stilstaand voorwerp. Dit resulteert in de tweelingparadox, waarbij de reiziger minder veroudert dan de thuisblijver.
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Korte Antwoord                                                                                                          |
+|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Wat is tijdsdilatatie in de context van de speciale relativiteitstheorie? | Tijdsdilatatie betekent dat de tijd langzamer verstrijkt voor een bewegend voorwerp in vergelijking met een stilstaand voorwerp. |
+| Wat gebeurt er met de tijd voor een reiziger in een raket die met tweederde van de lichtsnelheid beweegt, vergeleken met een thuisblijver? | De tijd verstrijkt langzamer voor de reiziger in de raket. Na 50 jaar voor de thuisblijver, veroudert de reiziger slechts 37 jaar. |
+| Wat is de tweelingparadox?                                             | De tweelingparadox is het fenomeen waarbij de reiziger in een raket jonger terugkomt dan de thuisblijver door tijdsdilatatie. |
+| Welke formule wordt gebruikt om tijdsdilatatie te berekenen?          | De formule is \( tp = \frac{tb}{\sqrt{1 - \frac{v^2}{c^2}}} \), waarbij \( tp \) de tijd voor de reiziger is, \( tb \) de tijd voor de thuisblijver, \( v \) de snelheid van de raket, en \( c \) de lichtsnelheid. |
+| Hoeveel tijd verstrijkt er voor de reiziger in de raket als de thuisblijver 50 jaar ouder wordt? | Er verstrijkt 37 jaar voor de reiziger in de raket.                                                                 |
+

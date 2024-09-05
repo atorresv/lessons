@@ -1,0 +1,40 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Effecten van serie-aansluiting in een schakeling**
+
+  - **In serie**: Componenten zijn **achter elkaar** aangesloten, zoals kralen aan een snoer.
+  - **Stroom**: Dezelfde stroom loopt door alle componenten in serie; de stroomsterkte is overal **gelijk**.
+  - **Spanning**: Verdeelt zich over de weerstanden; de totale spanning is de **batterijspanning**.
+  - **Deelspanningen**: De spanning over elke weerstand wordt **verdeeld** en optellen van alle deelspanningen geeft de **batterijspanning**.
+  - **Voorbeeld**:
+    - Drie weerstanden van 6 Ω, 800 Ω, en 1 kΩ.
+    - Totale stroom is 5,0 mA.
+    - Spanningen worden berekend met de wet van Ohm: \( U = I \times R \).
+      - Spanning over 6 Ω: 3,0 V.
+      - Spanning over 800 Ω: 4,0 V.
+      - Spanning over 1 kΩ: 5,0 V.
+    - Totale spanning (batterijspanning): 12 V.
+  - **Samenvatting**: 
+    - Bij een **serieschakeling** is de stroom gelijk door alle componenten.
+    - De spanning verdeelt zich over de weerstanden.
+    - De **wet van Ohm** geldt voor elke weerstand en de batterijspanning is de som van alle deelspanningen.
+
+**Diagnostische vragen**
+
+| Vraag                                                    | Kort Antwoord                                          |
+|----------------------------------------------------------|--------------------------------------------------------|
+| Wat betekent het als componenten in een schakeling **in serie** zijn aangesloten? | Ze staan achter elkaar zoals kralen aan een snoer.    |
+| Wat is het effect van een serieschakeling op de **stroom**? | De stroom is **gelijk** door alle componenten.        |
+| Wat gebeurt er met de **spanning** in een serieschakeling? | De spanning verdeelt zich over de weerstanden.         |
+| Hoe bereken je de **deelspanningen** in een serieschakeling? | De totale spanning is de som van de spanningen over de weerstanden. |
+| Hoe bereken je de spanning over een weerstand in een serieschakeling? | Gebruik de wet van Ohm: \( U = I \times R \).         |
+| Wat is het effect van de weerstand op de spanning in een serieschakeling? | Hoe groter de weerstand, hoe groter de spanning over die weerstand. |
+| Hoe bepaal je de **batterijspanning** als je de spanningen over de weerstanden weet? | De batterijspanning is de som van alle deelspanningen. |
+| Geef een voorbeeld van een schakeling met weerstanden van 6 Ω, 800 Ω, en 1 kΩ. Wat is de batterijspanning als de stroom 5,0 mA is? | Spanningen: 3,0 V, 4,0 V, 5,0 V. Batterijspanning: 12 V. |
+

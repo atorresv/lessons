@@ -1,0 +1,53 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Warmte-Evenwicht en Warmtetransport
+
+- **Warmte-evenwicht**: Situatie waarbij de hoeveelheid **energie** die binnenkomt gelijk is aan de hoeveelheid energie die eruit gaat, waardoor de temperatuur constant blijft.
+  - **Warmte toevoeren**: Verhoogt de temperatuur.
+  - **Warmte afvoeren**: Verlaagt de temperatuur.
+
+- Om temperatuur constant te houden:
+  - Zorg ervoor dat er **geen** warmtetransport naar of van het voorwerp plaatsvindt, wat zelden het geval is.
+  - Of zorg ervoor dat de **hoeveelheid warmte** die binnenkomt gelijk is aan de hoeveelheid warmte die eruit gaat.
+
+- **Warmtebronnen**:
+  - Verwarming
+  - **Straling**: Zonlicht en lichaamstemperatuur van mensen in het huis.
+
+- **Manieren van warmtetransport**:
+  - **Tocht**: Warme lucht kan ontsnappen, wat leidt tot warmteverlies.
+  - **Geleiding**: Warmteoverdracht door muren, afhankelijk van het temperatuurverschil tussen binnen en buiten.
+  - **Straling**: Het huis straalt infraroodstraling uit, wat leidt tot warmteverlies.
+
+- **Voorbeelden van warmteverlies**:
+  - **Uitademen**: Verlies van warmte door warme lucht.
+  - **Urineren**: Verlies van warmte door lichaamsvloeistoffen.
+  - **Verdamping**: Verlies van warmte door zweet, waarbij de verdamping energie kost.
+
+- **Warmte-evenwicht van de aarde**:
+  - De aarde straalt warmte uit via **straling** (infraroodstraling) in de ruimte.
+  - **Broeikaseffect**: Broeikasgassen in de atmosfeer houden infraroodstraling vast, wat invloed heeft op de warmteoverdracht.
+
+- **Samenvatting**: Warmte-evenwicht betekent dat de energie-invoer gelijk is aan de energie-uitvoer. Warmtetransport gebeurt door stroming, straling, en geleiding. Om temperatuur constant te houden, moet je rekening houden met deze transportmechanismen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                  | Korte antwoord                                                                                           |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Wat betekent warmte-evenwicht?                                                                        | Het is de situatie waarbij de hoeveelheid energie die binnenkomt gelijk is aan de hoeveelheid energie die eruit gaat, waardoor de temperatuur constant blijft. |
+| Hoe kun je de temperatuur constant houden?                                                             | Door ervoor te zorgen dat de hoeveelheid warmte die binnenkomt gelijk is aan de hoeveelheid warmte die eruit gaat. |
+| Welke bronnen dragen bij aan de warmte die in een huis komt?                                          | Verwarming, zonlicht, en de lichaamstemperatuur van mensen in het huis.                                |
+| Wat zijn de drie manieren van warmtetransport?                                                         | Stroming, straling, en geleiding.                                                                       |
+| Hoe gaat warmteverlies door **tocht** te werk?                                                         | Warme lucht kan ontsnappen, wat leidt tot warmteverlies.                                                |
+| Hoe beïnvloedt **geleiding** het warmteverlies?                                                         | Het gebeurt door de muren heen; hoe groter het temperatuurverschil, hoe meer geleiding.                 |
+| Wat is een voorbeeld van warmteverlies door **straling**?                                              | Het huis straalt infraroodstraling uit, wat leidt tot warmteverlies.                                    |
+| Hoe verlies je warmte door **verdamping**?                                                             | Door zweet dat verdampt, wat energie en dus warmte kost.                                                |
+| Wat is het broeikaseffect en hoe beïnvloedt het de warmteoverdracht van de aarde?                      | Het is het vasthouden van infraroodstraling door broeikasgassen in de atmosfeer, wat invloed heeft op de warmteoverdracht. |
+| Hoe verschilt de warmteoverdracht in de ruimte van die op aarde?                                        | In de ruimte gebeurt alleen warmtetransport door straling, omdat er geen stroming of geleiding mogelijk is. |
+

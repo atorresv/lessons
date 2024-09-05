@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **De Wet van Kirchhoff en Spanningen**
+
+- **Wet van Kirchhoff**:
+  - Voor elke **gesloten kring** binnen een schakeling geldt: de som van de spanningen is **0**.
+
+- **Spanningen over componenten**:
+  - **Stroomrichting** en **pijlrichting** bepalen of de spanning positief of negatief is.
+  - **Stroomrichting gelijk aan pijlrichting**: spanning is **positief**.
+  - **Stroomrichting tegengesteld aan pijlrichting**: spanning is **negatief**.
+
+- **Batterijen**:
+  - **Plus naar min**: spanning is **positief**.
+  - **Min naar plus**: spanning is **negatief**.
+
+- **Voorbeeld**:
+  - **Kijkrichting** en **stroomrichting** bepalen hoe spanningen worden geteld.
+  - In een kring: som van spanningen wordt **0**.
+  - Bij een batterij met **+9 volt** en andere componenten met negatieve spanningen: som van alle spanningen is 0 volt.
+
+- **Berekeningen**:
+  - Als spanningen over componenten bekend zijn, kan de spanning over een onbekend component worden berekend.
+  - Bijvoorbeeld, als de spanningen over andere componenten in een kring zijn gegeven, kan de spanning over een lampje worden berekend door de som van de bekende spanningen af te trekken van 0 volt.
+
+- **Samenvatting**:
+  - **Wet van Kirchhoff voor spanning**: Binnen een kring is de som van alle spanningen nul.
+  - Bij het toepassen van de wet moet je goed letten op of de spanningen positief of negatief moeten worden geteld.
+  - **Wet van Kirchhoff voor stromen**: Er is ook een wet die helpt bij het berekenen van stromen in een schakeling.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                  |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Wat zegt de wet van Kirchhoff over de spanningen in een gesloten kring?    | De som van de spanningen in een gesloten kring is **0**.                                      |
+| Hoe bepaal je of de spanning over een component positief of negatief is?   | Als de stroomrichting dezelfde is als de pijlrichting, is de spanning **positief**. Als de stroomrichting tegengesteld is aan de pijlrichting, is de spanning **negatief**. |
+| Hoe wordt de spanning over een batterij bepaald volgens de wet van Kirchhoff? | Als de kijkrichting van plus naar min loopt, is de spanning **positief**. Van min naar plus is de spanning **negatief**.  |
+| Wat is de som van de spanningen in een gesloten kring volgens een voorbeeld in de tekst? | De som van de spanningen is **0 volt**.                                                      |
+| Hoe bereken je de spanning over een onbekend component in een kring?        | Trek de bekende spanningen in de kring af van 0 volt om de spanning over het onbekende component te vinden. |
+| Wat is de wet van Kirchhoff voor stromen?                                   | De wet van Kirchhoff voor stromen stelt dat de som van alle stromen die een knooppunt binnenkomen gelijk is aan de som van alle stromen die het knooppunt verlaten. |
+

@@ -1,0 +1,12 @@
+2_MODULATIE
+*  Draaggolf
+*  Signaalgolf
+*  Moduleren/demoduleren
+
+
+waneer zender signal zend -> bepaalde frequentie
+draaggolf 100kHz en hogher
+signal verstopen in draadgolf
+moduleren: omzeten van sinaal in draadgolf
+demoduleren: voor ontvanger
+door midden van modulatie word signaal verstop in de draaggolf

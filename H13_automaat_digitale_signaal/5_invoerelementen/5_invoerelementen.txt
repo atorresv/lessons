@@ -1,0 +1,21 @@
+5_INVOERELEMENTEN
+*  Welke invoerelementen?
+*  Sensor
+*  Geluidssensor
+*  Drukschakelaar
+*  Pulsgenerator
+
+
+invoer, verwerking, uitvoer
+
+invoer: aan de linkerhand
+sensor: meet iets, gewoon afsluten
+geluid sensor: microfoon, geluid nivew laag 0
+drukknop: niet ingedruk 0, ingedruk 1, moet houden ingedruk
+pulsgenerator: 1 0 pulsen, kan regel de frequentie
+
+invoer elementen
+sensor
+geluidsensor
+drukknop
+pulsenerator

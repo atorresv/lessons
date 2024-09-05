@@ -1,0 +1,46 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van de Spiegelwet en Spiegelbeelden**
+
+- **Spiegelwet**:
+  - Bij een **spiegelend oppervlak** wordt een lichtstraal weerkaatst.
+  - De **hoek van inval** (hoek tussen de invallende lichtstraal en de normaal) is gelijk aan de **hoek van terugkaatsing**.
+  - De **normaal** is een lijn die loodrecht op het oppervlak staat en wordt gebruikt om hoeken te meten.
+
+- **Weerkaatsing**:
+  - Bij een **gladde, spiegelende oppervlakte** worden lichtstralen volgens de spiegelwet weerkaatst.
+  - Bij een **onregelmatig oppervlak** worden lichtstralen diffuus weerkaatst.
+
+- **Paraboolspiegel**:
+  - Een **paraboolspiegel** heeft de vorm van een parabool en kan evenwijdige lichtstralen in één **brandpunt** laten samenkomen.
+  - Dit **brandpunt** ligt op de as van de parabool en is een bijzonder kenmerk van paraboolspiegels.
+
+- **Spiegelbeelden**:
+  - Het **spiegelbeeld** van een voorwerp in een spiegel lijkt op een omgekeerd beeld van het voorwerp.
+  - De afstand van het voorwerp tot de spiegel is gelijk aan de afstand van het spiegelbeeld tot de spiegel.
+  - Het **spiegelbeeld** kan worden gebruikt om de route van lichtstralen te reconstrueren, door te veronderstellen dat het licht lijkt te komen van het spiegelbeeld.
+
+- **Samenvatting**:
+  - **Spiegeling** vindt plaats bij metalen oppervlakken of spiegels volgens de spiegelwet.
+  - De hoeken van inval en terugkaatsing zijn gelijk en worden gemeten ten opzichte van de normaal.
+  - Elk voorwerp heeft een spiegelbeeld in een spiegel, dat kan helpen bij het begrijpen van de richting van lichtstralen.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                       |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Wat zegt de spiegelwet over de hoek van terugkaatsing?                    | De hoek van terugkaatsing is gelijk aan de hoek van inval.                                         |
+| Hoe wordt de normaal gedefinieerd bij spiegeling?                         | De normaal is een lijn die loodrecht op het spiegeloppervlak staat.                                |
+| Wat gebeurt er met een lichtstraal als deze op een spiegelend oppervlak valt? | De lichtstraal wordt weerkaatst volgens de spiegelwet.                                            |
+| Hoe wordt een lichtstraal weerkaatst bij een onregelmatig oppervlak?       | Bij een onregelmatig oppervlak wordt de lichtstraal diffuus weerkaatst.                            |
+| Wat is het kenmerk van een paraboolspiegel?                              | Een paraboolspiegel laat evenwijdige lichtstralen samenkomen in één brandpunt.                   |
+| Waar ligt het brandpunt van een paraboolspiegel?                         | Het brandpunt ligt op de as van de parabool.                                                      |
+| Hoe kan je het spiegelbeeld van een voorwerp beschrijven?                  | Het spiegelbeeld lijkt op een omgekeerd beeld van het voorwerp en ligt op dezelfde afstand van de spiegel als het voorwerp. |
+| Hoe kun je de route van een lichtstraal door een spiegel reconstrueren?   | Door te veronderstellen dat de lichtstraal van het spiegelbeeld lijkt te komen en de richting te volgen vanaf het oog naar het spiegelbeeld. |
+| Wat moet je altijd onthouden bij het meten van hoeken bij spiegeling?       | De hoeken moeten altijd gemeten worden ten opzichte van de normaal van het oppervlak.             |

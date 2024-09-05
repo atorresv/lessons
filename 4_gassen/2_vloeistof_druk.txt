@@ -1,0 +1,53 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Druk in Vloeistoffen en Toepassingen**
+
+- **Druk in Vloeistoffen**:
+  - Druk hangt af van de **diepte** in de vloeistof.
+  - De **kracht** op een oppervlak wordt veroorzaakt door het gewicht van de vloeistofkolom boven dat oppervlak.
+  - **Formule**: \( \text{Druk} = h \times \rho \times g \).
+    - **h**: Diepte in meters (m).
+    - **ρ**: Dichtheid in kilogram per kubieke meter (kg/m³).
+    - **g**: Zwaartekrachtsversnelling in meter per seconde kwadraat (m/s²).
+
+- **Effecten van Dichtheid en Zwaartekracht**:
+  - Grotere **dichtheid** leidt tot een **hogere druk**.
+  - **Zwaartekrachtsversnelling**: Druk op de maan is lager dan op aarde bij dezelfde diepte.
+
+- **Buitenluchtdruk**:
+  - Luchtdruk op het aardoppervlak is 1,01 × 10^5 Pascal.
+  - Totale druk = vloeistofdruk + buitenluchtdruk.
+
+- **Praktische Toepassingen**:
+  - **Zwemmen**: Je merkt niets van de druk omdat deze binnenin je lichaam gelijk is aan de buitendruk.
+  - **Duikboten**: Moeten bestand zijn tegen enorme waterdruk op grote diepten.
+  - **Bloeddrukmetingen**:
+    - **Systolische druk**: Druk wanneer het hart pompt.
+    - **Diastolische druk**: Druk wanneer het hart rust.
+    - **Eenheid**: Meestal gemeten in millimeters kwik (mmHg); 1 mmHg = 133,322 Pascal.
+    - **Armpositie**: Belangrijk om de arm stil te houden tijdens metingen om vertekening te voorkomen.
+
+- **Samenvatting**:
+  - Druk in een vloeistof wordt veroorzaakt door het gewicht van de bovenliggende vloeistof en wordt berekend met \( h \times \rho \times g \), plus de buitenluchtdruk indien van toepassing.
+  - Millimeters kwik is een veelgebruikte eenheid voor druk bij vloeistoffen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                         | Korte antwoord                                                   |
+|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Hoe hangt de druk in een vloeistof af van de diepte?                                         | De druk **neemt toe** naarmate de diepte (h) toeneemt.            |
+| Wat is de formule voor het berekenen van de druk in een vloeistof?                            | \( \text{Druk} = h \times \rho \times g \).                       |
+| Wat stellen de symbolen \( h \), \( \rho \), en \( g \) voor in de formule?                  | **h** = diepte in meters (m), **ρ** = dichtheid in kg/m³, **g** = zwaartekrachtsversnelling in m/s². |
+| Hoe beïnvloedt de dichtheid van een vloeistof de druk?                                        | Een **hogere dichtheid** leidt tot een **hogere druk**.           |
+| Wat gebeurt er met de druk op de maan in vergelijking met op aarde bij dezelfde diepte?       | De druk is **lager** op de maan door de lagere zwaartekrachtsversnelling. |
+| Waarom merk je tijdens het zwemmen niet veel van de druk?                                     | Omdat de **druk binnenin je lichaam gelijk is aan de buitendruk**. |
+| Wat moet je bij duikboten in acht nemen met betrekking tot vloeistofdruk?                     | Duikboten moeten bestand zijn tegen **enorme waterdruk** op grote diepten. |
+| Wat is het verschil tussen systolische en diastolische druk?                                 | **Systolische druk**: Druk wanneer het hart pompt. <br> **Diastolische druk**: Druk wanneer het hart rust. |
+| Hoe wordt bloeddruk meestal gemeten en welke eenheid wordt vaak gebruikt?                    | Bloeddruk wordt gemeten in **millimeters kwik (mmHg)**; 1 mmHg = 133,322 Pascal. |
+| Waarom is het belangrijk om je arm stil te houden tijdens een bloeddrukmeting?                | Om **vertekening** door de vloeistofkolom boven het meetpunt te voorkomen. |

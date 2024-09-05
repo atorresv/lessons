@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Weerstand in Draden**
+
+- **Weerstand van Draden**:
+  - **Lange draden** hebben een **grotere weerstand**.
+  - **Dikke draden** hebben een **kleinere weerstand** dan dunne draden.
+  - Het **materiaal** van de draad beïnvloedt ook de weerstand.
+
+- **Formule voor Weerstand**:
+  - De weerstand \( R \) wordt berekend met de formule: **R = ρ * (l / A)**
+  - **ρ** staat voor de **soortelijke weerstand** van het materiaal.
+  - **l** is de **lengte** van de draad.
+  - **A** is de **doorsnede** van de draad, berekend als \( π * r^2 \) (waarbij r de straal is).
+
+- **Invloed van Temperatuur**:
+  - De weerstand van een draad verandert met de temperatuur.
+  - De waarden in **Binas** zijn bij een temperatuur van **293 K** (20°C).
+
+- **Voorbeeld van Weerstandsberekening**:
+  - Voor een draad met een dikte van 1,0 mm en een lengte van 50 cm:
+    - Straal \( r \) = 0,5 mm = 0,5 * 10^-3 m.
+    - Doorsnede \( A \) = 7,85 * 10^-7 m².
+    - Weerstand \( R \) berekend als 0,01 ohm.
+
+- **Toepassing van de Formule**:
+  - De formule kan worden toegepast op **alle voorwerpen** als de lengte, doorsnede, en soortelijke weerstand bekend zijn.
+
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                                                                          |
+|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Wat gebeurt er met de weerstand van een draad naarmate de lengte toeneemt? | De weerstand van een draad **neemt toe** naarmate de lengte toeneemt.                                                   |
+| Hoe beïnvloedt de dikte van een draad de weerstand?                        | Een **dikkere draad** heeft een **kleinere weerstand** dan een dunnere draad.                                          |
+| Wat is de formule voor het berekenen van de weerstand van een draad?       | De formule is **R = ρ * (l / A)**, waarbij ρ de soortelijke weerstand, l de lengte en A de doorsnede is.             |
+| Waarin worden de waarden voor de soortelijke weerstand in Binas gepresenteerd? | De waarden worden gepresenteerd in **tabellen 8, 9 en 10** in Binas.                                                  |
+| Wat gebeurt er met de weerstand als de temperatuur stijgt?                | De weerstand **neemt toe** bij een stijgende temperatuur.                                                             |
+| Hoe bereken je de doorsnede van een draad?                                | De doorsnede wordt berekend als **π * r²**, waarbij r de straal van de draad is.                                        |
+| Wat is de weerstand van een draad met een dikte van 1,0 mm en lengte van 50 cm als de soortelijke weerstand 1,7 * 10^-8 ohm meter is? | De weerstand is **0,01 ohm**.                                                                                           |
+| Kan de formule voor weerstand ook op andere voorwerpen worden toegepast?   | Ja, de formule kan worden toegepast op **alle voorwerpen** zolang de lengte, doorsnede en soortelijke weerstand bekend zijn. |

@@ -1,0 +1,31 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Bepalen van het Pad van Lichtstralen door een Positieve Lens**
+
+- **Lichtstralen** die op een positieve lens vallen worden bepaald door twee regels:
+  - **Regel 1**: Lichtstralen die door het **optisch midden** van de lens lopen, gaan rechtdoor.
+  - **Regel 2**: Lichtstralen die parallel aan elkaar lopen, komen uit hetzelfde **brandpunt** aan de andere kant van de lens.
+
+- **Stappen om de richting van een lichtstraal te bepalen**:
+  - Teken een lichtstraal die parallel aan de hoofdas van de lens loopt.
+  - Zoek het **brandpunt** aan de andere kant van de lens en verleng de lichtstraal zodat deze uit het brandpunt lijkt te komen.
+
+- **Samenvatting**:
+  - Lichtstralen door het optisch midden van een positieve lens gaan altijd rechtdoor.
+  - Parallelle lichtstralen worden gefocust in hetzelfde brandpunt aan de andere kant van de lens.
+  - Deze regels gelden specifiek voor **positieve** lenzen en niet voor **negatieve** lenzen.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| Wat is de eerste regel voor lichtstralen die op een positieve lens vallen? | Lichtstralen die door het optisch midden van de lens lopen, gaan rechtdoor. |
+| Wat is de tweede regel voor lichtstralen die op een positieve lens vallen? | Lichtstralen die parallel aan elkaar lopen, komen uit hetzelfde brandpunt aan de andere kant van de lens. |
+| Hoe bepaal je de richting van een lichtstraal door een positieve lens? | Teken een lichtstraal die parallel aan de hoofdas loopt en zoek het brandpunt aan de andere kant van de lens waar de lichtstraal doorheen lijkt te komen. |
+| Geldt deze regels voor negatieve lenzen? | Nee, deze regels gelden alleen voor positieve lenzen. |

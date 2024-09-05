@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Elektrische Veldsterkte en Homogeen Veld**
+
+- **Elektrische veldsterkte** is de kracht op een lading per eenheid lading.
+  - **Symbool:** \( \vec{E} \) (met pijltje naar boven)
+  - **Eenheid:** Newton per Coulomb (N/C)
+- **Veldsterkte** verschilt afhankelijk van de plaats:
+  - **Dichtbij** een geladen voorwerp: Grote invloed, sterke veldsterkte.
+  - **Verder weg**: Minder invloed, zwakkere veldsterkte.
+- **Formule voor veldsterkte:**
+  - \( E = \frac{F}{q} \)
+  - Waarbij \( F \) de kracht is en \( q \) de lading van het deeltje.
+- **Voorbeeld:** 
+  - Een geladen bol met een lading van 0,54 C ondervindt een kracht van 3,5 N.
+  - Veldsterkte op dat punt: \( E = \frac{3,5}{0,54} \approx 6,5 \text{ N/C} \)
+- **Homogeen veld:**
+  - Ontstaat tussen twee parallelle platen met positieve en negatieve lading.
+  - **Kenmerken:**
+    - **Constant:** Zowel de grootte als de richting van de veldsterkte zijn gelijk op elke plaats tussen de platen.
+    - **Veldlijnen:** Recht en evenwijdig met gelijke afstand tussen de lijnen.
+
+- **Samenvatting:**
+  - Elektrische veldsterkte geeft de kracht per lading aan op een bepaalde plaats en heeft zowel een grootte als een richting.
+  - Het is een eigenschap van het veld, niet van de proeflading.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is elektrische veldsterkte? | Elektrische veldsterkte is de kracht per eenheid lading op een bepaalde plaats. |
+| Wat is het symbool voor elektrische veldsterkte? | Het symbool is \( \vec{E} \) (met pijltje naar boven). |
+| Welke eenheid wordt gebruikt voor elektrische veldsterkte? | Newton per Coulomb (N/C). |
+| Hoe wordt de elektrische veldsterkte berekend? | Met de formule \( E = \frac{F}{q} \), waarbij \( F \) de kracht is en \( q \) de lading van het deeltje. |
+| Wat is de veldsterkte bij een geladen bol met lading 0,54 C en kracht 3,5 N? | \( E = \frac{3,5}{0,54} \approx 6,5 \text{ N/C} \). |
+| Wat kenmerkt een homogeen veld? | In een homogeen veld is de elektrische veldsterkte constant in zowel grootte als richting tussen twee parallelle geladen platen. |
+| Hoe zien de veldlijnen eruit in een homogeen veld? | De veldlijnen zijn recht en evenwijdig met gelijke afstand tussen de lijnen. |
+| Wat is het verschil tussen elektrische energie en elektrische spanning? | Elektrische energie is de energie van een geladen deeltje in een elektrisch veld, terwijl elektrische spanning de hoeveelheid energie per lading op een bepaalde plaats is. |

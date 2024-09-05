@@ -1,0 +1,69 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Interferentie en Geluidsgolven**
+
+- **Interferentie**: Het verschijnsel waarbij golven elkaar **versterken** (constructieve interferentie) of **verzwakken** (destructieve interferentie) wanneer ze overlappen.
+  
+  - **Constructieve interferentie**: Wanneer golven in fase zijn en elkaar versterken, ontstaan er **buiken**.
+  
+  - **Destructieve interferentie**: Wanneer golven in tegenfase zijn en elkaar verzwakken, ontstaan er **knopen**.
+
+- **Geluidsbron**: Een **luidspreker** die trillingen produceert, waardoor **geluidsgolven** zich door de ruimte verspreiden.
+
+  - **Hoogtegolven**: Weergegeven met een doorgetrokken lijn.
+  
+  - **Lagegolven**: Weergegeven met een stippellijntje.
+
+- **Geluidspatronen**:
+  
+  - Wanneer twee luidsprekers dezelfde toon uitzenden, kunnen **geluidsgolven** elkaar **versterken** of **verzwakken** op verschillende plekken.
+  
+  - **Buiken**: Waar de golven elkaar versterken (toppen van de golven vallen samen).
+
+  - **Knopen**: Waar de golven elkaar verzwakken (topen van de golven vallen samen met dalen van andere golven).
+
+- **Locatie van buiken en knopen**:
+
+  - **Buiken** liggen op lijnen waar golven elkaar versterken.
+  
+  - **Knopen** liggen op lijnen waar golven elkaar verzwakken.
+  
+  - **Buiken** en **knopen** bevinden zich op regelmatige afstanden van elkaar.
+
+- **Opzoeken van buiken en knopen**:
+  
+  - **Teken** de geluidsgolven op papier en bereken de **golflengte**.
+  
+  - Teken **buiken** en **knopen** op basis van de berekende golflengte en **frequentie**.
+  
+  - **Buiken** liggen op lijnen van de golven en **knopen** liggen tussen deze lijnen.
+
+- **Samenvatting**:
+
+  - Interferentie is het effect waarbij golven elkaar kunnen **versterken** of **verzwakken**.
+  
+  - **Buiken** zijn de plekken waar golven elkaar versterken.
+  
+  - **Knopen** zijn de plekken waar golven elkaar verzwakken.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is interferentie? | Interferentie is het verschijnsel waarbij golven elkaar kunnen versterken (constructieve interferentie) of verzwakken (destructieve interferentie) als ze overlappen. |
+| Wat is constructieve interferentie? | Constructieve interferentie treedt op wanneer golven in fase zijn en elkaar versterken, wat resulteert in buiken. |
+| Wat is destructieve interferentie? | Destructieve interferentie treedt op wanneer golven in tegenfase zijn en elkaar verzwakken, wat resulteert in knopen. |
+| Wat is de rol van een luidspreker in geluidsproductie? | Een luidspreker fungeert als geluidsbron die trillingen produceert, waardoor geluidsgolven zich door de ruimte verspreiden. |
+| Hoe worden hoge en lage golven weergegeven? | Hoge golven worden weergegeven met een doorgetrokken lijn, lage golven met een stippellijntje. |
+| Wat zijn buiken? | Buiken zijn de plekken waar golven elkaar versterken, oftewel de toppen van de golven vallen samen. |
+| Wat zijn knopen? | Knopen zijn de plekken waar golven elkaar verzwakken, oftewel de toppen van de golven vallen samen met de dalen van andere golven. |
+| Hoe kun je buiken en knopen in een ruimte identificeren? | Buiken liggen op lijnen waar golven elkaar versterken, terwijl knopen liggen op lijnen waar golven elkaar verzwakken. |
+| Wat moet je doen om buiken en knopen te vinden? | Teken de geluidsgolven op papier, bereken de golflengte, en teken de buiken en knopen op basis van de berekende golflengte en frequentie. |
+| Wat gebeurt er als je over een buik loopt? | Als je over een buik loopt, hoor je het geluid steeds heel hard. |
+| Wat gebeurt er als je over een knoop loopt? | Als je over een knoop loopt, hoor je het geluid steeds heel zacht. |

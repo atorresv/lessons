@@ -1,0 +1,43 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Beeldvorming met lenzen**
+
+- **Voorwaarden voor beeldvorming**:
+  - **Positieve lens** moet worden gebruikt.
+  - **Voorwerp** moet verder van de lens liggen dan de **brandpuntsafstand**.
+
+- **Situatie als voorwaarden niet worden voldaan**:
+  - Als het voorwerp dichterbij de lens ligt dan de brandpuntsafstand, divergeren de lichtstralen na de lens.
+  - De lichtstralen kruisen elkaar niet aan de andere kant van de lens, waardoor het beeld **virtueel** is en niet op een scherm kan worden geprojecteerd.
+  - Het virtuele beeld lijkt te komen uit een punt achter de lens.
+
+- **Reëel beeld**:
+  - Vormt zich bij een positieve lens als het voorwerp verder van de lens ligt dan de brandpuntsafstand.
+  - Kan op een scherm worden geprojecteerd en is **omgekeerd** ten opzichte van het voorwerp.
+
+- **Virtueel beeld**:
+  - Ontstaat bij een positieve lens als het voorwerp dichterbij de lens ligt dan de brandpuntsafstand.
+  - Kan alleen worden gezien door door de lens te kijken en is **rechtop**.
+
+- **Bij negatieve lenzen**:
+  - Altijd een virtueel beeld, dat rechtop staat en niet op een scherm kan worden geprojecteerd.
+
+- **Samenvatting**:
+  - Een **reëel beeld** is zichtbaar op een scherm en kan worden geprojecteerd.
+  - Een **virtueel beeld** kan alleen worden gezien door door de lens te kijken en staat rechtop.
+
+**Diagnostische vragen**
+
+| Vraag | Antwoord |
+|-------|----------|
+| Wat zijn de twee voorwaarden voor beeldvorming met een positieve lens? | De lens moet positief zijn en het voorwerp moet verder van de lens liggen dan de brandpuntsafstand. |
+| Wat gebeurt er als het voorwerp dichterbij de lens ligt dan de brandpuntsafstand? | De lichtstralen divergeren na de lens, en er ontstaat een virtueel beeld dat niet op een scherm kan worden geprojecteerd. |
+| Hoe herken je een virtueel beeld? | Het lijkt te komen uit een punt achter de lens en kan alleen worden gezien door door de lens te kijken. Het is rechtop. |
+| Wat is een reëel beeld en hoe verschilt het van een virtueel beeld? | Een reëel beeld kan op een scherm worden geprojecteerd en is omgekeerd ten opzichte van het voorwerp. Een virtueel beeld staat rechtop en kan alleen door de lens worden gezien. |
+| Wat gebeurt er bij een negatieve lens? | Altijd een virtueel beeld dat rechtop staat en niet op een scherm kan worden geprojecteerd. |

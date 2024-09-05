@@ -1,0 +1,32 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Samenvatting van Geluidsgolven en Kenmerken**
+
+- **Geluidsgolven** zijn **longitudinaal**, wat betekent dat ze patronen van **hoge en lage luchtdruk** verplaatsen in een bepaalde richting.
+- Een **geluidsbron** is nodig om geluidsgolven te creëren, zoals een **luidspreker** die een **trillende** membraan bevat.
+- **Sinusvormige trillingen** produceren een zuivere toon met een constante **frequentie** en **amplitude**, maar in de praktijk bestaan geluiden uit **meerdere frequenties** en **amplitudes**.
+- De **snelheid** van geluidsgolven in lucht bij kamertemperatuur is ongeveer **343 m/s**. Deze snelheid varieert met **temperatuur** en het medium (lucht, water, etc.).
+- Het **bereik** van hoorbare frequenties voor de mens ligt tussen **20 Hz** en **20.000 Hz**. **Hogere frequenties** dan 20.000 Hz kunnen niet meer door het menselijk oor worden gehoord, hoewel ze wel aanwezig kunnen zijn in de lucht.
+- **Geluidsniveau** wordt gemeten in **decibel (dB)**. **0 dB** is de grens van wat een normaal gezond oor nog kan horen. Het is een **logaritmische schaal**, wat betekent dat een **verandering van 3 dB** een **verdubbeling** of halvering van de geluidsdruk betekent.
+- **Muzieknoten** hebben specifieke frequenties; een **octaaf** hogere frequentie is **verdubbeld** ten opzichte van de oorspronkelijke frequentie (bijv., A bij 440 Hz is een octaaf lager bij 220 Hz en een octaaf hoger bij 880 Hz).
+
+**Diagnostische vragen**
+
+| Vraag                                                                 | Antwoord                                                    |
+|-----------------------------------------------------------------------|-------------------------------------------------------------|
+| Wat is een geluidsgolf?                                               | Een longitudinale golf die patronen van hoge en lage luchtdruk verplaatst. |
+| Wat doet een luidspreker om geluid te produceren?                      | Een luidspreker bevat een membraan dat heen en weer trilt, waardoor geluidsgolven ontstaan. |
+| Wat is het effect van sinusvormige trillingen op geluid?               | Sinusvormige trillingen produceren een zuivere toon met een constante frequentie en amplitude. |
+| Hoeveel bedraagt de snelheid van geluid in lucht bij kamertemperatuur?  | Ongeveer 343 m/s.                                           |
+| Wat is het hoorbare frequentiebereik voor de meeste mensen?             | Tussen 20 Hz en 20.000 Hz.                                 |
+| Wat is het effect van een verhoging van 3 dB op geluidsdruk?           | De geluidsdruk verdubbelt bij een verhoging van 3 dB.       |
+| Hoe verandert de frequentie van een muzieknoot bij een octaaf omhoog?   | De frequentie verdubbelt bij een octaaf omhoog.            |
+| Wat is de grens van wat een normaal gezond oor kan horen?              | 0 dB is de grens van wat een normaal gezond oor nog kan horen. |
+| Wat betekent een logaritmische schaal in de context van geluidsniveaus? | Het betekent dat elke verandering van 3 dB een verdubbeling of halvering van de geluidsdruk inhoudt. |
+| Wat gebeurt er met het hoorbare frequentiebereik naarmate iemand ouder wordt? | De grens van hoorbare frequenties verschuift naar lagere frequenties. |

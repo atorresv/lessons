@@ -1,0 +1,41 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Staande Golven in Blaasinstrumenten**
+
+- **Blaasinstrumenten** kunnen zich gedragen als een **buis** met twee open uiteinden of een **buis** met één open en één gesloten uiteinde.
+- Een blaasinstrument bestaat uit een **mondstuk** en een **buis**. De **buislengte** bepaalt de toonhoogte door de **trilling** die ontstaat.
+- De **buislengte** varieert bij verschillende instrumenten:
+  - **Saxofoon**: kleppen maken de buis langer of korter.
+  - **Trombone**: schuifmechanisme verandert de buislengte.
+  - **Blokfluit**: gaten in de buis beïnvloeden de toonhoogte.
+- Bij een **open uiteinde** ontstaat een **buik** (maximale drukvariatie) en bij een **gesloten uiteinde** een **knoop** (geen drukvariatie).
+- In een **grafiek** van druk tegen positie, zie je drukvariaties bij open uiteinden en constante druk bij gesloten uiteinden.
+- De eenvoudigste staande golf in een buis heeft een patroon van een **knoop** en een **buik**.
+- De **buislengte** correspondeert met een fractionele lengte van de golflengte:
+  - **1/4 golflengte** voor de grondtoon (eenvoudigste trilling).
+  - **3/4 golflengte** voor de eerste boventoon.
+  - De frequenties van staande golven worden berekend met de formule: \( f_n = \frac{n \cdot v}{2L} \), waarbij \( n \) de harmonische orde is, \( v \) de geluidssnelheid en \( L \) de buislengte.
+- Hoe langer de buis, hoe **lager de frequentie** en dus de **toon**.
+- De **grondtoon** is de sterkste en duidelijkste toon, terwijl **boventonen** veel zwakker zijn en moeilijker te horen.
+- Een **buis met twee open uiteinden** en een **buis met één gesloten uiteinde** hebben verschillende frequentiepatronen voor hun boventonen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                       | Antwoord                                                                                                               |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Wat is een blaasinstrument?**                                                             | Een blaasinstrument bestaat uit een mondstuk en een buis. De buislengte bepaalt de toonhoogte.                         |
+| **Hoe verschilt een buis met twee open uiteinden van een buis met één open en één gesloten uiteinde?** | Bij een open uiteinde ontstaat een buik (maximale drukvariatie) en bij een gesloten uiteinde een knoop (geen drukvariatie). |
+| **Wat bepaalt de toonhoogte van een blaasinstrument?**                                      | De toonhoogte wordt bepaald door de lengte van de buis en de frequentie van de staande golf die daarin ontstaat.         |
+| **Hoe varieert de buislengte bij een saxofoon en trombone?**                                 | Bij een saxofoon worden kleppen gebruikt om de buislengte te variëren, terwijl bij een trombone de buis door te schuiven langer of korter wordt. |
+| **Wat is een staande golf en hoe ziet deze eruit in een buis met een open en gesloten uiteinde?** | Een staande golf heeft een patroon van knopen en buiken. Bij een open uiteinde ligt de buik en bij een gesloten uiteinde de knoop. |
+| **Hoe bereken je de frequentie van een staande golf in een buis?**                           | De frequentie wordt berekend met de formule \( f_n = \frac{n \cdot v}{2L} \), waarbij \( n \) de harmonische orde is, \( v \) de geluidssnelheid en \( L \) de buislengte. |
+| **Wat is de grondtoon en hoe verhoudt deze zich tot de boventonen?**                         | De grondtoon is de sterkste en duidelijkste toon die je hoort. Boventonen zijn hogere frequenties die veel zwakker zijn. |
+| **Hoe verandert de toonhoogte als de buislengte toeneemt?**                                 | Als de buislengte toeneemt, wordt de toon lager.                                                                         |
+| **Wat is het effect van een buis met twee open uiteinden op de frequenties van boventonen?**  | Een buis met twee open uiteinden heeft een ander frequentiepatroon voor de boventonen dan een buis met één gesloten uiteinde. |
+

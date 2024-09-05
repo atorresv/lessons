@@ -1,0 +1,33 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Uranium en Verrijking voor Kernenergie en Kernwapens**
+
+- **Uranium 235** is essentieel voor zowel **kernenergie** als **kernwapens**.
+- **Natuurlijk uranium** bestaat voornamelijk uit **uranium 238** (meer dan 99%) en een klein percentage **uranium 235** (ongeveer 0,7%).
+- **Uranium 238** is niet bruikbaar voor kernreacties in energiecentrales of wapens omdat het een lage **vermenigvuldigingsfactor** heeft, wat betekent dat neutronen minder kans hebben om andere uraniumatomen te splitsen.
+- Voor **kernenergie** moet het percentage **uranium 235** worden verhoogd tot tussen de **3% en 5%**.
+- Voor **kernwapens** moet dit percentage worden verhoogd tot ongeveer **90%**.
+- **Uranium 235** wordt verrijkt door gebruik te maken van **ultracentrifuges**, die een verschil in massa tussen uranium 238 en uranium 235 benutten om het percentage uranium 235 te verhogen.
+- **Ultracentrifuge techniek** is de meest gebruikte methode voor verrijking van uranium.
+
+Samengevat: **Uranium 235** moet worden verrijkt om het bruikbaar te maken voor kernenergie en kernwapens. Dit wordt gedaan met **ultracentrifuges**.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                             | Korte antwoord                                                                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wat is het belangrijkste isotoop van uranium dat gebruikt wordt voor kernenergie en kernwapens? | **Uranium 235**.                                                                                                                                                                                                                                         |
+| Wat is de verhouding van uranium 235 in natuurlijk uranium?                                      | Ongeveer **0,7%**.                                                                                                                                                                                                                                        |
+| Waarom is uranium 238 niet bruikbaar voor kernenergie of kernwapens?                            | Omdat **uranium 238** een lage **vermenigvuldigingsfactor** heeft, wat betekent dat neutronen minder kans hebben om andere uraniumatomen te splitsen.                                                                                                 |
+| Tot welk percentage moet uranium 235 worden verhoogd voor gebruik in kernenergie?                | Tot tussen de **3% en 5%**.                                                                                                                                                                                                                               |
+| Tot welk percentage moet uranium 235 worden verhoogd voor gebruik in kernwapens?                 | Tot ongeveer **90%**.                                                                                                                                                                                                                                     |
+| Wat is de meest gebruikte techniek voor het verrijken van uranium?                               | De **ultracentrifuge techniek**.                                                                                                                                                                                                                           |
+| Hoe werkt de ultracentrifuge techniek voor het verrijken van uranium?                            | De techniek maakt gebruik van het verschil in massa tussen **uranium 238** en **uranium 235** door gasvormige deeltjes extreem snel rond te draaien, waardoor het percentage uranium 235 wordt verhoogd.                                           |
+
+

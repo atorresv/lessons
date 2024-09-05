@@ -1,0 +1,47 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Wetenschappelijke Notatie in de Natuurkunde**
+
+  * In de **natuurkunde** worden vaak **grote** of **kleine getallen** gebruikt.
+  * **Wetenschappelijke notatie** wordt gebruikt om deze getallen compact op te schrijven.
+  * Wetenschappelijke notatie is gebaseerd op **machten van 10**:
+    * **10^1** betekent **10**.
+    * **10^2** betekent **100**.
+  * **Negatieve machten van 10** worden gebruikt voor zeer kleine getallen:
+    * **10^-1** betekent **0,1**.
+    * **10^-2** betekent **0,01**.
+  * Voorbeelden van wetenschappelijke notatie:
+    * **6.100.000** wordt **6,1 × 10^6**.
+    * **0,000341** wordt **3,41 × 10^-4**.
+    * Massa van de aarde is **5,976 × 10^24 kg**.
+  * Wetenschappelijke notatie helpt om **fouten** bij het intypen of aflezen van getallen te verminderen.
+  * Rekenmachines hebben een **exponent-toets** (bijv. **EXP** of **EE**) om wetenschappelijke notatie in te voeren.
+    * Voorbeeld: **4,372 × 10^3** typ je als **4,372 × 10^3** op de rekenmachine.
+  * Bij delingen en vermenigvuldigingen met wetenschappelijke notatie:
+    * **6 × 10^5** gedeeld door **3,8 × 10^-3** geeft **2,0 × 10^8**.
+  * Rekenmachines kunnen antwoorden in wetenschappelijke notatie of gewone notatie geven.
+    * Controleer de **handleiding** van je rekenmachine voor instellingen.
+  * De **standaard notatie** is met één cijfer voor de komma (bijv. **8,315 × 10^3**), hoewel andere vormen ook correct zijn.
+
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                    |
+|---------------------------------------------------------------------------|-------------------------------------------------|
+| Waarom wordt wetenschappelijke notatie gebruikt in de natuurkunde?       | Om grote of kleine getallen compact op te schrijven. |
+| Waar is wetenschappelijke notatie op gebaseerd?                           | Op machten van 10.                             |
+| Wat betekent **10^3** in wetenschappelijke notatie?                       | Het betekent **1000**.                         |
+| Hoe schrijf je **0,000341** in wetenschappelijke notatie?                 | Als **3,41 × 10^-4**.                          |
+| Hoe schrijf je **6.100.000** in wetenschappelijke notatie?                | Als **6,1 × 10^6**.                            |
+| Hoe wordt de massa van de aarde in wetenschappelijke notatie geschreven?  | Als **5,976 × 10^24 kg**.                      |
+| Welke toets gebruik je op een rekenmachine om wetenschappelijke notatie in te voeren? | De **exponent-toets** (EXP of EE).             |
+| Hoe voer je **4,372 × 10^3** in op een rekenmachine?                      | Typ als **4,372 × 10^3**.                      |
+| Wat is het resultaat van **6 × 10^5** gedeeld door **3,8 × 10^-3**?      | Het resultaat is **2,0 × 10^8**.              |
+| Wat moet je controleren als je rekenmachine geen wetenschappelijke notatie geeft? | De handleiding van je rekenmachine.            |
+| Wat is de gebruikelijke manier om een getal in wetenschappelijke notatie op te schrijven? | Met één cijfer voor de komma, bijv. **8,315 × 10^3**. |

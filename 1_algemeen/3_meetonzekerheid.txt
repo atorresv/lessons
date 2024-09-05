@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Significante Cijfers en Nauwkeurigheid in Metingen**
+
+  * In de **natuurkunde** heeft elk getal, naast een eenheid, ook een **nauwkeurigheid**.
+  * **Onzekerheid** in metingen betekent dat resultaten kunnen variëren.
+  * Bij het afronden van metingen schrijf je alleen die cijfers op waarvan je zeker bent.
+    * Bijvoorbeeld: **4,81 seconden** kan afgerond worden naar **4,8 seconden**.
+  * **Significante cijfers** zijn de cijfers waarvan je zeker bent.
+    * In **4,8** zijn **4** en **8** significante cijfers.
+  * Als je een temperatuur meet van **21,7 graden Celsius**, zijn deze cijfers significante cijfers.
+    * De werkelijke temperatuur ligt in een bereik rondom **21,7**.
+  * **Significante cijfers** geven de nauwkeurigheid van een getal aan.
+    * **21,7 ± 0,01** is nauwkeuriger dan **21,7 ± 1,00**.
+  * Hoe groter het aantal significante cijfers, hoe **nauwkeuriger** het getal.
+  * Regels voor significante cijfers:
+    * Cijfers vóór de eerste niet-nul tellen niet mee.
+    * In wetenschappelijke notatie telt de macht van 10 niet mee voor significante cijfers.
+  * Voorbeelden:
+    * **4,47** heeft **3 significante cijfers**.
+    * **0,002** heeft **1 significante cijfer**.
+    * **8500** heeft **2 significante cijfers** als geen andere informatie wordt gegeven.
+  * Onzekerheid kan worden weergegeven als **absolute** of **percentuele** fout.
+    * **± 0,01** betekent absolute onzekerheid.
+    * **± 1%** betekent procentuele onzekerheid.
+
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                    |
+|---------------------------------------------------------------------------|-------------------------------------------------|
+| Wat geeft de **nauwkeurigheid** van een getal in de natuurkunde aan?      | Het aantal **significante cijfers** in de meting. |
+| Wat betekent het als een meting is afgerond naar **4,8 seconden**?        | Dat je alleen zeker bent van de cijfers **4** en **8**. |
+| Wat zijn **significante cijfers**?                                        | Cijfers waarvan je zeker bent in een meting.    |
+| Hoeveel significante cijfers heeft **21,7 graden Celsius**?               | Drie significante cijfers: **2**, **1**, en **7**. |
+| Wat geeft een bereik zoals **21,7 ± 0,01** aan?                           | Een nauwkeurigheid van **21,7** met een onzekerheid van **± 0,01**. |
+| Hoe kun je de nauwkeurigheid van een getal bepalen?                        | Door het aantal significante cijfers te tellen. |
+| Welke cijfers worden niet meegeteld bij significante cijfers?             | Cijfers vóór de eerste niet-nul.                |
+| Hoeveel significante cijfers heeft **4,47**?                              | Drie significante cijfers: **4**, **4**, en **7**. |
+| Hoeveel significante cijfers heeft **0,002**?                             | Eén significant cijfer: **2**.                 |
+| Hoeveel significante cijfers heeft **8500** zonder extra informatie?      | Twee significante cijfers: **8** en **5**.    |
+| Wat is het verschil tussen **absolute** en **percentuele** onzekerheid?    | Absolute onzekerheid is een vast getal, procentuele onzekerheid is een percentage. |

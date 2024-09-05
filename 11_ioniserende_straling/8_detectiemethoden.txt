@@ -1,0 +1,48 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Detectiemethoden voor ioniserende straling**
+
+- **Ioniserende straling** is onzichtbaar en vereist detectiemethoden.
+- **Geigerteller**:
+  - Bestaat uit een kastje en een detector.
+  - Detecteert straling door tikjes te registreren wanneer ioniserende deeltjes door de detector gaan.
+  - Werkt met een gas onder lage druk en een hoge spanning.
+  - Detecteert de aanwezigheid van straling, maar niet de richting.
+- **Dradenkamer**:
+  - Gebruikt meerdere draden in een 3D-opstelling.
+  - Stelt vast welke draden stroom krijgen door een geladen deeltje.
+  - Kan het pad van het deeltje reconstrueren.
+- **Bellenvat**:
+  - Een schaaltje met een verzadigde damp bovenin.
+  - Ioniserende deeltjes laten sporen van kleine druppeltjes achter.
+  - De dikte van de sporen geeft aan hoe ioniserend de straling is.
+- **Actinometrie**:
+  - Klein, luchtdicht afgesloten kamertje met fotografische film.
+  - Na blootstelling aan straling worden zwarte plekjes op de film gecontroleerd.
+  - Aantal zwarte plekjes geeft de hoeveelheid straling aan.
+- **Vergelijking van detectiemethoden**:
+  - Geigerteller en dradenkamer detecteren ioniserende deeltjes.
+  - Bellenvat toont het ioniserend vermogen door sporen van druppeltjes.
+  - Actinometrie gebruikt film om stralingsniveaus te meten, met bescherming voor verschillende soorten straling.
+
+
+**Diagnostische vragen**
+
+| Vraag                                                                                             | Kort Antwoord                                                                                              |
+|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Wat is de functie van een Geigerteller?                                                          | Detecteert ioniserende straling door tikjes te registreren wanneer stralingsdeeltjes door de detector gaan.|
+| Hoe werkt de Geigerteller?                                                                       | Een gas onder lage druk en hoge spanning detecteert deeltjes door het genereren van een stroom bij ionisatie.|
+| Wat is een dradenkamer?                                                                          | Een detector met meerdere draden die het pad van geladen deeltjes kan reconstrueren door het meten van stroom.|
+| Hoe detecteert een dradenkamer ioniserende straling?                                             | Door de stroom te meten in de draden die geraakt worden door geladen deeltjes, kan het pad van het deeltje worden gereconstrueerd.|
+| Wat is een bellenvat en hoe werkt het?                                                           | Een schaaltje met verzadigde damp waarin ioniserende straling sporen van kleine druppeltjes achterlaat.    |
+| Hoe kun je de dikte van de sporen in een bellenvat gebruiken?                                    | De dikte van de sporen geeft het ioniserend vermogen van de straling aan.                                |
+| Wat doet de actinometrie-methode?                                                                 | Meet stralingsniveaus door het aantal zwarte plekjes op een fotografische film te controleren na blootstelling.|
+| Wat betekent het als er veel zwarte plekjes op een actinometrische film verschijnen?             | Dit betekent dat de persoon veel straling heeft ontvangen.                                                |
+| Hoe kun je de detectiemethoden vergelijken?                                                       | Geigerteller en dradenkamer detecteren de aanwezigheid en het pad van deeltjes; bellenvat toont ioniserend vermogen; actinometrie meet stralingsniveaus via film.|
+| Welke soort straling kan niet door lood heen gaan, maar kan door andere materialen heen?          | Alfa-straling kan niet door lood heen.                                                                   |

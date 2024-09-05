@@ -1,0 +1,44 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Resonantie en Trillingen**
+
+- **Resonantie**: Het fenomeen waarbij een voorwerp meetrilt met een andere trilling.
+- **Eigen Trilling**:
+  - Een trilling die een systeem uitvoert zonder externe invloed.
+  - Voorbeeld: Een flesje aan een elastiekje dat vanzelf heen en weer beweegt.
+- **Gedwongen Trilling**:
+  - Een trilling die ontstaat door een periodieke kracht van buitenaf.
+  - Voorbeeld: Een rekenmachine die je met je hand op en neer beweegt.
+- **Eigenfrequentie**:
+  - De frequentie waarmee een systeem zelf trilt.
+  - Voorbeeld: Een flesje met elastiekje heeft een eigenfrequentie van ongeveer 2 Hz.
+- **Aandrijf Frequentie**:
+  - De frequentie van de externe kracht die op een systeem wordt uitgeoefend.
+- **Invloed van Frequenties**:
+  - **Veel Groter dan Eigenfrequentie**: Het systeem trilt nauwelijks mee.
+  - **Veel Kleiner dan Eigenfrequentie**: Het systeem trilt met de externe kracht mee.
+  - **Gelijk aan Eigenfrequentie**: Het systeem begint met een grote amplitude te trillen en kan uit de hand lopen.
+- **Resonantie**:
+  - Treedt op wanneer de aandrijf frequentie gelijk is aan de eigenfrequentie van het systeem.
+  - Kan leiden tot extreem versterkte trillingen en mogelijk schade aan het systeem.
+
+**Diagnostische vragen**
+
+| Vraag                                                         | Korte antwoord                                                                                       |
+|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Wat is resonantie?                                           | Resonantie is het fenomeen waarbij een voorwerp meetrilt met een andere trilling.                    |
+| Wat is een eigen trilling?                                   | Een eigen trilling is een trilling die een systeem uitvoert zonder externe invloed.                  |
+| Geef een voorbeeld van een eigen trilling.                   | Een flesje aan een elastiekje dat vanzelf heen en weer beweegt.                                       |
+| Wat is een gedwongen trilling?                               | Een gedwongen trilling ontstaat door een periodieke kracht van buitenaf.                             |
+| Geef een voorbeeld van een gedwongen trilling.               | Een rekenmachine die je met je hand op en neer beweegt.                                               |
+| Wat is de eigenfrequentie van een systeem?                    | De eigenfrequentie is de frequentie waarmee een systeem zelf trilt.                                   |
+| Wat gebeurt er als de aandrijf frequentie veel groter is dan de eigenfrequentie? | Het systeem trilt nauwelijks mee met de externe kracht.                                                |
+| Wat gebeurt er als de aandrijf frequentie veel kleiner is dan de eigenfrequentie? | Het systeem trilt mee met de externe kracht.                                                         |
+| Wat gebeurt er als de aandrijf frequentie gelijk is aan de eigenfrequentie? | Het systeem begint met een grote amplitude te trillen en kan uit de hand lopen.                       |
+| Wat is resonantie in termen van frequentie?                   | Resonantie treedt op wanneer de aandrijf frequentie gelijk is aan de eigenfrequentie van het systeem. |
