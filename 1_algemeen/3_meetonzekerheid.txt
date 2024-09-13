@@ -25,7 +25,7 @@
   * Voorbeelden:
     * **4,47** heeft **3 significante cijfers**.
     * **0,002** heeft **1 significante cijfer**.
-    * **8500** heeft **2 significante cijfers** als geen andere informatie wordt gegeven.
+    * **8500** heeft **4 significante cijfers** als geen andere informatie wordt gegeven.
   * Onzekerheid kan worden weergegeven als **absolute** of **percentuele** fout.
     * **± 0,01** betekent absolute onzekerheid.
     * **± 1%** betekent procentuele onzekerheid.
