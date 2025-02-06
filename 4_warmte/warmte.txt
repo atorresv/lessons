@@ -1,0 +1,279 @@
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Betekenis van Warmte in de Natuurkunde**
+
+- **Temperatuur**:
+  - Maat voor de **gemiddelde kinetische energie** van de deeltjes in een stof.
+  - Temperatuur in **Kelvin** geeft aan hoeveel kinetische energie de deeltjes gemiddeld hebben.
+  - Voorbeeld: 200 Kelvin betekent dubbel zoveel kinetische energie als 100 Kelvin.
+
+- **Moleculen**:
+  - Bewegen altijd en hebben **kinetische energie**.
+  - Moleculen kunnen aan elkaar kleven of niet, afhankelijk van de stof (gas, vloeistof, vaste stof).
+
+- **Inwendige Energie**:
+  - Totale energie in een voorwerp door bewegende deeltjes.
+  - Gelijk aan het aantal deeltjes maal de gemiddelde kinetische energie.
+
+- **Warmte**:
+  - Energie die **toegevoerd** of **afgevoerd** moet worden om de inwendige energie van een voorwerp te laten stijgen of dalen.
+  - Symbool: **Q**
+  - Eenheid: **joule** (J)
+
+- **Effect van Warmte**:
+  - Toevoegen van warmte verhoogt de **temperatuur** van een voorwerp.
+  - Afvoeren van warmte verlaagt de **temperatuur** van een voorwerp.
+
+- **Samenvatting**:
+  - Temperatuur: maat voor gemiddelde kinetische energie.
+  - Inwendige energie: totaal van kinetische energie van de deeltjes in een stof.
+  - Warmte: energie nodig om de temperatuur te verhogen of te verlagen.
+
+**Diagnostische vragen**
+
+| **Vraag** | **Antwoord** |
+|-----------|--------------|
+| Wat is temperatuur in de natuurkunde? | **Temperatuur** is een maat voor de **gemiddelde kinetische energie** van de deeltjes in een stof. |
+| Hoe wordt de temperatuur uitgedrukt in de natuurkunde? | Temperatuur wordt uitgedrukt in **Kelvin**. |
+| Wat is inwendige energie? | **Inwendige energie** is de totale kinetische energie van de deeltjes binnen een stof. |
+| Wat betekent het als een voorwerp 200 Kelvin heeft? | Het betekent dat de deeltjes in het voorwerp gemiddeld **twee keer zoveel kinetische energie** hebben als bij 100 Kelvin. |
+| Wat is warmte? | **Warmte** is de energie die nodig is om de **inwendige energie** van een voorwerp te laten stijgen of dalen. |
+| Wat is het symbool en de eenheid van warmte? | Het symbool voor warmte is **Q** en de eenheid is **joule** (J). |
+| Wat gebeurt er met de temperatuur van een voorwerp als je warmte toevoegt? | De **temperatuur** van het voorwerp **stijgt**. |
+| Wat gebeurt er met de temperatuur van een voorwerp als je warmte afvoert? | De **temperatuur** van het voorwerp **daalt**. |
+| Hoe verschilt inwendige energie van temperatuur? | **Inwendige energie** is de totale kinetische energie van alle deeltjes in een stof, terwijl **temperatuur** de gemiddelde kinetische energie van die deeltjes aangeeft. |
+
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Manieren van Warmtetransport**
+
+  - **Warmtetransport**: Het overbrengen van warmte van de ene plaats naar de andere plaats.
+  
+  - **Stroming**: 
+    - Koude moleculen worden vervangen door snellere, warmere moleculen.
+    - Moleculen veranderen van positie en zorgen voor een **temperatuurstijging**.
+  
+  - **Geleiding**: 
+    - Trillingen van warme moleculen worden doorgegeven aan de omliggende, koudere moleculen.
+    - Warmte verspreidt zich door het voorwerp door **moleculaire beweging**.
+  
+  - **Straling**: 
+    - Warmere voorwerpen zenden **straling** uit die wordt opgevangen door koudere voorwerpen.
+    - Straling kan plaatsvinden in een **vacuüm** en is de manier waarop de zon de aarde verwarmt.
+
+**Diagnostische vragen**
+
+| **Vraag**                                                                 | **Antwoord**                                                      |
+|---------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Wat is de rol van moleculen bij warmtetransport?                           | Moleculen bewegen en dragen warmte over door **stroming**.        |
+| Welke manier van warmtetransport houdt in dat moleculen zelf van positie veranderen? | **Stroming**                                                     |
+| Hoe wordt warmte verspreid over een voorwerp bij geleiding?                | Door de **trillingen** van moleculen die aan elkaar worden doorgegeven. |
+| Wat is een kenmerk van warmteoverdracht via straling?                       | Straling kan plaatsvinden in een **vacuüm** en vereist geen moleculen. |
+| Hoe verwarmt de zon de aarde?                                               | Door **straling**                                                 |
+| Wat gebeurt er met een koud voorwerp als het in contact komt met een warm voorwerp? | Het koude voorwerp **absorbeert** warmte door **straling**.       |
+| Welke methode van warmtetransport is het enige mechanisme in de ruimte?    | **Straling**                                                      |
+| Wat is het effect van trillingen van moleculen op een voorwerp bij geleiding? | De trillingen zorgen voor een **verspreiding** van warmte.         |
+| Hoe verandert het temperatuurverschil bij stroming?                         | Het temperatuurverschil **verandert** door de beweging van moleculen. |
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* **Calorimeter en zijn functies**
+
+- Een **calorimeter** is een instrument voor onderzoek naar het **verband tussen warmte** en **temperatuurstijging**.
+- Het bestaat uit een **bakje** waarin vloeistoffen en stoffen worden geplaatst.
+- Dit bakje is omgeven door een **isolerende laag**, zoals **piepschuim**, en heeft een **deksel**.
+- Het **deksel** bevat meestal **thermometers** en een **verwarmingselement**.
+- De **binnenkant** van de calorimeter heeft een **spiegelende laag** die straling terugkaatst.
+- De calorimeter voorkomt **warmtetransport** door:
+  - **Stroming** tegen te gaan met het deksel, zodat warme vloeistof niet kan ontsnappen.
+  - **Straling** tegen te gaan met de spiegelende laag die straling weerkaatst.
+  - **Geleiding** tegen te gaan met een **isolerende laag** (bijv. piepschuim) die warmte slecht geleidt.
+
+Samengevat, een calorimeter is een **geïsoleerde beker** die helpt bij het meten van warmte en temperatuur, vergelijkbaar met een **thermosfles**, waarbij stroming, straling en geleiding worden geminimaliseerd.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                          | Korte antwoord                                               |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Wat is een calorimeter?                                                                       | Een calorimeter is een instrument voor onderzoek naar **warmte** en **temperatuurstijging**. |
+| Hoe is een calorimeter opgebouwd?                                                              | Het bestaat uit een **bakje**, een **isolerende laag** (bijv. piepschuim), en een **deksel**. |
+| Wat bevindt zich in het deksel van de calorimeter?                                              | Het deksel bevat meestal **thermometers** en een **verwarmingselement**. |
+| Wat doet de spiegelende laag aan de binnenkant van de calorimeter?                              | De spiegelende laag kaatst **straling** terug en voorkomt dat straling naar buiten ontsnapt. |
+| Hoe wordt stroming in een calorimeter tegengegaan?                                              | Stroming wordt tegengegaan door het **deksel** dat voorkomt dat warme vloeistof ontsnapt. |
+| Hoe wordt geleiding in een calorimeter tegengegaan?                                             | Geleiding wordt tegengegaan door een **isolerende laag** (bijv. piepschuim) die warmte slecht geleidt. |
+| Waarom lijkt een calorimeter op een thermosfles?                                                | Beide gebruiken isolatie om **warmtetransport** te minimaliseren. |
+
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Warmtecapaciteit en Energiebehoefte bij Verwarming
+
+- **Warmtecapaciteit**:
+  - De hoeveelheid **energie** (in joules) nodig om een voorwerp **één kelvin** in temperatuur te laten stijgen.
+  - Voor een groot voorwerp is meer energie nodig dan voor een klein voorwerp.
+
+- **Formule**:
+  - Hoeveelheid warmte: \( Q = CΔT \)
+    - **Q**: Hoeveelheid warmte
+    - **C**: Warmtecapaciteit
+    - **ΔT**: Temperatuurverschil
+
+- **Voorbeeld**:
+  - Warmtecapaciteit van een magnetronmaaltijd: **2100 J/K**
+  - Om de maaltijd van **20°C** naar **60°C** te verwarmen:
+    - Temperatuurverschil (**ΔT**): 40°C (of 40 Kelvin)
+    - Berekening: \( Q = 2100 \text{ J/K} \times 40 \text{ K} \)
+    - Totale hoeveelheid warmte nodig: **8,4 x 10^4 joule**
+
+- **Toepassing**:
+  - Een magnetron gebruikt **warmtestraling** om deze hoeveelheid energie toe te voegen.
+
+- **Samenvatting**:
+  - Warmtecapaciteit bepaalt hoeveel energie nodig is om een voorwerp in temperatuur te laten stijgen.
+  - Gebruik de formule \( Q = CΔT \) om de benodigde hoeveelheid warmte te berekenen.
+  - Voor een magnetronmaaltijd met een warmtecapaciteit van 2100 J/K en een temperatuurstijging van 40 K, is 8,4 x 10^4 joule aan energie nodig.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                 | Korte antwoord                                                                                          |
+|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Wat is warmtecapaciteit?                                                                            | De hoeveelheid **energie** (in joules) nodig om een voorwerp **één kelvin** in temperatuur te laten stijgen. |
+| Hoe bereken je de hoeveelheid warmte die nodig is om een voorwerp op te warmen?                      | Met de formule \( Q = CΔT \), waarbij **Q** de hoeveelheid warmte is, **C** de warmtecapaciteit en **ΔT** het temperatuurverschil. |
+| Wat is de warmtecapaciteit van de magnetronmaaltijd in het voorbeeld?                                | **2100 J/K**.                                                                                           |
+| Hoeveel energie is nodig om de maaltijd van 20°C naar 60°C op te warmen?                            | **8,4 x 10^4 joule**.                                                                                  |
+| Wat is het temperatuurverschil in kelvin als het temperatuurverschil in graden Celsius 40 is?         | **40 kelvin**.                                                                                         |
+| Hoe wordt de energie in een magnetron toegevoegd aan de maaltijd?                                     | Via **warmtestraling**.                                                                               |
+| Wat betekent een warmtecapaciteit van 2100 J/K in de context van het verwarmen van een maaltijd?     | Het betekent dat je **2100 joule** nodig hebt om de maaltijd **één kelvin** in temperatuur te laten stijgen. |
+| Wat gebeurt er als je de temperatuurstijging van 20°C naar 60°C omrekent naar kelvin?                  | Het temperatuurverschil blijft **40 kelvin**.                                                          |
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Soortelijke Warmte en Warmtecapaciteit
+
+- **Warmtecapaciteit**:
+  - Hoeveel **joule** nodig is om een voorwerp **één kelvin** in temperatuur te laten stijgen.
+  - Hangt af van:
+    - **Massa**: Zwaardere voorwerpen kosten meer energie om te verwarmen dan lichtere voorwerpen.
+    - **Materiaal**: Verschillende materialen vereisen verschillende hoeveelheden energie om te verwarmen.
+
+- **Soortelijke warmte**:
+  - Hoeveel energie nodig is om **één kilogram** van een stof **één kelvin** in temperatuur te laten stijgen.
+  - Symbool voor soortelijke warmte is kleine **'c'**.
+  - Een eigenschap van een stof, te vinden in **Binas** tabellen 8, 9, 10, 11, en 12.
+
+- **Formule**: \( q = cmΔt \)
+  - **q**: Hoeveelheid warmte (in joules)
+  - **c**: Soortelijke warmte
+  - **m**: Massa van de stof
+  - **Δt**: Temperatuurverschil
+
+- **Voorbeeld**:
+  - Energie nodig om 2 liter water van 20°C aan de kook te brengen.
+    - **Dichtheid van water**: 998 kg/m³
+    - **Volume**: 0,020 m³
+    - Massa berekend als **2,0 kilogram**.
+    - Temperatuurverschil: 80°C (of 80 Kelvin).
+    - Hoeveelheid warmte berekend als **6,7 x 10^5 joule**.
+
+- **Toepassing**:
+  - In een **magnetron** wordt deze energie via **warmtestraling** toegevoegd aan het water.
+
+- **Samenvatting**:
+  - **Warmtecapaciteit** is de hoeveelheid energie nodig om een voorwerp in temperatuur te laten stijgen.
+  - **Soortelijke warmte** is de energie nodig om één kilogram van een stof in temperatuur te verhogen.
+  - Gebruik de formule \( q = cmΔt \) om de benodigde hoeveelheid warmte te berekenen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                  | Korte antwoord                                                                                           |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Wat is warmtecapaciteit?                                                                             | De hoeveelheid **joule** die nodig is om een voorwerp **één kelvin** in temperatuur te laten stijgen.   |
+| Waar hangt de warmtecapaciteit van een voorwerp van af?                                               | Van de **massa** van het voorwerp en het **materiaal**.                                                   |
+| Wat is het symbool voor soortelijke warmte?                                                             | Kleine letter **'c'**.                                                                                   |
+| Hoe kun je de soortelijke warmte van een stof vinden?                                                   | Door te kijken in **Binas** tabellen 8, 9, 10, 11, en 12.                                                |
+| Wat is de formule voor het berekenen van de hoeveelheid warmte?                                         | \( q = cmΔt \), waarbij **q** de hoeveelheid warmte is, **c** de soortelijke warmte, **m** de massa, en **Δt** het temperatuurverschil. |
+| Hoe bereken je de massa van 2 liter water?                                                             | Door het volume te vermenigvuldigen met de **dichtheid**. Voor water is de dichtheid 998 kg/m³, dus massa = volume x dichtheid. |
+| Wat is de massa van 2 liter water afgerond?                                                             | Ongeveer **2,0 kilogram**.                                                                               |
+| Wat is de hoeveelheid warmte nodig om 2 liter water van 20°C aan de kook te brengen?                   | **6,7 x 10^5 joule**.                                                                                   |
+| Hoe wordt energie in een magnetron toegevoegd?                                                          | Via **warmtestraling**.                                                                                  |
+| Wat zijn de twee belangrijkste factoren in de formule \( q = cmΔt \)?                                   | **Soortelijke warmte** (**c**) en **temperatuurverschil** (**Δt**).                                      |
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
+#+OPTIONS: num:nil
+#+options: num:nil
+
+* Warmte-Evenwicht en Warmtetransport
+
+- **Warmte-evenwicht**: Situatie waarbij de hoeveelheid **energie** die binnenkomt gelijk is aan de hoeveelheid energie die eruit gaat, waardoor de temperatuur constant blijft.
+  - **Warmte toevoeren**: Verhoogt de temperatuur.
+  - **Warmte afvoeren**: Verlaagt de temperatuur.
+
+- Om temperatuur constant te houden:
+  - Zorg ervoor dat er **geen** warmtetransport naar of van het voorwerp plaatsvindt, wat zelden het geval is.
+  - Of zorg ervoor dat de **hoeveelheid warmte** die binnenkomt gelijk is aan de hoeveelheid warmte die eruit gaat.
+
+- **Warmtebronnen**:
+  - Verwarming
+  - **Straling**: Zonlicht en lichaamstemperatuur van mensen in het huis.
+
+- **Manieren van warmtetransport**:
+  - **Tocht**: Warme lucht kan ontsnappen, wat leidt tot warmteverlies.
+  - **Geleiding**: Warmteoverdracht door muren, afhankelijk van het temperatuurverschil tussen binnen en buiten.
+  - **Straling**: Het huis straalt infraroodstraling uit, wat leidt tot warmteverlies.
+
+- **Voorbeelden van warmteverlies**:
+  - **Uitademen**: Verlies van warmte door warme lucht.
+  - **Urineren**: Verlies van warmte door lichaamsvloeistoffen.
+  - **Verdamping**: Verlies van warmte door zweet, waarbij de verdamping energie kost.
+
+- **Warmte-evenwicht van de aarde**:
+  - De aarde straalt warmte uit via **straling** (infraroodstraling) in de ruimte.
+  - **Broeikaseffect**: Broeikasgassen in de atmosfeer houden infraroodstraling vast, wat invloed heeft op de warmteoverdracht.
+
+- **Samenvatting**: Warmte-evenwicht betekent dat de energie-invoer gelijk is aan de energie-uitvoer. Warmtetransport gebeurt door stroming, straling, en geleiding. Om temperatuur constant te houden, moet je rekening houden met deze transportmechanismen.
+
+**Diagnostische vragen**
+
+| Vraag                                                                                                  | Korte antwoord                                                                                           |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Wat betekent warmte-evenwicht?                                                                        | Het is de situatie waarbij de hoeveelheid energie die binnenkomt gelijk is aan de hoeveelheid energie die eruit gaat, waardoor de temperatuur constant blijft. |
+| Hoe kun je de temperatuur constant houden?                                                             | Door ervoor te zorgen dat de hoeveelheid warmte die binnenkomt gelijk is aan de hoeveelheid warmte die eruit gaat. |
+| Welke bronnen dragen bij aan de warmte die in een huis komt?                                          | Verwarming, zonlicht, en de lichaamstemperatuur van mensen in het huis.                                |
+| Wat zijn de drie manieren van warmtetransport?                                                         | Stroming, straling, en geleiding.                                                                       |
+| Hoe gaat warmteverlies door **tocht** te werk?                                                         | Warme lucht kan ontsnappen, wat leidt tot warmteverlies.                                                |
+| Hoe beïnvloedt **geleiding** het warmteverlies?                                                         | Het gebeurt door de muren heen; hoe groter het temperatuurverschil, hoe meer geleiding.                 |
+| Wat is een voorbeeld van warmteverlies door **straling**?                                              | Het huis straalt infraroodstraling uit, wat leidt tot warmteverlies.                                    |
+| Hoe verlies je warmte door **verdamping**?                                                             | Door zweet dat verdampt, wat energie en dus warmte kost.                                                |
+| Wat is het broeikaseffect en hoe beïnvloedt het de warmteoverdracht van de aarde?                      | Het is het vasthouden van infraroodstraling door broeikasgassen in de atmosfeer, wat invloed heeft op de warmteoverdracht. |
+| Hoe verschilt de warmteoverdracht in de ruimte van die op aarde?                                        | In de ruimte gebeurt alleen warmtetransport door straling, omdat er geen stroming of geleiding mogelijk is. |
+
